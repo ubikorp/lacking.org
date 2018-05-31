@@ -1,0 +1,26 @@
+<header id="header">
+  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  <nav class="links">
+    <ul>
+      <li><a href="{{ site.baseurl }}{% link pages/schedule.md %}">Schedule</a></li>
+      <li><a href="{{ site.baseurl }}{% link pages/playlists.md %}">Playlists</a></li>
+      <li><a href="{{ site.baseurl }}{% link pages/listen.md %}">Listen</a></li>
+      <li><a href="{{ site.baseurl }}{% link pages/the_show.md %}">The Show</a></li>
+      <li><a href="{{ site.baseurl }}{% link pages/your_host.md %}">Your Host</a></li>
+      <li><a href="{{ site.baseurl }}{% link pages/contact.md %}">Contact</a></li>
+    </ul>
+  </nav>
+  <nav class="main">
+    <ul>
+      <li class="search">
+        <a class="fa-search" href="#search">Search</a>
+        <form id="search" method="get" action="#">
+          <input type="text" name="query" placeholder="Search" />
+        </form>
+      </li>
+      <li class="menu">
+        <a class="fa-bars" href="#menu">Menu</a>
+      </li>
+    </ul>
+  </nav>
+</header>

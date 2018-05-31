@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+
+    <title>{{ site.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    <!-- Styles -->
+    {% include layout/styles.html %}
+
+  </head>
+  <body class="single">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+      <!-- Header -->
+      {% include layout/header.html %}
+
+      <!-- Menu -->
+      {% include layout/menu.html %}
+
+      <!-- Main -->
+      <div id="main">
+
+            <!-- Post -->
+              <article class="post">
+                <header>
+                  <div class="title">
+                    <h2><a href="#">{{ page.title }}</a></h2>
+                    {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
+                  </div>
+                  <div class="meta">
+                    <time class="published" datetime="2015-11-01">November 1, 2015</time>
+                    <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
+                  </div>
+                </header>
+                {% if page.image %}
+                  <span class="image featured"><img src="{{ page.subtitle }}" alt="" /></span>
+                {% endif %}
+
+                {{ content }}
+
+                <footer>
+                  <ul class="stats">
+                    <li><a href="#">General</a></li>
+                    <li><a href="#" class="icon fa-heart">28</a></li>
+                    <li><a href="#" class="icon fa-comment">128</a></li>
+                  </ul>
+                </footer>
+              </article>
+
+          </div>
+
+        <!-- Footer -->
+        {% include layout/footer.html %}
+
+      </div>
+
+    <!-- Scripts -->
+    {% include layout/scripts.html %}
+
+  </body>
+</html>

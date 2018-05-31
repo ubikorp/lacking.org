@@ -1,0 +1,7 @@
+---
+title: Your Host
+subtitle: Julius C. Lacking
+permalink: your-host
+layout: page
+---
+A brief biographical sketch of Julius C. Lacking is to be provided forthwith. The only remaining impediment to delivery of this document is the status of an Upper Europan citizen. You know how it goes with Hrvst.
