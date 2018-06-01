@@ -1,0 +1,27 @@
+{{ includes }}
+{% if include.playlist %}
+  <table>
+    <thead>
+      <tr>
+        <th width="25%">Song</th>
+        <th width="25%">Artist</th>
+        <th width="25%">Album</th>
+        <th width="25%">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for item in site.data.playlists[include.playlist] %}
+      {% if item["Artist"] %}
+        <tr>
+          <td>{{ item["Song"] }}</td>
+          <td>{{ item["Artist"] }}</td>
+          <td>{{ item["Album"] }}</td>
+          <td>{{ item["Notes"] }}</td>
+        </tr>
+      {% else %}
+        <tr><td colspan="4" class="break">BREAK</td></tr>
+      {% endif %}
+    {% endfor %}
+    <tbody>
+  </table>
+{% endif %}

@@ -1,12 +1,14 @@
 <footer>
-  <!-- Actions -->
-  <ul class="actions">
-    <li><a href="#" class="button big">Continue Reading</a></li>
-  </ul>
+  <!-- Share -->
+  <!-- ul class="actions">
+    <li><a href="#" class="button big">Share</a></li>
+  </ul -->
   <!-- Stats -->
   <ul class="stats">
-    <li><a href="#">General</a></li>
-    <li><a href="#" class="icon fa-heart">28</a></li>
-    <li><a href="#" class="icon fa-comment">128</a></li>
+    {% for category in page.categories%}
+      <li><a href="#">{{ category | debug }}</a></li>
+    {% endfor %}
+    <!-- li><a href="#" class="icon fa-heart"></a></li -->
+    <!-- li><a href="#" class="icon fa-comment"></a></li -->
   </ul>
 </footer>

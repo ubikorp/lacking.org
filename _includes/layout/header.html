@@ -1,5 +1,7 @@
 <header id="header">
-  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  <!-- Home -->
+  <h1><a href="{{ site.baseurl }}/">{% if page.home %}Home{% else %}{{ site.title }}{% endif %}</a></h1>
+  <!-- Links -->
   <nav class="links">
     <ul>
       <li><a href="{{ site.baseurl }}{% link pages/schedule.md %}">Schedule</a></li>
@@ -12,15 +14,17 @@
   </nav>
   <nav class="main">
     <ul>
+      <!-- Search -->
       <li class="search">
         <a class="fa-search" href="#search">Search</a>
         <form id="search" method="get" action="#">
           <input type="text" name="query" placeholder="Search" />
         </form>
       </li>
-      <li class="menu">
+      <!-- Menu -->
+      <!-- li class="menu">
         <a class="fa-bars" href="#menu">Menu</a>
-      </li>
+      </li -->
     </ul>
   </nav>
 </header>

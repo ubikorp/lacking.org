@@ -24,22 +24,30 @@
       <!-- Main -->
       <div id="main">
 
-            <!-- Post -->
-            <article class="post">
+        <!-- Post -->
+        <article class="post">
 
-              <!-- Header -->
-              <header>
-                <!-- Title -->
-                {% include components/post_title.html post=page %}
-              </header>
+          <!-- Header -->
+          <header>
+            <!-- Title -->
+            {% include components/post_title.html post=page %}
+            <!-- Meta -->
+            {% include components/post_meta.html post=page %}
+          </header>
 
-              <!-- Image -->
-              {% include components/post_image.html post=page %}
+          <!-- Image -->
+          {% include components/post_image.html post=page %}
 
-              <!-- Content -->
-              {{ content }}
+          <!-- Content -->
+          {{ content }}
 
-            </article>
+          <!-- Playlist -->
+          {% include components/playlist.html playlist=page.playlist %}
+
+          <!-- Footer -->
+          {% include components/post_footer.html post=page %}
+
+        </article>
 
           </div>
 

@@ -1,4 +1,8 @@
+{% assign author = site.contributors | where:"handle", page.author  | first %}
 <div class="meta">
   <time class="published" datetime="2015-11-01">{{ include.post.date | date: "%b %-d, %Y" }}</time>
-  <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
+  <a href="{{ author.url }}" class="author">
+    <span class="name">by {{ author.name }}</span>
+    <img src="{{ site.baseurl }}/images/avatars/{{ author.avatar }}" alt="" />
+  </a>
 </div>
