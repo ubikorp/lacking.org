@@ -2,6 +2,6 @@
 title: Julius C. Lacking
 name: Julius C. Lacking
 handle: jclacking
-avatar: jcl.png
+avatar: jclacking.png
 ---
 Quite the unlikely story.

@@ -1,1 +1,10 @@
-{% if include.post.image %}<a href="{{ include.post.url }}" class="image featured"><img src="{{ site.baseurl }}/images/{{ include.post.image }}" alt="" /></a>{% endif %}
+{% if include.post.image %}
+<div class="tlo-image">
+  <span class="image featured">
+    <a href="{{ include.post.url }}">
+      <img src="{{ site.baseurl }}/images/{{ include.post.image.src }}" alt="{{ include.post.image.caption }}" />
+    </a>
+    <p class="caption">{{ include.post.image.caption }}</p>
+  </span>
+</div>
+{% endif %}

@@ -1,8 +1,8 @@
 <section id="sidebar">
 
   <!-- Header -->
-  <section id="intro">
-    <a href="#" class="logo"><img src="images/logo.jpg" alt="" /></a>
+  <section id="tlo-intro">
+    <a href="#" class="logo"><img src="{{ site.baseurl }}/images/tapes.png" alt="" /></a>
     <header>
       <h2>The Lacking<br/>Organization</h2>
       <p>You cannot alphabetize<br/>the unalphabetizable.</p>
@@ -15,12 +15,15 @@
 
       <!-- Next Air Date -->
       <article class="mini-post">
+        {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
         <header>
-          <h3><a href="#">On the air next:<br/> Tue. Jun 12, 9pm - 12m MDT</a></h3>
+          <h3>
+            Next airdate:<br/>
+            {{ next_airdate['date'] | date: "%b %-d, %Y" }}, {{ next_airdate['start_time'] }} - {{ next_airdate['end_time'] }} {{ next_airdate['time_zone'] }}
+          </h3>
           <time class="published">KAFM Grand Junction<br/>88.1 FM / <a href="http://www.kafmradio.org" target="_blank">kafmradio.org</a></time>
-          <a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
         </header>
-        <a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+        <a href="#" class="image"><img src="{{ site.baseurl }}/images/radio.png" alt="" /></a>
       </article>
 
       </div>
