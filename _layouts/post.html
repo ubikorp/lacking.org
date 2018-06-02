@@ -25,36 +25,14 @@
       <div id="main">
 
         <!-- Post -->
-        <article class="post">
-
-          <!-- Header -->
-          <header>
-            <!-- Title -->
-            {% include components/post_title.html post=page %}
-            <!-- Meta -->
-            {% include components/post_meta.html post=page %}
-          </header>
-
-          <!-- Image -->
-          {% include components/post_image.html post=page %}
-
-          <!-- Content -->
-          {{ content }}
-
-          <!-- Footer -->
-          {% include components/post_footer.html post=page %}
-
-          <!-- Pagination -->
-          {% include components/post_pagination.html post=page %}
-
-        </article>
-
-          </div>
-
-        <!-- Footer -->
-        {% include layout/footer.html %}
+        {% include components/post.html post=page %}
 
       </div>
+
+      <!-- Footer -->
+      {% include layout/footer.html %}
+
+    </div>
 
     <!-- Scripts -->
     {% include layout/scripts.html %}
