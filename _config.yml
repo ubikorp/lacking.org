@@ -29,6 +29,7 @@ collections:
 plugins: ["jekyll-paginate-v2"]
 
 # Build settings
+excerpt_separator: <!--more-->
 markdown: kramdown
 sass:
   sass_dir: assets/sass

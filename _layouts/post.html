@@ -41,11 +41,11 @@
           <!-- Content -->
           {{ content }}
 
-          <!-- Playlist -->
-          {% include components/playlist.html playlist=page.playlist %}
-
           <!-- Footer -->
           {% include components/post_footer.html post=page %}
+
+          <!-- Pagination -->
+          {% include components/post_pagination.html post=page %}
 
         </article>
 

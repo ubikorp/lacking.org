@@ -1,0 +1,8 @@
+{% assign artists = include.playlist | sort: "artist" | map: "artist" %}
+
+<p>
+  <strong>In this episode:</strong>
+  {% for artist in artists %}
+    {% if artist %}{{ artist }}{% unless forloop.last %}, {% endunless %}{% endif %}
+  {% endfor %}
+</p><!--more-->

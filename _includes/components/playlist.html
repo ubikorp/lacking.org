@@ -1,27 +1,28 @@
-{{ includes }}
-{% if include.playlist %}
-  <table>
-    <thead>
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th width="25%">Song</th>
+      <th width="25%">Artist</th>
+      <th width="25%">Album</th>
+      <th width="25%">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in include.playlist %}
+    {% if item["artist"] %}
       <tr>
-        <th width="25%">Song</th>
-        <th width="25%">Artist</th>
-        <th width="25%">Album</th>
-        <th width="25%">Notes</th>
+        <td align="right">{{ item["radio_sequence"] }}</td>
+        <td>{{ item["song"] }}</td>
+        <td>{{ item["artist"] }}</td>
+        <td>{{ item["album"] }}</td>
+        <td>{{ item["notes"] }}</td>
       </tr>
-    </thead>
-    <tbody>
-    {% for item in site.data.playlists[include.playlist] %}
-      {% if item["Artist"] %}
-        <tr>
-          <td>{{ item["Song"] }}</td>
-          <td>{{ item["Artist"] }}</td>
-          <td>{{ item["Album"] }}</td>
-          <td>{{ item["Notes"] }}</td>
-        </tr>
-      {% else %}
-        <tr><td colspan="4" class="break">BREAK</td></tr>
-      {% endif %}
-    {% endfor %}
-    <tbody>
-  </table>
-{% endif %}
+    {% else %}
+      {% unless item["radio_sequence"] == "0" %}
+        <tr><td>&nbsp;</td><td colspan="4" class="break">BREAK</td></tr>
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  </tbody>
+</table>

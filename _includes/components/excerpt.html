@@ -13,8 +13,15 @@
 
   <!-- Excerpt -->
   <p>{{ include.post.excerpt }}</p>
+  <!-- /Excerpt -->
 
   <!-- Footer -->
   {% include components/post_footer.html post=include.post %}
+
+  <ul class="tlo-pagination actions pagination">
+    <li>
+      <a class="button big next" href="{{ include.post.url }}">More</a>
+    </li>
+  </ul>
 
 </article>
