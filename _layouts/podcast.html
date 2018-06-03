@@ -17,6 +17,11 @@ layout: tlo
   <!-- Content -->
   {{ content }}
 
+  <!-- Playlist -->
+  {% assign podcast_playlist = site.data.master_playlist | where:"podcast_airdate", page.podcast.airdate %}
+  {% include components/artists.html playlist=podcast_playlist %}
+  {% include components/playlist.html playlist=podcast_playlist %}
+
   <!-- Footer -->
   {% include components/post_footer.html post=page %}
 
