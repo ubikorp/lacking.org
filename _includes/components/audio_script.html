@@ -1,0 +1,13 @@
+<script type="text/javascript">
+  Amplitude.init({
+    "songs": [
+      {
+        "name": "{{ page.podcast.name }}",
+        "artist": "with your host Julius C. Lacking",
+        "album": "{{ page.podcast.airdate | date: "%b %-d, %Y" }}",
+        "url": "http://audio.lacking.org/{{ page.podcast.src }}",
+        "cover_art_url": "{{ site.baseurl }}/images/{{ page.image.src }}"
+      }
+    ]
+  });
+</script>

@@ -27,7 +27,7 @@ collections:
 
 # Plugins
 plugins: ["jekyll-paginate-v2"]
-
+amplitude_version: 3.2.3
 # Build settings
 excerpt_separator: <!--more-->
 markdown: kramdown
