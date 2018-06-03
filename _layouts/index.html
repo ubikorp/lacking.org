@@ -1,49 +1,13 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
+---
+layout: tlo
+---
+<!-- Index Content -->
+{{ content }}
 
-    <title>{{ site.title }}</title>
-    <meta charset="utf-8" />
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% for post in paginator.posts %}
+  <!-- Post Excerpt -->
+  {% include components/excerpt.html post=post %}
+{% endfor %}
 
-    <!-- Styles -->
-    {% include layout/styles.html %}
-
-  </head>
-  <body>
-
-    <!-- Wrapper -->
-    <div id="wrapper">
-
-      <!-- Header -->
-      {% include layout/header.html %}
-
-      <!-- Menu -->
-      {% include layout/menu.html %}
-
-      <!-- Main -->
-      <div id="main">
-
-        <!-- Index Content -->
-        {{ content }}
-
-        {% for post in paginator.posts %}
-          <!-- Post Excerpt -->
-          {% include components/excerpt.html post=post %}
-        {% endfor %}
-
-        <!-- Pagination -->
-        {% include components/index_pagination.html %}
-
-      </div>
-
-      <!-- Sidebar -->
-      {% include layout/sidebar.html %}
-
-    </div>
-
-    <!-- Scripts -->
-    {% include layout/scripts.html %}
-
-  </body>
-</html>
+<!-- Pagination -->
+{% include components/index_pagination.html %}

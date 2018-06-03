@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+
+    <title>{{ site.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    <!-- Styles -->
+    {% include layout/styles.html %}
+
+  </head>
+  <body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+      <!-- Header -->
+      {% include layout/header.html %}
+
+      <!-- Menu -->
+      {% include layout/menu.html %}
+
+      <!-- Main -->
+      <div id="main">
+
+        <!-- Content -->
+        {{ content }}
+
+      </div>
+
+      <!-- Sidebar -->
+      {% include layout/sidebar.html %}
+
+    </div>
+
+    <!-- Scripts -->
+    {% include layout/scripts.html %}
+
+  </body>
+</html>

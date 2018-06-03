@@ -1,41 +1,26 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
+---
+layout: tlo
+---
+<article class="post">
 
-    <title>{{ site.title }}</title>
-    <meta charset="utf-8" />
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!-- Header -->
+  <header>
+    <!-- Title -->
+    {% include components/post_title.html post=page %}
+    <!-- Meta -->
+    {% include components/post_meta.html post=page %}
+  </header>
 
-    <!-- Styles -->
-    {% include layout/styles.html %}
+  <!-- Image -->
+  {% include components/post_image.html post=page %}
 
-  </head>
-  <body>
+  <!-- Content -->
+  {{ content }}
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+  <!-- Footer -->
+  {% include components/post_footer.html post=page %}
 
-      <!-- Header -->
-      {% include layout/header.html %}
+  <!-- Pagination -->
+  {% include components/post_pagination.html post=page %}
 
-      <!-- Menu -->
-      {% include layout/menu.html %}
-
-      <!-- Main -->
-      <div id="main">
-
-        <!-- Post -->
-        {% include components/post.html post=page %}
-
-      </div>
-
-      <!-- Sidebar -->
-      {% include layout/sidebar.html %}
-
-    </div>
-
-    <!-- Scripts -->
-    {% include layout/scripts.html %}
-
-  </body>
-</html>
+</article>
