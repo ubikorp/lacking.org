@@ -17,6 +17,11 @@ defaults:
       layout: "page"
   -
     scope:
+      path: "podcast"
+    values:
+      layout: "podcast"
+  -
+    scope:
       path: ""
     values:
       layout: "post"
