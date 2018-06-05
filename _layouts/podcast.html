@@ -12,13 +12,13 @@ layout: tlo
   </header>
 
   <!-- Audio Player -->
-  {% include components/audio_player.html %}
+  {% include components/audio_player.html airdate=page.airdate %}
 
   <!-- Content -->
   {{ content }}
 
   <!-- Playlist -->
-  {% assign podcast_playlist = site.data.master_playlist | where:"podcast_airdate", page.podcast.airdate %}
+  {% assign podcast_playlist = site.data.master_playlist | where:"podcast_airdate", page.airdate %}
   {% include components/artists.html playlist=podcast_playlist %}
   {% include components/playlist.html playlist=podcast_playlist %}
 
@@ -27,5 +27,9 @@ layout: tlo
 
   <!-- Pagination -->
   {% include components/post_pagination.html post=page %}
+
+  <!-- Player JS -->
+  {{ airdate }}
+  {% include components/audio_script.html airdate=page.airdate %}
 
 </article>

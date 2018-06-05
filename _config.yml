@@ -1,12 +1,31 @@
 # Site settings
-title: The Lacking Organization
-tagline: with your host Julius C. Lacking
+title:          The Lacking Organization
+tagline:        with your host Julius C. Lacking
 description: >
-  The natural confluence of all things Lacking, including playlists,
-  podcasts, pernicious ponderings, and other perusable presumptions
-  born of the arduous task that is the Lacking Organization.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lacking.org" # the base hostname & protocol for your site
+                The natural confluence of all things Lacking, including playlists,
+                podcasts, pernicious ponderings, and other perusable presumptions
+                born of the arduous task that is the Lacking Organization.
+baseurl:        ""
+url:            http://lacking.org
+published_url:  http://lacking.org
+
+# Podcast Feed Settings
+podcast:
+  title:        The Lacking Organization
+  subtitle:     with your host Julius C. Lacking
+  email:        julius@lacking.org
+  description: >
+                The sonic essence of all that is Lacking, this podcast explores a
+                variety of music with a decidedly random approach.
+  keywords:     music,eclectic
+  baseurl:      /podcast
+  lang:         en
+  author:       Julius C. Lacking
+  copyright:    "&#x2117; &amp; &#xA9; 2018"
+  file_url:     http://audio.lacking.org
+
+
+# Dev
 host: 0.0.0.0
 
 defaults:
