@@ -2,5 +2,13 @@
   <h2>
     <a class="post-link" href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a>
   </h2>
-  {% if include.post.subtitle %}<p>{{ include.post.subtitle }}</p>{% endif %}
+  {% if include.post.subtitle %}
+    <p>{{ include.post.subtitle }}</p>
+  {% else %}
+    <p>
+      {{ include.post.categories }}
+      &bull;
+      <time class="published" datetime="2015-11-01">{{ include.post.date | date: "%B %-d, %Y" }}</time>
+    </p>
+  {% endif %}
 </div>

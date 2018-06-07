@@ -10,20 +10,26 @@ body {
   }
 }
 
+.tlo-index-excerpt {
+  padding-bottom: _size(element-margin);
+}
+
 .tlo-image {
   float: right;
-  margin-left: 1em;
+  margin-left: _size(element-margin);
   width: 50%;
-}
 
-.tlo-index-excerpt {
-  padding-bottom: _size(element-margin)
-}
-
-.tlo-image {
   .caption {
     font-size: 80%;
     text-align: right;
+  }
+}
+
+.tlo-excerpt,
+.post {
+  p {
+    hyphens: auto;
+    text-align: justify;
   }
 }
 
@@ -34,6 +40,8 @@ body {
 
 .tlo-playlist {
   font-size: 90%;
+  margin-top: _size(element-margin);
+
   .break {
     color: _palette(fg-light);
   }

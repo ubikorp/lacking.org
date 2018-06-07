@@ -18,7 +18,7 @@ layout: tlo
   {{ content }}
 
   <!-- Playlist -->
-  {% assign podcast_playlist = site.data.master_playlist | where:"podcast_airdate", page.airdate %}
+  {% assign podcast_playlist = site.data.master_playlist | where:"podcast_airdate", page.airdate | sort: "podcast_sequence" %}
   {% include components/artists.html playlist=podcast_playlist %}
   {% include components/playlist.html playlist=podcast_playlist %}
 

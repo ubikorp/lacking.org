@@ -1,10 +1,11 @@
 span#single-song-player {
 
   display: block;
+  float: right;
   margin: auto;
-  margin-bottom: inherit;
-  margin-top: 50px;
-  width: 100%;
+  margin-bottom: _size(element-margin);
+  margin-left: _size(element-margin);
+  width: 50%;
 
   img[amplitude-song-info="cover_art_url"] {
     width: 100%;
