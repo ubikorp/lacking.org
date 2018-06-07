@@ -11,6 +11,16 @@ body {
 }
 
 .tlo-image {
+  float: right;
+  margin-left: 1em;
+  width: 50%;
+}
+
+.tlo-index-excerpt {
+  padding-bottom: _size(element-margin)
+}
+
+.tlo-image {
   .caption {
     font-size: 80%;
     text-align: right;
@@ -18,5 +28,13 @@ body {
 }
 
 .tlo-pagination {
+  clear: both;
   text-align: center;
+}
+
+.tlo-playlist {
+  font-size: 90%;
+  .break {
+    color: _palette(fg-light);
+  }
 }

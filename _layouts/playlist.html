@@ -1,0 +1,35 @@
+---
+layout: tlo
+---
+<article class="post">
+
+  <!-- Header -->
+  <header>
+    <!-- Title -->
+    {% include components/post_title.html post=page %}
+    <!-- Meta -->
+    {% include components/post_meta.html post=page %}
+  </header>
+
+  <!-- Audio Player -->
+  {% include components/post_image.html post=page %}
+
+  <!-- Content -->
+  {{ content }}
+
+  <!-- Playlist -->
+  {% assign radio_playlist = site.data.master_playlist | where:"radio_airdate", page.airdate %}
+  {% include components/artists.html playlist=radio_playlist %}
+  {% include components/playlist.html playlist=radio_playlist %}
+
+  <!-- Footer -->
+  {% include components/post_footer.html post=page %}
+
+  <!-- Pagination -->
+  {% include components/post_pagination.html post=page %}
+
+  <!-- Player JS -->
+  {{ airdate }}
+  {% include components/audio_script.html airdate=page.airdate %}
+
+</article>

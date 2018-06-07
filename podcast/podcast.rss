@@ -27,7 +27,7 @@ layout: plain
       <itunes:name>{{ site.podcast.author }}</itunes:name>
       <itunes:email>{{ site.podcast.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.published_url }}{{ site.baseurl }}/images/itunaes.png" />
+    <itunes:image href="{{ site.published_url }}{{ site.baseurl }}/images/podcast/tlo_badge.jpg" />
     <itunes:category text="Music" />
     <itunes:explicit>no</itunes:explicit>
     {% for post in site.categories['podcast'] %}

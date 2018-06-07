@@ -6,8 +6,8 @@ description: >
                 podcasts, pernicious ponderings, and other perusable presumptions
                 born of the arduous task that is the Lacking Organization.
 baseurl:        ""
-url:            http://lacking.org
-published_url:  http://lacking.org
+url:            https://the.lacking.org
+published_url:  https://the.lacking.org
 
 # Podcast Feed Settings
 podcast:
@@ -36,9 +36,16 @@ defaults:
       layout: "page"
   -
     scope:
+      path: "playlists"
+    values:
+      layout: "playlist"
+      permalink: /playlists/:year/:year-:month-:day-:title/
+  -
+    scope:
       path: "podcast"
     values:
       layout: "podcast"
+      permalink: /podcast/:year/:title/
   -
     scope:
       path: ""
@@ -61,7 +68,7 @@ sass:
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 5
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   limit: 0

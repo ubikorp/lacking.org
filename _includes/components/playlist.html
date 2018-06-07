@@ -1,4 +1,4 @@
-<table>
+<table class="tlo-playlist">
   <thead>
     <tr>
       <th>&nbsp;</th>
@@ -11,7 +11,7 @@
   <tbody>
   {% for item in include.playlist %}
     {% if item["artist"] %}
-      <tr>
+      <tr class="track">
         <td align="right">{{ item["radio_sequence"] }}</td>
         <td>{{ item["song"] }}</td>
         <td>{{ item["artist"] }}</td>
@@ -20,7 +20,7 @@
       </tr>
     {% else %}
       {% unless item["radio_sequence"] == "0" %}
-        <tr><td>&nbsp;</td><td colspan="4" class="break">BREAK</td></tr>
+        <tr class="break"><td>&nbsp;</td><td colspan="4">BREAK</td></tr>
       {% endunless %}
     {% endif %}
   {% endfor %}

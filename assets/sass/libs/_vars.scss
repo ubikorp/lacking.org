@@ -39,9 +39,12 @@ $palette: (
   fg:         #646464,
   fg-bold:    #3c3b3b,
   fg-light:   #aaa,
-  border:     rgba(160, 160, 160, .3),
-  border-bg:  rgba(160, 160, 160, .075),
-  border-alt: rgba(160, 160, 160, .65),
-  button-bg:  rgba(169, 60, 62, .05),
-  accent:     #a93c3e
+  // border:     rgba(160, 160, 160, .3),
+  // border-bg:  rgba(160, 160, 160, .075),
+  // border-alt: rgba(160, 160, 160, .65),
+  border:     rgba(247, 143, 0, .3),
+  border-bg:  rgba(247, 143, 0, .075),
+  border-alt: rgba(247, 143, 0, .65),
+  button-bg:  rgba(247, 143, 0, .05),
+  accent:     #f78f00
 );

@@ -1,5 +1,9 @@
-{% assign artists = include.playlist | sort: "artist" | map: "artist" %}
-
+{% if include.playlist %}
+  {% assign playlist = include.playlist %}
+{% else %}
+  {% assign playlist = site.data.master_playlist | where:"radio_airdate", include.airdate %}
+{% endif %}
+{% assign artists = playlist | sort: "artist" | map: "artist" %}
 <p>
   <strong>In this episode:</strong>
   {% for artist in artists %}

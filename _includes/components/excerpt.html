@@ -1,4 +1,4 @@
-<article class="post">
+<article class="post tlo-excerpt">
 
   <!-- Header -->
   <header>
@@ -12,8 +12,11 @@
   {% include components/post_image.html post=include.post %}
 
   <!-- Excerpt -->
-  <p>{{ include.post.excerpt }}</p>
-  <!-- /Excerpt -->
+  {% if include.post.layout == 'playlist' %}
+    {% include components/artists.html airdate=include.post.airdate %}
+  {% else %}
+    <p>{{ include.post.excerpt }}</p>
+  {% endif %}
 
   <!-- Footer -->
   {% include components/post_footer.html post=include.post %}
