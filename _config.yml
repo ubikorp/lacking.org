@@ -9,6 +9,27 @@ baseurl:        ""
 url:            https://the.lacking.org
 published_url:  https://the.lacking.org
 
+# Social Media
+social:
+  twitter: jclacking
+  facebook: jclacking
+
+# Site Map
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
+    - "/podcast/podcast.rss"
+    - "/assets/css/main.css"
+  include_posts:
+    - "index.html"
+    - "/playlists/index.html"
+    - "/podcast/index.html"
+  # change_frequency_name: "frequency"
+  priority_name: "priority"
+
 # Podcast Feed Settings
 podcast:
   title:        The Lacking Organization
@@ -26,7 +47,7 @@ podcast:
 
 
 # Dev
-host: 0.0.0.0
+# host: 0.0.0.0
 
 defaults:
   -
@@ -34,31 +55,49 @@ defaults:
       path: "pages"
     values:
       layout: "page"
+      priority: 0.8
   -
     scope:
       path: "playlists"
     values:
       layout: "playlist"
       permalink: /playlists/:year/:year-:month-:day-:title/
+      priority: 0.5
   -
     scope:
       path: "podcast"
     values:
       layout: "podcast"
       permalink: /podcast/:year/:title/
+      priority: 0.7
   -
     scope:
       path: ""
     values:
       layout: "post"
+      priority: 0.6
 
 collections:
   contributors:
     output: true
 
 # Plugins
-plugins: ["jekyll-paginate-v2"]
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-analytics
+  - jekyll-sitemap
+  - jekyll-last-modified-at
+  - searchyll
+
+# Plugin Configuration
 amplitude_version: 3.2.3
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-120546300-1
+elasticsearch:
+  url: https://hw87e7ielk:s7mrjptjn9@tlo-testing-5782922639.us-west-2.bonsaisearch.net
+  index_name: the-lacking-org-dev
+
 # Build settings
 excerpt_separator: <!--more-->
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 title: Schedule
-permalink: /schedule
+permalink: schedule
 layout: page
 ---
 TBD

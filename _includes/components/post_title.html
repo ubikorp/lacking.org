@@ -1,6 +1,10 @@
 <div class="title">
   <h2>
-    <a class="post-link" href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a>
+    {% if include.excerpt %}
+      <a class="post-link" href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a>
+    {% else %}
+      {{ include.post.title | escape }}
+    {% endif %}
   </h2>
   {% if include.post.subtitle %}
     <p>{{ include.post.subtitle }}</p>
