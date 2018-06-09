@@ -20,11 +20,24 @@ layout: tlo
 
 </article>
 {% endunless %}
+{% if page.pagination.enabled %}
 
-{% for post in paginator.posts %}
-  <!-- Post Excerpt -->
-  {% include components/excerpt.html post=post %}
-{% endfor %}
+  {% for post in paginator.posts %}
 
-<!-- Pagination -->
-{% include components/index_pagination.html %}
+    <!-- Post Excerpt -->
+    {% include components/excerpt.html post=post %}
+
+  {% endfor %}
+
+  <!-- Pagination -->
+  {% include components/index_pagination.html %}
+
+{% else %}
+
+  {% for post in page.posts %}
+
+    <!-- Post Excerpt -->
+    {% include components/excerpt.html post=post %}
+
+  {% endfor %}
+{% endif %}

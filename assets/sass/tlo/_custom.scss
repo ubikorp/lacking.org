@@ -25,11 +25,20 @@ body {
   }
 }
 
+.tlo-archives {
+  h2 {
+    margin: (_size(element-margin) * 0.5) 0 (_size(element-margin) * 0.5) 0;
+  }
+}
+
 .tlo-excerpt,
 .post {
   p {
     hyphens: auto;
     text-align: justify;
+  }
+  footer {
+    font-size: 90%;
   }
 }
 

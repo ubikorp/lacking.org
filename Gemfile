@@ -27,7 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-analytics'
   gem 'jekyll-sitemap'
   gem 'jekyll-last-modified-at'
-  gem 'searchyll'
+  # gem 'searchyll'
 end
 
 gem 'byebug'

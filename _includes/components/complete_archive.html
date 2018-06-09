@@ -1,0 +1,22 @@
+<ul class="alt tlo-archives">
+  {% assign listing = page.archive_pages | reverse %}
+  {% for archive_page in listing %}
+    {% assign archive_post_count = archive_page.posts | size %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ archive_page.url | relative_url }}">
+          {{ archive_page.title | escape }}
+        </a>
+      </h2>
+      <p>
+        <a class="post-link" href="{{ archive_page.url | relative_url }}">
+          {% if archive_post_count == 1 %}
+            One Post
+          {% else %}
+            {{ archive_post_count }} Posts
+          {% endif %}
+        </a>
+      </p>
+    </li>
+  {% endfor %}
+</ul>

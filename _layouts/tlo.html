@@ -4,7 +4,7 @@
 
     <title>{{ site.title }}</title>
     <meta charset="utf-8" />
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
 
     <!-- Styles -->
     {% include layout/styles.html %}

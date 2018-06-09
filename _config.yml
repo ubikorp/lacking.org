@@ -87,7 +87,7 @@ plugins:
   - jekyll-analytics
   - jekyll-sitemap
   - jekyll-last-modified-at
-  - searchyll
+  # - searchyll
 
 # Plugin Configuration
 amplitude_version: 3.2.3
@@ -95,8 +95,11 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-120546300-1
 elasticsearch:
-  url: https://hw87e7ielk:s7mrjptjn9@tlo-testing-5782922639.us-west-2.bonsaisearch.net
+  # url: https://hw87e7ielk:s7mrjptjn9@tlo-testing-5782922639.us-west-2.bonsaisearch.net
   index_name: the-lacking-org-dev
+monthly_archive:
+  layout: index
+  path: archives
 
 # Build settings
 excerpt_separator: <!--more-->

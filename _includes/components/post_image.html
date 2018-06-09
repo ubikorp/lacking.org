@@ -1,7 +1,7 @@
 {% if include.post.image %}
 <div class="tlo-image">
   <span class="image featured">
-    {% if include.excerpt %}
+    {% if page.layout == 'index' %}
       <a href="{{ include.post.url }}">
         <img src="{{ site.baseurl }}/images/{{ include.post.image.src }}" alt="{{ include.post.image.caption }}" />
       </a>
