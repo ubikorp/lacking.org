@@ -18,9 +18,9 @@ layout: tlo
   {{ content }}
 
   <!-- Playlist -->
-  {% assign radio_playlist = site.data.master_playlist | where:"radio_airdate", page.airdate | sort: "radio_sequence" %}
-  {% include components/artists.html playlist=radio_playlist %}
-  {% include components/playlist.html playlist=radio_playlist %}
+  {% assign playlist = site.data.playlists[page.playlist] %}
+  {% include components/artists.html playlist=playlist %}
+  {% include components/playlist.html playlist=playlist %}
 
   <!-- Footer -->
   {% include components/post_footer.html post=page %}
@@ -29,7 +29,6 @@ layout: tlo
   {% include components/post_pagination.html post=page %}
 
   <!-- Player JS -->
-  {{ airdate }}
   {% include components/audio_script.html airdate=page.airdate %}
 
 </article>

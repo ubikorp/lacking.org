@@ -12,22 +12,14 @@
   {% for item in include.playlist %}
     {% if item["artist"] %}
       <tr class="track">
-        <td align="right">
-          {% if page.layout == 'podcast' %}
-            {{ item["podcast_sequence"] }}
-          {% else %}
-            {{ item["radio_sequence"] }}
-          {% endif %}
-        </td>
+        <td align="right">{{ item["sequence"] }}</td>
         <td>{{ item["song"] }}</td>
         <td>{{ item["artist"] }}</td>
         <td>{{ item["album"] }}</td>
         <td>{{ item["notes"] }}</td>
       </tr>
     {% else %}
-      {% unless item["radio_sequence"] == "00" %}
-        <tr class="break"><td>&nbsp;</td><td colspan="4">BREAK</td></tr>
-      {% endunless %}
+      <tr class="break"><td>&nbsp;</td><td colspan="4">BREAK</td></tr>
     {% endif %}
   {% endfor %}
   </tbody>

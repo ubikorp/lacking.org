@@ -4,9 +4,9 @@ body {
 
 #tlo-intro {
   img {
-    width: 100px;
     float: left;
     padding-right: 10px;
+    width: 100px;
   }
 }
 
@@ -27,7 +27,7 @@ body {
 
 .tlo-archives {
   h2 {
-    margin: (_size(element-margin) * 0.5) 0 (_size(element-margin) * 0.5) 0;
+    margin: (_size(element-margin) * .5) 0;
   }
 }
 
@@ -36,7 +36,9 @@ body {
   p {
     hyphens: auto;
     text-align: justify;
+
   }
+
   footer {
     font-size: 90%;
   }
