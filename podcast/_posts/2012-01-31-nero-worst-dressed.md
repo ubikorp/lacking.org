@@ -1,7 +1,10 @@
 ---
-title: "Episode 0092: Nero (Worst Dressed)"
+title: 'Episode 0092: Nero Worst Dressed'
+name: Nero Worst Dressed
+episode: '0092'
 author: jclacking
-airdate: 2012-01-31
+airdate: '2012-01-31'
+playlist: 2012-01-31-nero-worst-dressed
 image:
   src: podcast/0092-sara-valenzuela.jpg
   caption: Sara Valenzuela

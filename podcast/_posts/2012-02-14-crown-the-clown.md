@@ -1,7 +1,10 @@
 ---
-title: "Episode 0094: Crown The Clown"
+title: 'Episode 0094: Crown The Clown'
+name: Crown The Clown
+episode: '0094'
 author: jclacking
-airdate: 2012-02-14
+airdate: '2012-02-14'
+playlist: 2012-02-14-crown-the-clown
 image:
   src: podcast/0094-hillstomp.jpg
   caption: Hillstomp

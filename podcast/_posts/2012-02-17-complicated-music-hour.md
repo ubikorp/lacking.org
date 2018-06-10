@@ -1,7 +1,10 @@
 ---
-title: "Episode 0095: The Complicated Music Hour"
+title: 'Episode 0095: Complicated Music Hour'
+name: Complicated Music Hour
+episode: '0095'
 author: jclacking
-airdate: 2012-02-17
+airdate: '2012-02-17'
+playlist: 2012-02-17-complicated-music-hour
 image:
   src: podcast/0095-secret-chiefs-3.jpg
   caption: Secret Chiefs 3

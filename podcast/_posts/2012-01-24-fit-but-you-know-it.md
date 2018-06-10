@@ -1,7 +1,10 @@
 ---
-title: "Episode 0091: Fit But You Know It"
+title: 'Episode 0091: Fit But You Know It'
+name: Fit But You Know It
+episode: '0091'
 author: jclacking
-airdate: 2012-01-24
+airdate: '2012-01-24'
+playlist: 2012-01-24-fit-but-you-know-it
 image:
   src: podcast/0091-the-streets.jpg
   caption: The Streets

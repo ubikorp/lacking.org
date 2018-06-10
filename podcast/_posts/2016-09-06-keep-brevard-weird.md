@@ -1,7 +1,10 @@
 ---
-title: "Episode 0100: Keep Brevard Weird"
+title: 'Episode 0100: Keep Brevard Weird'
+name: Keep Brevard Weird
+episode: '0100'
 author: jclacking
-airdate: 2016-09-06
+airdate: '2016-09-06'
+playlist: 2016-09-06-keep-brevard-weird
 image:
   src: podcast/0100-keep-brevard-weird.jpg
   caption: Farewell, Space Coast

@@ -1,7 +1,10 @@
 ---
-title: "Episode 0099: Revu Rockers"
+title: 'Episode 0099: Revu Rockers'
+name: Revu Rockers
+episode: '0099'
 author: jclacking
-airdate: 2012-03-27
+airdate: '2012-03-27'
+playlist: 2012-03-27-revu-rockers
 image:
   src: podcast/0099-nortec-collective.jpg
   caption: Nortec Collective
