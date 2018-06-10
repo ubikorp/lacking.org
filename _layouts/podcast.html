@@ -19,7 +19,7 @@ layout: tlo
 
   <!-- Playlist -->
   {% assign playlist = site.data.playlists[page.playlist] %}
-  {% include components/artists.html playlist=playlist %}
+  {% include components/artists.html playlist_data=playlist %}
   {% include components/playlist.html playlist=playlist %}
 
   <!-- Footer -->

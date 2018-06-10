@@ -13,7 +13,7 @@
 
   <!-- Excerpt -->
   {% if include.post.layout == 'playlist' %}
-    {% include components/artists.html airdate=include.post.airdate %}
+    {% include components/artists.html playlist_name=include.post.playlist %}
   {% else %}
     <p>{{ include.post.excerpt }}</p>
   {% endif %}
