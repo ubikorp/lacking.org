@@ -61,14 +61,14 @@ defaults:
       path: "playlists"
     values:
       layout: "playlist"
-      permalink: /playlists/:year/:year-:month-:day-:title/
+      permalink: /playlists/:year/:year-:month-:day-:title
       priority: 0.5
   -
     scope:
       path: "podcast"
     values:
       layout: "podcast"
-      permalink: /podcast/:year/:title/
+      permalink: /podcast/:year/:title
       priority: 0.7
   -
     scope:
