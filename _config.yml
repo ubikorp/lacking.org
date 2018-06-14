@@ -67,7 +67,8 @@ defaults:
     scope:
       path: "podcast"
     values:
-      layout: "podcast"
+      layout: "playlist"
+      # layout: "podcast"
       permalink: /podcast/:year/:title
       priority: 0.7
   -

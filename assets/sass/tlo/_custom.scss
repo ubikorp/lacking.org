@@ -15,13 +15,30 @@ body {
 }
 
 .tlo-image {
+  display: block;
   float: right;
   margin-left: _size(element-margin);
+  overflow: hidden;
   width: 50%;
 
-  .caption {
+  a {
+    border: none;
+  }
+
+  img {
+    width: 100%;
+    @include vendor('transition', 'transform #{_duration(transition)} ease-out');
+  }
+
+  p.caption {
     font-size: 80%;
     text-align: right;
+  }
+
+  &:hover {
+    img {
+      @include vendor('transform', 'scale(1.05)');
+    }
   }
 }
 
