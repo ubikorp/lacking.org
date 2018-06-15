@@ -1,7 +1,7 @@
 ---
 title: Samples
-permalink: samples
+permalink: sample
 layout: page
-published: false
+# published: false
 ---
 {% include samples.html %}

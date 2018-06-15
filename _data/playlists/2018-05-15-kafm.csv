@@ -1,54 +1,54 @@
-sequence,song,artist,album,time,notes
-1,Dirtpicker,Post Animal,When I Think Of You In A Castle,5:29,So much King Gizzard
-2,Bear Witness IV,Dr. Octagon,Moosebumps: An Exploration Into Modern Day Horripilation,4:31,A fourth chapter was necessary
-3,Party At Ground Zero,Fishbone,,6:31,With full circus introduction
+sequence,song,artist,artist_slug,album,time,notes
+1,Dirtpicker,Post Animal,post-animal,When I Think Of You In A Castle,5:29,So much King Gizzard
+2,Bear Witness IV,Dr. Octagon,dr-octagon,Moosebumps: An Exploration Into Modern Day Horripilation,4:31,A fourth chapter was necessary
+3,Party At Ground Zero,Fishbone,fishbone,,6:31,With full circus introduction
 4,BREAK
-5,Where My Boys At,Brandon Can't Dance,Graveyard Of Good Times,2:43,Drag me to the club
-6,Treacle,Hefner,Dead Media,0:49,Brief respite
-7,Nite Skool,Marble Party,Sometimes A Great Ocean,4:17,For Hannah!
-8,Peek-a-Boo!,Devo,"Oh, No! It's Devo",3:04,As heard on my Walkman countless times
+5,Where My Boys At,Brandon Can't Dance,brandon-can-t-dance,Graveyard Of Good Times,2:43,Drag me to the club
+6,Treacle,Hefner,hefner,Dead Media,0:49,Brief respite
+7,Nite Skool,Marble Party,marble-party,Sometimes A Great Ocean,4:17,For Hannah!
+8,Peek-a-Boo!,Devo,devo,"Oh, No! It's Devo",3:04,As heard on my Walkman countless times
 9,BREAK
-10,Party To End,Push Kings,,3:48,Summer music
-11,Why Do You Have So Much Fun Without Me?,Barcelona,Simon Basic,3:37,The nerdiest of nerd rock
-12,Green,Ken Nordine,,1:32,Green can be a PROBLEM
+10,Party To End,Push Kings,push-kings,,3:48,Summer music
+11,Why Do You Have So Much Fun Without Me?,Barcelona,barcelona,Simon Basic,3:37,The nerdiest of nerd rock
+12,Green,Ken Nordine,ken-nordine,,1:32,Green can be a PROBLEM
 13,BREAK
-14,Black Champaign,The Starlight Mints,,3:25,Almost like the Cure
-15,Have You Seen Her Face,Southern Culture On The Skids,,2:22,Chris Hillman’s best
-16,Arboles De La Barranca,Nortec (Bostich+Fussible),,3:47,Desert beat
-17,It Don't Matter,Grand Marquis,Brighter Days,5:20,Cooldown jazz
+14,Black Champaign,The Starlight Mints,starlight-mints,,3:25,Almost like the Cure
+15,Have You Seen Her Face,Southern Culture On The Skids,southern-culture-on-skids,,2:22,Chris Hillman’s best
+16,Arboles De La Barranca,Nortec (Bostich+Fussible),nortec-bostich-fussible,,3:47,Desert beat
+17,It Don't Matter,Grand Marquis,grand-marquis,Brighter Days,5:20,Cooldown jazz
 18,BREAK
-19,Night Shift,Lucy Dacus,Historian,6:32,Long and heartfelt
-20,Strangers,Portishead,,3:58,Cavernous dainty
-21,Everything Is Now,Belle & Sebastian,How To Solve Our Human Problems,5:28,Classic Scottish soul
+19,Night Shift,Lucy Dacus,lucy-dacus,Historian,6:32,Long and heartfelt
+20,Strangers,Portishead,portishead,,3:58,Cavernous dainty
+21,Everything Is Now,Belle & Sebastian,belle-sebastian,How To Solve Our Human Problems,5:28,Classic Scottish soul
 22,BREAK
-23,Nobody Move,Hanni El Khatib,Head In The Dirt,2:31,Fuzz LA
-24,Fish Heads,Osaka Popstar,Dr. Demento Covered in Punk (Disc 1),1:43,Chunkier fish heads
-25,PYC,Metal Molly,,3:43,Plastiscine people
+23,Nobody Move,Hanni El Khatib,hanni-el-khatib,Head In The Dirt,2:31,Fuzz LA
+24,Fish Heads,Osaka Popstar,osaka-popstar,Dr. Demento Covered in Punk (Disc 1),1:43,Chunkier fish heads
+25,PYC,Metal Molly,metal-molly,,3:43,Plastiscine people
 26,BREAK
-27,Wild Wild Web,Brazilian Girls,Let's Make Love,4:18,I dig it
-28,Letter to a Pretty Girl,The Avett Brothers,,3:19,It's a bit intimate
-29,Be Hurt,Eels,The Deconstruction,3:59,Good to have E back
+27,Wild Wild Web,Brazilian Girls,brazilian-girls,Let's Make Love,4:18,I dig it
+28,Letter to a Pretty Girl,The Avett Brothers,avett-brothers,,3:19,It's a bit intimate
+29,Be Hurt,Eels,eels,The Deconstruction,3:59,Good to have E back
 30,BREAK
-31,Wrong Side Of The Tracks,Hugh Cornwell,,3:38,Crosstown depression
-32,Hide,Rainbow Kitten Surprise,"How To: Friend, Love, Freefall",3:12,Better kisser than you think
-33,Real Gone,Django Django,Marble Skies,5:52,Raindrop synthesis
-34,The Castle,The Flaming Lips,Oczy Mlody,4:51,Distant and faraway
+31,Wrong Side Of The Tracks,Hugh Cornwell,hugh-cornwell,,3:38,Crosstown depression
+32,Hide,Rainbow Kitten Surprise,rainbow-kitten-surprise,"How To: Friend, Love, Freefall",3:12,Better kisser than you think
+33,Real Gone,Django Django,django-django,Marble Skies,5:52,Raindrop synthesis
+34,The Castle,The Flaming Lips,flaming-lips,Oczy Mlody,4:51,Distant and faraway
 35,BREAK
-36,Jackie On Acid,Ill Ease,,4:01,Jittering like you won’t believe
-37,For the Money,Esoebo,Esoebo IV,4:40,A hoot
-38,Dry Your Eyes,Hawk,Bomb Pop,4:34,Late night twang pop
+36,Jackie On Acid,Ill Ease,ill-ease,,4:01,Jittering like you won’t believe
+37,For the Money,Esoebo,esoebo,Esoebo IV,4:40,A hoot
+38,Dry Your Eyes,Hawk,hawk,Bomb Pop,4:34,Late night twang pop
 39,BREAK
-40,Lost,Sonny Smith,Rod for Your Love,3:59,Let’s go for a jaunt
-41,Our Embrace,Makeness,Loud Patterns,4:28,Electro pastry
-42,Debaser,Pixies,,2:53,Slicing up eyeballs
-43,Sport Death,Speedy Ortiz,Twerp Verse,3:30,Follow along if you can
+40,Lost,Sonny Smith,sonny-smith,Rod for Your Love,3:59,Let’s go for a jaunt
+41,Our Embrace,Makeness,makeness,Loud Patterns,4:28,Electro pastry
+42,Debaser,Pixies,pixies,,2:53,Slicing up eyeballs
+43,Sport Death,Speedy Ortiz,speedy-ortiz,Twerp Verse,3:30,Follow along if you can
 44,BREAK
-45,Mandarin,Parker And Lily,,2:05,Tremolo of my dreams
-46,Easy Eating,Naked Giants,Sluff,2:50,Woah-oh-oh
-47,Heart Killer,Dr. Dog,Critical Equation,3:35,Call the Bay City Rollers!
+45,Mandarin,Parker And Lily,parker-lily,,2:05,Tremolo of my dreams
+46,Easy Eating,Naked Giants,naked-giants,Sluff,2:50,Woah-oh-oh
+47,Heart Killer,Dr. Dog,dr-dog,Critical Equation,3:35,Call the Bay City Rollers!
 48,BREAK
-49,Cracker Drool,Goat Girl,Goat Girl,2:38,The British La Luz
-50,Love Too Soon,Born Ruffians,"Uncle, Duke & The Chief",2:42,Lullaby time
-51,Dreamworld,Byrne/Veloso,,5:03,Take me there
+49,Cracker Drool,Goat Girl,goat-girl,Goat Girl,2:38,The British La Luz
+50,Love Too Soon,Born Ruffians,born-ruffians,"Uncle, Duke & The Chief",2:42,Lullaby time
+51,Dreamworld,Byrne/Veloso,byrne-veloso,,5:03,Take me there
 52,BREAK
-53,August 10,Khruangbin,Con Todo El Mundo,4:25,Good night!
+53,August 10,Khruangbin,khruangbin,Con Todo El Mundo,4:25,Good night!

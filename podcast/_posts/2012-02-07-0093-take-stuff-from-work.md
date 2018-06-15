@@ -4,7 +4,7 @@ name: Take Stuff From Work
 episode: '0093'
 author: jclacking
 airdate: '2012-02-07'
-playlist: 2012-02-07-take-stuff-from-work
+playlist: '0093-take-stuff-from-work'
 image:
   src: podcast/0093-sex-clark-five.jpg
   caption: Sex Clark Five

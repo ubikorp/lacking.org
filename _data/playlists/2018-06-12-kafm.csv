@@ -1,59 +1,59 @@
-sequence,song,artist,album,time,notes
-1,Cómo Me Quieres,Khruangbin,Con Todo El Mundo,3:45,Gentle yet razor-sharp
-2,Ring That Bell,Born Ruffians,"Uncle, Duke & The Chief",2:26,All over the happy place
-3,Hot Sauce,Sugarman Three,,2:55,Almost too hot ... almost
-4,Coward's Confidence,Cut Worms,Hollow Ground,3:37,What decade is this?
+sequence,song,artist,artist_slug,album,time,notes
+1,Cómo Me Quieres,Khruangbin,khruangbin,Con Todo El Mundo,3:45,Gentle yet razor-sharp
+2,Ring That Bell,Born Ruffians,born-ruffians,"Uncle, Duke & The Chief",2:26,All over the happy place
+3,Hot Sauce,Sugarman Three,sugarman-three,,2:55,Almost too hot ... almost
+4,Coward's Confidence,Cut Worms,cut-worms,Hollow Ground,3:37,What decade is this?
 5,BREAK
-6,Even In The Shallows,Cicada Rhythm,Everywhere I Go,3:29,Gotta love a voice like that
-7,Bores Me to Tears,Sonny Smith,Rod for Your Love,3:40,The ennui calypso disco
-8,Freaking Out,Graham Coxon,,3:38,Rocking it out
-9,Dance This Mess Around,Asylum Street Spankers,,4:37,Now with 100% less synthesizers
+6,Even In The Shallows,Cicada Rhythm,cicada-rhythm,Everywhere I Go,3:29,Gotta love a voice like that
+7,Bores Me to Tears,Sonny Smith,sonny-smith,Rod for Your Love,3:40,The ennui calypso disco
+8,Freaking Out,Graham Coxon,graham-coxon,,3:38,Rocking it out
+9,Dance This Mess Around,Asylum Street Spankers,asylum-street-spankers,,4:37,Now with 100% less synthesizers
 10,BREAK
-11,Special Moment,Post Animal,When I Think Of You In A Castle,3:06,Don't ruin it
-12,When I See You I Feel Weird,Twang Bang,,2:04,Happens to all of us
-13,Running,The Harpoonist & The Axe Murderer,Apocalipstick,3:48,Warbling on the organ
-14,Edge Of Town,Middle Kids,Lost Friends,3:45,Like the new New Pornographers
+11,Special Moment,Post Animal,post-animal,When I Think Of You In A Castle,3:06,Don't ruin it
+12,When I See You I Feel Weird,Twang Bang,twang-bang,,2:04,Happens to all of us
+13,Running,The Harpoonist & The Axe Murderer,harpoonist-axe-murderer,Apocalipstick,3:48,Warbling on the organ
+14,Edge Of Town,Middle Kids,middle-kids,Lost Friends,3:45,Like the new New Pornographers
 15,BREAK
-16,Cool Boys,Flat Duo Jets,,2:33,In a pensive mood
-17,You Are The Shining Light,Eels,The Deconstruction,3:39,Spy movie theme music
-18,Circuits In The Sand,King Tuff,The Other,3:00,Worthy of Harlan Ellison
-19,We Might Come Back,Black Moth Super Rainbow,Panic Blooms,2:26,More dreamstate soundtracks
+16,Cool Boys,Flat Duo Jets,flat-duo-jets,,2:33,In a pensive mood
+17,You Are The Shining Light,Eels,eels,The Deconstruction,3:39,Spy movie theme music
+18,Circuits In The Sand,King Tuff,king-tuff,The Other,3:00,Worthy of Harlan Ellison
+19,We Might Come Back,Black Moth Super Rainbow,black-moth-super-rainbow,Panic Blooms,2:26,More dreamstate soundtracks
 20,BREAK
-21,Tornado Song,King Kong,,2:55,Round and around and around
-22,Over And Over,Wye Oak,"The Louder I Call, The Faster It Runs",2:54,Time signatures are scrawled
-23,Neglect,Guantanamo Baywatch,Desert Center,4:29,More throwback that may be handled
-24,Den Den,Snuff,,1:29,Don't blink
+21,Tornado Song,King Kong,king-kong,,2:55,Round and around and around
+22,Over And Over,Wye Oak,wye-oak,"The Louder I Call, The Faster It Runs",2:54,Time signatures are scrawled
+23,Neglect,Guantanamo Baywatch,guantanamo-baywatch,Desert Center,4:29,More throwback that may be handled
+24,Den Den,Snuff,snuff,,1:29,Don't blink
 25,BREAK
-26,Tic Tac Toe,Django Django,Marble Skies,3:57,A Western sound
-27,External Actor,Okkervil River,In The Rainbow Rain,4:08,Theater kids!
-28,Lights Out,Angry Samoans,,0:53,Mind the furniture
-29,London Rain,Curse of Lono,Severed,4:53,Almost like Leonard Cohen
+26,Tic Tac Toe,Django Django,django-django,Marble Skies,3:57,A Western sound
+27,External Actor,Okkervil River,okkervil-river,In The Rainbow Rain,4:08,Theater kids!
+28,Lights Out,Angry Samoans,angry-samoans,,0:53,Mind the furniture
+29,London Rain,Curse of Lono,curse-of-lono,Severed,4:53,Almost like Leonard Cohen
 30,BREAK
-31,Synthesizer Guide Book on Fire,Boredoms,,2:28,It’s subtle
-32,Julie Grave,Cherry Poppin' Daddies,,3:24,So catchy
-33,Throw Me A Bone,Goat Girl,Goat Girl,2:27,Dirge in waltz time
-34,Dem Don Come Again,Femi Kuti,One People One World,4:13,Carrying the torch high
+31,Synthesizer Guide Book on Fire,Boredoms,boredoms,,2:28,It’s subtle
+32,Julie Grave,Cherry Poppin' Daddies,cherry-poppin-daddies,,3:24,So catchy
+33,Throw Me A Bone,Goat Girl,goat-girl,Goat Girl,2:27,Dirge in waltz time
+34,Dem Don Come Again,Femi Kuti,femi-kuti,One People One World,4:13,Carrying the torch high
 35,BREAK
-36,MDM,Jo Passed,Their Prime,3:13,Slippery stuff
-37,Woo,Beach House,7,4:15,Slow Eighties burn
-38,You Hate The Title,Speedy Ortiz,Twerp Verse,2:13,Let’s get meta
-39,Hey! Little Child,Low Cut Connie,Dirty Pictures (Part 2),3:29,Almost like the Rock*A*Teens
+36,MDM,Jo Passed,jo-passed,Their Prime,3:13,Slippery stuff
+37,Woo,Beach House,beach-house,7,4:15,Slow Eighties burn
+38,You Hate The Title,Speedy Ortiz,speedy-ortiz,Twerp Verse,2:13,Let’s get meta
+39,Hey! Little Child,Low Cut Connie,low-cut-connie,Dirty Pictures (Part 2),3:29,Almost like the Rock*A*Teens
 40,BREAK
-41,Go Shopping,Bran Van 3000,Y Tu Mama Tambien,2:52,From Toronto!
-42,Studio Hair Gel,Barcelona,,2:51,Your friends say you wear too much black
-43,California Finally,La Luz,Floating Features,3:21,Yearning for waves
-44,My Patch,Jim Noir,,3:01,Don’t mess with Jim
-45,Caveman 5000,Quintron,,3:37,Drum Buddy is on fire!
+41,Go Shopping,Bran Van 3000,bran-van-3000,Y Tu Mama Tambien,2:52,From Toronto!
+42,Studio Hair Gel,Barcelona,barcelona,,2:51,Your friends say you wear too much black
+43,California Finally,La Luz,la-luz,Floating Features,3:21,Yearning for waves
+44,My Patch,Jim Noir,jim-noir,,3:01,Don’t mess with Jim
+45,Caveman 5000,Quintron,quintron,,3:37,Drum Buddy is on fire!
 46,BREAK
-47,Salve,Brazilian Girls,Let's Make Love,3:23,Relax with some Brazilian wax
-48,Smash Hit,The Dining Room Set,,2:42,The perfect length
-49,I'm On Fire,Grand Marquis,Brighter Days,4:32,Like the Countdown Quartet
+47,Salve,Brazilian Girls,brazilian-girls,Let's Make Love,3:23,Relax with some Brazilian wax
+48,Smash Hit,The Dining Room Set,dining-room-set,,2:42,The perfect length
+49,I'm On Fire,Grand Marquis,grand-marquis,Brighter Days,4:32,Like the Countdown Quartet
 50,BREAK
-51,Cars and Houses,Ruler,Winning Star Champion,2:47,Solid in the indie rock
-52,Fire,The Crazy World Of Arthur Brown,,2:55,Had to.
-53,Not For Me,Forth Wanderers,Forth Wanderers,4:32,Making me woozy
-54,Kickstrasse,1990s,,2:55,Scots snottiness
+51,Cars and Houses,Ruler,ruler,Winning Star Champion,2:47,Solid in the indie rock
+52,Fire,The Crazy World Of Arthur Brown,crazy-world-of-arthur-brown,,2:55,Had to.
+53,Not For Me,Forth Wanderers,forth-wanderers,Forth Wanderers,4:32,Making me woozy
+54,Kickstrasse,1990s,1990s,,2:55,Scots snottiness
 55,BREAK
-56,Neighborhood Watch (We Call Police),Emperor Penguin,,3:50,We call police
-57,The Static God,Oh Sees,Orc,4:21,Watch the grill it’s hot
-58,Get To You,Southbound Snake Charmers,Rhythm 'n' Rust,4:40,It’s boogie time
+56,Neighborhood Watch (We Call Police),Emperor Penguin,emperor-penguin,,3:50,We call police
+57,The Static God,Oh Sees,oh-sees,Orc,4:21,Watch the grill it’s hot
+58,Get To You,Southbound Snake Charmers,southbound-snake-charmers,Rhythm 'n' Rust,4:40,It’s boogie time

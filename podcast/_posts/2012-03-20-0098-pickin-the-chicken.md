@@ -4,7 +4,7 @@ name: Pickin’ The Chicken
 episode: '0098'
 author: jclacking
 airdate: '2012-03-20'
-playlist: 2012-03-20-pickin-the-chicken
+playlist: '0098-pickin-the-chicken'
 image:
   src: podcast/0098-boredoms.jpg
   caption: Boredoms

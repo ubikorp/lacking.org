@@ -1,56 +1,56 @@
-sequence,song,artist,album,time,notes
-1,Garbageman,William Shatner,Dr. Demento Covered in Punk (Disc 1),3:36,Nobody trashes it like the Shat
-2,Hiedra Venenosa,Mexican Institute of Sound,,2:51,She’s poison ivy
-3,A Tear for Eddie,Ween,,4:49,Tribute to Funkadelic
+sequence,song,artist,artist_slug,album,time,notes
+1,Garbageman,William Shatner,william-shatner,Dr. Demento Covered in Punk (Disc 1),3:36,Nobody trashes it like the Shat
+2,Hiedra Venenosa,Mexican Institute of Sound,mexican-institute-of-sound,,2:51,She’s poison ivy
+3,A Tear for Eddie,Ween,ween,,4:49,Tribute to Funkadelic
 4,BREAK
-5,Show Me The Sun,Belle & Sebastian,How To Solve Our Human Problems,3:53,Show me the psychedelic
-6,Tir Ha Mor,Gwenno,Le Kov,4:11,In Cornish
-7,Jessi,Noble Son,Joy In Violence,2:49,Drag the drag
-8,Seagull,Ed Schrader's Music Beat,Riddles,5:18,Lowdown snapping
+5,Show Me The Sun,Belle & Sebastian,belle-sebastian,How To Solve Our Human Problems,3:53,Show me the psychedelic
+6,Tir Ha Mor,Gwenno,gwenno,Le Kov,4:11,In Cornish
+7,Jessi,Noble Son,noble-son,Joy In Violence,2:49,Drag the drag
+8,Seagull,Ed Schrader's Music Beat,ed-schrader-s-music-beat,Riddles,5:18,Lowdown snapping
 9,BREAK
-10,Absolute Loser,Fruit Bats,Absolute Loser,3:52,Pastoral times
-11,Odds,Ephrata,Ephrata,2:34,Lovely twee harmonies
-12,Lonesome Graveyard,House of Freaks,,2:35,Exquisitely spooky
+10,Absolute Loser,Fruit Bats,fruit-bats,Absolute Loser,3:52,Pastoral times
+11,Odds,Ephrata,ephrata,Ephrata,2:34,Lovely twee harmonies
+12,Lonesome Graveyard,House of Freaks,house-of-freaks,,2:35,Exquisitely spooky
 13,BREAK
-14,Grifting,Timber Timbre,"Sincerely, Future Pollution",4:21,Polyrythmic
-15,It's Alright for You,The Police,Reggatta de Blanc,3:13,"Don’t panic, be manic"
-16,One That Lights Up (Andi Domo Ikang Uwem Mi),Ibibio Sound Machine,Uyai,3:38,Afrosoul
+14,Grifting,Timber Timbre,timber-timbre,"Sincerely, Future Pollution",4:21,Polyrythmic
+15,It's Alright for You,The Police,police,Reggatta de Blanc,3:13,"Don’t panic, be manic"
+16,One That Lights Up (Andi Domo Ikang Uwem Mi),Ibibio Sound Machine,ibibio-sound-machine,Uyai,3:38,Afrosoul
 17,BREAK
-18,A Rapper's Reputation,Sir Mix-A-Lot,,5:03,As much as I can handle
+18,A Rapper's Reputation,Sir Mix-A-Lot,sir-mix-a-lot,,5:03,As much as I can handle
 19,BREAK
-20,The Robots,The Bad Plus,It's Hard,3:31,Nailed it
-21,Underwater,The Gentle People,,6:09,Bubbling up
-22,White Glass,Loma,Loma,4:12,Don’t stop running
+20,The Robots,The Bad Plus,bad-plus,It's Hard,3:31,Nailed it
+21,Underwater,The Gentle People,gentle-people,,6:09,Bubbling up
+22,White Glass,Loma,loma,Loma,4:12,Don’t stop running
 23,BREAK
-24,Goldfish II,Naked Giants,Sluff,3:21,Lovely guitar stabbings
-25,Memories,The Extra Glenns,,4:00,Leonard could sure write them
-26,Health Food Store,White Hassle,The Death of Song,3:37,$30 or a suit of gold
-27,Piranas Are A Very Tricky Species,Mark Mothersbaugh,,1:20,Bring the Krupa
+24,Goldfish II,Naked Giants,naked-giants,Sluff,3:21,Lovely guitar stabbings
+25,Memories,The Extra Glenns,extra-glenns,,4:00,Leonard could sure write them
+26,Health Food Store,White Hassle,white-hassle,The Death of Song,3:37,$30 or a suit of gold
+27,Piranas Are A Very Tricky Species,Mark Mothersbaugh,mark-mothersbaugh,,1:20,Bring the Krupa
 28,BREAK
-29,Wish ㍛,Holy,All These Worlds Are Yours,5:01,Let the musical narcotic take hold
-30,Shapeshifter,Warbly Jets,Warbly Jets,2:18,"Mmmmmm, fuzzy"
-31,Ha-Ha,Emiliana Torrini,,3:16,Sardonic is the word
+29,Wish ㍛,Holy,holy,All These Worlds Are Yours,5:01,Let the musical narcotic take hold
+30,Shapeshifter,Warbly Jets,warbly-jets,Warbly Jets,2:18,"Mmmmmm, fuzzy"
+31,Ha-Ha,Emiliana Torrini,emiliana-torrini,,3:16,Sardonic is the word
 32,BREAK
-33,Battle Hymn (Of The Magi),Oberon Rose,Tell Me All About It,4:26,Creeping up
-34,When You Sleep,Japancakes,,4:12,MVB + pedal steel were made for each other
-35,Solid Gold,Eagles of Death Metal,,4:20,When they were weird
-36,Big Foot,Messer Chups,Taste the Blood of Guitaracula,3:00,Cryptozoology at its finest
+33,Battle Hymn (Of The Magi),Oberon Rose,oberon-rose,Tell Me All About It,4:26,Creeping up
+34,When You Sleep,Japancakes,japancakes,,4:12,MVB + pedal steel were made for each other
+35,Solid Gold,Eagles of Death Metal,eagles-of-death-metal,,4:20,When they were weird
+36,Big Foot,Messer Chups,messer-chups,Taste the Blood of Guitaracula,3:00,Cryptozoology at its finest
 37,BREAK
-38,Heart To Reveal,Marble Party,Sometimes A Great Ocean,5:15,Teenagefanclubesque
-39,Pleasure Dome 12,Logan's Sanctuary,,4:46,Come visit
-40,Fight!,Death By Unga Bunga,Fight! EP,3:11,Bay City Lizzy
+38,Heart To Reveal,Marble Party,marble-party,Sometimes A Great Ocean,5:15,Teenagefanclubesque
+39,Pleasure Dome 12,Logan's Sanctuary,logan-s-sanctuary,,4:46,Come visit
+40,Fight!,Death By Unga Bunga,death-by-unga-bunga,Fight! EP,3:11,Bay City Lizzy
 41,BREAK
-42,My Boy (Twin Fantasy),Car Seat Headrest,Twin Fantasy,2:53,Meandering pathways
-43,Flambee Montalbanaise,Stacy Phillips,,3:10,Slide fireworks
-44,The Heart Of Palm,Dean Ween Group,Rock 2,3:50,It’s not for everyone
-45,Watch Your Girl,Mood Elevator,,3:54,Detroit steel
+42,My Boy (Twin Fantasy),Car Seat Headrest,car-seat-headrest,Twin Fantasy,2:53,Meandering pathways
+43,Flambee Montalbanaise,Stacy Phillips,stacy-phillips,,3:10,Slide fireworks
+44,The Heart Of Palm,Dean Ween Group,dean-ween-group,Rock 2,3:50,It’s not for everyone
+45,Watch Your Girl,Mood Elevator,mood-elevator,,3:54,Detroit steel
 46,BREAK
-47,Christopher Walken,Sir Millard Mulch,,0:57,Doesn’t get more metal than Christopher Walken
-48,New Years Eve,American Pleasure Club,A Whole Fucking Lifetime of This,2:14,Somewhat like the Clash
-49,B'Boom,King Crimson,Thrak,4:11,Subtle backbeat
+47,Christopher Walken,Sir Millard Mulch,sir-millard-mulch,,0:57,Doesn’t get more metal than Christopher Walken
+48,New Years Eve,American Pleasure Club,american-pleasure-club,A Whole Fucking Lifetime of This,2:14,Somewhat like the Clash
+49,B'Boom,King Crimson,king-crimson,Thrak,4:11,Subtle backbeat
 50,BREAK
-51,The Prince,Madness ,The Peel Sessions,3:20,"Prince Buster, that is"
-52,Madeline,Mr. Elevator & The Brain Hotel,When the Morning Greets You,4:29,Twinkly AM melody
-53,Jump (feat Elisa Godino - Club mix),Kiss Me Yesterday,The Electro Swing Revolution Vol 7,4:58,Boogie to midnight
+51,The Prince,Madness ,madness,The Peel Sessions,3:20,"Prince Buster, that is"
+52,Madeline,Mr. Elevator & The Brain Hotel,mr-elevator-brain-hotel,When the Morning Greets You,4:29,Twinkly AM melody
+53,Jump (feat Elisa Godino - Club mix),Kiss Me Yesterday,kiss-me-yesterday,The Electro Swing Revolution Vol 7,4:58,Boogie to midnight
 54,BREAK
-55,Avila,Dylan Group,,6:28,The bells… the bells
+55,Avila,Dylan Group,dylan-group,,6:28,The bells… the bells

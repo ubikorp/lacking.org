@@ -1,57 +1,57 @@
-sequence,song,artist,album,time,notes
-1,Gigantic,Pixies,Surfer Rosa,3:56,What a gas
-2,Waterfalls,Cherry,Dumbness,3:12,Dropping beats
-3,Systemagic,Goldfrapp,Silver Eye,3:38,Robot danceparty
+sequence,song,artist,artist_slug,album,time,notes
+1,Gigantic,Pixies,pixies,Surfer Rosa,3:56,What a gas
+2,Waterfalls,Cherry,cherry,Dumbness,3:12,Dropping beats
+3,Systemagic,Goldfrapp,goldfrapp,Silver Eye,3:38,Robot danceparty
 4,BREAK
-5,Concrete,Shame,Songs Of Praise,3:34,The future sounds like Manchester
-6,Henrietta,The Fratellis,Costello Music,3:32,Hurky jurky
-7,The Funeral [Live],Walt Wagner,Reworks,5:26,the Piano Bar Fire
-8,Any Kind Of Crowd,Filthy Friends,Invitation,3:16,All-star band! Which stars eludes me...
+5,Concrete,Shame,shame,Songs Of Praise,3:34,The future sounds like Manchester
+6,Henrietta,The Fratellis,fratellis,Costello Music,3:32,Hurky jurky
+7,The Funeral [Live],Walt Wagner,walt-wagner,Reworks,5:26,the Piano Bar Fire
+8,Any Kind Of Crowd,Filthy Friends,filthy-friends,Invitation,3:16,All-star band! Which stars eludes me...
 9,BREAK
-10,Survive,Hollie Cook,Vessel of Love,3:18,Vocal harmonies to make Bananarama jealous
-11,Young Lover,St. Vincent,Masseduction,3:33,Heartbeat
-12,El Barzón,Maldita Vecindad & Los Hijos Del Quinto Patio,,4:21,"Mexican folk music, updated"
+10,Survive,Hollie Cook,hollie-cook,Vessel of Love,3:18,Vocal harmonies to make Bananarama jealous
+11,Young Lover,St. Vincent,st-vincent,Masseduction,3:33,Heartbeat
+12,El Barzón,Maldita Vecindad & Los Hijos Del Quinto Patio,maldita-vecindad-los-hijos-del-quinto-patio,,4:21,"Mexican folk music, updated"
 13,BREAK
-14,Typical Featuring Jordan Rakei,Nightmares On Wax,Shape The Future,4:40,More rainy night musics
-15,"Don't Think Twice, It's All Right",Bob Dylan,,3:39,When your rooster crows at the break of dawn
-16,I Can't Stand Your Face,Bag,,2:37,Bouncy hatin’ song
-17,Riri,Dim Dim,,3:38,Pleasant island ditty
+14,Typical Featuring Jordan Rakei,Nightmares On Wax,nightmares-on-wax,Shape The Future,4:40,More rainy night musics
+15,"Don't Think Twice, It's All Right",Bob Dylan,bob-dylan,,3:39,When your rooster crows at the break of dawn
+16,I Can't Stand Your Face,Bag,bag,,2:37,Bouncy hatin’ song
+17,Riri,Dim Dim,dim-dim,,3:38,Pleasant island ditty
 18,BREAK
-19,68,bicycle,,2:41,Unknown pop gem
-20,Slow It Goes,Eyelids,Or,3:44,Grade B Maple Syrup
-21,Wildflowers,The Wailin' Jennys,Fifteen,3:43,Great take on the Tom Petty song
+19,68,bicycle,bicycle,,2:41,Unknown pop gem
+20,Slow It Goes,Eyelids,eyelids,Or,3:44,Grade B Maple Syrup
+21,Wildflowers,The Wailin' Jennys,wailin-jennys,Fifteen,3:43,Great take on the Tom Petty song
 22,BREAK
-23,Lost in the Supermarket,The Clash,London Calling: 25th Anniversary Edition,3:47,Always a pleasure
-24,Heavy Lifting,Palm,Rock Island,4:44,It's complicated
-25,Mutations,Grand Analog,Survival EP,4:04,Got the bounce
-26,This Fall. Last Fall.,The Rants,,2:46,What do we know about this band?
+23,Lost in the Supermarket,The Clash,clash,London Calling: 25th Anniversary Edition,3:47,Always a pleasure
+24,Heavy Lifting,Palm,palm,Rock Island,4:44,It's complicated
+25,Mutations,Grand Analog,grand-analog,Survival EP,4:04,Got the bounce
+26,This Fall. Last Fall.,The Rants,rants,,2:46,What do we know about this band?
 27,BREAK
-28,Angst In My Pants,A Giant Dog,Toy,3:42,Originally by Sparks
-29,Meme les plus grands ont des moments de faiblesse,Les Wampas,Evangelisti,3:30,Some French ya-ya punk for y’all
-30,I Love LA,Starcrawler,Starcrawler,3:18,Echoes of L7
-31,Nickel And A Storm,Marble Party,Sometimes A Great Ocean,4:22,Sounding like Kevin Seconds
+28,Angst In My Pants,A Giant Dog,a-giant-dog,Toy,3:42,Originally by Sparks
+29,Meme les plus grands ont des moments de faiblesse,Les Wampas,les-wampas,Evangelisti,3:30,Some French ya-ya punk for y’all
+30,I Love LA,Starcrawler,starcrawler,Starcrawler,3:18,Echoes of L7
+31,Nickel And A Storm,Marble Party,marble-party,Sometimes A Great Ocean,4:22,Sounding like Kevin Seconds
 32,BREAK
-33,Don't Touch Me,Brak,,0:51,Good advice
-34,Mommy,The Slackers,,3:01,So laid back
-35,Take The Skinheads Bowling,Artichoke,Echoes From The Century Next Door,4:24,A whacked-out version
-36,Tear Us Apart,Swear And Shake,The Sound Of Letting Go,3:47,Nice AM radio arrangements
+33,Don't Touch Me,Brak,brak,,0:51,Good advice
+34,Mommy,The Slackers,slackers,,3:01,So laid back
+35,Take The Skinheads Bowling,Artichoke,artichoke,Echoes From The Century Next Door,4:24,A whacked-out version
+36,Tear Us Apart,Swear And Shake,swear-shake,The Sound Of Letting Go,3:47,Nice AM radio arrangements
 37,BREAK
-38,All These Worlds Are Yours,Holy,All These Worlds Are Yours,8:54,So long and worth it
-39,Colonizer,Tune-Yards,I can feel you creep into my private life,3:54,Ends weird
-40,Whitest Boy on the Beach,Fat White Family,Songs For Our Mothers,4:53,Bring sunscreen
+38,All These Worlds Are Yours,Holy,holy,All These Worlds Are Yours,8:54,So long and worth it
+39,Colonizer,Tune-Yards,tune-yards,I can feel you creep into my private life,3:54,Ends weird
+40,Whitest Boy on the Beach,Fat White Family,fat-white-family,Songs For Our Mothers,4:53,Bring sunscreen
 41,BREAK
-42,Unglued,Mo Kenney,The Details,2:59,Dual vocalizing
-43,Spectacular,Graham Coxon,,2:48,From Bleh
-44,I Feel Just Like A Child,Devendra Banhart,Pay Close Attention : XL Recordings,4:46,Somewhat entrancing
-45,Yr Throat,Jeff Rosenstock,POST-,2:47,Thundering along
+42,Unglued,Mo Kenney,mo-kenney,The Details,2:59,Dual vocalizing
+43,Spectacular,Graham Coxon,graham-coxon,,2:48,From Bleh
+44,I Feel Just Like A Child,Devendra Banhart,devendra-banhart,Pay Close Attention : XL Recordings,4:46,Somewhat entrancing
+45,Yr Throat,Jeff Rosenstock,jeff-rosenstock,POST-,2:47,Thundering along
 46,BREAK
-47,Punk Rock Girl,Philly Boy Roy,Dr. Demento Covered in Punk (Disc 2),3:13,Fantastic rendition
-48,Julianne,Ben Folds Five,,2:31,I got my bag of trash
-49,The Little Things,Southern Culture On The Sklds,Dig This,2:36,The little things will do you in
+47,Punk Rock Girl,Philly Boy Roy,philly-boy-roy,Dr. Demento Covered in Punk (Disc 2),3:13,Fantastic rendition
+48,Julianne,Ben Folds Five,ben-folds-five,,2:31,I got my bag of trash
+49,The Little Things,Southern Culture On The Sklds,southern-culture-on-sklds,Dig This,2:36,The little things will do you in
 50,BREAK
-51,Don't You Still Want Me,Andrea Perry ,,2:45,Delicate
-52,No Hugging No Learning,Teenage Bottlerocket,Stealing the Covers,1:10,"Dang, it's over already"
-53,Tightly Wound,The Capes,,3:40,Angular boogie
-54,Watching Him Fade Away,Mac DeMarco,This Old Dog,2:23,Life is sad
+51,Don't You Still Want Me,Andrea Perry ,andrea-perry,,2:45,Delicate
+52,No Hugging No Learning,Teenage Bottlerocket,teenage-bottlerocket,Stealing the Covers,1:10,"Dang, it's over already"
+53,Tightly Wound,The Capes,capes,,3:40,Angular boogie
+54,Watching Him Fade Away,Mac DeMarco,mac-demarco,This Old Dog,2:23,Life is sad
 55,BREAK
-56,I'll Fly Away,Gillian Welch/Alison Krauss,,3:58,O Brother
+56,I'll Fly Away,Gillian Welch/Alison Krauss,gillian-welch-alison-krauss,,3:58,O Brother

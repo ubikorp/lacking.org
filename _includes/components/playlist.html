@@ -1,3 +1,5 @@
+{% assign playlist = site.data.playlists[include.post.playlist] %}
+
 <table class="tlo-playlist">
   <thead>
     <tr>
@@ -9,7 +11,7 @@
     </tr>
   </thead>
   <tbody>
-  {% for item in include.playlist %}
+  {% for item in playlist %}
     {% if item["artist"] %}
       <tr class="track">
         <td align="right">{{ item["sequence"] }}</td>

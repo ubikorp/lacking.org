@@ -4,7 +4,7 @@ name: Crown The Clown
 episode: '0094'
 author: jclacking
 airdate: '2012-02-14'
-playlist: 2012-02-14-crown-the-clown
+playlist: '0094-crown-the-clown'
 image:
   src: podcast/0094-hillstomp.jpg
   caption: Hillstomp

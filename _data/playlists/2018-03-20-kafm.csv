@@ -1,59 +1,59 @@
-sequence,song,artist,album,time,notes
-1,Beat on the Brat,"""Weird Al"" Yankovic",Dr. Demento Covered in Punk (Disc 2),2:35,1 of 16
-2,Stardust,Grand Analog,Survival EP,1:31,2 of 16
-3,Sunny Day Girls,Sun Seeker,Biddeford [EP],3:20,3 of 16
+sequence,song,artist,artist_slug,album,time,notes
+1,Beat on the Brat,"""Weird Al"" Yankovic",weird-al-yankovic,Dr. Demento Covered in Punk (Disc 2),2:35,1 of 16
+2,Stardust,Grand Analog,grand-analog,Survival EP,1:31,2 of 16
+3,Sunny Day Girls,Sun Seeker,sun-seeker,Biddeford [EP],3:20,3 of 16
 4,BREAK
-5,Heard It On The X,Tenderloin,,2:26,4 of 16
-6,Mad Lucas,The Breeders,Geoffrey,4:37,5 of 16
-7,La Primavera,Manu Chao,Baionarena [Deluxe Edition] CD1,8:16,6 of 16
-8,Cheap Reward (Honky Tonk Demo),Elvis Costello,,2:18,7 of 16
+5,Heard It On The X,Tenderloin,tenderloin,,2:26,4 of 16
+6,Mad Lucas,The Breeders,breeders,Geoffrey,4:37,5 of 16
+7,La Primavera,Manu Chao,manu-chao,Baionarena [Deluxe Edition] CD1,8:16,6 of 16
+8,Cheap Reward (Honky Tonk Demo),Elvis Costello,elvis-costello,,2:18,7 of 16
 9,BREAK
-10,Waste Station 9,Dean Ween Group,Rock 2,2:51,8 of 16
-11,Meximelt,Southern Culture On The Skids,Santo Swings!,4:24,9 of 16
-12,Independent Women Part 1 (A capella)/Dreadlock Holiday,2 Many DJs,,3:30,10 of 16
-13,Conoid Tone,Higher Intelligence Agency,,5:53,11 of 16
+10,Waste Station 9,Dean Ween Group,dean-ween-group,Rock 2,2:51,8 of 16
+11,Meximelt,Southern Culture On The Skids,southern-culture-on-skids,Santo Swings!,4:24,9 of 16
+12,Independent Women Part 1 (A capella)/Dreadlock Holiday,2 Many DJs,2-many-djs,,3:30,10 of 16
+13,Conoid Tone,Higher Intelligence Agency,higher-intelligence-agency,,5:53,11 of 16
 14,BREAK
-15,Sinking In The Sand,Hanni El Khatib,Head In The Dirt,2:30,12 of 16
-16,Every Night,Paul McCartney,,2:40,13 of 16
-17,Loves Me Like A Rock,The Wailin' Jennys,Fifteen,2:26,14 of 16
-18,English Towns,The Stranglers,,2:12,15 of 16
+15,Sinking In The Sand,Hanni El Khatib,hanni-el-khatib,Head In The Dirt,2:30,12 of 16
+16,Every Night,Paul McCartney,paul-mccartney,,2:40,13 of 16
+17,Loves Me Like A Rock,The Wailin' Jennys,wailin-jennys,Fifteen,2:26,14 of 16
+18,English Towns,The Stranglers,stranglers,,2:12,15 of 16
 19,BREAK
-20,Three Little Birds,Bob Marley,,3:02,16 of 16
+20,Three Little Birds,Bob Marley,bob-marley,,3:02,16 of 16
 21,BREAK
-22,Balloon Man,Artichoke,Echoes From The Century Next Door,3:32,1 of 15
-23,Boom Boom Room,Here Come The Mummies,Here Come The Mummies,3:54,2 of 15
-24,Go!,Willie Wisely,,2:27,3 of 15
+22,Balloon Man,Artichoke,artichoke,Echoes From The Century Next Door,3:32,1 of 15
+23,Boom Boom Room,Here Come The Mummies,here-come-mummies,Here Come The Mummies,3:54,2 of 15
+24,Go!,Willie Wisely,willie-wisely,,2:27,3 of 15
 25,BREAK
-26,Six Flags in F or G,Surfer Blood,Snowdonia,5:23,4 of 15
-27,Fleshsweatpush,Death By Unga Bunga,Fight! EP,3:09,5 of 15
-28,Raw Evolution,Warbly Jets,Warbly Jets,2:58,6 of 15
-29,Eus Keus?,Gwenno,Le Kov,5:01,7 of 15
+26,Six Flags in F or G,Surfer Blood,surfer-blood,Snowdonia,5:23,4 of 15
+27,Fleshsweatpush,Death By Unga Bunga,death-by-unga-bunga,Fight! EP,3:09,5 of 15
+28,Raw Evolution,Warbly Jets,warbly-jets,Warbly Jets,2:58,6 of 15
+29,Eus Keus?,Gwenno,gwenno,Le Kov,5:01,7 of 15
 30,BREAK
-31,Premonition / ◯ / It Shines Through,Holy,All These Worlds Are Yours,6:38,8 of 15
-32,The Creeper,Steve Hancoff,,2:50,9 of 15
-33,Punchy,Mo Kenney,The Details,2:17,10 of 15
-34,Ambient Obituary,Milk Cult,,1:35,11 of 15
+31,Premonition / ◯ / It Shines Through,Holy,holy,All These Worlds Are Yours,6:38,8 of 15
+32,The Creeper,Steve Hancoff,steve-hancoff,,2:50,9 of 15
+33,Punchy,Mo Kenney,mo-kenney,The Details,2:17,10 of 15
+34,Ambient Obituary,Milk Cult,milk-cult,,1:35,11 of 15
 35,BREAK
-36,Skankin' To The Beat,Fishbone,,3:31,12 of 15
-37,Rise Above Evil (Live),The Paradimes,Genius By The Mile,3:41,13 of 15
-38,Lampoon,Shame,Songs Of Praise,2:34,14 of 15
-39,All I Have To Do Is Dream,The Dandy Warhols,,2:40,15 of 15
+36,Skankin' To The Beat,Fishbone,fishbone,,3:31,12 of 15
+37,Rise Above Evil (Live),The Paradimes,paradimes,Genius By The Mile,3:41,13 of 15
+38,Lampoon,Shame,shame,Songs Of Praise,2:34,14 of 15
+39,All I Have To Do Is Dream,The Dandy Warhols,dandy-warhols,,2:40,15 of 15
 40,BREAK
-41,12XU,Minor Threat,,1:04,1 of 14
-42,First I Look at the Purse,Yo La Tengo,Murder in the Second Degree,2:21,2 of 14
-43,Mess of Wires,METZ,Strange Peace,3:29,3 of 14
+41,12XU,Minor Threat,minor-threat,,1:04,1 of 14
+42,First I Look at the Purse,Yo La Tengo,yo-la-tengo,Murder in the Second Degree,2:21,2 of 14
+43,Mess of Wires,METZ,metz,Strange Peace,3:29,3 of 14
 44,BREAK
-45,Beach Life-In-Death,Car Seat Headrest,Twin Fantasy: Mirror To Mirror,12:11,4 of 14
-46,ABC 123,Tune-Yards,I can feel you creep into my private life,3:34,5 of 14
-47,Pico & Sepulveda,Osaka Popstar,Dr. Demento Covered in Punk (Disc 2),2:25,6 of 14
-48,Children of The Popcorn,Messer Chups,Taste the Blood of Guitaracula,2:39,7 of 14
+45,Beach Life-In-Death,Car Seat Headrest,car-seat-headrest,Twin Fantasy: Mirror To Mirror,12:11,4 of 14
+46,ABC 123,Tune-Yards,tune-yards,I can feel you creep into my private life,3:34,5 of 14
+47,Pico & Sepulveda,Osaka Popstar,osaka-popstar,Dr. Demento Covered in Punk (Disc 2),2:25,6 of 14
+48,Children of The Popcorn,Messer Chups,messer-chups,Taste the Blood of Guitaracula,2:39,7 of 14
 49,BREAK
-50,Core,The Cardiacs,,2:32,8 of 14
-51,Money Mark,Brendan Canning,Home Wrecking Years,4:26,9 of 14
-52,I'm Your Mom,The Flamenco A Go Go ,,2:48,10 of 14
+50,Core,The Cardiacs,cardiacs,,2:32,8 of 14
+51,Money Mark,Brendan Canning,brendan-canning,Home Wrecking Years,4:26,9 of 14
+52,I'm Your Mom,The Flamenco A Go Go ,flamenco-a-go-go,,2:48,10 of 14
 53,BREAK
-54,Poor Traits Of The Artist,Ron Gallo,Heavy Meta,2:56,11 of 14
-55,El Cuchipe (Cancio Boliviana),Los Lobos,,2:20,12 of 14
-56,World Full of Cops,Paleface,,3:02,13 of 14
+54,Poor Traits Of The Artist,Ron Gallo,ron-gallo,Heavy Meta,2:56,11 of 14
+55,El Cuchipe (Cancio Boliviana),Los Lobos,los-lobos,,2:20,12 of 14
+56,World Full of Cops,Paleface,paleface,,3:02,13 of 14
 57,BREAK
-58,Dark Oscillations,Loma,Loma,5:37,14 of 14
+58,Dark Oscillations,Loma,loma,Loma,5:37,14 of 14

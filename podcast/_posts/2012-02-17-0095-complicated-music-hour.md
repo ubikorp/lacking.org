@@ -4,7 +4,7 @@ name: Complicated Music Hour
 episode: '0095'
 author: jclacking
 airdate: '2012-02-17'
-playlist: 2012-02-17-complicated-music-hour
+playlist: '0095-complicated-music-hour'
 image:
   src: podcast/0095-secret-chiefs-3.jpg
   caption: Secret Chiefs 3

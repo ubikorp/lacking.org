@@ -1,9 +1,4 @@
-{% if include.playlist_data %}
-  {% assign playlist = include.playlist_data %}
-{% else %}
-  {% assign playlist = site.data.playlists[include.playlist_name] %}
-{% endif %}
-{% assign artists = playlist | sort: "artist" | map: "artist" %}
+{% assign artists = site.data.playlists[include.post.playlist] | sort: "artist_slug" | map: "artist" %}
 
 <p>
   <strong>In this episode:</strong>

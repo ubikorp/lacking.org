@@ -4,7 +4,7 @@ name: Lather Rinse Repeat
 episode: '0090'
 author: jclacking
 airdate: '2012-01-17'
-playlist: 2012-01-17-lather-rinse-repeat
+playlist: '0090-lather-rinse-repeat'
 image:
   src: podcast/0090-future-kings-of-nowhere.jpg
   caption: The Future Kings of Nowhere

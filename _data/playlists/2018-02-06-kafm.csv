@@ -1,64 +1,64 @@
-sequence,song,artist,album,time,notes
-1,Beating My Head Against A Wall,Jeff Rosenstock,POST-,1:41,It sure feels that way
-2,A Little Bit Like Saint Paul,Esoebo,Esoebo IV,3:38,Real honest country
-3,Vacant,Phono Pony,Death by Blowfish - EP,3:15,Churning out
-4,King Of Mexico,The Forty-Fives,,1:53,Swingin’ it
-5,The Lick,Shame,Songs Of Praise,4:12,Story time
-6,Love Theme From Skinheads Kicking Your Ass,Dean Ween Group,Rock 2,2:21,Burning it up
+sequence,song,artist,artist_slug,album,time,notes
+1,Beating My Head Against A Wall,Jeff Rosenstock,jeff-rosenstock,POST-,1:41,It sure feels that way
+2,A Little Bit Like Saint Paul,Esoebo,esoebo,Esoebo IV,3:38,Real honest country
+3,Vacant,Phono Pony,phono-pony,Death by Blowfish - EP,3:15,Churning out
+4,King Of Mexico,The Forty-Fives,forty-fives,,1:53,Swingin’ it
+5,The Lick,Shame,shame,Songs Of Praise,4:12,Story time
+6,Love Theme From Skinheads Kicking Your Ass,Dean Ween Group,dean-ween-group,Rock 2,2:21,Burning it up
 7,BREAK
-8,Only Success Can Fail Me,Quasi,,2:53,Instrumental sunrise
-9,I Can See For Miles,Petra Haden,The Who Sell Out,4:14,Incredible effort
-10,I Don't Get Around,Spice Boys,Glade,3:10,Swedish grit
-11,Makin' Excuses,Mister Heavenly,Boxing The Moonlight,3:54,Party time
-12,Fake Magic Angel,Kyle Craft,Full Circle Nightmare,4:32,Glittering pop
+8,Only Success Can Fail Me,Quasi,quasi,,2:53,Instrumental sunrise
+9,I Can See For Miles,Petra Haden,petra-haden,The Who Sell Out,4:14,Incredible effort
+10,I Don't Get Around,Spice Boys,spice-boys,Glade,3:10,Swedish grit
+11,Makin' Excuses,Mister Heavenly,mister-heavenly,Boxing The Moonlight,3:54,Party time
+12,Fake Magic Angel,Kyle Craft,kyle-craft,Full Circle Nightmare,4:32,Glittering pop
 13,BREAK
-14,Count Five or Six,Cornelius,,3:03,Count it out
-15,Gumpstumper,Ben Vaughn,Instrumental Stylings,2:44,Ridin’ the jalopy
-16,Coraline,Dappled Cities,IIIII,3:25,Australian gallop
-17,Savior,St. Vincent,Masseduction,3:27,Tweaky
-18,The Wonderful Go Go,Hi-Posi,,2:31,Japanamania
+14,Count Five or Six,Cornelius,cornelius,,3:03,Count it out
+15,Gumpstumper,Ben Vaughn,ben-vaughn,Instrumental Stylings,2:44,Ridin’ the jalopy
+16,Coraline,Dappled Cities,dappled-cities,IIIII,3:25,Australian gallop
+17,Savior,St. Vincent,st-vincent,Masseduction,3:27,Tweaky
+18,The Wonderful Go Go,Hi-Posi,hi-posi,,2:31,Japanamania
 19,BREAK
-20,Another Weekend,Ariel Pink,Dedicated to Bobby Jameson,4:15,Subtle chimes
+20,Another Weekend,Ariel Pink,ariel-pink,Dedicated to Bobby Jameson,4:15,Subtle chimes
 21,BREAK
-22,In Heaven,Pixies,The Purple Tape,1:45,For the lady in the radiator
-23,Rumors,Sharon Jones & The Dap-Kings,Soul Of A Woman,2:34,Hot stuff
-24,Forever Overhead,Cherry,Dumbness,3:04,Pound away
-25,Make It Better,Hazel English,Just Give In / Never Going Home,3:01,Slinky approach
-26,Kana Kapila,The Continental Cousins,,2:04,From Belgium!
-27,Lovely Rita,Halcyon,A Little Help From Our Friends (WMNF Building Fund),2:23,One of my faves
-28,Mr. Plague,METZ,Strange Peace,2:39,Like the Jesus Lizard
+22,In Heaven,Pixies,pixies,The Purple Tape,1:45,For the lady in the radiator
+23,Rumors,Sharon Jones & The Dap-Kings,sharon-jones-dap-kings,Soul Of A Woman,2:34,Hot stuff
+24,Forever Overhead,Cherry,cherry,Dumbness,3:04,Pound away
+25,Make It Better,Hazel English,hazel-english,Just Give In / Never Going Home,3:01,Slinky approach
+26,Kana Kapila,The Continental Cousins,continental-cousins,,2:04,From Belgium!
+27,Lovely Rita,Halcyon,halcyon,A Little Help From Our Friends (WMNF Building Fund),2:23,One of my faves
+28,Mr. Plague,METZ,metz,Strange Peace,2:39,Like the Jesus Lizard
 29,BREAK
-30,Institutionalized,Brak,Dr. Demento Covered in Punk (Disc 1),4:20,Brak is back
-31,Daniel Ortega,The Scofflaws,,3:09,El comandante
-32,March Of The Martians,The Pack A.D.,Dollhouse,1:44,Instrumental invasion
-33,Hang It Low,*Repeat Repeat,Floral Canyon,3:15,Pound it flat
-34,Could You Wait 'til I've Had My Coffee ?,Lisa LeBlanc,"Why You Wanna Leave, Runaway Queen?",2:46,Sage advice
-35,Perro Loco,Forro In The Dark,,3:23,Crazy dogs!
+30,Institutionalized,Brak,brak,Dr. Demento Covered in Punk (Disc 1),4:20,Brak is back
+31,Daniel Ortega,The Scofflaws,scofflaws,,3:09,El comandante
+32,March Of The Martians,The Pack A.D.,pack-a-d,Dollhouse,1:44,Instrumental invasion
+33,Hang It Low,*Repeat Repeat,repeat-repeat,Floral Canyon,3:15,Pound it flat
+34,Could You Wait 'til I've Had My Coffee ?,Lisa LeBlanc,lisa-leblanc,"Why You Wanna Leave, Runaway Queen?",2:46,Sage advice
+35,Perro Loco,Forro In The Dark,forro-in-dark,,3:23,Crazy dogs!
 36,BREAK
-37,Elephant In The Room,Chris Thile,Thanks For Listening,2:29,Good times
-38,Handsome Reimagined (Dave Fridmann Edit),The Vaccines,English Graffiti (Deluxe Edition),2:24,Give it the churn
-39,Me an Arrow,Bob Wiseman,,3:56,Can’t wait any longer
-40,Different Angles,Starcrawler,Starcrawler,1:58,That Eighties vibe
-41,King of Piss and Paper,Wolf Parade,Cry Cry Cry,4:48,Deceptive title
-42,Little Darkness,The Domestics,Little Darkness,4:19,Not so dark
+37,Elephant In The Room,Chris Thile,chris-thile,Thanks For Listening,2:29,Good times
+38,Handsome Reimagined (Dave Fridmann Edit),The Vaccines,vaccines,English Graffiti (Deluxe Edition),2:24,Give it the churn
+39,Me an Arrow,Bob Wiseman,bob-wiseman,,3:56,Can’t wait any longer
+40,Different Angles,Starcrawler,starcrawler,Starcrawler,1:58,That Eighties vibe
+41,King of Piss and Paper,Wolf Parade,wolf-parade,Cry Cry Cry,4:48,Deceptive title
+42,Little Darkness,The Domestics,domestics,Little Darkness,4:19,Not so dark
 43,BREAK
-44,"At The Same Time, Every Night",Holiday Ghosts,Holiday Ghosts,2:54,Off kilter
-45,Purple Rain [Live],Walt Wagner,Reworks,5:38,Piano magic
-46,Telephone And Rubber Band,Penguin Cafe Orchestra,,2:30,Not Spacehog
-47,I Can't Wait,Mo Kenney,The Details,3:36,Impatience
+44,"At The Same Time, Every Night",Holiday Ghosts,holiday-ghosts,Holiday Ghosts,2:54,Off kilter
+45,Purple Rain [Live],Walt Wagner,walt-wagner,Reworks,5:38,Piano magic
+46,Telephone And Rubber Band,Penguin Cafe Orchestra,penguin-cafe-orchestra,,2:30,Not Spacehog
+47,I Can't Wait,Mo Kenney,mo-kenney,The Details,3:36,Impatience
 48,BREAK
-49,Kingsize,The Bronx,(V),3:27,Do not the stopping
-50,Crime Wave Rock,Escape-ism,Introduction To Escape-ism,2:47,"The way they play that music, man"
-51,Cool For Cats,Squeeze,,3:13,Very cool for cats
-52,Sleepwalking,The Bronx,,3:58,Double Bronx night
-53,Satan's Song,Reptaliens,FM-2030,3:16,Let’s weird out
+49,Kingsize,The Bronx,bronx,(V),3:27,Do not the stopping
+50,Crime Wave Rock,Escape-ism,escape-ism,Introduction To Escape-ism,2:47,"The way they play that music, man"
+51,Cool For Cats,Squeeze,squeeze,,3:13,Very cool for cats
+52,Sleepwalking,The Bronx,bronx,,3:58,Double Bronx night
+53,Satan's Song,Reptaliens,reptaliens,FM-2030,3:16,Let’s weird out
 54,BREAK
-55,Bohemian Like You,The Dandy Warhols,,3:28,If you dig on vegan food
-56,Are You My Love,Kelley Stoltz,Double Exposure,3:25,The batman beat
-57,Atlantic Limited,Julian Lage,Modern Lore,3:51,Easy saunter
-58,I Wanna Be Your Dog,decker.,Into The Red,4:13,A popular theme
-59,This Is How It Starts,Swell,,3:40,Severely underrated
-60,Artichoke,Balloon Man,Echoes,3:32,Psyched out
+55,Bohemian Like You,The Dandy Warhols,dandy-warhols,,3:28,If you dig on vegan food
+56,Are You My Love,Kelley Stoltz,kelley-stoltz,Double Exposure,3:25,The batman beat
+57,Atlantic Limited,Julian Lage,julian-lage,Modern Lore,3:51,Easy saunter
+58,I Wanna Be Your Dog,decker.,decker,Into The Red,4:13,A popular theme
+59,This Is How It Starts,Swell,swell,,3:40,Severely underrated
+60,Artichoke,Balloon Man,balloon-man,Echoes,3:32,Psyched out
 61,BREAK
-62,David Copperfield,Liima,1982,6:43,It’s magic
-63,The Way That I Feel,GGOOLLDD,Teeth,,
+62,David Copperfield,Liima,liima,1982,6:43,It’s magic
+63,The Way That I Feel,GGOOLLDD,ggoolldd,Teeth,,

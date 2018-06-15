@@ -52,6 +52,13 @@ podcast:
 defaults:
   -
     scope:
+      path: "details"
+    values:
+      layout: "details"
+      permalink: /details/:year/:month/:title
+      priority: 0.7
+  -
+    scope:
       path: "pages"
     values:
       layout: "page"

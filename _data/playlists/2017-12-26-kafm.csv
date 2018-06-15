@@ -1,57 +1,57 @@
-sequence,song,artist,album,time,notes
-1,Dias Raros (feat. Billy Gibbons),Diamante Eléctrico,Diamante Eléctrico EP,3:41,Con Billy Gibbons!
-2,In the Garden of the Gods,Swarming Branch,Surreal Number,2:12,Psychedelicious!
-3,Ace Of Spades,Lisa LeBlanc,"Why You Wanna Leave, Runaway Queen?",2:35,Hot dang
+sequence,song,artist,artist_slug,album,time,notes
+1,Dias Raros (feat. Billy Gibbons),Diamante Eléctrico,diamante-electrico,Diamante Eléctrico EP,3:41,Con Billy Gibbons!
+2,In the Garden of the Gods,Swarming Branch,swarming-branch,Surreal Number,2:12,Psychedelicious!
+3,Ace Of Spades,Lisa LeBlanc,lisa-leblanc,"Why You Wanna Leave, Runaway Queen?",2:35,Hot dang
 4,BREAK
-5,Night Ride,The Growlers,City Club,4:11,Rain slicked roads
-6,Photograph,A Giant Dog,Toy,2:47,The Jersey sound
-7,Jocko Homo,Devo,Q: Are We Not Men? A: We Are DEVO! - The DEVO-Lux Edition,3:38,The eternal question
-8,Simple Things,La Louma,Let the World Be Flooded Out,2:12,Nu folk
+5,Night Ride,The Growlers,growlers,City Club,4:11,Rain slicked roads
+6,Photograph,A Giant Dog,a-giant-dog,Toy,2:47,The Jersey sound
+7,Jocko Homo,Devo,devo,Q: Are We Not Men? A: We Are DEVO! - The DEVO-Lux Edition,3:38,The eternal question
+8,Simple Things,La Louma,la-louma,Let the World Be Flooded Out,2:12,Nu folk
 9,BREAK
-10,Vic Vaporub,Mexican Institute Of Sound + Toy Selectah,Compass,5:25,Bienvenidos a mi disco
-11,Boxing Days,Dearly Beloved,Admission,3:27,Bonzo beats
-12,Rome Wasn't Burnt In A Day,Escape-ism,Introduction To Escape-ism,4:16,My latest obsession
+10,Vic Vaporub,Mexican Institute Of Sound + Toy Selectah,mexican-institute-of-sound-toy-selectah,Compass,5:25,Bienvenidos a mi disco
+11,Boxing Days,Dearly Beloved,dearly-beloved,Admission,3:27,Bonzo beats
+12,Rome Wasn't Burnt In A Day,Escape-ism,escape-ism,Introduction To Escape-ism,4:16,My latest obsession
 13,BREAK
-14,Tinseltown Swimming In Blood,Destroyer,ken,4:46,Bass sounds like Peter Hook
-15,Matter Of Time,Sharon Jones & The Dap-Kings,Soul Of A Woman,3:22,Miss that woman already
-16,I'm So Free,Beck,Colors,4:08,As Beck does
+14,Tinseltown Swimming In Blood,Destroyer,destroyer,ken,4:46,Bass sounds like Peter Hook
+15,Matter Of Time,Sharon Jones & The Dap-Kings,sharon-jones-dap-kings,Soul Of A Woman,3:22,Miss that woman already
+16,I'm So Free,Beck,beck,Colors,4:08,As Beck does
 17,BREAK
-18,Look How Clean I Am,Deer Tick,Deer Tick Vol. 2,2:34,So very clean
-19,Theme from A Clockwork Orange (Beethoviana),Wendy Carlos,,1:49,Brutal delicacy
-20,If Truth Were A Vessel,The Moms,Doing Asbestos We Can,1:56,Flamin’ hot
-21,Violet,The Districts,Popular Manipulations,4:10,The sound of ten years ago
+18,Look How Clean I Am,Deer Tick,deer-tick,Deer Tick Vol. 2,2:34,So very clean
+19,Theme from A Clockwork Orange (Beethoviana),Wendy Carlos,wendy-carlos,,1:49,Brutal delicacy
+20,If Truth Were A Vessel,The Moms,moms,Doing Asbestos We Can,1:56,Flamin’ hot
+21,Violet,The Districts,districts,Popular Manipulations,4:10,The sound of ten years ago
 22,BREAK
-23,I Go Astray,Jason Falkner,,3:55,So very Falknery
-24,Where Is My Mind?,Nada Surf,Where Is My Mind? A Tribute To The Pixies,4:19,Smooth version
-25,Excelsior Springs,GGOOLLDD,Teeth Ep,4:05,"Sounds British, but isn’t"
-26,Birthday,Sugarcubes,,4:00,Still Bjork
+23,I Go Astray,Jason Falkner,jason-falkner,,3:55,So very Falknery
+24,Where Is My Mind?,Nada Surf,nada-surf,Where Is My Mind? A Tribute To The Pixies,4:19,Smooth version
+25,Excelsior Springs,GGOOLLDD,ggoolldd,Teeth Ep,4:05,"Sounds British, but isn’t"
+26,Birthday,Sugarcubes,sugarcubes,,4:00,Still Bjork
 27,BREAK
-28,Smoke Rings,Jon Rauhouse,,3:33,Light up boys
-29,Plötzlich Ist Alles Anders,Stereo Total ,,2:19,Sloppy lovin’
-30,Green Shirt,Elvis Costello + The Attractions,Armed Forces (Disc 1),2:43,"You tease, you flirt"
-31,Lollipop (Ode To Jim),Alvvays,Antisocialites,3:18,"Way to go, Canadia!"
+28,Smoke Rings,Jon Rauhouse,jon-rauhouse,,3:33,Light up boys
+29,Plötzlich Ist Alles Anders,Stereo Total ,stereo-total,,2:19,Sloppy lovin’
+30,Green Shirt,Elvis Costello + The Attractions,elvis-costello-attractions,Armed Forces (Disc 1),2:43,"You tease, you flirt"
+31,Lollipop (Ode To Jim),Alvvays,alvvays,Antisocialites,3:18,"Way to go, Canadia!"
 32,BREAK
-33,Tick Tick Boom,The Hives,Indie/Rock 2007,3:39,Swedish explosions
-34,Keep It Hid,Robert Plant,Carry Fire,4:08,Plant or animal?
-35,Under The Spell Of City Lights,JD McPherson,Undivided Heart & Soul,3:27,Hoot and holler
-36,Estrangeira,Mosquitos,Mexican Dust,2:57,Brazil via Brooklyn
+33,Tick Tick Boom,The Hives,hives,Indie/Rock 2007,3:39,Swedish explosions
+34,Keep It Hid,Robert Plant,robert-plant,Carry Fire,4:08,Plant or animal?
+35,Under The Spell Of City Lights,JD McPherson,jd-mcpherson,Undivided Heart & Soul,3:27,Hoot and holler
+36,Estrangeira,Mosquitos,mosquitos,Mexican Dust,2:57,Brazil via Brooklyn
 37,BREAK
-38,This Will Be Our Year,The Zombies,Odessey And Oracle: 50th Anniversary Edition,2:08,Timeless
-39,Everybody's Falling In Love,*Repeat Repeat,Floral Canyon,2:42,Boys and girls
-40,House Of My Soul (You Light The Rooms),Langhorne Slim,"Lost At Last, Vol. 1",2:53,Gawdam
-41,Backslider,Toadies,Rubberneck,2:31,Thumper
+38,This Will Be Our Year,The Zombies,zombies,Odessey And Oracle: 50th Anniversary Edition,2:08,Timeless
+39,Everybody's Falling In Love,*Repeat Repeat,repeat-repeat,Floral Canyon,2:42,Boys and girls
+40,House Of My Soul (You Light The Rooms),Langhorne Slim,langhorne-slim,"Lost At Last, Vol. 1",2:53,Gawdam
+41,Backslider,Toadies,toadies,Rubberneck,2:31,Thumper
 42,BREAK
-43,Lexicon Devil,Melvins,Germs (Tribute): A Small Circle Of Friends,1:40,GERMS!
-44,Beautifully Unconventional,Wolf Alice,Visions Of A Life,2:13,Funked out
-45,Sleeping Pill,Luna,Bewitched,5:52,Tiki mellow
+43,Lexicon Devil,Melvins,melvins,Germs (Tribute): A Small Circle Of Friends,1:40,GERMS!
+44,Beautifully Unconventional,Wolf Alice,wolf-alice,Visions Of A Life,2:13,Funked out
+45,Sleeping Pill,Luna,luna,Bewitched,5:52,Tiki mellow
 46,BREAK
-47,You're A Sweetheart,Black Gardenia Featuring Daphne Roubini,Lucky Star,3:09,Old school
-48,I'm Here For Now,Kelley Stoltz,Que Aura,3:23,West Coast solipsism
-49,Continental Breakfast,Courtney Barnett & Kurt Vile,Lotta Sea Lice,4:53,Intercontinental
-50,Le Pain Perdu,Cibo Matto,,3:29,Bring the chaos
+47,You're A Sweetheart,Black Gardenia Featuring Daphne Roubini,black-gardenia-featuring-daphne-roubini,Lucky Star,3:09,Old school
+48,I'm Here For Now,Kelley Stoltz,kelley-stoltz,Que Aura,3:23,West Coast solipsism
+49,Continental Breakfast,Courtney Barnett & Kurt Vile,courtney-barnett-kurt-vile,Lotta Sea Lice,4:53,Intercontinental
+50,Le Pain Perdu,Cibo Matto,cibo-matto,,3:29,Bring the chaos
 51,BREAK
-52,Fade,Waxahatchee,Out In The Storm,3:47,Figures
-53,Lupine Ossuary,Thee Oh Sees,,4:18,Yaaaargh!
-54,"Have A Heart, Betty (I'm Not Fireproof)",The Soft Boys,The Soft Boys 1976-81 (Disc 2),3:39,The cucumber was growing in my brains
+52,Fade,Waxahatchee,waxahatchee,Out In The Storm,3:47,Figures
+53,Lupine Ossuary,Thee Oh Sees,thee-oh-sees,,4:18,Yaaaargh!
+54,"Have A Heart, Betty (I'm Not Fireproof)",The Soft Boys,soft-boys,The Soft Boys 1976-81 (Disc 2),3:39,The cucumber was growing in my brains
 55,BREAK
-56,The Concept,Benjamin Gibbard,Bandwagonesque,8:05,"Amazing, epic"
+56,The Concept,Benjamin Gibbard,benjamin-gibbard,Bandwagonesque,8:05,"Amazing, epic"
