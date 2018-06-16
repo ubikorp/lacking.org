@@ -2,6 +2,7 @@
 title: 'Episode 0090: Lather Rinse Repeat'
 name: Lather Rinse Repeat
 episode: '0090'
+audio_file: podcast/0001-0100/0090.lather-rinse-repeat.mp3
 author: jclacking
 airdate: '2012-01-17'
 playlist: '0090-lather-rinse-repeat'

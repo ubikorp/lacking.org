@@ -2,6 +2,7 @@
 title: 'Episode 0093: Take Stuff From Work'
 name: Take Stuff From Work
 episode: '0093'
+audio_file: podcast/0001-0100/0093.take-stuff-from-work.mp3
 author: jclacking
 airdate: '2012-02-07'
 playlist: '0093-take-stuff-from-work'

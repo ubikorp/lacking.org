@@ -12,7 +12,7 @@ King Tuff clearly has a rock and roll heart, with the sort of grandiose expressi
 
 **Related**: Led Zeppelin, Black Crowes, Billy Squier
 
-<!-- more -->
+<!--more-->
 
 **FCC Notes**: Clean (should confirm with SP)
 

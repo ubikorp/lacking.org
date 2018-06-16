@@ -1,12 +1,12 @@
 ---
 layout: index
-title: The Podcast
-permalink: /podcast
+title: News
+permalink: /news
 pagination:
   enabled: true
-  category: podcast
+  category: news
   permalink: /:num/
   # sort_field: 'title'
   # sort_reverse: false
 ---
-Ye olde podckaste!
+What is happening?

@@ -1,14 +1,13 @@
-{% assign podcast = site.data.playlists | where:"airdate", include.airdate %}
 <script src="https://cdn.jsdelivr.net/npm/amplitudejs@{{ site.amplitude_version }}/dist/amplitude.js" type="text/javascript"></script>
 <script type="text/javascript">
   Amplitude.init({
     "songs": [
       {
-        "name": "{{ podcast["episode"] }}: {{ podcast["name"] }}",
+        "name": "{{ include.post.episode }}: {{ include.post.name }}",
         "artist": "with your host Julius C. Lacking",
-        "album": "{{ podcast["airdate"] | date: "%b %-d, %Y" }}",
-        "url": "{{ site.podcast["file_url"] }}/{{ podcast["path"] }}{{ podcast["file_mp3"] }}",
-        "cover_art_url": "{{ site.baseurl }}/images/{{ page.image.src }}"
+        "album": "{{ include.post.airdate | date: "%b %-d, %Y" }}",
+        "url": "{{ site.podcast.audio_file_url }}/{{ include.post.audio_file }}",
+        "cover_art_url": "{{ site.baseurl }}/images/{{ include.post.image.src }}"
       }
     ]
   });

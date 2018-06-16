@@ -1,7 +1,9 @@
 // Misc.
 $misc: (
   z-index-base:   10000,
-  background:     '/images/cheap_diagonal_fabric.png'
+  // background: url('/images/cheap_diagonal_fabric_50.png')
+  // background: url('/images/cheap_diagonal_fabric.png')
+  background: none
 );
 
 // Duration.
@@ -35,7 +37,7 @@ $font: (
 // Palette.
 $palette: (
   bg:         #fff,
-  bg-alt:     #eee,
+  bg-alt:     #e8e8e8,
   fg:         #646464,
   fg-bold:    #3c3b3b,
   fg-light:   #aaa,

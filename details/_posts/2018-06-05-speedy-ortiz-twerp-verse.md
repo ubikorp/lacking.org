@@ -12,7 +12,7 @@ A powerful set of guitar pop songs, fronted by sometimes disaffected indie femal
 
 **Related**: The Rentals, Veruca Salt, Liz Phair
 
-<!-- more -->
+<!--more-->
 
 **FCC Notes**: Clean
 

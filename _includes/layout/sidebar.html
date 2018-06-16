@@ -1,4 +1,4 @@
-<section id="sidebar">
+<section id="sidebar" class="tlo-sidebar">
 
   <!-- Header -->
   <section id="tlo-intro">
@@ -10,7 +10,7 @@
   </section>
 
   <!-- Mini Posts -->
-  <section>
+  <section id="tlo-next-airdate">
     <div class="mini-posts">
 
       <!-- Next Air Date -->
@@ -29,31 +29,32 @@
       </div>
     </section>
 
-  <!-- Lacking Detail TBD -->
-  <!-- section>
+  <!-- Latest -->
+  <section id="tlo-recently">
+    <h2>Recently</h2>
     <ul class="posts">
-      <li>
-        <article>
-          <header>
-            <h3><a href="#">Lorem ipsum fermentum ut nisl vitae</a></h3>
-            <time class="published" datetime="2015-10-20">October 20, 2015</time>
-          </header>
-          <a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
-        </article>
-      </li>
+      <!-- The Lacking Detail -->
+      {% assign post = site.categories['details'] | first %}
+      {% include components/latest.html post=post title='The Lacking Details' %}
+      <!-- Playlists -->
+      {% assign post = site.categories['playlists'] | first %}
+      {% include components/latest.html post=post title='Playlists' %}
+      <!-- Podcast -->
+      {% assign post = site.categories['podcast'] | first %}
+      {% include components/latest.html post=post title='Podcast' %}
+      <!-- News -->
+      {% assign post = site.categories['news'] | first %}
+      {% include components/latest.html post=post title='News' %}
     </ul>
-  </section -->
+  </section>
 
   <!-- About -->
-  <section class="blurb">
+  <section id="tlo-about" class="blurb">
     <h2>About</h2>
     <p>{{ site.description }}</p>
     <!-- ul class="actions">
       <li><a href="#" class="button">Learn More</a></li>
     </ul -->
   </section>
-
-  <!-- Footer -->
-  {% include layout/footer.html %}
 
 </section>

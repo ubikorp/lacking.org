@@ -2,6 +2,7 @@
 title: 'Episode 0100: Keep Brevard Weird'
 name: Keep Brevard Weird
 episode: '0100'
+audio_file: podcast/0001-0100/0100.keep-brevard-weird.mp3
 author: jclacking
 airdate: '2016-09-06'
 playlist: 0100-keep-brevard-weird

@@ -1,5 +1,5 @@
 body {
-  background-image: url(_misc(background));
+  background-image: _misc(background);
 }
 
 #tlo-intro {
@@ -96,5 +96,78 @@ body {
     position: absolute;
     top: 0;
     width: 100%;
+  }
+}
+
+#wrapper {
+  -moz-flex-direction: row;
+  -ms-flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+#sidebar.tlo-sidebar {
+  @include breakpoint(xlarge) {
+  }
+
+  @include breakpoint(large) {
+    border: 0;
+    margin: 0;
+    padding: _size(element-margin) 0;
+
+    > * {
+      border: 0;
+    }
+
+    #tlo-intro {
+      position: absolute;
+      width: 50%;
+    }
+    #tlo-next-airdate {
+      margin: 0;
+      padding: 0;
+      .mini-posts {
+        -moz-flex-direction: row-reverse;
+        -ms-flex-direction: row-reverse;
+        -webkit-flex-direction: row-reverse;
+        flex-direction: row-reverse;
+        img {
+          display: none;
+        }
+      }
+    }
+    #tlo-recently,
+    #tlo-about {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+  }
+
+  @include breakpoint(small) {
+  }
+
+  @include breakpoint(xsmall) {
+  }
+}
+
+.tlo-footer {
+  clear: both;
+  text-align: center;
+}
+
+#menu.tlo-menu {
+  .links > li p {
+    font-family: "Playfair Display Black", Times, serif;
+    font-size: 0.6em;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    margin-bottom: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .links > li a {
+    display: inline;
   }
 }

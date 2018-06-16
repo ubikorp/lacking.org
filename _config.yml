@@ -32,18 +32,18 @@ sitemap:
 
 # Podcast Feed Settings
 podcast:
-  title:        The Lacking Organization
-  subtitle:     with your host Julius C. Lacking
-  email:        julius@lacking.org
+  title:           The Lacking Organization
+  subtitle:        with your host Julius C. Lacking
+  email:           julius@lacking.org
   description: >
-                The sonic essence of all that is Lacking, this podcast explores a
-                variety of music with a decidedly random approach.
-  keywords:     music,eclectic
-  baseurl:      /podcast
-  lang:         en
-  author:       Julius C. Lacking
-  copyright:    "&#x2117; &amp; &#xA9; 2018"
-  file_url:     http://audio.lacking.org
+                   The sonic essence of all that is Lacking, this podcast explores a
+                   variety of music with a decidedly random approach.
+  keywords:        music,eclectic
+  baseurl:         /podcast
+  lang:            en
+  author:          Julius C. Lacking
+  copyright:       "&#x2117; &amp; &#xA9; 2018"
+  audio_file_url:  http://audio.lacking.org
 
 
 # Dev
@@ -74,8 +74,7 @@ defaults:
     scope:
       path: "podcast"
     values:
-      layout: "playlist"
-      # layout: "podcast"
+      layout: "podcast"
       permalink: /podcast/:year/:title
       priority: 0.7
   -

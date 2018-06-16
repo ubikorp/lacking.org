@@ -1,0 +1,9 @@
+<li>
+  <a href="/{{ include.post.categories | first }}">
+    <h3>
+      {{ include.title }}
+    </h3>
+  </a>
+  <p>{{ include.description }}</p>
+  Latest: <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+</li>

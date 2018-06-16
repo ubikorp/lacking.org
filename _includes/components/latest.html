@@ -1,0 +1,11 @@
+<li>
+  <article>
+    <header>
+      {{ include.title }}
+      <h3><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+      <time class="published" datetime="{{ include.post.date | date: '%Y-%m-%d'}}">{{ include.post.date | date: '%B %-d, %Y'}}</time>
+      <a href="/{{ include.post.categories | first }}">More &raquo;</a>
+    </header>
+    <a href="{{ include.post.url }}" class="image"><img src="/images/{{ include.post.image.src }}" alt="" /></a>
+  </article>
+</li>

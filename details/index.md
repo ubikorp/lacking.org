@@ -1,12 +1,12 @@
 ---
 layout: index
-title: The Podcast
-permalink: /podcast
+title: The Lacking Details
+permalink: /details
 pagination:
   enabled: true
-  category: podcast
+  category: details
   permalink: /:num/
   # sort_field: 'title'
   # sort_reverse: false
 ---
-Ye olde podckaste!
+Brief reviews

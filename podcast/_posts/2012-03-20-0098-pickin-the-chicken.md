@@ -2,6 +2,7 @@
 title: 'Episode 0098: Pickin’ The Chicken'
 name: Pickin’ The Chicken
 episode: '0098'
+audio_file: podcast/0001-0100/0098.pickin-the-chicken.mp3
 author: jclacking
 airdate: '2012-03-20'
 playlist: '0098-pickin-the-chicken'

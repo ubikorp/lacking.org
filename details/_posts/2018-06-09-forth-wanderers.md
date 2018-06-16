@@ -12,7 +12,7 @@ Wildly dynamic swings of mood from this rock-format combo, filled with sweet chi
 
 **Related**: Breeders, Throwing Muses, Toenut, Deerhoof
 
-<!-- more -->
+<!--more-->
 
 **FCC Notes**: Clean
 

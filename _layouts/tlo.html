@@ -37,6 +37,9 @@
       <!-- Menu -->
       {% include layout/menu.html %}
 
+      <!-- Sidebar -->
+      {% include layout/sidebar.html %}
+
       <!-- Main -->
       <div id="main" lang="en">
 
@@ -45,10 +48,10 @@
           {{ content }}
         </article>
 
-      </div>
+        <!-- Footer -->
+        {% include layout/footer.html %}
 
-      <!-- Sidebar -->
-      {% include layout/sidebar.html %}
+      </div>
 
     </div>
 

@@ -2,6 +2,7 @@
 title: 'Episode 0094: Crown The Clown'
 name: Crown The Clown
 episode: '0094'
+audio_file: podcast/0001-0100/0094.crown-the-clown.mp3
 author: jclacking
 airdate: '2012-02-14'
 playlist: '0094-crown-the-clown'

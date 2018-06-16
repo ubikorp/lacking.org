@@ -12,7 +12,7 @@ Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It
 
 **Related**: Animal Collective, Half-Handed Cloud, The Flaming Lips
 
-<!-- more -->
+<!--more-->
 
 **FCC Notes**: #3, #5, #6, #14, #15
 
