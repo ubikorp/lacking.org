@@ -16,7 +16,7 @@ A messagegram to elucidate the scheduling of periodic activity! On these dates a
 
 ### ANALOG:
 
-Analog listening via the electromagnetic spectrum is available to denizens of Colorado's Grand Valley, on the FM realm frequencies of 89.5 MHz (near the Grand Junction end of things) and 96.9 MHz (closer to the Palisade agrarium).
+Analog listening via the electromagnetic spectrum is available to denizens of Colorado's Grand Valley by the gracious community radio station KAFM, on the FM realm frequencies of 88.1 MHz (near the Grand Junction end of things) and 96.9 MHz (closer to the Palisade agrarium).
 
 Use your home "radio" for this option. We hear tell of daring mobile radios, installed in automobiles, whose operation should be self-similar. Tune said beast to the frequencies listed. Important: this activity must take place at the designated time for procedure to work.
 
@@ -30,6 +30,6 @@ A podcast is also available. Witness available selections on our **[Podcast](/po
 
 ---
 
-I thank you, my imagined audience, for the time spent scanning your eyeballs in deliberation.
+We thank you, imagined audience, for the time spent scanning your eyeballs in deliberation.
 
 __I am Julius C. Lacking and I approve this message.__
