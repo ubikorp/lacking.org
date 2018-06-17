@@ -1,0 +1,24 @@
+{% assign schedule = site.data.schedule | where: 'future', 'x' | sort: 'date' %}
+
+<table class="tlo-schedule">
+  <thead>
+    <tr>
+      <th width="25%">Date</th>
+      <th width="25%">Time</th>
+      <th width="25%">Location</th>
+      <th width="25%">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in schedule %}
+    <tr class="track">
+      <td>{{ item["date"] | date: '%B %d, %Y' }}</td>
+      <td>
+        {{ item["start_time"] }} - {{ item["end_time"] }} {{ item["time_zone"] }}
+      </td>
+      <td>KAFM Grand Junction</td>
+      <td>{{ item["notes"] }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

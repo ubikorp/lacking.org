@@ -1,5 +1,5 @@
 ---
-title: Site Relaunch
+title: Site Relaunch!
 subtitle: ...and also a slight move
 author: jclacking
 image:

@@ -1,28 +1,35 @@
 ---
 title: Radio Activity
+subtitle: Helpful instructions for the operation of this broadcast
 permalink: radio_activity
 layout: page
 ---
 Esteemed potential listeners--
 
-A messagegram to elucidate the scheduling of periodic activity, which is to say I'll be on the air on WFIT every Tuesday from 10pm to midnight, rambling my haphazard musical junk and deliberating in between with lots of um's and factoids. Asynchronous delivery of said spectacle is also available via The Lacking Organization podcast. Below! Find helpful instructions for the operation of this broadcast.
+A messagegram to elucidate the scheduling of periodic activity! On these dates and times, it is a near-certainty that you can tune in to a type of rambling haphazard musical junkyard, with yours truly deliberating in between with lots of um's and factoids.
 
-## Radio
+## Schedule
+
+{% include components/schedule.html %}
+
+## How to Listen
 
 ### ANALOG:
 
-Use your home "radio" for this option. I hear tell of daring mobile radios, installed in automobiles, whose operation should be self-similar. Tune said beast to the frequency of 89.5 MHz in the FM realm, and do this at the appropriate time.
+Analog listening via the electromagnetic spectrum is available to denizens of Colorado's Grand Valley, on the FM realm frequencies of 89.5 MHz (near the Grand Junction end of things) and 96.9 MHz (closer to the Palisade agrarium).
+
+Use your home "radio" for this option. We hear tell of daring mobile radios, installed in automobiles, whose operation should be self-similar. Tune said beast to the frequencies listed. Important: this activity must take place at the designated time for procedure to work.
 
 ### DIGITAL:
 
-Use your Computor Station to decode a fanciful stream of 1s and 0s into an audio simulacrum of the happening! "Point" your "browser" to the following "url": <a href="http://www.wfit.org/" target="_blank">http://www.wfit.org</a> -- therein you can locate an image stating "Listen Online." "Click" on this image to bring up a "popup." This device enables the selection of platform-specific fanciness! Operate your Computor accordingly, and do this at the appropriate time.
+Use your Computor Station to decode a fanciful stream of 1s and 0s into an audio simulacrum of the happening! "Point" your "browser" to the following "link": **[kafmradio.org](https://www.kafmradio.org/)** -- therein you can locate a menu item stating "Listen." "Hovering" on this item will bring up a further menu refinement listing a staggering variety of available options. This enables the selection of platform-specific fanciness! Operate your Computor accordingly, and do this at the appropriate time for your chosen option.
 
 ## Podcast
 
-See detailed directions on our <a title="Podcast" href="http://www.lacking.org/podcast/">Podcast</a> page.
+A podcast is also available. Witness available selections on our **[Podcast](/podcast/)** page.
 
 ---
 
 I thank you, my imagined audience, for the time spent scanning your eyeballs in deliberation.
 
-I am Julius C. Lacking and I approve this message.
+__I am Julius C. Lacking and I approve this message.__

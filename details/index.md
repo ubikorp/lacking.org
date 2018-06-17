@@ -1,7 +1,7 @@
 ---
 layout: index
 title: The Lacking Details
-permalink: /details
+permalink: details
 pagination:
   enabled: true
   category: details
@@ -9,4 +9,3 @@ pagination:
   # sort_field: 'title'
   # sort_reverse: false
 ---
-Brief reviews

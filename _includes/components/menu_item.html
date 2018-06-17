@@ -1,9 +1,11 @@
+{% assign category = site.data.category_index[include.category] %}
+{% assign latest = site.categories[include.category] | first %}
 <li>
-  <a href="/{{ include.post.categories | first }}">
+  <a href="/{{ include.category }}">
     <h3>
-      {{ include.title }}
+      {{ category.title }}
     </h3>
   </a>
-  <p>{{ include.description }}</p>
-  Latest: <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+  <p>{{ category.description }}</p>
+  Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
 </li>

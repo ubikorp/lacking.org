@@ -1,7 +1,10 @@
 ---
-title: The Show
-permalink: the-show
-layout: page
+title: Welcome to the Lacking Organization!
+subtitle: Everything needs an origin story
+author: jclacking
+image:
+  src: news/2008/introduction.jpg
+  caption: Dramatization
 ---
 It is a miracle indeed that the mathematically deranged output of a process of organization can make it onto the public airwaves! But far more miraculous that there is a Reader out there, presumably besides myself, who is interested in such a thing. This scenario, necessitating the creation of this page would be unfathomable, had it just not been fathomed. By myself, no less. I hope the preparation for this eventuality, which is to follow, is adequate.
 

@@ -34,17 +34,13 @@
     <h2>Recently</h2>
     <ul class="posts">
       <!-- The Lacking Detail -->
-      {% assign post = site.categories['details'] | first %}
-      {% include components/latest.html post=post title='The Lacking Details' %}
+      {% include components/latest.html category='details' %}
       <!-- Playlists -->
-      {% assign post = site.categories['playlists'] | first %}
-      {% include components/latest.html post=post title='Playlists' %}
+      {% include components/latest.html category='playlists' %}
       <!-- Podcast -->
-      {% assign post = site.categories['podcast'] | first %}
-      {% include components/latest.html post=post title='Podcast' %}
+      {% include components/latest.html category='podcast' %}
       <!-- News -->
-      {% assign post = site.categories['news'] | first %}
-      {% include components/latest.html post=post title='News' %}
+      {% include components/latest.html category='news' %}
     </ul>
   </section>
 

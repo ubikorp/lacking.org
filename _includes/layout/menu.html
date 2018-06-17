@@ -11,25 +11,13 @@
   <section>
     <ul class="links">
       <!-- The Lacking Detail -->
-      {% assign post = site.categories['details'] | first %}
-      {% include components/menu_item.html post=post
-        title='The Lacking Details'
-        description='Brief and useful reviews and highlights for recent and favorite albums. Free video included!' %}
+      {% include components/menu_item.html category='details' %}
       <!-- Radio Playlists -->
-      {% assign post = site.categories['playlists'] | first %}
-      {% include components/menu_item.html post=post
-        title='Radio Playlists'
-        description='An important reference on the sequence and selection of songs and their airplay.' %}
+      {% include components/menu_item.html category='playlists' %}
       <!-- Podcast -->
-      {% assign post = site.categories['podcast'] | first %}
-      {% include components/menu_item.html post=post
-        title='The Podcast'
-        description='Currently under redevelopment, but some older episodes are available and more will be added soon.' %}
+      {% include components/menu_item.html category='podcast' %}
       <!-- News -->
-      {% assign post = site.categories['news'] | first %}
-      {% include components/menu_item.html post=post
-        title='News and Updates'
-        description='Items of Lacking Importance for listeners and enthusiasts.' %}
+      {% include components/menu_item.html category='news' %}
       <li>
         <a href="{{ site.baseurl }}{% link pages/radio_activity.md %}">
           <h3>Radio Activity</h3>
