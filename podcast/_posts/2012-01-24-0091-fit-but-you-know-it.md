@@ -5,7 +5,7 @@ episode: '0091'
 audio_file: podcast/0001-0100/0091.fit-but-you-know-it.mp3
 author: jclacking
 airdate: '2012-01-24'
-playlist: '0091-fit-but-you-know-it'
+playlist: 2012-01-24-0091-fit-but-you-know-it
 image:
   src: podcast/0091-the-streets.jpg
   caption: The Streets

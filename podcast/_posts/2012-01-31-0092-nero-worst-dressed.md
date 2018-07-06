@@ -5,7 +5,7 @@ episode: '0092'
 audio_file: podcast/0001-0100/0092.nero-worst-dressed.mp3
 author: jclacking
 airdate: '2012-01-31'
-playlist: '0092-nero-worst-dressed'
+playlist: 2012-01-31-0092-nero-worst-dressed
 image:
   src: podcast/0092-sara-valenzuela.jpg
   caption: Sara Valenzuela

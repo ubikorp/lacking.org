@@ -5,7 +5,7 @@ episode: '0094'
 audio_file: podcast/0001-0100/0094.crown-the-clown.mp3
 author: jclacking
 airdate: '2012-02-14'
-playlist: '0094-crown-the-clown'
+playlist: 2012-02-14-0094-crown-the-clown
 image:
   src: podcast/0094-hillstomp.jpg
   caption: Hillstomp

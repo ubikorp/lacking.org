@@ -5,7 +5,7 @@ episode: '0095'
 audio_file: podcast/0001-0100/0095.complicated-music-hour.mp3
 author: jclacking
 airdate: '2012-02-17'
-playlist: '0095-complicated-music-hour'
+playlist: 2012-02-17-0095-complicated-music-hour
 image:
   src: podcast/0095-secret-chiefs-3.jpg
   caption: Secret Chiefs 3
