@@ -3,6 +3,7 @@ title: Radio Activity
 subtitle: Helpful instructions for the operation of this broadcast
 permalink: radio_activity
 layout: page
+keywords: WFIT, KAFM
 ---
 Esteemed potential listeners--
 
