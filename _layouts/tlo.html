@@ -2,7 +2,7 @@
 <html>
   <head>
 
-    <title>{{ site.title }}</title>
+    <title>TLO :: {{ page.title }}</title>
     <meta charset="utf-8" />
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
 
@@ -21,6 +21,9 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
+
+    <!-- Indexing -->
+    {% include layout/indexing.html %}
 
     <!-- Styles -->
     {% include layout/styles.html %}

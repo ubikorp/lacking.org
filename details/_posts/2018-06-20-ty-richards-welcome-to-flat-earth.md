@@ -1,10 +1,11 @@
 ---
-title: Ty Richards
+title: Ty Richards - Welcome to Flat Earth
 subtitle: Welcome to Flat Earth &bull; Tremolo
 author: jclacking
-slug: ty-richards-welcome-to-flat-earth
 image:
   src: details/2018/ty_richards.png
+index: Welcome to Flat Earth, Ty Richards
+keywords: Ty Segall, T. Rex, Brian Jonestown Massacre, King Tuff, Tremolo
 ---
 _released on 2018-04-20_
 
@@ -24,3 +25,4 @@ Another one-man rock act that wears its influences on its sleeve, but it’s wel
 | 7 | Kissing The Wizard | Stringing along |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/7jaGtrn9Qgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

@@ -1,10 +1,11 @@
 ---
-title: Black Moth Super Rainbow
+title: Black Moth Super Rainbow - Panic Blooms
 subtitle: Panic Blooms &bull; Rad Cult
 author: jclacking
-slug: black-moth-super-rainbow-panic-blooms
 image:
   src: details/2018/black_moth_super_rainbow.jpg
+index: Panic Blooms, Black Moth Super Rainbow
+keywords: Animal Collective, Half-Handed Cloud, The Flaming Lips, Rad Cult
 ---
 _released on 2018-05-04_
 
@@ -28,3 +29,4 @@ Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It
 | 12 | We Might Come Back | Twinking stars |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/XI-Vr6gKbwk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

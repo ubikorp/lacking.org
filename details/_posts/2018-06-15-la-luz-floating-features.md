@@ -1,10 +1,11 @@
 ---
-title: La Luz
+title: La Luz - Floating Features
 subtitle: Floating Features &bull; Hardly Art
 author: jclacking
-slug: la-luz-floating-features
 image:
   src: details/2018/la_luz.jpg
+index: Floating Features, La Luz
+keywords: Link Wray, Shadowy Men on a Shadowy Planet, Insect Surfers, Hardly Art
 ---
 _released on 2018-05-11_
 
@@ -27,3 +28,4 @@ La Luz takes everything that’s great about surf rock and dreamy girl vocals, g
 | 7 | My Golden One | Tropical cavern |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/oETEFW1g-hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

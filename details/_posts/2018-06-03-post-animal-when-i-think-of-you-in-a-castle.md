@@ -1,10 +1,11 @@
 ---
-title: Post Animal
+title: Post Animal - When I Think Of You In A Castle
 subtitle: When I Think Of You In A Castle &bull; Polyvinyl
 author: jclacking
-slug: post-animal-when-i-think-of-you-in-a-castle
 image:
   src: details/2018/post_animal.jpg
+index: When I Think Of You In A Castle, Post Animal
+keywords: Thee Oh Sees, Artichoke, King Gizzard and the Lizard Wizard, Polyvinyl
 ---
 _released on 2018-04-20_
 
@@ -28,3 +29,4 @@ Seriously kinetic, full of unexpected musical twists and turns, and at the same 
 | 8 | Victory Lap: Danger Zone | Slow chunks |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SN80WTyizEI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

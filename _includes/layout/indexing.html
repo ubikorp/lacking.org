@@ -1,0 +1,7 @@
+{% assign index = page.title | append: ' ' | append: page.subtitle | strip %}
+<meta name="description" content="{{ page.excerpt | strip_html | strip }}">
+<meta name="index" content="{{ index }}">
+<meta name="keywords" content="{{ page.keywords }}">
+<meta name="layout" content="{{ page.layout }}">
+<meta name="category" content="{{ page.categories[0] | capitalize }}">
+<meta name="last_modified" content="{{ page.last_modified_at | date: '%F %T' }}">

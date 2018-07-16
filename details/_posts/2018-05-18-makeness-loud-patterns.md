@@ -1,10 +1,11 @@
 ---
-title: Makeness
+title: Makeness - Loud Patterns
 subtitle: Loud Patterns &bull; Secretly Canadian
 author: jclacking
-slug: makeness-loud-patterns
 image:
   src: details/2018/makeness.jpg
+index: Loud Patterns, Makeness
+keywords: Nine Inch Nails, Daft Punk, OMD, Secretly Canadian
 ---
 _released on 2018-04-06_
 
@@ -24,3 +25,4 @@ An engaging hybrid of analog and electronic sounds, with occasional soulful voca
 | 9 | Our Embrace | 80s disco bop |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/_SaXuy2isS0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

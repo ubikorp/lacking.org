@@ -1,10 +1,11 @@
 ---
-title: The Essex Green
+title: The Essex Green - Hardly Electronic
 subtitle: Hardly Electronic &bull; Merge
 author: jclacking
-slug: the-essex-green-hardly-electronic
 image:
   src: details/2018/essex_green.jpg
+index: Hardly Electronic, The Essex Green
+keywords: Apples In Stereo, Belle and Sebastian, Push Kings, Dressy Bessy, Merge
 ---
 _released on 2018-06-29_
 
@@ -29,3 +30,4 @@ Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars… what e
 | 14 | Bristol Sky | Wistful waltz |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/KUQIFaYAUhE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

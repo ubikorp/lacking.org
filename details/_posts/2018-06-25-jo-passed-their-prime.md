@@ -1,10 +1,11 @@
 ---
-title: Jo Passed
+title: Jo Passed - Their Prime
 subtitle: Their Prime &bull; Sub Pop
 author: jclacking
-slug: jo-passed-their-prime
 image:
   src: details/2018/jo_passed.jpg
+index: Their Prime, Jo Passed
+keywords: Deerhoof, Nirvana, Sonic Youth, Thingy, Sub Pop
 ---
 _released on 2018-05-25_
 
@@ -27,3 +28,4 @@ Somewhere beyond easy genres is this woozy mix of indie soul and post-rock compl
 | 12 | Places Please | Distant ballad |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/03HZ0d0VBnk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

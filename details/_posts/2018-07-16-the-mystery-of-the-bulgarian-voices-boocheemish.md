@@ -1,10 +1,11 @@
 ---
-title: The Mystery of the Bulgarian Voices
+title: The Mystery of the Bulgarian Voices - BooCheeMish
 subtitle: BooCheeMish &bull; Prophecy
 author: jclacking
-slug: the-mystery-of-the-bulgarian-voices-boocheemish
 image:
   src: details/2018/mystery_of_bulgarian_voices.jpg
+index: BooCheeMish, The Mystery of the Bulgarian Voices
+keywords: Enigma, Dead Can Dance, creepy film soundtracks, Prophecy
 ---
 _released on 2018-05-25_
 
@@ -23,3 +24,4 @@ A sound you could classify as ethereal, alien, or both. Ancient gregorian harmon
 | 7 | Unison | Pitch shifting |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rc8QRI6lXb8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

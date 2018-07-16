@@ -1,10 +1,11 @@
 ---
-title: The Cleveland Steamers
+title: The Cleveland Steamers - Best Record Ever
 subtitle: Best Record Ever &bull; Smog Veil
 author: jclacking
-slug: the-cleveland-steamers-best-record-ever
 image:
   src: details/2018/cleveland_steamers.jpg
+index: Best Record Ever, The Cleveland Steamers
+keywords: Spinal Tap, The Horrors, The Raveonnettes, Julee Cruise, Smog Veil
 ---
 _released on 2018-05-04_
 
@@ -25,3 +26,4 @@ Hard-rocking, beer-chugging, smoke-breaking anthems from this Cleveland couple. 
 | 10 | Shut Up! | Screaming it out |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/dIPxzoLIXRc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+

@@ -1,19 +1,21 @@
 ---
 layout: tlo
 ---
-<!-- Header -->
-<header>
-  <!-- Title -->
-  {% include components/post_title.html post=page %}
-  <!-- Meta -->
-  {% include components/post_meta.html post=page %}
-</header>
+<div class="index">
+  <!-- Header -->
+  <header>
+    <!-- Title -->
+    {% include components/post_title.html post=page %}
+    <!-- Meta -->
+    {% include components/post_meta.html post=page %}
+  </header>
 
-<!-- Image -->
-{% include components/post_image.html post=page %}
+  <!-- Image -->
+  {% include components/post_image.html post=page %}
 
-<!-- Content -->
-{{ content }}
+  <!-- Content -->
+  {{ content }}
+</div>
 
 <!-- Footer -->
 {% include components/post_footer.html post=page %}
