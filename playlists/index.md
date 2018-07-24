@@ -6,6 +6,4 @@ pagination:
   enabled: true
   category: playlists
   permalink: /:num/
-  # sort_field: 'title'
-  # sort_reverse: false
 ---
