@@ -1,25 +1,24 @@
 ---
 layout: tlo
 ---
-<div class="index">
-  <!-- Header -->
-  <header>
-    <!-- Title -->
-    {% include components/post_title.html post=page %}
-    <!-- Meta -->
-    {% include components/post_meta.html post=page %}
-  </header>
 
-  <!-- Audio Player -->
-  {% include components/post_image.html post=page %}
+<!-- Header -->
+<header>
+  <!-- Title -->
+  {% include components/post_title.html post=page %}
+  <!-- Meta -->
+  {% include components/post_meta.html post=page %}
+</header>
 
-  <!-- Content -->
-  {{ content }}
+<!-- Audio Player -->
+{% include components/post_image.html post=page %}
 
-  <!-- Playlist -->
-  {% include components/artists.html post=page %}
-  {% include components/playlist.html post=page %}
-</div>
+<!-- Content -->
+{{ content }}
+
+<!-- Playlist -->
+{% include components/artists.html post=page %}
+{% include components/playlist.html post=page %}
 
 <!-- Footer -->
 {% include components/post_footer.html post=page %}
