@@ -12,11 +12,7 @@
   {% include components/post_image.html post=include.post %}
 
   <!-- Excerpt -->
-  {% if include.post.layout == 'playlist' %}
-    {% include components/artists.html post=include.post %}
-  {% else %}
-    <p>{{ include.post.excerpt }}</p>
-  {% endif %}
+  <p>{{ include.post.excerpt }}</p>
 
   <!-- Footer -->
   {% include components/post_footer.html post=include.post %}
