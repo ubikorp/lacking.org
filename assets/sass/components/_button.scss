@@ -17,13 +17,13 @@
 			'box-shadow #{_duration(transition)} ease',
 			'color #{_duration(transition)} ease'
 		));
-		background-color: _palette(button-bg);
+		background-color: transparent;
 		border: 0;
 		box-shadow: inset 0 0 0 1px _palette(border);
 		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: _font(family);
+		font-family: _font(family-heading);
 		font-size: 0.6em;
 		font-weight: _font(weight-heading-bold);
 		height: _size(element-height) * 1.75;
@@ -60,12 +60,10 @@
 		}
 
 		&.fit {
-			display: block;
-			margin: 0 0 (_size(element-margin) * 0.5) 0;
 			width: 100%;
 		}
 
-		&.big {
+		&.large {
 			font-size: 0.7em;
 			padding: 0 3em;
 		}

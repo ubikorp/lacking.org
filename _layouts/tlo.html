@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-
     <title>TLO :: {{ page.title }}</title>
     <meta charset="utf-8" />
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
@@ -29,7 +28,7 @@
     {% include layout/styles.html %}
 
   </head>
-  <body>
+  <body class="is-preload">
 
     <!-- Wrapper -->
     <div id="wrapper">
@@ -40,11 +39,8 @@
       <!-- Menu -->
       {% include layout/menu.html %}
 
-      <!-- Sidebar -->
-      {% include layout/sidebar.html %}
-
       <!-- Main -->
-      <div id="main" lang="en">
+      <div id="main">
 
         <!-- Content -->
         {% if page.layout == 'index' %}
@@ -56,9 +52,14 @@
         {% endif %}
 
         <!-- Footer -->
-        {% include layout/footer.html %}
+        <!-- {* include layout/footer.html *} -->
 
       </div>
+
+      <!-- Sidebar -->
+      {% unless page.layout == 'page' %}
+        {% include layout/sidebar.html %}
+      {% endunless %}
 
     </div>
 

@@ -1,14 +1,12 @@
 {% if include.post.image %}
-<div class="tlo-image">
   {% if page.layout == 'index' %}
-    <a href="{{ include.post.url }}">
+    <a href="{{ include.post.url }}" class="image featured">
       <img src="{{ site.baseurl }}/images/{{ include.post.image.src }}" alt="{{ include.post.image.caption }}" />
     </a>
   {% else %}
-    <a href="{{ site.baseurl }}/images/{{ include.post.image.src }}" data-lightbox="include.post.image.src" data-title="{{ include.post.image.caption }}">
+    <a href="{{ site.baseurl }}/images/{{ include.post.image.src }}" class="image featured" data-lightbox="include.post.image.src" data-title="{{ include.post.image.caption }}">
       <img src="{{ site.baseurl }}/images/{{ include.post.image.src }}" alt="{{ include.post.image.caption }}"/>
     </a>
   {% endif %}
   <p class="caption">{{ include.post.image.caption }}</p>
-</div>
 {% endif %}
