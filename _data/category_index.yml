@@ -1,12 +1,16 @@
 details:
   title: The Lacking Details
+  summary: Recently played and favorite albums
   description: Brief and useful reviews and highlights for recent and favorite albums. Free video included!
 playlists:
   title: Radio Playlists
+  summary: Sequence and selection of airplay
   description: An important reference on the sequence and selection of songs and their airplay.
 podcast:
   title: The Podcast
+  summary: An amalgamation of sounds
   description: Currently under redevelopment, but some older episodes are available and more will be added soon.
 news:
-  title: News, Ramblings, and Updates
+  title: News and Ramblings
+  summary: Items of Lacking Importance
   description: Items of Lacking Importance for listeners and enthusiasts.

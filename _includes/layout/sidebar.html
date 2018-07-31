@@ -13,6 +13,15 @@
   <section id="tlo-next-airdate">
     <div class="mini-posts">
 
+      <!-- The Lacking Detail -->
+      {% include components/section.html category='details' %}
+      <!-- Playlists -->
+      {% include components/section.html category='playlists' %}
+      <!-- Podcast -->
+      {% include components/section.html category='podcast' %}
+      <!-- News -->
+      {% include components/section.html category='news' %}
+
       <!-- Next Air Date -->
       <article class="mini-post">
         {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
@@ -29,21 +38,6 @@
       </div>
     </section>
 
-  <!-- Latest -->
-  <section id="tlo-recently">
-    <h2>Recently</h2>
-    <ul class="posts">
-      <!-- The Lacking Detail -->
-      {% include components/latest.html category='details' %}
-      <!-- Playlists -->
-      {% include components/latest.html category='playlists' %}
-      <!-- Podcast -->
-      {% include components/latest.html category='podcast' %}
-      <!-- News -->
-      {% include components/latest.html category='news' %}
-    </ul>
-  </section>
-
   <!-- About -->
   <section id="tlo-about" class="blurb">
     <h2>About</h2>
@@ -52,5 +46,8 @@
       <li><a href="#" class="button">Learn More</a></li>
     </ul -->
   </section>
+
+  <!-- Footer -->
+  {% include layout/footer.html %}
 
 </section>

@@ -28,7 +28,11 @@
     {% include layout/styles.html %}
 
   </head>
-  <body class="is-preload">
+  {% if page.layout == 'page' %}
+    <body class="is-preload single">
+  {% else %}
+    <body class="is-preload">
+  {% endif %}
 
     <!-- Wrapper -->
     <div id="wrapper">
@@ -51,15 +55,14 @@
           </article>
         {% endif %}
 
-        <!-- Footer -->
-        <!-- {* include layout/footer.html *} -->
-
       </div>
 
       <!-- Sidebar -->
-      {% unless page.layout == 'page' %}
+      {% if page.layout == 'page' %}
+        {% include layout/footer.html %}
+      {% else %}
         {% include layout/sidebar.html %}
-      {% endunless %}
+      {% endif %}
 
     </div>
 

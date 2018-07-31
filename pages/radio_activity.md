@@ -4,6 +4,9 @@ subtitle: Helpful instructions for the operation of this broadcast
 permalink: radio_activity
 layout: page
 keywords: WFIT, KAFM
+image:
+  src: pages/radio_activity.jpg
+  caption: Photo by Daniel von Appen via Unsplash
 ---
 Esteemed potential listeners--
 

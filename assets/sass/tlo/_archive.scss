@@ -1,0 +1,173 @@
+body {
+  background-image: _misc(background);
+}
+
+#tlo-intro {
+  img {
+    float: left;
+    padding-right: 10px;
+    width: 100px;
+  }
+}
+
+.tlo-index-excerpt {
+  padding-bottom: _size(element-margin);
+}
+
+.tlo-image {
+  display: block;
+  float: right;
+  margin-left: _size(element-margin);
+  overflow: hidden;
+  width: 50%;
+
+  a {
+    border: none;
+  }
+
+  img {
+    width: 100%;
+    @include vendor('transition', 'transform #{_duration(transition)} ease-out');
+  }
+
+  p.caption {
+    font-size: 80%;
+    text-align: right;
+  }
+
+  &:hover {
+    img {
+      @include vendor('transform', 'scale(1.05)');
+    }
+  }
+}
+
+.tlo-archives {
+  h2 {
+    margin: (_size(element-margin) * .5) 0;
+  }
+}
+
+.tlo-details,
+.tlo-excerpt.details {
+  .tlo-image {
+    width: 25%;
+  }
+
+}
+
+.tlo-excerpt,
+.post {
+  p {
+    hyphens: auto;
+    text-align: justify;
+
+  }
+
+  footer {
+    font-size: 90%;
+  }
+}
+
+.tlo-pagination {
+  clear: both;
+  text-align: center;
+}
+
+.tlo-playlist {
+  font-size: 80%;
+  margin-top: _size(element-margin);
+
+  .break {
+    color: _palette(fg-light);
+  }
+}
+
+.tlo-detail-video {
+  height: 0;
+  margin-bottom: _size(element-margin);
+  padding-bottom: 56.25%; // 16:9
+  padding-top: _size(element-margin);
+  position: relative;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+#wrapper {
+  -moz-flex-direction: row;
+  -ms-flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+#sidebar.tlo-sidebar {
+  @include breakpoint(xlarge) {
+  }
+
+  @include breakpoint(large) {
+    border: 0;
+    margin: 0;
+    padding: _size(element-margin) 0;
+
+    > * {
+      border: 0;
+    }
+
+    #tlo-intro {
+      position: absolute;
+      width: 50%;
+    }
+    #tlo-next-airdate {
+      margin: 0;
+      padding: 0;
+      .mini-posts {
+        -moz-flex-direction: row-reverse;
+        -ms-flex-direction: row-reverse;
+        -webkit-flex-direction: row-reverse;
+        flex-direction: row-reverse;
+        img {
+          display: none;
+        }
+      }
+    }
+    #tlo-recently,
+    #tlo-about {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+  }
+
+  @include breakpoint(small) {
+  }
+
+  @include breakpoint(xsmall) {
+  }
+}
+
+.tlo-footer {
+  clear: both;
+  text-align: center;
+}
+
+#menu.tlo-menu {
+  .links > li p {
+    font-family: "Playfair Display Black", Times, serif;
+    font-size: 0.6em;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    margin-bottom: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .links > li a {
+    display: inline;
+  }
+}

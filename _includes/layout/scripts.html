@@ -6,6 +6,17 @@
 <script src="{{ site.baseurl }}/assets/js/lightbox.min.js" type="text/javascript"></script>
 <script type="text/javascript">
   $(document).ready(function(){
+
+    function random_rotation(fudge_factor) {
+      return ((Math.random() - 0.5) * fudge_factor);
+    }
+
+    /* eff shizz up */
+    $('.image').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
+    $('h2, h3, h4').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(3.0)+'deg)') });
+    $('p, li, time, .author').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
+    $('td').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
+
     if (window.location.pathname == '/search') {
       var query_term = RegExp('[?&]q=([^&]*)').exec(window.location.search)[1];
       $.getJSON( "https://hw87e7ielk:s7mrjptjn9@tlo-testing-5782922639.us-west-2.bonsaisearch.net/_search?q="+query_term, function( data ) {

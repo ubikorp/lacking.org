@@ -10,17 +10,17 @@ layout: tlo
     <header>
       <!-- Title -->
       <div class="title">
-        <h1>
+        <h2>
           {{ category.title }}
           {% unless page.autogen == nil %}
             <small>({{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}})</small>
           {% endunless %}
-        </h1>
+        </h2>
       </div>
     </header>
     <!-- Description -->
     {% if page.autogen == nil %}
-      {{ category.description }}
+      <h4>{{ category.description }}</h4>
     {% endif %}
   </article>
 {% endunless %}
