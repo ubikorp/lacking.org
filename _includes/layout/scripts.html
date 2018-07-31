@@ -8,7 +8,8 @@
   $(document).ready(function(){
 
     function random_rotation(fudge_factor) {
-      return ((Math.random() - 0.5) * fudge_factor);
+      var extra_fudge_factor = 1.5;
+      return ((Math.random() - 0.5) * fudge_factor * extra_fudge_factor);
     }
 
     /* eff shizz up */
