@@ -3,16 +3,14 @@
   margin-bottom: 0;
 }
 
-.image {
-  cite {
-      position: relative;
-      top: -2.5em;
-      display: block;
-      width: 100%;
-      text-align: right;
-      font-weight: bold;
-      font-size: 0.8em;
-  }
+cite.caption {
+  display: block;
+  font-size: .8em;
+  font-weight: bold;
+  position: relative;
+  text-align: right;
+  top: -2.5em;
+  width: 100%;
 }
 
 article p:first-of-type::first-line {
