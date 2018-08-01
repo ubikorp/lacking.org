@@ -1,0 +1,19 @@
+---
+layout: tlo
+---
+<article class="post tlo-your-host">
+  {% include components/your_host.html %}
+</article>
+
+<article class="post tlo-sections">
+  <div class="mini-posts">
+    <!-- The Lacking Detail -->
+    {% include components/section.html category='details' %}
+    <!-- Playlists -->
+    {% include components/section.html category='playlists' %}
+    <!-- Podcast -->
+    {% include components/section.html category='podcast' %}
+    <!-- News -->
+    {% include components/section.html category='news' %}
+  </div>
+</article>

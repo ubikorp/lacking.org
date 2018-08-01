@@ -2,41 +2,14 @@
 
   <!-- Header -->
   <section id="intro">
-    <a href="#" class="logo"><img src="{{ site.baseurl }}/images/tapes.png" alt="" /></a>
-    <header>
-      <h2>The Lacking<br/>Organization</h2>
-      <p>You cannot alphabetize<br/>the unalphabetizable.</p>
-    </header>
+    {% include components/header.html %}
   </section>
 
-  <!-- Mini Posts -->
-  <section id="tlo-next-airdate">
-    <div class="mini-posts">
-
-      <!-- The Lacking Detail -->
-      {% include components/section.html category='details' %}
-      <!-- Playlists -->
-      {% include components/section.html category='playlists' %}
-      <!-- Podcast -->
-      {% include components/section.html category='podcast' %}
-      <!-- News -->
-      {% include components/section.html category='news' %}
-
-      <!-- Next Air Date -->
-      <article class="mini-post">
-        {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
-        <header>
-          <h3>
-            Next airdate:<br/>
-            {{ next_airdate['date'] | date: "%b %-d, %Y" }}, {{ next_airdate['start_time'] }} - {{ next_airdate['end_time'] }} {{ next_airdate['time_zone'] }}
-          </h3>
-          <time class="published">KAFM Grand Junction<br/>88.1 FM / <a href="http://www.kafmradio.org" target="_blank">kafmradio.org</a></time>
-        </header>
-        <a href="#" class="image"><img src="{{ site.baseurl }}/images/radio.png" alt="" /></a>
-      </article>
-
-      </div>
-    </section>
+  <!-- Recently -->
+  <section id="tlo-latest">
+    <h2>Recently</h2>
+    {% include components/latest.html posts=site.posts limit=5 %}
+  </section>
 
   <!-- About -->
   <section id="tlo-about" class="blurb">

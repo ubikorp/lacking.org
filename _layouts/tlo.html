@@ -47,13 +47,7 @@
       <div id="main">
 
         <!-- Content -->
-        {% if page.layout == 'index' %}
-          {{ content }}
-        {% else %}
-          <article class="post tlo-{{ page.layout }}">
-            {{ content }}
-          </article>
-        {% endif %}
+        {{ content }}
 
       </div>
 

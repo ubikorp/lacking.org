@@ -3,9 +3,16 @@
   margin-bottom: 0;
 }
 
-cite {
-  position: relative;
-  top: -2em;
+.image {
+  cite {
+      position: relative;
+      top: -2.5em;
+      display: block;
+      width: 100%;
+      text-align: right;
+      font-weight: bold;
+      font-size: 0.8em;
+  }
 }
 
 article p:first-of-type::first-line {
@@ -14,4 +21,94 @@ article p:first-of-type::first-line {
 
 .tlo-index-excerpt h4 {
   text-align: center;
+}
+
+body {
+  background: url('/images/site/white_paperboard.png')
+}
+
+#intro {
+  height: 22em;
+  text-align: center;
+  background-image: url('/images/site/header.jpg');
+  color: #fff;
+
+  .tlo-logo {
+    margin-bottom: .5em;
+    width: 10em;
+    img {
+      width: 10em;
+      position: relative;
+      left: 3%;
+      top: 1em;
+    }
+  }
+
+  h2 {
+    color: #fff;
+  }
+}
+
+#main .mini-posts {
+  @include vendor('display', 'flex');
+  @include vendor('flex-wrap', 'wrap');
+  width: calc(100% + #{_size(element-margin)});
+
+  > * {
+    margin: _size(element-margin) _size(element-margin) 0 0;
+    width: calc(50% - #{_size(element-margin)});
+  }
+
+  > :nth-child(-n + 2) {
+    margin-top: 0;
+  }
+}
+
+.your-host {
+  text-align: center;
+  img {
+    border-radius: 100%;
+    width: 10em;
+  }
+  h2 {
+    font-size: 2em;
+    font-weight: 900;
+    margin-bottom: .2em;
+    margin-top: 0;
+  }
+  h3 {
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-bottom: 1.5em;
+    margin-top: 0;
+  }
+  p {
+    margin: .25em 0;
+    font-size: 1em;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+  }
+  .airdate {
+    font-weight: 900;
+    color: _palette(accent);
+  }
+  .location {
+
+  }
+}
+
+.tlo-detail-video {
+  height: 0;
+  margin-bottom: _size(element-margin);
+  padding-bottom: 56.25%; // 16:9
+  padding-top: _size(element-margin);
+  position: relative;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
 }

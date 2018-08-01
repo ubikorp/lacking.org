@@ -83,22 +83,6 @@ body {
   }
 }
 
-.tlo-detail-video {
-  height: 0;
-  margin-bottom: _size(element-margin);
-  padding-bottom: 56.25%; // 16:9
-  padding-top: _size(element-margin);
-  position: relative;
-
-  iframe {
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-}
-
 #wrapper {
   -moz-flex-direction: row;
   -ms-flex-direction: row;

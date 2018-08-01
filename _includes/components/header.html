@@ -1,0 +1,11 @@
+<a href="{{ site.baseurl }}/" class="tlo-logo"><img src="{{ site.baseurl }}/images/site/cassette_440.png" alt="" /></a>
+<header>
+  {% if page.layout == 'index' %}
+    {% assign category = site.data.category_index[page.pagination.category] %}
+    <h2>{{ category.title }}</h2>
+    <p>{{ category.summary }}</p>
+  {% else %}
+    <h2>The Lacking<br/>Organization</h2>
+    <p>You cannot alphabetize<br/>the unalphabetizable.</p>
+  {% endif %}
+</header>

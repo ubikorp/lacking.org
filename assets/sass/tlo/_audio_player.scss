@@ -6,6 +6,7 @@ span#single-song-player {
   margin-bottom: _size(element-margin);
   margin-left: _size(element-margin);
   width: 50%;
+  z-index: 1000;
 
   img[amplitude-song-info="cover_art_url"] {
     width: 100%;

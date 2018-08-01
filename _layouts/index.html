@@ -1,21 +1,16 @@
 ---
 layout: tlo
 ---
-
-
 <!-- Index Header -->
-{% unless page.home %}
+{% unless page.autogen == nil %}
   {% assign category = site.data.category_index[page.pagination.category] %}
   <article class="post tlo-index-excerpt">
     <header>
       <!-- Title -->
       <div class="title">
-        <h2>
-          {{ category.title }}
-          {% unless page.autogen == nil %}
-            <small>({{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}})</small>
-          {% endunless %}
-        </h2>
+        <p>
+          Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}
+        </p>
       </div>
     </header>
     <!-- Description -->

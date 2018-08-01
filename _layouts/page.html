@@ -1,18 +1,21 @@
 ---
 layout: tlo
 ---
+<article class="post tlo-page">
 
-<!-- Header -->
-<header>
-  <!-- Title -->
-  {% include components/post_title.html post=page %}
-</header>
+  <!-- Header -->
+  <header>
+    <!-- Title -->
+    {% include components/post_title.html post=page %}
+  </header>
 
-<!-- Image -->
-{% include components/post_image.html post=page %}
+  <!-- Image -->
+  {% include components/post_image.html post=page %}
 
-<!-- Content -->
-{{ content }}
+  <!-- Content -->
+  {{ content }}
 
-<!-- Footer -->
-{% include components/post_footer.html post=page %}
+  <!-- Footer -->
+  {% include components/post_footer.html post=page %}
+
+</article>

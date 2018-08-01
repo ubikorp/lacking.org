@@ -13,10 +13,11 @@
     }
 
     /* eff shizz up */
-    $('.image').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('h2, h3, h4, a.button').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(3.0)+'deg)') });
+    $('.tlo-logo, .image').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('p, li, time, .author').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('td').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
+    $('#intro').css('transform', 'rotate('+random_rotation(1.0)+'deg)');
 
     if (window.location.pathname == '/search') {
       var query_term = RegExp('[?&]q=([^&]*)').exec(window.location.search)[1];
