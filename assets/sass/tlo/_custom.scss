@@ -9,7 +9,7 @@ cite.caption {
   font-weight: bold;
   position: relative;
   text-align: right;
-  top: -2.5em;
+  top: -2.25em;
   width: 100%;
 }
 
@@ -48,17 +48,26 @@ body {
 }
 
 #main .mini-posts {
-  @include vendor('display', 'flex');
-  @include vendor('flex-wrap', 'wrap');
-  width: calc(100% + #{_size(element-margin)});
+  @include breakpoint('>=large') {
+    @include vendor('display', 'flex');
+    @include vendor('flex-wrap', 'wrap');
+    width: calc(100% + #{_size(element-margin)});
 
-  > * {
-    margin: _size(element-margin) _size(element-margin) 0 0;
-    width: calc(50% - #{_size(element-margin)});
+    > * {
+      margin: _size(element-margin) _size(element-margin) 0 0;
+      width: calc(50% - #{_size(element-margin)});
+    }
+
+    > :nth-child(-n + 2) {
+      margin-top: 0;
+    }
   }
+}
 
-  > :nth-child(-n + 2) {
-    margin-top: 0;
+@include breakpoint('<=medium') {
+  article p,
+  .icons li {
+    font-size: 75%;
   }
 }
 
