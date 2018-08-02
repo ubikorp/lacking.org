@@ -1,19 +1,17 @@
 ---
-title: Calpurnia - Scout EP
-subtitle: Scout EP &bull; Royal Mountain
+title: 'Calpurnia :: Scout EP'
+subtitle: Royal Mountain &bull; released 2018-06-08
+description: Some very young Canadians show plenty of promos with this pleasantly
+  bratty set of indie guitar rock.
 author: jclacking
 image:
   src: details/2018/calpurnia.jpg
 index: Scout EP, Calpurnia
 keywords: Half Japanese, Dr. Dog, Mooney Suzuki, Spice Boys, Royal Mountain
 ---
-_released on 2018-06-08_
-
-Some very young Canadians show plenty of promos with this pleasantly bratty set of indie guitar rock.
+Some very young Canadians show plenty of promos with this pleasantly bratty set of indie guitar rock.<!--more-->
 
 **Related**: Half Japanese, Dr. Dog, Mooney Suzuki, Spice Boys
-
-<!--more-->
 
 **FCC Notes**: Clean
 

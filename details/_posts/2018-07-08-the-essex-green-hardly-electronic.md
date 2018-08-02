@@ -1,19 +1,17 @@
 ---
-title: The Essex Green - Hardly Electronic
-subtitle: Hardly Electronic &bull; Merge
+title: 'The Essex Green :: Hardly Electronic'
+subtitle: Merge &bull; released 2018-06-29
+description: Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars…
+  what else do you need to play this summer?
 author: jclacking
 image:
   src: details/2018/essex_green.jpg
 index: Hardly Electronic, The Essex Green
 keywords: Apples In Stereo, Belle and Sebastian, Push Kings, Dressy Bessy, Merge
 ---
-_released on 2018-06-29_
-
-Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars… what else do you need to play this summer?
+Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars… what else do you need to play this summer?<!--more-->
 
 **Related**: Apples In Stereo, Belle and Sebastian, Push Kings, Dressy Bessy
-
-<!--more-->
 
 **FCC Notes**: Clean
 

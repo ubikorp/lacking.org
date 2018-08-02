@@ -1,19 +1,17 @@
 ---
-title: Naked Giants - Sluff
-subtitle: Sluff &bull; New West
+title: 'Naked Giants :: Sluff'
+subtitle: New West &bull; released 2018-03-30
+description: This goes all over the place, but mostly rocks hard with inventive arrangements
+  and infectious hooks.
 author: jclacking
 image:
   src: details/2018/naked_giants.jpg
 index: Sluff, Naked Giants
 keywords: Blur, Rocket From The Crypt, Parquet Courts, New West
 ---
-_released on 2018-03-30_
-
-This goes all over the place, but mostly rocks hard with inventive arrangements and infectious hooks.
+This goes all over the place, but mostly rocks hard with inventive arrangements and infectious hooks.<!--more-->
 
 **Related**: Blur, Rocket From The Crypt, Parquet Courts
-
-<!--more-->
 
 **FCC Notes**: #2, #6, #12
 

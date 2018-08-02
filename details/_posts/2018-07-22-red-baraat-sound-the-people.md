@@ -1,19 +1,18 @@
 ---
-title: Red Baraat - Sound The People
-subtitle: Sound The People &bull; Rhyme + Reason
+title: 'Red Baraat :: Sound The People'
+subtitle: Rhyme + Reason &bull; released 2018-06-29
+description: A beat-heavy collection of international sounds, this band is literally
+  all over the place in a boundary-pushing mix of afrobeat, bhangra, hip-hop, jazz
+  and other genres.
 author: jclacking
 image:
   src: details/2018/red_baraat.jpg
 index: Sound The People, Red Baraat
 keywords: Balkan Beat Box, Asian Dub Foundation, Antibalas, Rhyme + Reason
 ---
-_released on 2018-06-29_
-
-A beat-heavy collection of international sounds, this band is literally all over the place in a boundary-pushing mix of afrobeat, bhangra, hip-hop, jazz and other genres.
+A beat-heavy collection of international sounds, this band is literally all over the place in a boundary-pushing mix of afrobeat, bhangra, hip-hop, jazz and other genres.<!--more-->
 
 **Related**: Balkan Beat Box, Asian Dub Foundation, Antibalas
-
-<!--more-->
 
 **FCC Notes**: #5
 

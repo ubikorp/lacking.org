@@ -1,19 +1,17 @@
 ---
-title: Rock*a*Teens - Sixth House
-subtitle: Sixth House &bull; Merge
+title: 'Rock*a*Teens :: Sixth House'
+subtitle: Merge &bull; released 2018-06-29
+description: This southern gothic staple returns, with a bit less reverb but just
+  as much agony and attitude.
 author: jclacking
 image:
   src: details/2018/rockateens.jpg
 index: Sixth House, Rock*a*Teens
 keywords: My Morning Jacket, Wilco, Archers of Loaf, Merge
 ---
-_released on 2018-06-29_
-
-This southern gothic staple returns, with a bit less reverb but just as much agony and attitude.
+This southern gothic staple returns, with a bit less reverb but just as much agony and attitude.<!--more-->
 
 **Related**: My Morning Jacket, Wilco, Archers of Loaf
-
-<!--more-->
 
 **FCC Notes**: Clean
 

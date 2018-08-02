@@ -1,19 +1,17 @@
 ---
-title: Post Animal - When I Think Of You In A Castle
-subtitle: When I Think Of You In A Castle &bull; Polyvinyl
+title: 'Post Animal :: When I Think Of You In A Castle'
+subtitle: Polyvinyl &bull; released 2018-04-20
+description: Seriously kinetic, full of unexpected musical twists and turns, and at
+  the same time prone to laying down an excellent drone beat.
 author: jclacking
 image:
   src: details/2018/post_animal.jpg
 index: When I Think Of You In A Castle, Post Animal
 keywords: Thee Oh Sees, Artichoke, King Gizzard and the Lizard Wizard, Polyvinyl
 ---
-_released on 2018-04-20_
-
-Seriously kinetic, full of unexpected musical twists and turns, and at the same time prone to laying down an excellent drone beat.
+Seriously kinetic, full of unexpected musical twists and turns, and at the same time prone to laying down an excellent drone beat.<!--more-->
 
 **Related**: Thee Oh Sees, Artichoke, King Gizzard and the Lizard Wizard
-
-<!--more-->
 
 **FCC Notes**: #8
 

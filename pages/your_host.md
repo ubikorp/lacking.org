@@ -1,9 +1,13 @@
 ---
-title: Your Host
-subtitle: biographic the sketch at Julius C. Lacking!
+title:       Your Host
+subtitle:    biographic the sketch at Julius C. Lacking!
+description: >
+             We would like to introduce the mysterious and enigmatic presence behind The Lacking Organization, but instead we'll talk about Julius C. Lacking.
 permalink: your-host
 layout: page
 keywords: Julius C. Lacking, jclacking, your host, biography, bio, about
+image:
+  src: pages/your_host.jpg
 ---
 
 author of Hrvst Troggold

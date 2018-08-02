@@ -1,19 +1,17 @@
 ---
-title: Screaming Females - All At Once
-subtitle: All At Once &bull; Don Giovanni
+title: 'Screaming Females :: All At Once'
+subtitle: Don Giovanni &bull; released 2018-02-23
+description: Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power
+  trio hearkens back to the DIY indie scene
 author: jclacking
 image:
   src: details/2018/screaming_females.jpg
 index: All At Once, Screaming Females
 keywords: L7, The Gits, Bully, Don Giovanni
 ---
-_released on 2018-02-23_
-
-Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power trio hearkens back to the DIY indie scene
+Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power trio hearkens back to the DIY indie scene<!--more-->
 
 **Related**: L7, The Gits, Bully
-
-<!--more-->
 
 **FCC Notes**: #7
 

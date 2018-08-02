@@ -1,19 +1,17 @@
 ---
-title: Snail Mail - Lush
-subtitle: Lush &bull; Matador
+title: 'Snail Mail :: Lush'
+subtitle: Matador &bull; released 2018-06-08
+description: Bold effort from this young musician, this set of introspective songs
+  shows great skill and promise.
 author: jclacking
 image:
   src: details/2018/snail_mail.jpg
 index: Lush, Snail Mail
 keywords: The Sundays, Lush, Liz Phair, Madder Rose, Matador
 ---
-_released on 2018-06-08_
-
-Bold effort from this young musician, this set of introspective songs shows great skill and promise.
+Bold effort from this young musician, this set of introspective songs shows great skill and promise.<!--more-->
 
 **Related**: The Sundays, Lush, Liz Phair, Madder Rose
-
-<!--more-->
 
 **FCC Notes**: Clean
 

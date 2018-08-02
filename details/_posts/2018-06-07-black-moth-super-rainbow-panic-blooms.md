@@ -1,19 +1,17 @@
 ---
-title: Black Moth Super Rainbow - Panic Blooms
-subtitle: Panic Blooms &bull; Rad Cult
+title: 'Black Moth Super Rainbow :: Panic Blooms'
+subtitle: Rad Cult &bull; released 2018-05-04
+description: Is it experimental psychedelia or is it the soundtrack to a fragmented
+  dream? It is not necessary to decide.
 author: jclacking
 image:
   src: details/2018/black_moth_super_rainbow.jpg
 index: Panic Blooms, Black Moth Super Rainbow
 keywords: Animal Collective, Half-Handed Cloud, The Flaming Lips, Rad Cult
 ---
-_released on 2018-05-04_
-
-Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It is not necessary to decide.
+Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It is not necessary to decide.<!--more-->
 
 **Related**: Animal Collective, Half-Handed Cloud, The Flaming Lips
-
-<!--more-->
 
 **FCC Notes**: #3, #5, #6, #14, #15
 

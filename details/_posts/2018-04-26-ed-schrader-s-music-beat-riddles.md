@@ -1,19 +1,17 @@
 ---
-title: Ed Schrader's Music Beat - Riddles
-subtitle: Riddles &bull; Carpark
+title: 'Ed Schrader''s Music Beat :: Riddles'
+subtitle: Carpark &bull; released 2018-03-02
+description: Heady mix of post-punk and electronic sounds, heavy on the bass riffing.
+  Features Dan Deacon on beeps and such.
 author: jclacking
 image:
   src: details/2018/ed_schraders_music_beat.jpeg
 index: Riddles, Ed Schrader's Music Beat
 keywords: Dan Deacon, Liars, Lightning Bolt, Carpark
 ---
-_released on 2018-03-02_
-
-Heady mix of post-punk and electronic sounds, heavy on the bass riffing. Features Dan Deacon on beeps and such.
+Heady mix of post-punk and electronic sounds, heavy on the bass riffing. Features Dan Deacon on beeps and such.<!--more-->
 
 **Related**: Dan Deacon, Liars, Lightning Bolt
-
-<!--more-->
 
 **FCC Notes**: Clean
 

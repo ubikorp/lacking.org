@@ -1,19 +1,17 @@
 ---
-title: Forth Wanderers - Forth Wanderers
-subtitle: Forth Wanderers &bull; Sub Pop
+title: 'Forth Wanderers :: Forth Wanderers'
+subtitle: Sub Pop &bull; released 2018-04-27
+description: Wildly dynamic swings of mood from this rock-format combo, filled with
+  sweet chiming vocal harmonies set against dissonance and rhythm.
 author: jclacking
 image:
   src: details/2018/forth_wanderers.jpg
 index: Forth Wanderers, Forth Wanderers
 keywords: Breeders, Throwing Muses, Toenut, Deerhoof, Sub Pop
 ---
-_released on 2018-04-27_
-
-Wildly dynamic swings of mood from this rock-format combo, filled with sweet chiming vocal harmonies set against dissonance and rhythm.
+Wildly dynamic swings of mood from this rock-format combo, filled with sweet chiming vocal harmonies set against dissonance and rhythm.<!--more-->
 
 **Related**: Breeders, Throwing Muses, Toenut, Deerhoof
-
-<!--more-->
 
 **FCC Notes**: Clean
 

@@ -4,6 +4,9 @@ subtitle: ''
 name: Take Stuff From Work
 episode: '0093'
 audio_file: podcast/0001-0100/0093.take-stuff-from-work.mp3
+description: It must be heartbreaking to be a slapdash concoction of musical genius…
+  in Alabama. The Sex Clark Five were done and gone by the time the world really took
+  notice, but we can still enjoy the limited artifacts they left behind.
 author: jclacking
 airdate: '2012-02-07'
 playlist: 2012-02-07-0093-take-stuff-from-work
@@ -16,4 +19,6 @@ keywords: King Missile, Chris &amp; Tad, The Evolution Control Committee, Built 
   Maxwell Implosion, Fergus &amp; Geronimo, Perez Prado, Los Amigos Invisibles, Fujiya
   And Miyagi, Thomas Function, Sex Clark Five, Primus, Those Darlins, The Bobs
 ---
+It must be heartbreaking to be a slapdash concoction of musical genius… in Alabama. The Sex Clark Five were done and gone by the time the world really took notice, but we can still enjoy the limited artifacts they left behind.<!--more-->
+
 It must be heartbreaking to be a slapdash concoction of musical genius… in Alabama. The Sex Clark Five were done and gone by the time the world really took notice, but we can still enjoy the limited artifacts they left behind.

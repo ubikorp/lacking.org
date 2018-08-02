@@ -4,6 +4,9 @@ subtitle: ''
 name: Complicated Music Hour
 episode: '0095'
 audio_file: podcast/0001-0100/0095.complicated-music-hour.mp3
+description: 'It’s worth repeating: This is a music hour that is complicated. Any
+  other interpretations based on how you chose to associate the words are strictly
+  your problem.'
 author: jclacking
 airdate: '2012-02-17'
 playlist: 2012-02-17-0095-complicated-music-hour
@@ -15,4 +18,6 @@ keywords: Unexpect, Behold...The Arctopus, Mats/Morgan Band, Sleepytime Gorilla 
   Dr. Zoltan Øbelisk, Marco Minnemann, Mike Keneally / Steve Vai, Dale Turner, Secret
   Chiefs 3, Electrocution 250, Rejectionary Art, Devin Townsend, John Scofield
 ---
+It’s worth repeating: This is a music hour that is complicated. Any other interpretations based on how you chose to associate the words are strictly your problem.<!--more-->
+
 It’s worth repeating: This is a music hour that is complicated. Any other interpretations based on how you chose to associate the words are strictly your problem.

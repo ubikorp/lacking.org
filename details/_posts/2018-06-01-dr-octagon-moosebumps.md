@@ -1,19 +1,17 @@
 ---
-title: Dr. Octagon - Moosebumps
-subtitle: Moosebumps &bull; Bulk Recordings
+title: 'Dr. Octagon :: Moosebumps'
+subtitle: Bulk Recordings &bull; released 2018-04-06
+description: Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird
+  hip-hop
 author: jclacking
 image:
   src: details/2018/dr_octagon.jpg
 index: Moosebumps, Dr. Octagon
 keywords: Kool Keith, Gorillaz, Handsome Boy Modeling School, Bulk Recordings
 ---
-_released on 2018-04-06_
-
-Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird hip-hop
+Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird hip-hop<!--more-->
 
 **Related**: Kool Keith, Gorillaz, Handsome Boy Modeling School
-
-<!--more-->
 
 **FCC Notes**: #5, #10
 

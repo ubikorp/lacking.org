@@ -1,19 +1,17 @@
 ---
-title: Johnny Marr - Call The Comet
-subtitle: Call The Comet &bull; Sire
+title: 'Johnny Marr :: Call The Comet'
+subtitle: Sire &bull; released 2018-06-15
+description: Johnny Marr, who provided his distinctive liquid guitar sound to the
+  Smiths and many others, returns with a solo album that shows not much has changed.
 author: jclacking
 image:
   src: details/2018/johnny_mar.jpg
 index: Call The Comet, Johnny Marr
 keywords: Modest Mouse, The Smiths, Jesus + Mary Chain, Sire
 ---
-_released on 2018-06-15_
-
-Johnny Marr, who provided his distinctive liquid guitar sound to the Smiths and many others, returns with a solo album that shows not much has changed.
+Johnny Marr, who provided his distinctive liquid guitar sound to the Smiths and many others, returns with a solo album that shows not much has changed.<!--more-->
 
 **Related**: Modest Mouse, The Smiths, Jesus + Mary Chain
-
-<!--more-->
 
 **FCC Notes**: Clean
 

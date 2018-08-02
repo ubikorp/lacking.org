@@ -8,6 +8,7 @@ description: >
 baseurl:        ""
 url:            https://the.lacking.org
 published_url:  https://the.lacking.org
+images_url:     https://the.lacking.org/images
 
 # Social Media
 social:

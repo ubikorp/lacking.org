@@ -1,19 +1,17 @@
 ---
-title: Le Rug - Bleenex
-subtitle: Bleenex &bull; Omad
+title: 'Le Rug :: Bleenex'
+subtitle: Omad &bull; released 2018-04-20
+description: Bewildering and enchanting solo project that can swing dramatically between
+  lo-fi and supremely nuanced
 author: jclacking
 image:
   src: details/2018/le_rug.jpg
 index: Bleenex, Le Rug
 keywords: Japandroids, The Unicorns, Los Campesinos!, Omad
 ---
-_released on 2018-04-20_
-
-Bewildering and enchanting solo project that can swing dramatically between lo-fi and supremely nuanced
+Bewildering and enchanting solo project that can swing dramatically between lo-fi and supremely nuanced<!--more-->
 
 **Related**: Japandroids, The Unicorns, Los Campesinos!
-
-<!--more-->
 
 **FCC Notes**: Clean
 

@@ -1,19 +1,17 @@
 ---
-title: Ruler - Winning Star Champion
-subtitle: Winning Star Champion &bull; Barsuk
+title: 'Ruler :: Winning Star Champion'
+subtitle: Barsuk &bull; released 2018-05-25
+description: A brilliant collection of indie pop gems, featuring the sounds and hooks
+  that made “alternative music” so great in the first place.
 author: jclacking
 image:
   src: details/2018/ruler.jpg
 index: Winning Star Champion, Ruler
 keywords: Death Cab for Cutie, Hoodoo Gurus, Nirvana, Robyn Hitchcock, Barsuk
 ---
-_released on 2018-05-25_
-
-A brilliant collection of indie pop gems, featuring the sounds and hooks that made “alternative music” so great in the first place.
+A brilliant collection of indie pop gems, featuring the sounds and hooks that made “alternative music” so great in the first place.<!--more-->
 
 **Related**: Death Cab for Cutie, Hoodoo Gurus, Nirvana, Robyn Hitchcock
-
-<!--more-->
 
 **FCC Notes**: #2
 

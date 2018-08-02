@@ -1,19 +1,17 @@
 ---
-title: Beach House - 7
-subtitle: 7 &bull; Sub Pop
+title: 'Beach House :: 7'
+subtitle: Sub Pop &bull; released 2018-05-11
+description: Washes of sound surround you as half-heard vocals intertwine with half-remembered
+  melodies.
 author: jclacking
 image:
   src: details/2018/beach_house.jpg
 index: 7, Beach House
 keywords: Cocteau Twins, Lush, Stereolab, Sub Pop
 ---
-_released on 2018-05-11_
-
-Washes of sound surround you as half-heard vocals intertwine with half-remembered melodies.
+Washes of sound surround you as half-heard vocals intertwine with half-remembered melodies.<!--more-->
 
 **Related**: Cocteau Twins, Lush, Stereolab
-
-<!--more-->
 
 **FCC Notes**: Clean
 

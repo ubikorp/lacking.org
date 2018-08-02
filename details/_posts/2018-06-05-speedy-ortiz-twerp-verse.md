@@ -1,19 +1,17 @@
 ---
-title: Speedy Ortiz - Twerp Verse
-subtitle: Twerp Verse &bull; Carpark
+title: 'Speedy Ortiz :: Twerp Verse'
+subtitle: Carpark &bull; released 2018-04-27
+description: A powerful set of guitar pop songs, fronted by sometimes disaffected
+  indie female vocals.
 author: jclacking
 image:
   src: details/2018/speedy_ortiz.jpg
 index: Twerp Verse, Speedy Ortiz
 keywords: The Rentals, Veruca Salt, Liz Phair, Carpark
 ---
-_released on 2018-04-27_
-
-A powerful set of guitar pop songs, fronted by sometimes disaffected indie female vocals.
+A powerful set of guitar pop songs, fronted by sometimes disaffected indie female vocals.<!--more-->
 
 **Related**: The Rentals, Veruca Salt, Liz Phair
-
-<!--more-->
 
 **FCC Notes**: Clean
 

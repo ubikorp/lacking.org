@@ -1,19 +1,17 @@
 ---
-title: Grimskunk - Unreason In the Age of Madness
-subtitle: Unreason In the Age of Madness &bull; Indica
+title: 'Grimskunk :: Unreason In the Age of Madness'
+subtitle: Indica &bull; released 2018-04-27
+description: Aggressive metal-reggae-funk, which is not something I generally like,
+  but this one has some sort of undermined charm to it.
 author: jclacking
 image:
   src: details/2018/grimskunk.jpg
 index: Unreason In the Age of Madness, Grimskunk
 keywords: Faith No More, Sublime, Anthrax, Fishbone, Indica
 ---
-_released on 2018-04-27_
-
-Aggressive metal-reggae-funk, which is not something I generally like, but this one has some sort of undermined charm to it.
+Aggressive metal-reggae-funk, which is not something I generally like, but this one has some sort of undermined charm to it.<!--more-->
 
 **Related**: Faith No More, Sublime, Anthrax, Fishbone
-
-<!--more-->
 
 **FCC Notes**: #3, #4, #8
 

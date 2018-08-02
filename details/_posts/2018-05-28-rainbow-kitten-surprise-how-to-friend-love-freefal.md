@@ -1,19 +1,17 @@
 ---
-title: 'Rainbow Kitten Surprise - How To: Friend, Love, Freefal'
-subtitle: 'How To: Friend, Love, Freefal &bull; Elektra'
+title: 'Rainbow Kitten Surprise :: How To: Friend, Love, Freefal'
+subtitle: Elektra &bull; released 2018-04-06
+description: Heady mix of folk, electronic and hip hop elements swirling together
+  into something unique and accessible.
 author: jclacking
 image:
   src: details/2018/rainbow_kitten_surprise.jpeg
 index: 'How To: Friend, Love, Freefal, Rainbow Kitten Surprise'
 keywords: Modest Mouse, Django Django, My Morning Jacket, Vampire Weekend, Elektra
 ---
-_released on 2018-04-06_
-
-Heady mix of folk, electronic and hip hop elements swirling together into something unique and accessible.
+Heady mix of folk, electronic and hip hop elements swirling together into something unique and accessible.<!--more-->
 
 **Related**: Modest Mouse, Django Django, My Morning Jacket, Vampire Weekend
-
-<!--more-->
 
 **FCC Notes**: #2, #4, #5, #6, #7, #11
 

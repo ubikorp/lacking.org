@@ -1,19 +1,17 @@
 ---
-title: King Tuff - The Other
-subtitle: The Other &bull; Sub Pop
+title: 'King Tuff :: The Other'
+subtitle: Sub Pop &bull; released 2018-04-13
+description: King Tuff clearly has a rock and roll heart, with the sort of grandiose
+  expression that has a southern blues charm.
 author: jclacking
 image:
   src: details/2018/king_tuff.jpg
 index: The Other, King Tuff
 keywords: Led Zeppelin, Black Crowes, Billy Squier, Sub Pop
 ---
-_released on 2018-04-13_
-
-King Tuff clearly has a rock and roll heart, with the sort of grandiose expression that has a southern blues charm.
+King Tuff clearly has a rock and roll heart, with the sort of grandiose expression that has a southern blues charm.<!--more-->
 
 **Related**: Led Zeppelin, Black Crowes, Billy Squier
-
-<!--more-->
 
 **FCC Notes**: Clean (should confirm with SP)
 

@@ -1,19 +1,17 @@
 ---
-title: Car Seat Headrest - Twin Fantasy
-subtitle: Twin Fantasy &bull; Matador
+title: 'Car Seat Headrest :: Twin Fantasy'
+subtitle: Matador &bull; released 2018-02-16
+description: Dense arrangements make for some slowly emerging indie orchestral music.
+  Disc 2 is the demo versions of the songs on Disc 1.
 author: jclacking
 image:
   src: details/2018/car_seat_headrest.jpg
 index: Twin Fantasy, Car Seat Headrest
 keywords: Pavement, The Smiths, The Wedding Present, Matador
 ---
-_released on 2018-02-16_
-
-Dense arrangements make for some slowly emerging indie orchestral music. Disc 2 is the demo versions of the songs on Disc 1.
+Dense arrangements make for some slowly emerging indie orchestral music. Disc 2 is the demo versions of the songs on Disc 1.<!--more-->
 
 **Related**: Pavement, The Smiths, The Wedding Present
-
-<!--more-->
 
 **FCC Notes**: #2, #5, #7, #10
 

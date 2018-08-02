@@ -1,19 +1,17 @@
 ---
-title: Ty Richards - Welcome to Flat Earth
-subtitle: Welcome to Flat Earth &bull; Tremolo
+title: 'Ty Richards :: Welcome to Flat Earth'
+subtitle: Tremolo &bull; released 2018-04-20
+description: Another one-man rock act that wears its influences on its sleeve, but
+  it’s well done so don’t take that as a complaint. Highly political.
 author: jclacking
 image:
   src: details/2018/ty_richards.png
 index: Welcome to Flat Earth, Ty Richards
 keywords: Ty Segall, T. Rex, Brian Jonestown Massacre, King Tuff, Tremolo
 ---
-_released on 2018-04-20_
-
-Another one-man rock act that wears its influences on its sleeve, but it’s well done so don’t take that as a complaint. Highly political.
+Another one-man rock act that wears its influences on its sleeve, but it’s well done so don’t take that as a complaint. Highly political.<!--more-->
 
 **Related**: Ty Segall, T. Rex, Brian Jonestown Massacre, King Tuff
-
-<!--more-->
 
 **FCC Notes**: #2
 

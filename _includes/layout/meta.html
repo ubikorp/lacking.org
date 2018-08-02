@@ -1,0 +1,22 @@
+{% assign type = 'article' %}
+{% assign image = page.image.src %}
+{% assign description = page.description | strip %}
+{% case page.layout %}
+  {% when 'home' %}
+    {% assign image = 'HOME IMAGE' %}
+    {% assign description = site.description | strip %}
+  {% when 'index' %}
+    {% assign category = site.data.category_index[page.pagination.category] %}
+    {% assign description = category.description | strip %}
+  {% when 'details' %}
+    {% assign type = 'music.album' %}
+  {% when 'playlist' %}
+    {% assign type = 'music.playlist' %}
+  {% when 'podcast' %}
+    {% assign type = 'music.playlist' %}
+{% endcase %}
+<meta property="og:url"                content="{{ site.url }}/{{ page.url }}" />
+<meta property="og:title"              content="{{ page.title }}" />
+<meta property="og:type"               content="{{ type }}" />
+<meta property="og:image"              content="{{ site.images_url }}/{{ image }}" />
+<meta property="og:description"        content="{{ description }}" />

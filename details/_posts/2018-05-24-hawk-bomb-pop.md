@@ -1,19 +1,17 @@
 ---
-title: Hawk - Bomb Pop
-subtitle: Bomb Pop &bull; New Garden
+title: 'Hawk :: Bomb Pop'
+subtitle: New Garden &bull; released 2018-05-15
+description: Solid power-pop outing with an all-star cast… a must for fans of the
+  Yellow Pills series.
 author: jclacking
 image:
   src: details/2018/hawk.jpeg
 index: Bomb Pop, Hawk
 keywords: Material Issue, The Posies, The Kinks, New Garden
 ---
-_released on 2018-05-15_
-
-Solid power-pop outing with an all-star cast… a must for fans of the Yellow Pills series.
+Solid power-pop outing with an all-star cast… a must for fans of the Yellow Pills series.<!--more-->
 
 **Related**: Material Issue, The Posies, The Kinks
-
-<!--more-->
 
 **FCC Notes**: Clean
 

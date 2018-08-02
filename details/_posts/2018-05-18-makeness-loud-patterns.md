@@ -1,19 +1,17 @@
 ---
-title: Makeness - Loud Patterns
-subtitle: Loud Patterns &bull; Secretly Canadian
+title: 'Makeness :: Loud Patterns'
+subtitle: Secretly Canadian &bull; released 2018-04-06
+description: An engaging hybrid of analog and electronic sounds, with occasional soulful
+  vocals intertwined in the mix.
 author: jclacking
 image:
   src: details/2018/makeness.jpg
 index: Loud Patterns, Makeness
 keywords: Nine Inch Nails, Daft Punk, OMD, Secretly Canadian
 ---
-_released on 2018-04-06_
-
-An engaging hybrid of analog and electronic sounds, with occasional soulful vocals intertwined in the mix.
+An engaging hybrid of analog and electronic sounds, with occasional soulful vocals intertwined in the mix.<!--more-->
 
 **Related**: Nine Inch Nails, Daft Punk, OMD
-
-<!--more-->
 
 **FCC Notes**: Clean
 

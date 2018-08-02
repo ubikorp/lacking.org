@@ -1,19 +1,17 @@
 ---
-title: Dr. Dog - Critical Equation
-subtitle: Critical Equation &bull; We Buy Gold
+title: 'Dr. Dog :: Critical Equation'
+subtitle: We Buy Gold &bull; released 2018-04-27
+description: The band returns with more of their particular brand of folksy psychedelia.
+  Lots of great hooks and harmonies, as usual.
 author: jclacking
 image:
   src: details/2018/dr_dog.jpg
 index: Critical Equation, Dr. Dog
 keywords: Born Ruffians, My Morning Jacket, ELO, We Buy Gold
 ---
-_released on 2018-04-27_
-
-The band returns with more of their particular brand of folksy psychedelia. Lots of great hooks and harmonies, as usual.
+The band returns with more of their particular brand of folksy psychedelia. Lots of great hooks and harmonies, as usual.<!--more-->
 
 **Related**: Born Ruffians, My Morning Jacket, ELO
-
-<!--more-->
 
 **FCC Notes**: Clean
 
