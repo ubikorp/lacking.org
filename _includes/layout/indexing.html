@@ -1,5 +1,10 @@
 {% assign index = page.title | append: ' ' | append: page.subtitle | strip %}
-<meta name="description" content="{{ page.excerpt | strip_html | strip }}">
+{% if page.description %}
+  {% assign description = page.description %}
+{% else %}
+  {% assign description = page.excerpt | strip_html | strip_newlines %}
+{% endif %}
+<meta name="description" content="{{ description }}">
 <meta name="index" content="{{ index }}">
 <meta name="keywords" content="{{ page.keywords }}">
 <meta name="layout" content="{{ page.layout }}">
