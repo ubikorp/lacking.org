@@ -119,3 +119,12 @@ body {
     width: 100%;
   }
 }
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  color: _palette(bg) !important;
+  background-color: _palette(accent);
+}
