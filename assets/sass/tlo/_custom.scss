@@ -125,6 +125,12 @@ input[type="reset"],
 input[type="button"],
 button,
 .button {
-  color: _palette(bg) !important;
   background-color: _palette(accent);
+  color: _palette(bg) !important;
+  opacity: .75;
+
+  &:hover {
+    color: _palette(bg) !important;
+    opacity: 1;
+  }
 }
