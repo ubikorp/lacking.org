@@ -45,6 +45,10 @@ body {
   h2 {
     color: #fff;
   }
+
+  @include breakpoint('<=large') {
+    height: 15em;
+  }
 }
 
 #main .mini-posts {
