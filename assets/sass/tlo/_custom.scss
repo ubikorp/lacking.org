@@ -77,6 +77,9 @@ body {
 
 .your-host {
   text-align: center;
+  a {
+    border: 0;
+  }
   img {
     border-radius: 100%;
     width: 10em;
@@ -86,6 +89,9 @@ body {
     font-weight: 900;
     margin-bottom: .2em;
     margin-top: 0;
+    &:hover {
+      color: _palette(accent);
+    }
   }
   h3 {
     font-size: 1.2em;
@@ -100,12 +106,11 @@ body {
     text-transform: uppercase;
   }
   .airdate {
-    font-weight: 900;
-    color: _palette(accent);
+    color: _palette(secondary);
+    font-family: _font(family-heading);
+    font-weight: _font(weight-heading-bold);
   }
-  .location {
 
-  }
 }
 
 .tlo-detail-video {
