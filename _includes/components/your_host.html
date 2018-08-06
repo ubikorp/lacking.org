@@ -1,6 +1,6 @@
 {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
 <div class="your-host">
-  <a id="your-host-link" href="{{ site.baseurl }}{% link pages/your_host.md %}">
+  <a id="your-host-link" href="{% link pages/your_host.md %}">
     <img src="/images/contributors/jclacking.png">
     <h2>Your Host</h2>
     <h3>Julius C. Lacking</h3>

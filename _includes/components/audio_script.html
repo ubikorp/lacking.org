@@ -7,7 +7,7 @@
         "artist": "with your host Julius C. Lacking",
         "album": "{{ include.post.airdate | date: "%b %-d, %Y" }}",
         "url": "{{ site.podcast.audio_file_url }}/{{ include.post.audio_file }}",
-        "cover_art_url": "{{ site.baseurl }}/images/{{ include.post.image.src }}"
+        "cover_art_url": "/images/{{ include.post.image.src }}"
       }
     ]
   });
