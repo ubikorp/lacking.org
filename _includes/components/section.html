@@ -1,14 +1,17 @@
-{% assign category = site.data.category_index[include.category] %}
+{% assign category_data = site.data.category_index[include.category] %}
 {% assign latest = site.categories[include.category] | first %}
 <article class="mini-post">
-  {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
   <header>
-    <h3>
-      <a href="{{ site.baseurl }}/{{ latest.categories | first }}">{{ category.title }}</a>
-    </h3>
-    <time class="published">
-      {{ category.summary }}
-    </time>
+    <p>
+      {{ category_data.description }}
+    </p>
+    <p class="published">
+      Latest: <a href="{{ latestl.url }}">{{ latest.title }}</a>
+    </p>
   </header>
-  <a href="{{ site.baseurl }}/{{ latest.categories | first }}" class="image"><img src="{{ site.baseurl }}/images/{{ latest.image.src }}" alt="" /></a>
+  <section class="banner {{ category_name }}" style="background-image: url('{{ category_data.background }}');">
+    <a href="{{ category_url }}" class="tlo-icon"><img src="{{ category_data.icon }}" alt="" /></a>
+    <h2>{{ category_data.title }}</h2>
+    <p>{{ category_data.tagline }}</p>
+  </section>
 </article>

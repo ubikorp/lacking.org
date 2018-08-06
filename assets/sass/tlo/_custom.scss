@@ -35,23 +35,26 @@ body {
     height: 15em;
   }
 
+  @include breakpoint('<=small') {
+    height: 17em;
+  }
+
   .tlo-icon {
-    left: 0;
-    margin-bottom: 10em;
-    position: absolute;
-    width: 22em;
+    display: block;
+    margin-bottom: -3em;
 
     img {
       width: 22em;
     }
   }
 
-  header {
-    padding-top: 8em;
-
-    h2 {
-      color: _palette(bg);
-    }
+  h2 {
+    color: _palette(bg);
+  }
+  p {
+    color: _palette(bg);
+    font-family: _font(family-heading);
+    font-weight: _font(weight-heading-bold);
   }
 }
 
@@ -68,6 +71,10 @@ body {
 
     > :nth-child(-n + 2) {
       margin-top: 0;
+    }
+
+    .banner {
+      height: 13em;
     }
   }
 }
