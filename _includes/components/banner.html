@@ -1,11 +1,15 @@
-<a href="{{ site.baseurl }}/" class="tlo-logo"><img src="{{ site.baseurl }}/images/site/cassette_440.png" alt="" /></a>
-<header>
-  {% if page.layout == 'index' %}
-    {% assign category = site.data.category_index[page.pagination.category] %}
-    <h2>{{ category.title }}</h2>
-    <p>{{ category.summary }}</p>
-  {% else %}
-    <h2>{{ site.title }}</h2>
-    <p>{{ site.subtitle }}</p>
-  {% endif %}
-</header>
+{% if page.layout == 'index' %}
+  {% assign category_name = page.pagination.category %}
+  {% assign category_url = site.baseurl | append: '/' | append: category_name %}
+{% else %}
+  {% assign category_name = 'home' %}
+  {% assign category_url = site.baseurl | append: '/' %}
+{% endif %}
+{% assign category_data = site.data.category_index[category_name] %}
+<section id="intro" class="banner {{ category_name }}" style="background-image: url('{{ category_data.background }}');">
+  <a href="{{ category_url }}" class="tlo-icon"><img src="{{ category_data.icon }}" alt="" /></a>
+  <header>
+    <h2>{{ category_data.title }}</h2>
+    <p>{{ category_data.tagline }}</p>
+  </header>
+</section>

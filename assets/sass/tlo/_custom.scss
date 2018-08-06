@@ -22,32 +22,36 @@ article p:first-of-type::first-line {
 }
 
 body {
-  background: url('/images/site/white_paperboard.png')
+  background: url('/images/site/white_paperboard.png');
 }
 
-#intro {
+.banner {
+  background-size: cover;
+  color: _palette(bg);
   height: 22em;
   text-align: center;
-  background-image: url('/images/site/header.jpg');
-  color: #fff;
-
-  .tlo-logo {
-    margin-bottom: .5em;
-    width: 10em;
-    img {
-      width: 10em;
-      position: relative;
-      left: 3%;
-      top: 1em;
-    }
-  }
-
-  h2 {
-    color: #fff;
-  }
 
   @include breakpoint('<=large') {
     height: 15em;
+  }
+
+  .tlo-icon {
+    left: 0;
+    margin-bottom: 10em;
+    position: absolute;
+    width: 22em;
+
+    img {
+      width: 22em;
+    }
+  }
+
+  header {
+    padding-top: 8em;
+
+    h2 {
+      color: _palette(bg);
+    }
   }
 }
 
