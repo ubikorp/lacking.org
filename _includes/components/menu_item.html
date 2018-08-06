@@ -1,11 +1,18 @@
-{% assign category = site.data.category_index[include.category] %}
-{% assign latest = site.categories[include.category] | first %}
+{% assign category_name = include.category %}
+{% assign category_data = site.data.category_index[category_name] %}
+{% assign latest = site.categories[category_name] | first %}
 <li>
-  <a href="/{{ include.category }}">
+  <a href="/{{ category_name }}">
     <h3>
-      {{ category.title }}
+      {% if category_name == 'home' %}
+        Home
+      {% else %}
+        {{ category_data.title }}
+      {% endif %}
     </h3>
   </a>
-  <p>{{ category.description }}</p>
-  Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
+  <p>{{ category_data.description }}</p>
+  {% unless category_name == 'home' %}
+    Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
+  {% endunless %}
 </li>
