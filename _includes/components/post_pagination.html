@@ -3,7 +3,7 @@
 <ul class="tlo-pagination actions pagination">
     {% if page.previous.url %}
     <li>
-        <a class="button big previous" href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+        <a class="button big previous ghost" href="{{ page.previous.url }}">{{ page.previous.title }}</a>
     </li>
     {% endif %}
     <li>
@@ -11,7 +11,7 @@
     </li>
     {% if page.next.url %}
     <li>
-        <a class="button big next" href="{{ page.next.url }}">{{ page.next.title }}</a>
+        <a class="button big next ghost" href="{{ page.next.url }}">{{ page.next.title }}</a>
     </li>
     {% endif %}
 </ul>

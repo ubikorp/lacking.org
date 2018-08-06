@@ -147,10 +147,24 @@ button,
 .button {
   background-color: _palette(accent);
   color: _palette(bg) !important;
+  font-size: .75em;
+  height: 3.6em;
+  line-height: 3.5em;
   opacity: .75;
 
   &:hover {
     color: _palette(bg) !important;
     opacity: 1;
+  }
+
+  &.ghost {
+    background-color: _palette(bg);
+    color: _palette(accent) !important;
+    border: solid 3px _palette(accent);
+  }
+
+  &.ghost:hover {
+    background-color: _palette(accent);
+    color: _palette(bg) !important;
   }
 }
