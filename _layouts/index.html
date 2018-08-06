@@ -8,6 +8,9 @@ layout: tlo
     <header>
       <!-- Title -->
       <div class="title">
+        <h3>
+          {{ paginator.posts | size }} of {{ paginator.total_posts }}
+        </h3>
         <p>
           Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}
         </p>
