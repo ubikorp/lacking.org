@@ -1,8 +1,10 @@
 <section id="sidebar" class="tlo-sidebar">
 
   <!-- Header -->
-  {% include components/banner.html %}
-
+  {% if page.layout == 'home' or page.layout == 'index' %}
+    {% include components/banner.html %}
+  {% endif %}
+  
   <!-- Recently -->
   <section id="tlo-latest">
     <h2>Recently</h2>
