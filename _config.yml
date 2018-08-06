@@ -119,7 +119,7 @@ sass:
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 9
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   limit: 0
