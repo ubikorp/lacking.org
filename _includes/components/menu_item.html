@@ -2,15 +2,15 @@
 {% assign category_data = site.data.category_index[category_name] %}
 {% assign latest = site.categories[category_name] | first %}
 <li>
-  <a href="/{{ category_name }}">
-    <h3>
-      {% if category_name == 'home' %}
-        Home
+  {% if category_name == 'home' %}
+      <a href="/">
+        <h3>Home</h3>
+      </a>
       {% else %}
-        {{ category_data.title }}
+      <a href="/{{ category_name }}">
+        <h3>{{ category_data.title }}</h3>
+      </a>
       {% endif %}
-    </h3>
-  </a>
   <p>{{ category_data.description }}</p>
   {% unless category_name == 'home' %}
     Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
