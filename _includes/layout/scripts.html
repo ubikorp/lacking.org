@@ -8,31 +8,29 @@
 <script type="text/javascript">
   $(document).ready(function(){
 
+    /* Show appropriate button when show is on the air */
     var next_airdate_start = new Date('{{ next_airdate.date }} {{ next_airdate.start_time | date: '%H:%M:00' }} {{ next_airdate.time_zone}}');
     var next_airdate_end = new Date('{{ next_airdate.date }} {{ next_airdate.end_time | date: '%H:%M:00' }} {{ next_airdate.time_zone}}');
-
-    console.log(next_airdate_start, next_airdate_end);
-
     if (next_airdate_start <= Date.now() && next_airdate_end >= Date.now()) {
-      $('#kafm-link').hide();
+      $('#page-link').hide();
       $('#stream-link').show();
     } else {
-      $('#kafm-link').show();
+      $('#page-link').show();
       $('#stream-link').hide();
     }
 
+    /* eff shizz up */
     function random_rotation(fudge_factor) {
       var extra_fudge_factor = 1.5;
       return ((Math.random() - 0.5) * fudge_factor * extra_fudge_factor);
     }
-
-    /* eff shizz up */
     $('h2, h3, h4, a.button').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(3.0)+'deg)') });
     $('.tlo-logo, .image').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('p, li, time, .author').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('td').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
-    $('#intro').css('transform', 'rotate('+random_rotation(1.0)+'deg)');
+    $('.banner').css('transform', 'rotate('+random_rotation(1.0)+'deg)');
 
+    /* Search stuff TBD */
     if (window.location.pathname == '/search') {
       var query_term = RegExp('[?&]q=([^&]*)').exec(window.location.search)[1];
       $.getJSON( "https://hw87e7ielk:s7mrjptjn9@tlo-testing-5782922639.us-west-2.bonsaisearch.net/_search?q="+query_term, function( data ) {
@@ -45,7 +43,6 @@
           html: items.join( "" )
         }).appendTo( "article.tlo-page" );
       });
-      console.log(match);
     }
   })
 </script>
