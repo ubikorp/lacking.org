@@ -168,3 +168,14 @@ button,
     color: _palette(bg) !important;
   }
 }
+
+
+a .link {
+  &:hover {
+    color: _palette(accent);
+  }
+
+  &::before {
+    content: '\00bb';
+  }
+}

@@ -4,25 +4,18 @@
   {% if page.layout == 'home' or page.layout == 'index' %}
     {% include components/banner.html %}
   {% endif %}
-  
+
   <!-- Recently -->
   <section id="tlo-latest">
     <h2>Recently</h2>
     {% include components/latest.html posts=site.posts limit=5 %}
   </section>
 
-  <!-- Radio Activity -->
-  <section id="tlo-radio" class="blurb">
-    <h2>Radio Activity</h2>
-    <p>A guide detailing all the dimensions required for the on-air enjoyment of The Lacking Organization, including a schedule with dates and times!</p>
-    <ul class="actions">
-      <li><a href="{% link pages/radio_activity.md %}" class="button small fit">Learn More &raquo;</a></li>
-    </ul>
-  </section>
-
   <!-- About -->
   <section id="tlo-about" class="blurb">
-    <h2>About the.lacking.org</h2>
+    <a href="{% link pages/your_host.md %}">
+      <h2 class="link">About the.lacking.org</h2>
+    </a>
     <p>{{ site.description }}</p>
   </section>
 
