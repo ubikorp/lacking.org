@@ -39,18 +39,19 @@ body {
     height: 17em;
   }
 
-  .tlo-icon {
-    display: block;
+  img {
+    width: 22em;
     margin-bottom: -3em;
-
-    img {
-      width: 22em;
-    }
   }
 
-  h2 {
+  h2, h3 {
     color: _palette(bg);
   }
+
+  h3 {
+    margin-top: 2em;
+  }
+
   p {
     color: _palette(bg);
     font-family: _font(family-heading);
@@ -76,6 +77,10 @@ body {
     .banner {
       height: 13em;
     }
+  }
+  p.description {
+    font-family: _font(family);
+    text-transform: none;
   }
 }
 

@@ -1,18 +1,17 @@
 {% assign category_name = include.category %}
 {% assign category_data = site.data.category_index[category_name] %}
 {% assign latest = site.categories[category_name] | first %}
-<article class="mini-post">
+<article class="mini-post section-box">
   <header>
-    <p>
-      {{ category_data.description }}
-    </p>
+    <p class="description">{{ category_data.description }}</p>
     <p class="published">
       Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
     </p>
   </header>
   <section class="banner {{ category_name }}" style="background-image: url('{{ category_data.background }}');">
-    <a href="/{{ category_name }}" class="tlo-icon"><img src="{{ category_data.icon }}" alt="" /></a>
-    <h2>{{ category_data.title }}</h2>
-    <p>{{ category_data.tagline }}</p>
+    <a href="/{{ category_name }}" class="tlo-icon">
+      <img src="{{ category_data.icon }}" alt="" />
+      <h2 class="section">{{ category_data.title }}</h2>
+    </a>
   </section>
 </article>
