@@ -18,6 +18,4 @@ keywords: The Washdown, Asteroid No. 4, Hands Down Eugene, Elf Power, Tune-Yards
   Louis Prima, Stevie Ray Vaughan + Double Trouble, Willy DeVille, The Mondo Crescendo,
   The Negro Problem, Sara Valenzuela
 ---
-It’s a hard turn to the left from Mexican funk pop to electronic soundscapes, but Sara Valenzuela has made the transition well.<!--more-->
-
 It’s a hard turn to the left from Mexican funk pop to electronic soundscapes, but Sara Valenzuela has made the transition well.

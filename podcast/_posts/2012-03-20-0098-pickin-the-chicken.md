@@ -17,6 +17,4 @@ keywords: Speedy West + Jimmy Bryant, The Hoosegow, Enon, The Chameleons UK, The
   Oranger, The Jon Spencer Blues Explosion, Lucas, The Nicoteens, The Beat Farmers,
   Boredoms, Janis Joplin, Michael Holland, The Police, Split Enz, Laibach
 ---
-Is it noise, or is it Memorex? The Boredomes don’t seem to care much, as long as they get to make their fine, fine racket.<!--more-->
-
 Is it noise, or is it Memorex? The Boredomes don’t seem to care much, as long as they get to make their fine, fine racket.

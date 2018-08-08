@@ -19,6 +19,4 @@ keywords: The Future Kings of Nowhere, Harper Simon, Top Shelf Jazz, Jesca Hoop,
   Grandaddy, Charlie Chesterman and the Legendary Motorbikes, The Kinks, Thao &amp;
   Mirah, Casper Fandango And His Tiny Sick Tears, Lali Puna, Cass McCombs
 ---
-Acoustic punk rock is always a dicey proposition, but The Future Kings of Nowhere and Shayne O’Neill rip through the genre like a blowtorch on toilet paper. Slick!<!--more-->
-
 Acoustic punk rock is always a dicey proposition, but The Future Kings of Nowhere and Shayne O’Neill rip through the genre like a blowtorch on toilet paper. Slick!

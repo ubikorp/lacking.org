@@ -19,6 +19,4 @@ keywords: The Streets, Chappo, Flight of the Conchords, Pixies, The Countdown Qu
   They Might Be Giants, Elvis Costello &amp; The Attractions, Flat Duo Jets, Eugene
   McGuinness, Jungle Brothers, Rube Waddell, The Wee Turtles, The Puppini Sisters
 ---
-There’s something simply ADORABLE about a rapper with a British accent. Mike Skinner is no longer fronting the project, but expect more great things from him.<!--more-->
-
 There’s something simply ADORABLE about a rapper with a British accent. Mike Skinner is no longer fronting the project, but expect more great things from him.

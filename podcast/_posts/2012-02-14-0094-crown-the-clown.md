@@ -19,6 +19,4 @@ keywords: Eugene McGuinness, Sugarman Three, Elf Power, The Black Keys, My Robot
   Edward Sharpe + The Magnetic Zeros, Lyle Lovett, Chinese Man, Q-Burn&#39;s Abstract
   Message
 ---
-Despite coming from the hollers of Portland, Oregon, Hillstomp still manage to churn out the kind of thrumming crackle only a guitar-and-washboard duo can provide.<!--more-->
-
 Despite coming from the hollers of Portland, Oregon, Hillstomp still manage to churn out the kind of thrumming crackle only a guitar-and-washboard duo can provide.
