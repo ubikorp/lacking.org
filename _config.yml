@@ -10,6 +10,7 @@ baseurl:        ""
 url:            https://the.lacking.org
 published_url:  https://the.lacking.org
 images_url:     https://the.lacking.org/images
+permalink:      /:categories/:year/:month/:title
 
 # Social Media
 social:
