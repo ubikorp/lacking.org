@@ -4,10 +4,11 @@ subtitle: ''
 name: Keep Brevard Weird
 episode: '0100'
 audio_file: podcast/0001-0100/0100.keep-brevard-weird.mp3
-description: |-
-  This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.
-  <!--more-->
-  I would like to thank everyone who contributed music for this episode. I received so many amazing entries, but in the end I had about three times more music than I could fit. I picked a couple of personal favorites and let the random do its business. If you sent me a track and it's not here, I apologize for the luck of the draw.
+description: This is the final episode of The Lacking Organization broadcast on WFIT
+  on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform
+  songs from their upcoming split 7" and get dragged down the verbal path by yours
+  truly. In between and all around, we play a selection of original music originating
+  in the Brevard County, Florida area, ranging from the last 30 years.
 author: jclacking
 airdate: '2016-09-06'
 playlist: 2016-09-06-0100-keep-brevard-weird
@@ -22,9 +23,7 @@ keywords: Dirty Poodle, Peter Tuck, Two Fishes, Screaming Iguanas Of Love, Catey
   Dead Serios, What!, Brevard Busking Coalition, Agent86, Fields of Saturn, Oranga
   Tanga, The Basement Scene
 ---
-This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.
-<!--more-->
-I would like to thank everyone who contributed music for this episode. I received so many amazing entries, but in the end I had about three times more music than I could fit. I picked a couple of personal favorites and let the random do its business. If you sent me a track and it's not here, I apologize for the luck of the draw.<!--more-->
+This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.<!--more-->
 
 This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.
 <!--more-->
