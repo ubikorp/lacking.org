@@ -8,9 +8,9 @@
       Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
     </p>
   </header>
-  <section class="banner {{ category_name }}" style="background-image: url('{{ category_data.background }}');">
+  <section class="banner {{ category_name }}" style="background-image: url('{{ site.images_url }}/{{ category_data.background }}');">
     <a href="/{{ category_name }}" class="tlo-icon">
-      <img src="{{ category_data.icon }}" alt="" />
+      <img src="{{ site.images_url }}/{{ category_data.icon }}" alt="" />
       <h2 class="section">{{ category_data.title }}</h2>
     </a>
   </section>

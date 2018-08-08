@@ -6,8 +6,8 @@
   {% assign category_url = site.baseurl | append: '/' %}
 {% endif %}
 {% assign category_data = site.data.category_index[category_name] %}
-<section id="intro" class="banner {{ category_name }}" style="background-image: url('{{ category_data.background }}');" data-link="/">
-  <img src="{{ category_data.icon }}" alt="{{ category_data.title }}" />
+<section id="intro" class="banner {{ category_name }}" style="background-image: url('{{ site.images_url }}/{{ category_data.background }}');" data-link="/">
+  <img src="{{ site.images_url }}/{{ category_data.icon }}" alt="{{ category_data.title }}" />
   <header>
     <h2>{{ category_data.title }}</h2>
     <p>{{ category_data.tagline }}</p>
