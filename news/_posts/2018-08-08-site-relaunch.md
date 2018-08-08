@@ -8,7 +8,7 @@ image:
 ---
 After a nearly three-year hiatus of neglect, this fountain of all things Lacking, spraying its particulate knowledge up in the air and in a lateral direction as determinate as where the wind blows, is back in business, at a shiny new permanent domain featuring a non-standard tertiary domain, and it even has SSL.
 
-Along with the fresh new design, this update brings some new site features, including _The Lacking Details_ (a series of brief reviews of current and favorite albums), hyphenation, a schedule of upcoming radio appearances, much improved appearance on smaller screens, and many other enhancements too subtle and varied to enumerate.
+The site's much improved Experience-for-the-User is courtesy of the team at [The Gigantico](http://thegigantico.com/) -- we are truly grateful for their efforts in turning this heaping pile of tags and code into something resembling an actual Websyte. Along with the fresh new design, this update brings some new site features, including _The Lacking Details_ (a series of brief reviews of current and favorite albums), hyphenation, a schedule of upcoming radio appearances, much improved appearance on smaller screens, and many other enhancements too subtle and varied to enumerate. 
 
 <!--more-->
 
