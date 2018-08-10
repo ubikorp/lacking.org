@@ -93,6 +93,7 @@ collections:
 
 # Plugins
 plugins:
+  - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-analytics
   - jekyll-sitemap
