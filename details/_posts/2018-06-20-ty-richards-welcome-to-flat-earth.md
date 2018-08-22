@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/ty_richards.png
 index: Welcome to Flat Earth, Ty Richards
+tags: ''
 keywords: Ty Segall, T. Rex, Brian Jonestown Massacre, King Tuff, Tremolo
 ---
 Another one-man rock act that wears its influences on its sleeve, but it’s well done so don’t take that as a complaint. Highly political.<!--more-->

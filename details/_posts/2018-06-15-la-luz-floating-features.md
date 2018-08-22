@@ -8,6 +8,7 @@ author: jclacking
 image:
   src: details/2018/la_luz.jpg
 index: Floating Features, La Luz
+tags: ''
 keywords: Link Wray, Shadowy Men on a Shadowy Planet, Insect Surfers, Hardly Art
 ---
 La Luz takes everything that’s great about surf rock and dreamy girl vocals, gives it a new coat of paint, fills it with high-octane, and dares you to keep up.<!--more-->

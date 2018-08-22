@@ -8,6 +8,7 @@ author: jclacking
 image:
   src: details/2018/mystery_of_bulgarian_voices.jpg
 index: BooCheeMish, The Mystery of the Bulgarian Voices
+tags: ''
 keywords: Enigma, Dead Can Dance, creepy film soundtracks, Prophecy
 ---
 A sound you could classify as ethereal, alien, or both. Ancient gregorian harmonies collide with Middle Eastern time signatures for something truly unique. Features DCD’s Lisa Gerrard<!--more-->

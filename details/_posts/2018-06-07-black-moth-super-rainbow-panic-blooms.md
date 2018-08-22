@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/black_moth_super_rainbow.jpg
 index: Panic Blooms, Black Moth Super Rainbow
+tags: ''
 keywords: Animal Collective, Half-Handed Cloud, The Flaming Lips, Rad Cult
 ---
 Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It is not necessary to decide.<!--more-->

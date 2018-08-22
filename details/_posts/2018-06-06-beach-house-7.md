@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/beach_house.jpg
 index: 7, Beach House
+tags: ''
 keywords: Cocteau Twins, Lush, Stereolab, Sub Pop
 ---
 Washes of sound surround you as half-heard vocals intertwine with half-remembered melodies.<!--more-->

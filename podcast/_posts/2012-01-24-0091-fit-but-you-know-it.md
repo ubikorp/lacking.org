@@ -14,6 +14,9 @@ image:
   src: podcast/0091-the-streets.jpg
   caption: The Streets
 index: Fit But You Know It
+tags: streets chappo flight-of-conchords pixies countdown-quartet bobs medeski-martin-wood
+  godzuki guster les-savy-fav sex-clark-five they-might-be-giants elvis-costello-attractions
+  flat-duo-jets eugene-mcguinness jungle-brothers rube-waddell wee-turtles puppini-sisters
 keywords: The Streets, Chappo, Flight of the Conchords, Pixies, The Countdown Quartet,
   The Bobs, Medeski, Martin &amp; Wood, Godzuki, Guster, Les Savy Fav, Sex Clark Five,
   They Might Be Giants, Elvis Costello &amp; The Attractions, Flat Duo Jets, Eugene

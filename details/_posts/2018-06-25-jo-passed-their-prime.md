@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/jo_passed.jpg
 index: Their Prime, Jo Passed
+tags: ''
 keywords: Deerhoof, Nirvana, Sonic Youth, Thingy, Sub Pop
 ---
 Somewhere beyond easy genres is this woozy mix of indie soul and post-rock complication.<!--more-->

@@ -14,6 +14,9 @@ image:
   src: podcast/0093-sex-clark-five.jpg
   caption: Sex Clark Five
 index: Take Stuff From Work
+tags: king-missile chris-tad evolution-control-committee built-to-spill ditty-mu andre-williams-sadies
+  camper-van-beethoven maxwell-implosion fergus-geronimo perez-prado los-amigos-invisibles
+  fujiya-miyagi thomas-function sex-clark-five primus those-darlins bobs
 keywords: King Missile, Chris &amp; Tad, The Evolution Control Committee, Built To
   Spill, The Ditty Mu, Andre Williams &amp; The Sadies, Camper Van Beethoven, The
   Maxwell Implosion, Fergus &amp; Geronimo, Perez Prado, Los Amigos Invisibles, Fujiya

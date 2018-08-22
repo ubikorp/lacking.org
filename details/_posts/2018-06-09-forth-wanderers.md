@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/forth_wanderers.jpg
 index: Forth Wanderers, Forth Wanderers
+tags: ''
 keywords: Breeders, Throwing Muses, Toenut, Deerhoof, Sub Pop
 ---
 Wildly dynamic swings of mood from this rock-format combo, filled with sweet chiming vocal harmonies set against dissonance and rhythm.<!--more-->

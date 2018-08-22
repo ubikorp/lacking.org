@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/johnny_mar.jpg
 index: Call The Comet, Johnny Marr
+tags: ''
 keywords: Modest Mouse, The Smiths, Jesus + Mary Chain, Sire
 ---
 Johnny Marr, who provided his distinctive liquid guitar sound to the Smiths and many others, returns with a solo album that shows not much has changed.<!--more-->

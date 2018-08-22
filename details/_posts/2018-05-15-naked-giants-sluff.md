@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/naked_giants.jpg
 index: Sluff, Naked Giants
+tags: ''
 keywords: Blur, Rocket From The Crypt, Parquet Courts, New West
 ---
 This goes all over the place, but mostly rocks hard with inventive arrangements and infectious hooks.<!--more-->

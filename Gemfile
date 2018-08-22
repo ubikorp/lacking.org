@@ -21,12 +21,12 @@ gem 'jekyll', '~> 3.8.2'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.6'
-  gem 'jekyll-docs'
-  gem 'jekyll-paginate-v2'
   gem 'jekyll-analytics'
-  gem 'jekyll-sitemap'
+  gem 'jekyll-docs'
+  gem 'jekyll-feed', '~> 0.6'
   gem 'jekyll-last-modified-at'
+  gem 'jekyll-paginate-v2'
+  gem 'jekyll-sitemap'
   # gem 'searchyll', path: '../searchyll'
 end
 

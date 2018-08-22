@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/ed_schraders_music_beat.jpeg
 index: Riddles, Ed Schrader's Music Beat
+tags: ''
 keywords: Dan Deacon, Liars, Lightning Bolt, Carpark
 ---
 Heady mix of post-punk and electronic sounds, heavy on the bass riffing. Features Dan Deacon on beeps and such.<!--more-->

@@ -14,6 +14,9 @@ image:
   src: podcast/0095-secret-chiefs-3.jpg
   caption: Secret Chiefs 3
 index: Complicated Music Hour
+tags: unexpect behold-the-arctopus mats-morgan-band sleepytime-gorilla-museum dr-zoltan-obelisk
+  marco-minnemann mike-keneally-steve-vai dale-turner secret-chiefs-3 electrocution-250
+  rejectionary-art devin-townsend john-scofield
 keywords: Unexpect, Behold...The Arctopus, Mats/Morgan Band, Sleepytime Gorilla Museum,
   Dr. Zoltan Øbelisk, Marco Minnemann, Mike Keneally / Steve Vai, Dale Turner, Secret
   Chiefs 3, Electrocution 250, Rejectionary Art, Devin Townsend, John Scofield

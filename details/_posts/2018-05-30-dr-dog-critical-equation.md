@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/dr_dog.jpg
 index: Critical Equation, Dr. Dog
+tags: ''
 keywords: Born Ruffians, My Morning Jacket, ELO, We Buy Gold
 ---
 The band returns with more of their particular brand of folksy psychedelia. Lots of great hooks and harmonies, as usual.<!--more-->

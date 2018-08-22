@@ -14,6 +14,9 @@ image:
   src: podcast/0094-hillstomp.jpg
   caption: Hillstomp
 index: Crown The Clown
+tags: eugene-mcguinness sugarman-three elf-power black-keys my-robot-friend hillstomp
+  mischief-brew smack-dab seks-bomba monotrona pram monks-of-doom edward-sharpe-magnetic-zeros
+  lyle-lovett chinese-man q-burn-s-abstract-message
 keywords: Eugene McGuinness, Sugarman Three, Elf Power, The Black Keys, My Robot Friend,
   Hillstomp, Mischief Brew, Smack Dab, Seks Bomba, Monotrona, Pram, Monks Of Doom,
   Edward Sharpe + The Magnetic Zeros, Lyle Lovett, Chinese Man, Q-Burn&#39;s Abstract

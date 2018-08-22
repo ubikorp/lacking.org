@@ -93,11 +93,12 @@ collections:
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
   - jekyll-analytics
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+#  - jekyll-tagging
   # - searchyll
 
 # Plugin Configuration

@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/speedy_ortiz.jpg
 index: Twerp Verse, Speedy Ortiz
+tags: ''
 keywords: The Rentals, Veruca Salt, Liz Phair, Carpark
 ---
 A powerful set of guitar pop songs, fronted by sometimes disaffected indie female vocals.<!--more-->

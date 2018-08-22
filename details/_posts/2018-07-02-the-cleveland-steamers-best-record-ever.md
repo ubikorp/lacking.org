@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/cleveland_steamers.jpg
 index: Best Record Ever, The Cleveland Steamers
+tags: ''
 keywords: Spinal Tap, The Horrors, The Raveonnettes, Julee Cruise, Smog Veil
 ---
 Hard-rocking, beer-chugging, smoke-breaking anthems from this Cleveland couple. They can also veer into weird and spooky.<!--more-->

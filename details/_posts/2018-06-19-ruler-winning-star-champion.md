@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/ruler.jpg
 index: Winning Star Champion, Ruler
+tags: ''
 keywords: Death Cab for Cutie, Hoodoo Gurus, Nirvana, Robyn Hitchcock, Barsuk
 ---
 A brilliant collection of indie pop gems, featuring the sounds and hooks that made “alternative music” so great in the first place.<!--more-->

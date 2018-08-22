@@ -6,6 +6,7 @@ author: jclacking
 image:
   src: details/2018/ride.jpg
 index: Tomorrow’s Shore EP, Ride
+tags: ''
 keywords: The Jesus and Mary Chain, My Bloody Valentine, His Name Is Alive, Wichita
 ---
 Washes of fuzzed-out bliss at your choice of tempos<!--more-->

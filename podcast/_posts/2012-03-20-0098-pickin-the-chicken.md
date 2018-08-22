@@ -13,6 +13,9 @@ image:
   src: podcast/0098-boredoms.jpg
   caption: Boredoms
 index: Pickin’ The Chicken
+tags: speedy-west-jimmy-bryant hoosegow enon chameleons-uk kinks oranger jon-spencer-blues-explosion
+  lucas nicoteens beat-farmers boredoms janis-joplin michael-holland police split-enz
+  laibach
 keywords: Speedy West + Jimmy Bryant, The Hoosegow, Enon, The Chameleons UK, The Kinks,
   Oranger, The Jon Spencer Blues Explosion, Lucas, The Nicoteens, The Beat Farmers,
   Boredoms, Janis Joplin, Michael Holland, The Police, Split Enz, Laibach

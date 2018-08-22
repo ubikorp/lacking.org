@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/rainbow_kitten_surprise.jpeg
 index: 'How To: Friend, Love, Freefal, Rainbow Kitten Surprise'
+tags: ''
 keywords: Modest Mouse, Django Django, My Morning Jacket, Vampire Weekend, Elektra
 ---
 Heady mix of folk, electronic and hip hop elements swirling together into something unique and accessible.<!--more-->

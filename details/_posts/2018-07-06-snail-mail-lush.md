@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/snail_mail.jpg
 index: Lush, Snail Mail
+tags: ''
 keywords: The Sundays, Lush, Liz Phair, Madder Rose, Matador
 ---
 Bold effort from this young musician, this set of introspective songs shows great skill and promise.<!--more-->

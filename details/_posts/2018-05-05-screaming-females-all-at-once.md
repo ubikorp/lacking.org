@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/screaming_females.jpg
 index: All At Once, Screaming Females
+tags: ''
 keywords: L7, The Gits, Bully, Don Giovanni
 ---
 Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power trio hearkens back to the DIY indie scene<!--more-->

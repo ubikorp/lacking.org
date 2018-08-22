@@ -16,6 +16,11 @@ image:
   src: podcast/0100-keep-brevard-weird.jpg
   caption: Farewell, Space Coast
 index: Keep Brevard Weird
+tags: dirty-poodle peter-tuck two-fishes screaming-iguanas-of-love cateye sounds-of-nebula
+  ghostbeat sleep-tights ryan-blount patty-bleu loftboys patty-bleu ryan-blount green-goblyn-project
+  ryan-blount patty-bleu jeffrey-stanton patty-bleu ryan-blount southern-fried-genocide
+  konglom freeflow-conspiracy dead-serios what brevard-busking-coalition agent86 fields-of-saturn
+  oranga-tanga basement-scene
 keywords: Dirty Poodle, Peter Tuck, Two Fishes, Screaming Iguanas Of Love, Cateye,
   Sounds of Nebula, Ghostbeat, The Sleep Tights, Ryan Blount, Patty Bleu, loftboys,
   Patty Bleu, Ryan Blount, The Green Goblyn Project, Ryan Blount, Patty Bleu, Jeffrey

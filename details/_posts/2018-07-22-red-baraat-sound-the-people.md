@@ -8,6 +8,7 @@ author: jclacking
 image:
   src: details/2018/red_baraat.jpg
 index: Sound The People, Red Baraat
+tags: ''
 keywords: Balkan Beat Box, Asian Dub Foundation, Antibalas, Rhyme + Reason
 ---
 A beat-heavy collection of international sounds, this band is literally all over the place in a boundary-pushing mix of afrobeat, bhangra, hip-hop, jazz and other genres.<!--more-->

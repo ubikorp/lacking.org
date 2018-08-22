@@ -14,6 +14,9 @@ image:
   src: podcast/0090-future-kings-of-nowhere.jpg
   caption: The Future Kings of Nowhere
 index: Lather Rinse Repeat
+tags: future-kings-of-nowhere harper-simon top-shelf-jazz jesca-hoop cotton-candy
+  wugazi drive-by-truckers ruby-suns dismemberment-plan tamba-trio grandaddy charlie-chesterman-legendary-motorbikes
+  kinks thao-mirah casper-fandango-his-tiny-sick-tears lali-puna cass-mccombs
 keywords: The Future Kings of Nowhere, Harper Simon, Top Shelf Jazz, Jesca Hoop, Cotton
   Candy, Wugazi, Drive-By Truckers, The Ruby Suns, The Dismemberment Plan, Tamba Trio,
   Grandaddy, Charlie Chesterman and the Legendary Motorbikes, The Kinks, Thao &amp;

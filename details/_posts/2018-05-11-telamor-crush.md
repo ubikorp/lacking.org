@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/telamor.png
 index: Crush, Telamor
+tags: ''
 keywords: Violent Femmes, XTC, LMNOP, Olex
 ---
 One-man band Tom Hauck is Telamor, with a variety of songs that sounds like they were lifted straight out of ‘80s college radio<!--more-->

@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/dr_octagon.jpg
 index: Moosebumps, Dr. Octagon
+tags: ''
 keywords: Kool Keith, Gorillaz, Handsome Boy Modeling School, Bulk Recordings
 ---
 Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird hip-hop<!--more-->

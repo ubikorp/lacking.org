@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/rockateens.jpg
 index: Sixth House, Rock*a*Teens
+tags: ''
 keywords: My Morning Jacket, Wilco, Archers of Loaf, Merge
 ---
 This southern gothic staple returns, with a bit less reverb but just as much agony and attitude.<!--more-->

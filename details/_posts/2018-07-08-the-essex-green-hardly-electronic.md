@@ -7,6 +7,7 @@ author: jclacking
 image:
   src: details/2018/essex_green.jpg
 index: Hardly Electronic, The Essex Green
+tags: ''
 keywords: Apples In Stereo, Belle and Sebastian, Push Kings, Dressy Bessy, Merge
 ---
 Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars… what else do you need to play this summer?<!--more-->
