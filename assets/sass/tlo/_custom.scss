@@ -197,11 +197,18 @@ a .link {
 }
 .post.tlo-details {
   .image.featured {
-    width: 50%;
+    width: 33%;
     margin: 0 0 _size(element-margin) _size(element-margin);
     float: right;
   }
   h2 {
     clear: both;
+  }
+  @include breakpoint('<=small') {
+    .image.featured {
+      width: 100%;
+      margin: 0;
+      float: none;
+    }
   }
 }

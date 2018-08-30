@@ -1,12 +1,12 @@
 ---
-title: 'Tune-Yards :: I can feel you creep'
+title: 'Tune-Yards :: I can feel you creep into my private life'
 subtitle: 4AD &bull; released 2018-01-19
 description: Angular compositions and Merrill Garbus’ distinctive vocals, glued together
   in strange uncomfortable ways, but it all works.
 author: jclacking
 image:
   src: details/2018/tuneyards.jpg
-index: I can feel you creep, Tune-Yards
+index: I can feel you creep into my private life, Tune-Yards
 tags: ''
 keywords: King Crimson, St. Vincent, 4AD
 ---
