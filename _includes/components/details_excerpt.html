@@ -1,0 +1,15 @@
+{% assign category_name = include.category %}
+{% assign category_data = site.data.category_index[category_name] %}
+{% assign latest = site.categories[category_name] | first %}
+
+<article class="mini-post section-box">
+  <header>
+    <h3>{{ include.post.title }}</h3>
+    <p class="description">{{ include.post.excerpt }}</p>
+    <time class="published" datetime="{{ include.post.date | date: '%Y-%m-%d'}}">
+      Published on {{ post.date | date: '%B %-d, %Y'}}
+      | <strong><a href="{{ include.post.url }}">More &raquo;</a></strong>
+    </time>
+  </header>
+  {% include components/post_image.html post=include.post %}
+</article>

@@ -23,15 +23,18 @@ layout: tlo
   </article>
 {% endunless %}
 
+<article class="post tlo-index-details">
+  <div class="mini-posts">
+    {% for post in paginator.posts %}
 
-{% for post in paginator.posts %}
+      <!-- Post Excerpt -->
+      {% include components/details_excerpt.html post=post %}
 
-  <!-- Post Excerpt -->
-  {% include components/big_excerpt.html post=post %}
+    {% endfor %}
 
-{% endfor %}
-
-<!-- Pagination -->
-{% if page.pagination.enabled %}
-  {% include components/index_pagination.html %}
-{% endif %}
+    <!-- Pagination -->
+    {% if page.pagination.enabled %}
+      {% include components/index_pagination.html %}
+    {% endif %}
+  </div>
+</article>

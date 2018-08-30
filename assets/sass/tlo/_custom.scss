@@ -186,3 +186,22 @@ a .link {
     content: '\00bb';
   }
 }
+
+.tlo-index-details {
+  .image.featured {
+    margin: 0;
+  }
+	header p {
+    text-transform: none;
+  }
+}
+.post.tlo-details {
+  .image.featured {
+    width: 50%;
+    margin: 0 0 _size(element-margin) _size(element-margin);
+    float: right;
+  }
+  h2 {
+    clear: both;
+  }
+}
