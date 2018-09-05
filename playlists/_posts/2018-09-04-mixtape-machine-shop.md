@@ -5,8 +5,8 @@ category: kafm
 description: This is MACHINE SHOP, a special one-hour mixtape from yours truly featuring
   songs about all the weird devices we humans have imagined and constructed out of
   musical parts. I’m closing it out with the Smugglers’ “She’s A Machine,” which inspired
-  me to put this together when a search for it revealed all sorts of weird devices
-  lurking in my library.
+  me to put this together when a search for it revealed all sorts of inexplicable
+  gadgetry lurking in my library.
 author: jclacking
 airdate: '2018-09-04'
 playlist: 2018-09-04-mixtape-machine-shop
@@ -21,4 +21,4 @@ keywords: Pixies, Fluid Ounces, The Scofflaws, Jason Falkner, Robyn Hitchcock, S
   Goldfrapp, Kassin+2, Thomas Function, Chad VanGaalen, Nortec Collective, STRFKR,
   Spot 1019, Blonde Redhead, Oranger, The Smugglers
 ---
-This is MACHINE SHOP, a special one-hour mixtape from yours truly featuring songs about all the weird devices we humans have imagined and constructed out of musical parts. I’m closing it out with the Smugglers’ “She’s A Machine,” which inspired me to put this together when a search for it revealed all sorts of weird devices lurking in my library.
+This is MACHINE SHOP, a special one-hour mixtape from yours truly featuring songs about all the weird devices we humans have imagined and constructed out of musical parts. I’m closing it out with the Smugglers’ “She’s A Machine,” which inspired me to put this together when a search for it revealed all sorts of inexplicable gadgetry lurking in my library.
