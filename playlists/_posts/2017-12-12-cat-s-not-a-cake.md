@@ -6,7 +6,7 @@ description: Cleary, this is something that needs a song to explain, and Mo Kenn
   is up to the task.
 author: jclacking
 airdate: '2017-12-12'
-playlist: 2017-12-12-kafm
+playlist: 2017-12-12-cat-s-not-a-cake
 image:
   src: artists/2017/mo_kenney.jpg
   caption: Mo Kenney

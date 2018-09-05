@@ -8,7 +8,7 @@ description: |-
   Side note: It is impossible to purchase or renew a certificate without at least two password resets. I'm not sure which of the thermodynamics laws governs this, but it seems to be fairly immutable.
 author: jclacking
 airdate: '2018-08-07'
-playlist: 2018-08-07-kafm
+playlist: 2018-08-07-crippling-self-doubt
 image:
   src: artists/2018/courtney_barnett.jpg
   caption: Courtney Barnett

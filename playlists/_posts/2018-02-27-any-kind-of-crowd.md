@@ -7,7 +7,7 @@ description: Even obscurists get to form supergroups, and Filthy Friends is one 
   Fresh Fellows, the Fastbacks, and more.
 author: jclacking
 airdate: '2018-02-27'
-playlist: 2018-02-27-kafm
+playlist: 2018-02-27-any-kind-of-crowd
 image:
   src: artists/2018/filthy_friends.jpg
   caption: Filthy Friends

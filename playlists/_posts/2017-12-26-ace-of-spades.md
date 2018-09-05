@@ -6,7 +6,7 @@ description: I think Lemmy would have appreciated Canadian superbanjoplayer Lisa
   fierce take on "Ace Of Spades".
 author: jclacking
 airdate: '2017-12-26'
-playlist: 2017-12-26-kafm
+playlist: 2017-12-26-ace-of-spades
 image:
   src: artists/2017/lisa_leblanc.jpg
   caption: Lisa LeBlanc

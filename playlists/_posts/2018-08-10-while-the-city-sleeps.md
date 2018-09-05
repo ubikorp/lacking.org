@@ -8,7 +8,7 @@ description: |-
   Since I was guest host The Orbit Lounge and this was not The Lacking Organization, there was more selection and sequencing going on than usual, with the end result being a good hill climb from warm sleepiness to aerobic panic. Thanks to Lisa from Florida and Geoffrey from France for checking in!
 author: jclacking
 airdate: '2018-08-10'
-playlist: 2018-08-10-kafm
+playlist: 2018-08-10-while-the-city-sleeps
 image:
   src: artists/2018/mc_900_ft_jesus.jpg
   caption: DJ Zero + MC 900 Ft. Jesus

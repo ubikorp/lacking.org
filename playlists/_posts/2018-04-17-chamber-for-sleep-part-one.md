@@ -6,7 +6,7 @@ description: '"Screaming Females" is a misnomer. There''s only one, and not a wh
   lot of screaming in "Chamber For Sleep (Part One)".'
 author: jclacking
 airdate: '2018-04-17'
-playlist: 2018-04-17-kafm
+playlist: 2018-04-17-chamber-for-sleep-part-one
 image:
   src: artists/2018/screaming_females.jpg
   caption: Screaming Females

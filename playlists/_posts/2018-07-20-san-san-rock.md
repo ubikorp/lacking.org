@@ -6,7 +6,7 @@ description: The Thievery Corporation has institutionalized the plagiarism of ge
   and this week's dub-influenced opener is no exception.
 author: jclacking
 airdate: '2018-07-20'
-playlist: 2018-07-20-kafm
+playlist: 2018-07-20-san-san-rock
 image:
   src: artists/2018/thievery_corporation.jpg
   caption: Thievery Corporation

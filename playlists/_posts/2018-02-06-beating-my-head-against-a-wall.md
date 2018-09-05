@@ -6,7 +6,7 @@ description: Did Jeff Rosenstock manage to find an unrecorded Ramones song? "Bea
   My Head Against A Wall" sure sounds like it, and that is 1,000% a compliment.
 author: jclacking
 airdate: '2018-02-06'
-playlist: 2018-02-06-kafm
+playlist: 2018-02-06-beating-my-head-against-a-wall
 image:
   src: artists/2018/jeff_rosenstock.jpg
   caption: Jeff Rosenstock

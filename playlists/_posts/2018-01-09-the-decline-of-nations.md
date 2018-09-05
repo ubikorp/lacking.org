@@ -5,7 +5,7 @@ category: kafm
 description: This song by La Louma sure is a catchy anthem for us skeptics and cynics.
 author: jclacking
 airdate: '2018-01-09'
-playlist: 2018-01-09-kafm
+playlist: 2018-01-09-the-decline-of-nations
 image:
   src: artists/2018/la_louma.jpg
   caption: La Louma

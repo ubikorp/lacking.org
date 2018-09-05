@@ -6,7 +6,7 @@ description: I really love Khruangbin, despite the pronounciation quandary they 
   me into whenever I play one of their songs.
 author: jclacking
 airdate: '2018-06-12'
-playlist: 2018-06-12-kafm
+playlist: 2018-06-12-como-me-quieres
 image:
   src: artists/2018/khruangbin.jpg
   caption: Khruangbin
