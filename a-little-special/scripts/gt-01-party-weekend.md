@@ -1,20 +1,22 @@
-# Party Weekend
+---
+title: Party Weekend
+subtitle: 'The Good Times Fun Review :: Episode 01'
+---
+with Bryant Hardy
 
-## The Good Times Fun Review Episode 01
-
-### with Bryant Hardy
+---
 
 _RADIO INTRO_
 
 Thanks, Jul-eeeez! It’s nice to be here tonight partying with you and your listeners.
 
-_ONLINE INTRO_
+---
+
+_EPISODE_
 
 This is your friend in campus security, Officer Hardy, and I’m here about a disturbance.
 
 Just kidding!
-
-_EPISODE_
 
 I always say: “My judgement is swift, my punishment is fair, and my parties are lacy!”
 
@@ -30,7 +32,7 @@ Even if it isn’t the weekend.
 
 Hit it Joe.
 
-## Party Weekend / Joe “King” Carrasco
+### &raquo; Party Weekend / Joe “King” Carrasco
 
 That was good.
 
@@ -56,7 +58,7 @@ Good stuff.
 
 At any rate, I got a song about my second-favorite type of party, after anything the Delts put together, “TV Party” by the Asylum Street Spankers.
 
-## TV Party / Asylum Street Spankers
+### &raquo; TV Party / Asylum Street Spankers
 
 Most awesome.
 
@@ -70,7 +72,7 @@ I’m not the security guard they sing about, mind you, but my buddy Charles onc
 
 Small world!
 
-## Collegiate Dope Slingaz / All That!
+## &raquo; Collegiate Dope Slingaz / All That!
 
 That was New Orleans band All That! with “Collegiate Dope Slingaz”.
 

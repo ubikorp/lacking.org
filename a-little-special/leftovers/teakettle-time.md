@@ -15,3 +15,5 @@ Pay special attention to the chorus, where the Hoosier Hot Shots break with trad
 But enough yakkin from ol’ Zelda, let’s check out "I Like Bananas (Because They Have No Bones)" by the Hoosier Hot Shots!”
 
 ---
+
+So let’s get back on the WhistleBus with another installment of Teakettle Time.

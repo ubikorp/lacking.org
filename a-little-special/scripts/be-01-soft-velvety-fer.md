@@ -1,8 +1,8 @@
-# Soft Velvety ‘Fer
-
-## The Beep End Episode 01
-
-### with Alexander Graham Johnson
+---
+title: Soft Velvety ‘Fer
+subtitle: 'The Beep End :: Episode 01'
+---
+with Alexander Graham Johnson
 
 ---
 
@@ -11,6 +11,8 @@ _RADIO INTRO_
 I can hear you, Julius.
 
 ---
+
+_EPISODE_
 
 Listeners! Hello hello.
 
@@ -42,7 +44,7 @@ It’s sad, embarrassing, and at the same time playful and whimsical.
 
 Pick up, boys!
 
-## Soft Velvety ‘Fer / MC Honky
+### &raquo; Soft Velvety ‘Fer / MC Honky
 
 I like the music of the telephone, those gems which feature the sub-6Khz crackle of genuine copper, jostling electrons like mad to get to their message to you.
 
@@ -56,7 +58,7 @@ If I don’t pick up, you can leave a message.
 
 I’m not home, Janine!
 
-## Janine / Soul Coughing
+### &raquo; Janine / Soul Coughing
 
 When I’m up there on the poles, I’m like an invisible hawk.
 
@@ -80,7 +82,7 @@ She would get ice cream from the store at 4 in the afternoon.
 
 Ring it up!
 
-## Move / Brave Combo
+### &raquo; Move / Brave Combo
 
 This song proves that an important message was delivered, and as I gaze at the fading sunset of my career with squinting eyes, I can take pride in that accomplishment.
 
@@ -89,17 +91,3 @@ As a telephone lineman, I strung the net that caught and held this struggling na
 I am the one who disconnects your landline, snuffing it out like a candle that’s burned almost all the way down.
 
 Celebrate your wireless future, heartless bastards.
-
-## Leftovers
-
-Let’s not get all hung up on this.
-
-I am here to talk about the soundtrack to my gruesome work.
-
-Forget about those Lexicon reverbs and boutique channels, it’s the most expensive effect you can put on your voice by a few orders of magnitude and it’s glorious.
-
-Listeners! Digame (DEE-gah-meh) is how they answer the telephone in Spain. Don’t answer back, because I am not going to hear you. After all, this is not a telephone.
-
-Listeners! Moshi moshi, as they say when they answer the telephone in Japan. It seems more elaborate and formal than our simple “hello”, but you can disagree with me.
-
-Later on, please listen for the nearly hypnotic effect as MC Honky honks his way through a myriad of rhymes, dimes, and slimes in his quest to communicate his...MESSAGE!
