@@ -82,6 +82,12 @@ defaults:
       priority: 0.7
   -
     scope:
+      path: "pages/als"
+    values:
+      layout: "post"
+      straight_text: true
+  -
+    scope:
       path: ""
     values:
       layout: "post"

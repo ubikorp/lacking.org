@@ -19,6 +19,7 @@
       $('#stream-link').hide();
     }
 
+  {% unless page.straight_text %}
     /* eff shizz up */
     function random_rotation(fudge_factor) {
       var extra_fudge_factor = 1.5;
@@ -29,6 +30,7 @@
     $('p, li, time, .author').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('td').each(function(idx, img) { $(img).css('transform', 'rotate('+random_rotation(2.0)+'deg)') });
     $('.banner').css('transform', 'rotate('+random_rotation(1.0)+'deg)');
+  {% endunless %}
 
     /* Search stuff TBD */
     if (window.location.pathname == '/search') {
