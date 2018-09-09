@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Lacking Organization!
 subtitle: Everything needs an origin story
+category: news
 author: jclacking
 image:
   src: news/2008/introduction.jpg

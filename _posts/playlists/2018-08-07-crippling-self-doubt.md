@@ -1,7 +1,7 @@
 ---
 title: Crippling Self Doubt
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: |-
   Well, that was an interesting show. Not much listener activity tonight, though that's OK since I had my hands full with SSL certificate madness in order to finish the Secret Project that is this site itself. Perseverance at the command line won the day (and the small green lock on your browser bar), even if it was interrupted every minute or few with ongoing radio show requirements.
 

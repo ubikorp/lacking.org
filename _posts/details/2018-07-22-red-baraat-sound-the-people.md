@@ -1,6 +1,7 @@
 ---
 title: 'Red Baraat :: Sound The People'
 subtitle: Rhyme + Reason &bull; released 2018-06-29
+category: details
 description: A beat-heavy collection of international sounds, this band is literally
   all over the place in a boundary-pushing mix of afrobeat, bhangra, hip-hop, jazz
   and other genres.

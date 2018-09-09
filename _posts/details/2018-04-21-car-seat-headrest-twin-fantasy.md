@@ -1,6 +1,7 @@
 ---
 title: 'Car Seat Headrest :: Twin Fantasy'
 subtitle: Matador &bull; released 2018-02-16
+category: details
 description: Dense arrangements make for some slowly emerging indie orchestral music.
   Disc 2 is the demo versions of the songs on Disc 1.
 author: jclacking

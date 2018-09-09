@@ -1,7 +1,7 @@
 ---
 title: Dirtpicker
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: They're all over the place, but that's what I like about Post Animal.
   "Dirtpicker" owes much to the Jesus Lizard, especially in its title.
 author: jclacking

@@ -1,7 +1,7 @@
 ---
 title: Sweet Librarian
 subtitle: WFIT Melbourne, 10pm - 12am
-category: wfit
+category: playlists
 description: It's a steamy Florida night, and it marks the debut of Julius C. Lacking
   on the airwaves of WFIT, a university radio station in Melbourne, Florida. The random
   nature of the playlist is born of a catastrophic home furnishing disaster that hopelessly

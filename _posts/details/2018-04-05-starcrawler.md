@@ -1,6 +1,7 @@
 ---
 title: 'Starcrawler :: Starcrawler'
 subtitle: Rough Trade &bull; released 2018-01-19
+category: details
 description: Straightahead rock, no apologies.
 author: jclacking
 image:

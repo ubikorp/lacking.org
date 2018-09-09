@@ -1,6 +1,7 @@
 ---
 title: 'Jeff Rosenstock :: POST-'
 subtitle: Polyvinyl &bull; released 2018-01-01
+category: details
 description: Great singalong spirit, hot flaming hooks, and actual things to say.
 author: jclacking
 image:

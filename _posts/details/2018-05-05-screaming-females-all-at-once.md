@@ -1,6 +1,7 @@
 ---
 title: 'Screaming Females :: All At Once'
 subtitle: Don Giovanni &bull; released 2018-02-23
+category: details
 description: Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power
   trio hearkens back to the DIY indie scene
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: Soft Velvety ‘Fer
 subtitle: 'The Beep End :: Episode 01'
+permalink: /a-little-special/scripts/soft-velvety-fer
 ---
 with Alexander Graham Johnson
 
@@ -90,4 +91,4 @@ I am the one who disconnects your landline, snuffing it out like a candle that h
 
 Celebrate your wireless future, heartless bastards.
 
-<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>
+<a class="button big next" href="{% link pages/a-little-special/index.md %}">A Little Special Home</a>

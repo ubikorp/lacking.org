@@ -1,6 +1,7 @@
 ---
 title: 'Dr. Octagon :: Moosebumps'
 subtitle: Bulk Recordings &bull; released 2018-04-06
+category: details
 description: Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird
   hip-hop
 author: jclacking

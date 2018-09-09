@@ -1,6 +1,7 @@
 ---
 title: 'Black Moth Super Rainbow :: Panic Blooms'
 subtitle: Rad Cult &bull; released 2018-05-04
+category: details
 description: Is it experimental psychedelia or is it the soundtrack to a fragmented
   dream? It is not necessary to decide.
 author: jclacking

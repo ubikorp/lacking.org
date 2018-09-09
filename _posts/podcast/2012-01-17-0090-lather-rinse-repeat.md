@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0090: Lather Rinse Repeat'
 subtitle: ''
+category: podcast
 name: Lather Rinse Repeat
 episode: '0090'
 audio_file: podcast/0001-0100/0090.lather-rinse-repeat.mp3

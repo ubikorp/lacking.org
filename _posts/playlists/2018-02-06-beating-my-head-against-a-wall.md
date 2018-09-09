@@ -1,7 +1,7 @@
 ---
 title: Beating My Head Against A Wall
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Did Jeff Rosenstock manage to find an unrecorded Ramones song? "Beating
   My Head Against A Wall" sure sounds like it, and that is 1,000% a compliment.
 author: jclacking

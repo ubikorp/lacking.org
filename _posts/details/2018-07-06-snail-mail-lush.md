@@ -1,6 +1,7 @@
 ---
 title: 'Snail Mail :: Lush'
 subtitle: Matador &bull; released 2018-06-08
+category: details
 description: Bold effort from this young musician, this set of introspective songs
   shows great skill and promise.
 author: jclacking

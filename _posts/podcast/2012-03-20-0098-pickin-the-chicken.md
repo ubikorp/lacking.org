@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0098: Pickin’ The Chicken'
 subtitle: ''
+category: podcast
 name: Pickin’ The Chicken
 episode: '0098'
 audio_file: podcast/0001-0100/0098.pickin-the-chicken.mp3

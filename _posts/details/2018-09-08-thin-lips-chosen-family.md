@@ -1,6 +1,7 @@
 ---
 title: 'Thin Lips :: Chosen Family'
 subtitle: Lame-O &bull; released 2018-07-27
+category: details
 description: Rock anthems filled with quirky bits of beat and string, layered with
   some honey-toned vocals and surging guitars.
 author: jclacking

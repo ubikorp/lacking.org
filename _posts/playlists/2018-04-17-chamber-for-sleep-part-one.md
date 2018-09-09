@@ -1,7 +1,7 @@
 ---
 title: Chamber For Sleep (Part One)
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: '"Screaming Females" is a misnomer. There''s only one, and not a whole
   lot of screaming in "Chamber For Sleep (Part One)".'
 author: jclacking

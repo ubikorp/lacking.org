@@ -1,6 +1,7 @@
 ---
 title: 'Johnny Marr :: Call The Comet'
 subtitle: Sire &bull; released 2018-06-15
+category: details
 description: Johnny Marr, who provided his distinctive liquid guitar sound to the
   Smiths and many others, returns with a solo album that shows not much has changed.
 author: jclacking

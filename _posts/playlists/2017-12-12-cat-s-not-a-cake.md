@@ -1,7 +1,7 @@
 ---
 title: Cat's Not a Cake
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Cleary, this is something that needs a song to explain, and Mo Kenney
   is up to the task.
 author: jclacking

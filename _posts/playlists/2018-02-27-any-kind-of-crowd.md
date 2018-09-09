@@ -1,7 +1,7 @@
 ---
 title: Any Kind Of Crowd
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Even obscurists get to form supergroups, and Filthy Friends is one of
   the top entries in that category, with membership from Sleater-Kinney, the Young
   Fresh Fellows, the Fastbacks, and more.

@@ -1,7 +1,7 @@
 ---
 title: Drunk In LA
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Beach House's music always rings as the soundtrack to some brain-warped
   too-much-party film montage. WIth "Drunk In LA", their song titles are catching
   up with the vibe.

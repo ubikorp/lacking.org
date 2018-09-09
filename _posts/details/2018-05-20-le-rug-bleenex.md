@@ -1,6 +1,7 @@
 ---
 title: 'Le Rug :: Bleenex'
 subtitle: Omad &bull; released 2018-04-20
+category: details
 description: Bewildering and enchanting solo project that can swing dramatically between
   lo-fi and supremely nuanced
 author: jclacking

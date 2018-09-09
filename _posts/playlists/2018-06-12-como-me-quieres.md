@@ -1,7 +1,7 @@
 ---
 title: Cómo Me Quieres
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: I really love Khruangbin, despite the pronounciation quandary they plunge
   me into whenever I play one of their songs.
 author: jclacking

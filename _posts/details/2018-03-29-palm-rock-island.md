@@ -1,6 +1,7 @@
 ---
 title: 'Palm :: Rock Island'
 subtitle: Carpark &bull; released 2018-02-09
+category: details
 description: Imagine your Beach Boys CD started skipping but you liked it better that
   way.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'Rock*a*Teens :: Sixth House'
 subtitle: Merge &bull; released 2018-06-29
+category: details
 description: This southern gothic staple returns, with a bit less reverb but just
   as much agony and attitude.
 author: jclacking

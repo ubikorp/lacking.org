@@ -1,6 +1,7 @@
 ---
 title: Party Weekend
 subtitle: 'The Good Times Fun Review :: Episode 01'
+permalink: /a-little-special/scripts/party-weekend
 ---
 with Bryant Hardy
 
@@ -94,4 +95,4 @@ Don’t bother running because I know all the shortcuts.
 
 _END_
 
-<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>
+<a class="button big next" href="{% link pages/a-little-special/index.md %}">A Little Special Home</a>

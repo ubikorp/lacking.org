@@ -1,6 +1,7 @@
 ---
 title: 'Telamor :: Crush'
 subtitle: Olex &bull; released 2018-01-02
+category: details
 description: One-man band Tom Hauck is Telamor, with a variety of songs that sounds
   like they were lifted straight out of ‘80s college radio
 author: jclacking

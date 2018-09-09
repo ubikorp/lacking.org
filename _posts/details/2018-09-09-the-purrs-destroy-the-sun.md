@@ -1,6 +1,7 @@
 ---
 title: 'The Purrs :: Destroy The Sun'
 subtitle: Swoon &bull; released 2018-08-03
+category: details
 description: Driving indie guitar rock with extra-strength riffs and detailed dynamics,
   great harmonies, and memorable hooks.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'Wild Pink :: Yolk In The Fur'
 subtitle: Tiny Engines &bull; released 2018-07-20
+category: details
 description: Alternative rock with a tinge of Americana, the perfect thing to eat
   up miles and miles of road trip.
 author: jclacking

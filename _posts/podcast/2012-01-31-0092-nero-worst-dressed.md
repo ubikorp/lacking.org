@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0092: Nero Worst Dressed'
 subtitle: ''
+category: podcast
 name: Nero Worst Dressed
 episode: '0092'
 audio_file: podcast/0001-0100/0092.nero-worst-dressed.mp3

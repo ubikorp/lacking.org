@@ -1,6 +1,7 @@
 ---
 title: 'Jo Passed :: Their Prime'
 subtitle: Sub Pop &bull; released 2018-05-25
+category: details
 description: Somewhere beyond easy genres is this woozy mix of indie soul and post-rock
   complication.
 author: jclacking

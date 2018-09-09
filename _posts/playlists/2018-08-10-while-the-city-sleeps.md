@@ -1,7 +1,7 @@
 ---
 title: While The City Sleeps
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: |-
   This is my first time seeing the sun rise from the studio. There's been plenty of sunsets, and plenty of times when I was on the air at the time but in a windowless studio.
 

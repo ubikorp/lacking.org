@@ -1,7 +1,7 @@
 ---
 title: Turn And Smile
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: After a long absence, the Rock*a*Teens return with their trademark sonic
   assault, but with the reverb turned down a bit. They kick off this week's show with
   "Turn and Smile".

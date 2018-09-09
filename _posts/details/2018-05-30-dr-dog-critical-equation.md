@@ -1,6 +1,7 @@
 ---
 title: 'Dr. Dog :: Critical Equation'
 subtitle: We Buy Gold &bull; released 2018-04-27
+category: details
 description: The band returns with more of their particular brand of folksy psychedelia.
   Lots of great hooks and harmonies, as usual.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'Ruler :: Winning Star Champion'
 subtitle: Barsuk &bull; released 2018-05-25
+category: details
 description: A brilliant collection of indie pop gems, featuring the sounds and hooks
   that made “alternative music” so great in the first place.
 author: jclacking

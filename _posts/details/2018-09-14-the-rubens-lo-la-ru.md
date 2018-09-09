@@ -1,6 +1,7 @@
 ---
 title: 'The Rubens :: Lo La Ru'
 subtitle: Ivy League &bull; released 2018-06-29
+category: details
 description: 'Fantastic Aussie rock-pop with a lot of variety, each song having its
   own strange melodic structure and personality. '
 author: jclacking

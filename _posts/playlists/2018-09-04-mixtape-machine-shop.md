@@ -1,7 +1,7 @@
 ---
 title: 'Mixtape :: Machine Shop'
 subtitle: KAFM Grand Junction, 9pm - 10pm
-category: kafm
+category: playlists
 description: This is MACHINE SHOP, a special one-hour mixtape from yours truly featuring
   songs about all the weird devices we humans have imagined and constructed out of
   musical parts. I’m closing it out with the Smugglers’ “She’s A Machine,” which inspired

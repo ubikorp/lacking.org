@@ -1,7 +1,7 @@
 ---
 title: Ace Of Spades
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: I think Lemmy would have appreciated Canadian superbanjoplayer Lisa LeBlanc's
   fierce take on "Ace Of Spades".
 author: jclacking

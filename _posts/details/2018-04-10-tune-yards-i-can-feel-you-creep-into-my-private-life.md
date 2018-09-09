@@ -1,6 +1,7 @@
 ---
 title: 'Tune-Yards :: I can feel you creep into my private life'
 subtitle: 4AD &bull; released 2018-01-19
+category: details
 description: Angular compositions and Merrill Garbus’ distinctive vocals, glued together
   in strange uncomfortable ways, but it all works.
 author: jclacking

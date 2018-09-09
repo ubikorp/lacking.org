@@ -1,6 +1,7 @@
 ---
 title: 'The Mystery of the Bulgarian Voices :: BooCheeMish'
 subtitle: Prophecy &bull; released 2018-05-25
+category: details
 description: A sound you could classify as ethereal, alien, or both. Ancient gregorian
   harmonies collide with Middle Eastern time signatures for something truly unique.
   Features DCD’s Lisa Gerrard

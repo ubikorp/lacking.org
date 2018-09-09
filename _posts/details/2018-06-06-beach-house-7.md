@@ -1,6 +1,7 @@
 ---
 title: 'Beach House :: 7'
 subtitle: Sub Pop &bull; released 2018-05-11
+category: details
 description: Washes of sound surround you as half-heard vocals intertwine with half-remembered
   melodies.
 author: jclacking

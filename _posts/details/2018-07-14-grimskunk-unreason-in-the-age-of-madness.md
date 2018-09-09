@@ -1,6 +1,7 @@
 ---
 title: 'Grimskunk :: Unreason In the Age of Madness'
 subtitle: Indica &bull; released 2018-04-27
+category: details
 description: Aggressive metal-reggae-funk, which is not something I generally like,
   but this one has some sort of undermined charm to it.
 author: jclacking

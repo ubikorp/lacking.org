@@ -1,6 +1,7 @@
 ---
 title: 'Hawk :: Bomb Pop'
 subtitle: New Garden &bull; released 2018-05-15
+category: details
 description: Solid power-pop outing with an all-star cast… a must for fans of the
   Yellow Pills series.
 author: jclacking

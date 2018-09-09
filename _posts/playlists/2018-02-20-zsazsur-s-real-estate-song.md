@@ -1,7 +1,7 @@
 ---
 title: Zsazsur's Real Estate Song
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Like getting picked up by the scruff of your neck and smashed into a
   wall of orange Jello, Swarming Branch gets your attention with the warping and weaving
   of "Zsazsur's Real Estate Song".

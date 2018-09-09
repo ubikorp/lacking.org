@@ -1,6 +1,7 @@
 ---
 title: 'Kyle Craft :: Full Circle Nightmare'
 subtitle: Sub Pop &bull; released 2018-02-02
+category: details
 description: A master songwriter effortlessly putting out majestic compositions that
   will stick in your head for weeks.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'Ty Richards :: Welcome to Flat Earth'
 subtitle: Tremolo &bull; released 2018-04-20
+category: details
 description: Another one-man rock act that wears its influences on its sleeve, but
   it’s well done so don’t take that as a complaint. Highly political.
 author: jclacking

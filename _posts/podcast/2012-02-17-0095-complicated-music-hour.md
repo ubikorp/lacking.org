@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0095: Complicated Music Hour'
 subtitle: ''
+category: podcast
 name: Complicated Music Hour
 episode: '0095'
 audio_file: podcast/0001-0100/0095.complicated-music-hour.mp3

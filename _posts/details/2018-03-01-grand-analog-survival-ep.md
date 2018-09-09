@@ -1,6 +1,7 @@
 ---
 title: 'Grand Analog :: Survival EP'
 subtitle: Grand Analog Music &bull; released 2018-01-26
+category: details
 description: Soulful beats in the style of old-school acid jazz, mostly instrumental.
 author: jclacking
 image:

@@ -1,6 +1,7 @@
 ---
 title: 'Spider Bags :: Someday Everything Will Be Fine'
 subtitle: Merge &bull; released 2018-08-03
+category: details
 description: Fast-forward punk, with the sort of edge that comes from the current
   DIY movement, and an unknown spice that makes the songs stand out from your standard
   barrage of fuzzed out chords and beats.

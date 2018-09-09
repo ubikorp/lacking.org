@@ -1,6 +1,7 @@
 ---
 title: 'Rainbow Kitten Surprise :: How To: Friend, Love, Freefal'
 subtitle: Elektra &bull; released 2018-04-06
+category: details
 description: Heady mix of folk, electronic and hip hop elements swirling together
   into something unique and accessible.
 author: jclacking

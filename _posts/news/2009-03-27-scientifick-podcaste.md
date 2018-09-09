@@ -1,6 +1,7 @@
 ---
 title: 'Announcement: A podcaste!'
 subtitle: Refreshments will be served.
+category: news
 author: jclacking
 image:
   src: news/2009/scientifick_podcaste.jpg

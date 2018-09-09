@@ -1,6 +1,7 @@
 ---
 title: X-Man
 subtitle: 'Teakettle Time :: Episode 01'
+permalink: /a-little-special/scripts/x-man
 ---
 with Zelda Chomsky
 
@@ -124,4 +125,4 @@ In the meantime, if you need to get a hold of me, just purse your lips...
 
 _END_
 
-<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>
+<a class="button big next" href="{% link pages/a-little-special/index.md %}">A Little Special Home</a>

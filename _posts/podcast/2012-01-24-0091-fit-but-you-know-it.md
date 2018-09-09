@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0091: Fit But You Know It'
 subtitle: ''
+category: podcast
 name: Fit But You Know It
 episode: '0091'
 audio_file: podcast/0001-0100/0091.fit-but-you-know-it.mp3

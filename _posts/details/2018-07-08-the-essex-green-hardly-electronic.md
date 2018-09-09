@@ -1,6 +1,7 @@
 ---
 title: 'The Essex Green :: Hardly Electronic'
 subtitle: Merge &bull; released 2018-06-29
+category: details
 description: Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars…
   what else do you need to play this summer?
 author: jclacking

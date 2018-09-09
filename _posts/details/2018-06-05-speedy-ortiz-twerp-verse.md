@@ -1,6 +1,7 @@
 ---
 title: 'Speedy Ortiz :: Twerp Verse'
 subtitle: Carpark &bull; released 2018-04-27
+category: details
 description: A powerful set of guitar pop songs, fronted by sometimes disaffected
   indie female vocals.
 author: jclacking

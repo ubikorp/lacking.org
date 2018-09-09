@@ -1,6 +1,7 @@
 ---
 title: 'Gang Gang Dance :: Kazuashita'
 subtitle: 4AD &bull; released 2018-06-22
+category: details
 description: An intense mix of international flavors and electronic treatments, this
   album is an exotic transcendental journey across imaginary foreign lands.
 author: jclacking

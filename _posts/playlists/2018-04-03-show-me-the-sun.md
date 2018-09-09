@@ -1,7 +1,7 @@
 ---
 title: Show Me The Sun
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: Time has not dulled the edge of this band. "Show Me The Sun" highlights
   their psychedelic side.
 author: jclacking

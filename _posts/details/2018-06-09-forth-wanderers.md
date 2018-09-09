@@ -1,6 +1,7 @@
 ---
 title: 'Forth Wanderers :: Forth Wanderers'
 subtitle: Sub Pop &bull; released 2018-04-27
+category: details
 description: Wildly dynamic swings of mood from this rock-format combo, filled with
   sweet chiming vocal harmonies set against dissonance and rhythm.
 author: jclacking

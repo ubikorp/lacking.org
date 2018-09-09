@@ -1,6 +1,7 @@
 ---
 title: 'The Cleveland Steamers :: Best Record Ever'
 subtitle: Smog Veil &bull; released 2018-05-04
+category: details
 description: Hard-rocking, beer-chugging, smoke-breaking anthems from this Cleveland
   couple. They can also veer into weird and spooky.
 author: jclacking

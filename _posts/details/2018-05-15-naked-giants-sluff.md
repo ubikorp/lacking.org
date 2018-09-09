@@ -1,6 +1,7 @@
 ---
 title: 'Naked Giants :: Sluff'
 subtitle: New West &bull; released 2018-03-30
+category: details
 description: This goes all over the place, but mostly rocks hard with inventive arrangements
   and infectious hooks.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'The Creation Factory :: The Creation Factory'
 subtitle: Lolipop &bull; released 2018-05-04
+category: details
 description: A pitch perfect replica of what made the British Invasion so formidable.
   Face-melting fuzz, underwater cathedral organs, warbling vocal harmonies, and so
   much more.

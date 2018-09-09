@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0093: Take Stuff From Work'
 subtitle: ''
+category: podcast
 name: Take Stuff From Work
 episode: '0093'
 audio_file: podcast/0001-0100/0093.take-stuff-from-work.mp3

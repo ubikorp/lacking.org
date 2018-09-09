@@ -1,6 +1,7 @@
 ---
 title: 'Nightmares On Wax :: Shape The Future'
 subtitle: Warp &bull; released 2018-01-26
+category: details
 description: If you gotta have some beats, you gotta have some Nightmares on Wax.
   Moody interludes for slick rainy asphalt.
 author: jclacking

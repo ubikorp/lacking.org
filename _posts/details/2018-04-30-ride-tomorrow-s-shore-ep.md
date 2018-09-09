@@ -1,6 +1,7 @@
 ---
 title: 'Ride :: Tomorrow’s Shore EP'
 subtitle: Wichita &bull; released 2018-02-16
+category: details
 description: Washes of fuzzed-out bliss at your choice of tempos
 author: jclacking
 image:

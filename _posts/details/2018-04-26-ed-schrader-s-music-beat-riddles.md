@@ -1,6 +1,7 @@
 ---
 title: 'Ed Schrader''s Music Beat :: Riddles'
 subtitle: Carpark &bull; released 2018-03-02
+category: details
 description: Heady mix of post-punk and electronic sounds, heavy on the bass riffing.
   Features Dan Deacon on beeps and such.
 author: jclacking

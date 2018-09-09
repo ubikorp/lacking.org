@@ -1,6 +1,7 @@
 ---
 title: 'Calpurnia :: Scout EP'
 subtitle: Royal Mountain &bull; released 2018-06-08
+category: details
 description: Some very young Canadians show plenty of promos with this pleasantly
   bratty set of indie guitar rock.
 author: jclacking

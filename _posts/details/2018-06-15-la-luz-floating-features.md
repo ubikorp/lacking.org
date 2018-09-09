@@ -1,6 +1,7 @@
 ---
 title: 'La Luz :: Floating Features'
 subtitle: Hardly Art &bull; released 2018-05-11
+category: details
 description: La Luz takes everything that’s great about surf rock and dreamy girl
   vocals, gives it a new coat of paint, fills it with high-octane, and dares you to
   keep up.

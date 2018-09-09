@@ -1,6 +1,7 @@
 ---
 title: 'Born Ruffians :: Uncle, Duke + the Chief'
 subtitle: Yep Roc &bull; released 2018-02-16
+category: details
 description: Some of that weird pop, this time with a definite tinge of Americana,
   or perhaps Canadiana, since the band is from Toronto
 author: jclacking

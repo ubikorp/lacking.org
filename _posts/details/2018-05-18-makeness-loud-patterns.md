@@ -1,6 +1,7 @@
 ---
 title: 'Makeness :: Loud Patterns'
 subtitle: Secretly Canadian &bull; released 2018-04-06
+category: details
 description: An engaging hybrid of analog and electronic sounds, with occasional soulful
   vocals intertwined in the mix.
 author: jclacking

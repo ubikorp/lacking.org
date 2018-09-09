@@ -1,7 +1,7 @@
 ---
 title: San San Rock
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: The Thievery Corporation has institutionalized the plagiarism of genres,
   and this week's dub-influenced opener is no exception.
 author: jclacking

@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0100: Keep Brevard Weird'
 subtitle: ''
+category: podcast
 name: Keep Brevard Weird
 episode: '0100'
 audio_file: podcast/0001-0100/0100.keep-brevard-weird.mp3

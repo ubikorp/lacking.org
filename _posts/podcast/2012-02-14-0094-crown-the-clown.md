@@ -1,6 +1,7 @@
 ---
 title: 'Episode 0094: Crown The Clown'
 subtitle: ''
+category: podcast
 name: Crown The Clown
 episode: '0094'
 audio_file: podcast/0001-0100/0094.crown-the-clown.mp3

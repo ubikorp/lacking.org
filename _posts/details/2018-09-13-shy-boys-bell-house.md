@@ -1,6 +1,7 @@
 ---
 title: 'Shy Boys :: Bell House'
 subtitle: Polyvinyl &bull; released 2018-08-03
+category: details
 description: Very understated, yet completely engaging. Shy Boys live up to their
   name with this collection of softly-strummed, gently-tapped, whisper-harmonized
   indie basement gems.

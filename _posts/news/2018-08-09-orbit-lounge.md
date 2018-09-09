@@ -1,6 +1,7 @@
 ---
 title: Guest Hosting the Orbit Lounge
 subtitle: Charge up your Friday Morning
+category: news
 author: jclacking
 image:
   src: news/2018/orbit_lounge_08.jpg

@@ -1,7 +1,7 @@
 ---
 title: The Decline of Nations
 subtitle: KAFM Grand Junction, 9pm - 12am
-category: kafm
+category: playlists
 description: This song by La Louma sure is a catchy anthem for us skeptics and cynics.
 author: jclacking
 airdate: '2018-01-09'

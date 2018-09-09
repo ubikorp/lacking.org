@@ -1,6 +1,7 @@
 ---
 title: 'King Tuff :: The Other'
 subtitle: Sub Pop &bull; released 2018-04-13
+category: details
 description: King Tuff clearly has a rock and roll heart, with the sort of grandiose
   expression that has a southern blues charm.
 author: jclacking
