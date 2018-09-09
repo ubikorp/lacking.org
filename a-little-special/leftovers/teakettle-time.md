@@ -17,3 +17,13 @@ But enough yakkin from ol’ Zelda, let’s check out "I Like Bananas (Because T
 ---
 
 So let’s get back on the WhistleBus with another installment of Teakettle Time.
+
+I like to make up facts that our listeners might not know:
+
+Sonny was actually born with a condition called "short lung".
+
+If you know anything about the mechanics of whistling, you’ll know just how much lung pressure is required to obtain such a clear, bell-like tone.
+
+Me, I’m still struggling!
+
+And I’ve got two big healthy lungs!

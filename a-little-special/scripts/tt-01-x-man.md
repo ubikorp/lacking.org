@@ -16,7 +16,7 @@ _EPISODE_
 
 Hey guys, it's Zelda, and I have fifteen minutes before my next dog-walking appoinment.
 
-It's just about enough time to play you some of my favorite whistling solos.
+It's just about enough time to play you some of my absolute favorite whistling solos.
 
 I love whistling, I think it's a sound that goes beyond the human voice into the realm of absolute purity.
 
@@ -38,15 +38,7 @@ But that's not why I'm here.
 
 We’re going to listen to Sonny Smith, the Wizard of Whistledom as he brings us his international smash hit: ‘X-Man.’
 
-I like to make up facts that our listeners might not know:
-
-Sonny was actually born with a condition called "short lung".
-
-If you know anything about the mechanics of whistling, you’ll know just how much lung pressure is required to obtain such a clear, bell-like tone.
-
-Me, I’m still struggling!
-
-And I’ve got two big healthy lungs!
+Once he stops babbling and hits that slide up to a G flat, my world stops like I just saw a squirrel.
 
 You know... it’s enough to make a girl a little bit jealous.
 
@@ -88,7 +80,7 @@ He whistles!
 
 Sibilations and salutations, Ted Leo
 
-Do not be distracted by this tragedy, for there is a whistling solo coming up.
+Do not be distracted by the tragedy of this song having come to an end, for there is another whistling solo coming up.
 
 Good old Charlie Chesterman.
 
@@ -131,3 +123,5 @@ In the meantime, if you need to get a hold of me, just purse your lips...
 ...and send me a text message.
 
 _END_
+
+<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>

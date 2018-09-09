@@ -64,6 +64,8 @@ Most awesome.
 
 That song was originally by the Los Angeles hardcore band Black Flag, by the way.
 
+If you are having your own TV Party, I highly recommend you invite Officer Hardy, because he has a primo VHS copy of "Repo Man" he can bring.
+
 I’ll tell you, you get see a lot of stuff in the course of protecting the campus peace.
 
 The next song is an absolute true story.
@@ -86,8 +88,10 @@ If you need help remembering the lyrics, you can just flag down your friend Offi
 
 Because I know the words to all the party songs.
 
-This is officer Bryant “Party” Hardy, and until next time:
+This is Officer Bryant “Party” Hardy, and until next time:
 
 Don’t bother running because I know all the shortcuts.
 
 _END_
+
+<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>

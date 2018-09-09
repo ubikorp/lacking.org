@@ -26,11 +26,9 @@ Sometimes, when the workday becomes long and boring, I’ll tap into the remaini
 
 I can do it because I’m a lineman.
 
-And it’s usually just static.
+It’s usually just static.
 
 I’m all but obsolete.
-
-And nearly dead.
 
 Still listening.
 
@@ -88,6 +86,8 @@ This song proves that an important message was delivered, and as I gaze at the f
 
 As a telephone lineman, I strung the net that caught and held this struggling nation, but these days I’m in charge of taking it apart.
 
-I am the one who disconnects your landline, snuffing it out like a candle that’s burned almost all the way down.
+I am the one who disconnects your landline, snuffing it out like a candle that has burned almost all the way down.
 
 Celebrate your wireless future, heartless bastards.
+
+<a class="button big next" href="{% link a-little-special/index.md %}">A Little Special Home</a>
