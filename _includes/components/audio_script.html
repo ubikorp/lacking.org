@@ -2,13 +2,16 @@
 <script type="text/javascript">
   Amplitude.init({
     "songs": [
+{% for track in include.post.audio %}
       {
-        "name": "{{ include.post.episode }}: {{ include.post.name }}",
-        "artist": "with your host Julius C. Lacking",
-        "album": "{{ include.post.airdate | date: "%b %-d, %Y" }}",
-        "url": "{{ site.podcast.audio_file_url }}/{{ include.post.audio_file }}",
-        "cover_art_url": "/images/{{ include.post.image.src }}"
+        "name": "{{ track.name }}",
+        "artist": "{{ track.artist }}",
+        "album": "{{ track.album }}",
+        "url": "{{ site.podcast.audio_file_url }}/{{ track.url }}",
+        "cover_art_url": {% if track.cover_art_url %}"/images/{{ track.cover_art_url }}"{% else %}"/images/site/audio_file.jpg"{% endif %}
       }
+      {% unless forloop.last %}, {% endunless %}
+{% endfor %}
     ]
   });
 </script>

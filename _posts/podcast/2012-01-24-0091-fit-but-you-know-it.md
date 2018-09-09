@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Fit But You Know It
 episode: '0091'
-audio_file: podcast/0001-0100/0091.fit-but-you-know-it.mp3
+audio:
+- name: '0091 :: Fit But You Know It'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0091.fit-but-you-know-it.mp3
+  cover_art_url: podcast/0091-the-streets.jpg
 description: There’s something simply ADORABLE about a rapper with a British accent.
   Mike Skinner is no longer fronting the project, but expect more great things from
   him.

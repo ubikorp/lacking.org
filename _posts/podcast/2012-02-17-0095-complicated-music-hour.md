@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Complicated Music Hour
 episode: '0095'
-audio_file: podcast/0001-0100/0095.complicated-music-hour.mp3
+audio:
+- name: '0095 :: Complicated Music Hour'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0095.complicated-music-hour.mp3
+  cover_art_url: podcast/0095-secret-chiefs-3.jpg
 description: 'It’s worth repeating: This is a music hour that is complicated. Any
   other interpretations based on how you chose to associate the words are strictly
   your problem.'

@@ -1,19 +1,31 @@
 ---
 title: Party Weekend
-subtitle: 'The Good Times Fun Review :: Episode 01'
+subtitle: 'The Good Times Fun Revue :: Episode 01'
 permalink: /als/scripts/party-weekend
+audio:
+  -
+    name: Party Weekend
+    artist: Joe \"King\" Carrasco
+    album: The Good Times Fun Revue
+    url: als/good-times/gt-01.party-weekend.mp3
+  -
+    name: TV Party
+    artist: Asylum Street Spankers
+    album: The Good Times Fun Revue
+    url: als/good-times/gt-02.tv-party.m4a
+  -
+    name: Collegiate Dope Slingaz
+    artist: All That
+    album: The Good Times Fun Revue
+    url: als/good-times/gt-03.collegiate-dope-slingaz.m4a
 ---
-with Bryant Hardy
+_with Bryant Hardy_
 
----
-
-_RADIO INTRO_
+## RADIO INTRO
 
 Thanks, Jul-eeeez! It’s nice to be here tonight partying with you and your listeners.
 
----
-
-_EPISODE_
+## EPISODE
 
 This is your friend in campus security, Officer Hardy, and I’m here about a disturbance.
 
@@ -75,7 +87,7 @@ I’m not the security guard they sing about, mind you, but my buddy Charles onc
 
 Small world!
 
-## &raquo; Collegiate Dope Slingaz / All That!
+### &raquo; Collegiate Dope Slingaz / All That!
 
 That was New Orleans band All That! with “Collegiate Dope Slingaz”.
 
@@ -93,6 +105,6 @@ This is Officer Bryant “Party” Hardy, and until next time:
 
 Don’t bother running because I know all the shortcuts.
 
-_END_
+## END
 
 <a class="button big next" href="{% link pages/als/index.md %}">A Little Special Home</a>

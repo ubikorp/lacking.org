@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Lather Rinse Repeat
 episode: '0090'
-audio_file: podcast/0001-0100/0090.lather-rinse-repeat.mp3
+audio:
+- name: '0090 :: Lather Rinse Repeat'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0090.lather-rinse-repeat.mp3
+  cover_art_url: podcast/0090-future-kings-of-nowhere.jpg
 description: Acoustic punk rock is always a dicey proposition, but The Future Kings
   of Nowhere and Shayne O’Neill rip through the genre like a blowtorch on toilet paper.
   Slick!

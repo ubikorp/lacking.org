@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Pickin’ The Chicken
 episode: '0098'
-audio_file: podcast/0001-0100/0098.pickin-the-chicken.mp3
+audio:
+- name: '0098 :: Pickin’ The Chicken'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0098.pickin-the-chicken.mp3
+  cover_art_url: podcast/0098-boredoms.jpg
 description: Is it noise, or is it Memorex? The Boredomes don’t seem to care much,
   as long as they get to make their fine, fine racket.
 author: jclacking

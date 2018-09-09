@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Nero Worst Dressed
 episode: '0092'
-audio_file: podcast/0001-0100/0092.nero-worst-dressed.mp3
+audio:
+- name: '0092 :: Nero Worst Dressed'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0092.nero-worst-dressed.mp3
+  cover_art_url: podcast/0092-sara-valenzuela.jpg
 description: It’s a hard turn to the left from Mexican funk pop to electronic soundscapes,
   but Sara Valenzuela has made the transition well.
 author: jclacking

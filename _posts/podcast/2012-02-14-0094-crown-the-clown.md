@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Crown The Clown
 episode: '0094'
-audio_file: podcast/0001-0100/0094.crown-the-clown.mp3
+audio:
+- name: '0094 :: Crown The Clown'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0094.crown-the-clown.mp3
+  cover_art_url: podcast/0094-hillstomp.jpg
 description: Despite coming from the hollers of Portland, Oregon, Hillstomp still
   manage to churn out the kind of thrumming crackle only a guitar-and-washboard duo
   can provide.

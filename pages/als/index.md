@@ -2,9 +2,13 @@
 title: A Little Special
 subtitle: Brief Thematic Interludes with Guest Hosts
 permalink: /als
+audio:
+  -
+    name: A Little Special Intro Theme
+    artist: Martin Pursley
+    album: Dolorous Sounds
+    url: als/a_little_special_theme.mp3
 ---
-
-## theme song
 
 **A Little Special** is a scripted program in which each episode presents a guest host, their musical obsession, and three of their favorite songs. The guest hosts are fairly idiosyncratic themselves, and their interests make sense, in a way. For example, Alexander Graham Johnson works as a lineman, and loves songs featuring telephone conversations and answering machine messages.
 

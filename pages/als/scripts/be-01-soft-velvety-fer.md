@@ -2,18 +2,30 @@
 title: Soft Velvety ‘Fer
 subtitle: 'The Beep End :: Episode 01'
 permalink: /als/scripts/soft-velvety-fer
+audio:
+  -
+    name: Soft Velvety 'Fer
+    artist: MC Honky
+    album: The Beep End
+    url: als/beep-end/be-01.soft-velvety-fer.m4a
+  -
+    name: Janine
+    artist: Soul Coughing
+    album: The Beep End
+    url: als/beep-end/be-02.janine.mp3
+  -
+    name: Move
+    artist: Brave Combo
+    album: The Beep End
+    url: als/beep-end/be-03.move.mp3
 ---
-with Alexander Graham Johnson
+_with Alexander Graham Johnson_
 
----
-
-_RADIO INTRO_
+## RADIO INTRO
 
 I can hear you, Julius.
 
----
-
-_EPISODE_
+## EPISODE
 
 Listeners! Hello hello.
 
@@ -90,5 +102,7 @@ As a telephone lineman, I strung the net that caught and held this struggling na
 I am the one who disconnects your landline, snuffing it out like a candle that has burned almost all the way down.
 
 Celebrate your wireless future, heartless bastards.
+
+## END
 
 <a class="button big next" href="{% link pages/als/index.md %}">A Little Special Home</a>

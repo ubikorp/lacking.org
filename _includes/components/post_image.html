@@ -1,4 +1,6 @@
-{% if include.post.image %}
+{% if include.post.audio %}
+  {% include components/audio_player.html airdate=page.airdate %}
+{% elsif include.post.image %}
   {% if page.layout == 'index' %}
     <a href="{{ include.post.url }}" class="image featured">
       <img src="/images/{{ include.post.image.src }}" alt="{{ include.post.image.caption }}" />

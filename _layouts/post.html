@@ -11,16 +11,27 @@ layout: tlo
     {% include components/post_meta.html post=page %}
   </header>
 
-  <!-- Image -->
+  <!-- Image or Audio Player -->
   {% include components/post_image.html post=page %}
 
   <!-- Content -->
   {{ content }}
+
+  <!-- Playlist -->
+  {% if page.playlist %}
+    {% include components/artists.html post=page %}
+    {% include components/playlist.html post=page %}
+  {% endif %}
 
   <!-- Footer -->
   {% include components/post_footer.html post=page %}
 
   <!-- Pagination -->
   {% include components/post_pagination.html post=page %}
+
+  <!-- Audio Scripts -->
+  {% if page.audio %}
+    {% include components/audio_script.html post=page %}
+  {% endif %}
 
 </article>

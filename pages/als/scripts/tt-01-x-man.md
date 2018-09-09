@@ -2,18 +2,30 @@
 title: X-Man
 subtitle: 'Teakettle Time :: Episode 01'
 permalink: /als/scripts/x-man
+audio:
+  -
+    name: X-Man
+    artist: Sonny Smith
+    album: Teakettle Time
+    url: als/teakettle-time/tk-01.x-man.mp3
+  -
+    name: Six Months in a Leaky Boat
+    artist: Ted Leo
+    album: Teakettle Time
+    url: als/teakettle-time/tk-02.six-months-in-a-leaky-boat.m4a
+  -
+    name: The Missing Person's Waltz
+    artist: Charlie Chesterman
+    album: Teakettle Time
+    url: als/teakettle-time/tk-03.the-missing-persons-waltz.m4a
 ---
-with Zelda Chomsky
+_with Zelda Chomsky_
 
----
-
-_RADIO INTRO_
+## RADIO INTRO
 
 Hey JC!
 
----
-
-_EPISODE_
+## EPISODE
 
 Hey guys, it's Zelda, and I have fifteen minutes before my next dog-walking appoinment.
 
@@ -123,6 +135,6 @@ In the meantime, if you need to get a hold of me, just purse your lips...
 
 ...and send me a text message.
 
-_END_
+## END
 
 <a class="button big next" href="{% link pages/als/index.md %}">A Little Special Home</a>

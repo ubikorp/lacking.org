@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Take Stuff From Work
 episode: '0093'
-audio_file: podcast/0001-0100/0093.take-stuff-from-work.mp3
+audio:
+- name: '0093 :: Take Stuff From Work'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0093.take-stuff-from-work.mp3
+  cover_art_url: podcast/0093-sex-clark-five.jpg
 description: It must be heartbreaking to be a slapdash concoction of musical genius…
   in Alabama. The Sex Clark Five were done and gone by the time the world really took
   notice, but we can still enjoy the limited artifacts they left behind.

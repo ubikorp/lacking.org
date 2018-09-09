@@ -9,7 +9,7 @@ layout: tlo
     {% include components/post_title.html post=page %}
   </header>
 
-  <!-- Image -->
+  <!-- Image or Audio Player -->
   {% include components/post_image.html post=page %}
 
   <!-- Content -->
@@ -17,5 +17,10 @@ layout: tlo
 
   <!-- Footer -->
   {% include components/post_footer.html post=page %}
+
+  <!-- Audio Scripts -->
+  {% if page.audio %}
+    {% include components/audio_script.html post=page %}
+  {% endif %}
 
 </article>

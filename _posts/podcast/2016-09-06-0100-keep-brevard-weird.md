@@ -4,7 +4,11 @@ subtitle: ''
 category: podcast
 name: Keep Brevard Weird
 episode: '0100'
-audio_file: podcast/0001-0100/0100.keep-brevard-weird.mp3
+audio:
+- name: '0100 :: Keep Brevard Weird'
+  artist: with your host Julius C. Lacking
+  url: podcast/0001-0100/0100.keep-brevard-weird.mp3
+  cover_art_url: podcast/0100-keep-brevard-weird.jpg
 description: This is the final episode of The Lacking Organization broadcast on WFIT
   on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform
   songs from their upcoming split 7" and get dragged down the verbal path by yours
