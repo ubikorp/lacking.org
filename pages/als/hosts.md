@@ -1,7 +1,7 @@
 ---
 title: The Hosts
 subtitle: The people that make things A Little Special
-permalink: /a-little-special/special-people
+permalink: /als/special-people
 ---
 
 ## Zelda Chomsky
@@ -40,4 +40,4 @@ Kevin knows he has to follow the sun. As one of the world’s most in-demand ice
 
 Because some of the bands he collects could be considered endangered, “The Zookeeper” insists we can’t use his real name, and must even refer to him in quotes for extra deniability. Having been on the internet for forever, “The Zookeeper” has visited websites on over 90 top-level domains, and even browsed some Unicode URLs. His passion for bands named after beasts exotic or jejune is evident in his record collection, which he likes to call “The Bestiary”. Those quotes are ours.
 
-<a class="button big next" href="{% link pages/a-little-special/index.md %}">A Little Special Home</a>
+<a class="button big next" href="{% link pages/als/index.md %}">A Little Special Home</a>

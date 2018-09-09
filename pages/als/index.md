@@ -1,7 +1,7 @@
 ---
 title: A Little Special
 subtitle: Brief Thematic Interludes with Guest Hosts
-permalink: /a-little-special
+permalink: /als
 ---
 
 ## theme song
@@ -10,14 +10,14 @@ permalink: /a-little-special
 
 Episodes will be released monthly, on [Mixcloud](https://www.mixcloud.com/the-lacking-org/) and aired on [KAFM](https://kafmradio.org/) as a feature in the Lacking Organization [radio show]({% link pages/radio_activity.md %}).
 
-&raquo; [Hosts]({% link pages/a-little-special/hosts.md %})
+&raquo; [Hosts]({% link pages/als/hosts.md %})
 
-&raquo; [Production Design]({% link pages/a-little-special/production-design.md %})
+&raquo; [Production Design]({% link pages/als/production-design.md %})
 
 ## Scripts
 
 ### In progress
 
-- [GT-01 Party Weekend]({% link pages/a-little-special/scripts/gt-01-party-weekend.md %})
-- [BE-01 Soft Velvety Fer]({% link pages/a-little-special/scripts/be-01-soft-velvety-fer.md %})
-- [TT-01 X-Man]({% link pages/a-little-special/scripts/tt-01-x-man.md %})
+- [GT-01 Party Weekend]({% link pages/als/scripts/gt-01-party-weekend.md %})
+- [BE-01 Soft Velvety Fer]({% link pages/als/scripts/be-01-soft-velvety-fer.md %})
+- [TT-01 X-Man]({% link pages/als/scripts/tt-01-x-man.md %})

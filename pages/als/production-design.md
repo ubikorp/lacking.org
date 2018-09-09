@@ -1,7 +1,7 @@
 ---
 title: Production Design
 subtitle: last update 2018-09-09
-permalink: /a-little-special/production-design
+permalink: /als/production-design
 ---
 
 | Music                         | Vox                    |
@@ -20,4 +20,4 @@ permalink: /a-little-special/production-design
 | BG MUSIC (Instrumental)       | CHARACTER: OUTRO       |
 | OUTRO THEME (Sean)            | JCL: CREDITS           |
 
-<a class="button big next" href="{% link pages/a-little-special/index.md %}">A Little Special Home</a>
+<a class="button big next" href="{% link pages/als/index.md %}">A Little Special Home</a>
