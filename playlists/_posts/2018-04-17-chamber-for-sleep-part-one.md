@@ -18,7 +18,7 @@ tags: screaming-females dean-ween-group hush-sound telamor asylum-street-spanker
   messer-chups kinks flight-of-conchords gwenno galactic marble-party artichoke internal-external
   this-is-kit naked-giants julia-p-hersheimer car-seat-headrest elvis-perkins-in-dearland
   quintron l7 metz moon-hooch
-keywords: Screaming Females, Dean Ween Group, The Hush Sound , Telamor, Asylum Street
+keywords: Screaming Females, Dean Ween Group, The Hush Sound, Telamor, Asylum Street
   Spankers, The Mercury Program, Ladytron, Killing Joke, Moondog, West Nkosi, Jen
   Cloher, The Front Bottoms, Five-Eight, All That, Queens Of The Stone Age, Daft Punk,
   Jennyanykind, Squeeze, Born Ruffians, Gogol Bordello, MOTOR, The White Stripes,

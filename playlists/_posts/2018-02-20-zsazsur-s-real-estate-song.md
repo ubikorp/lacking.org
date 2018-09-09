@@ -28,7 +28,7 @@ keywords: Swarming Branch, J. Roddy Walston &amp; The Business, Un Dos Tres Y Fu
   Cherry, Starcrawler, Rolling Blackouts Coastal Fever, Kelley Stoltz, Slowdive, Fishbone,
   Johnny Sangster And Robb Benson, Heavy Trash, White Hassle, Rachel Taylor Brown,
   Foxygen, Frente!, Mother Mother, Neutral Milk Hotel, Nightmares On Wax, Holy, Jeff
-  Rosenstock, Reptaliens, Fort Lauderdale, The Z Kamp Express, Stereo Total , Tony
+  Rosenstock, Reptaliens, Fort Lauderdale, The Z Kamp Express, Stereo Total, Tony
   Allen
 ---
 Like getting picked up by the scruff of your neck and smashed into a wall of orange Jello, Swarming Branch gets your attention with the warping and weaving of "Zsazsur's Real Estate Song".

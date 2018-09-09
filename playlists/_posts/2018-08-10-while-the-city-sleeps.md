@@ -19,7 +19,7 @@ tags: b-fleischmann anubian-lights mc-900-foot-jesus ashtech gentle-people howe-
   combustible-edison-esquivel fatboy-slim towa-tei skeewiff simian-mobile-disco nortec-collective
   fantastic-plastic-machine arling-cameron ultra-wide-band james-curd buraka-som-sistema
   shantel
-keywords: B. Fleischmann, The Anubian Lights , MC 900 Foot Jesus, Ashtech, The Gentle
+keywords: B. Fleischmann, The Anubian Lights, MC 900 Foot Jesus, Ashtech, The Gentle
   People, Howe Gelb + Grandaddy, Amon Tobin, Lemon Jelly, Emperor Penguin, Chemical
   Brothers, Kid Koala + Dynomite D, Pizzicato Five, Gotan Project, Montefiori Cocktail,
   The High Llamas, Medeski Martin + Wood, Cornershop, Jungle Brothers, Combustible

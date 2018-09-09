@@ -25,7 +25,7 @@ keywords: Pixies, Cherry, Goldfrapp, Shame, The Fratellis, Walt Wagner, Filthy F
   Palm, Grand Analog, The Rants, A Giant Dog, Les Wampas, Starcrawler, Marble Party,
   Brak, The Slackers, Artichoke, Swear And Shake, Holy, Tune-Yards, Fat White Family,
   Mo Kenney, Graham Coxon, Devendra Banhart, Jeff Rosenstock, Philly Boy Roy, Ben
-  Folds Five, Southern Culture On The Sklds, Andrea Perry , Teenage Bottlerocket,
-  The Capes, Mac DeMarco, Gillian Welch/Alison Krauss
+  Folds Five, Southern Culture On The Sklds, Andrea Perry, Teenage Bottlerocket, The
+  Capes, Mac DeMarco, Gillian Welch/Alison Krauss
 ---
 Even obscurists get to form supergroups, and Filthy Friends is one of the top entries in that category, with membership from Sleater-Kinney, the Young Fresh Fellows, the Fastbacks, and more.

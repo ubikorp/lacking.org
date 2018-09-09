@@ -24,6 +24,6 @@ keywords: Beach House, The Lovemakers, Kudu, Five-Eight, Hawk, Split Enz, Naked 
   Black Moth Super Rainbow, Ruler, Evaporators, White Rabbits , Twink, The Abe Lincoln
   Story, Middle Kids, Coldspot 8, The Decemberists, Khruangbin, Greta Van Fleet, Illinois,
   La Luz, Carl Henry Brueggen, Speedy Ortiz, Buffalo Tom, Forth Wanderers, Squarepusher,
-  Madness , The Soft Boys, Ween, Cryptkeeper Five, Femi Kuti, Django Django
+  Madness, The Soft Boys, Ween, Cryptkeeper Five, Femi Kuti, Django Django
 ---
 Beach House's music always rings as the soundtrack to some brain-warped too-much-party film montage. WIth "Drunk In LA", their song titles are catching up with the vibe.

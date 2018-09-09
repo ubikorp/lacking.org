@@ -26,7 +26,7 @@ keywords: William Shatner, Mexican Institute of Sound, Ween, Belle &amp; Sebasti
   Holy, Warbly Jets, Emiliana Torrini, Oberon Rose, Japancakes, Eagles of Death Metal,
   Messer Chups, Marble Party, Logan&#39;s Sanctuary, Death By Unga Bunga, Car Seat
   Headrest, Stacy Phillips, Dean Ween Group, Mood Elevator, Sir Millard Mulch, American
-  Pleasure Club, King Crimson, Madness , Mr. Elevator &amp; The Brain Hotel, Kiss
-  Me Yesterday, Dylan Group
+  Pleasure Club, King Crimson, Madness, Mr. Elevator &amp; The Brain Hotel, Kiss Me
+  Yesterday, Dylan Group
 ---
 Time has not dulled the edge of this band. "Show Me The Sun" highlights their psychedelic side.

@@ -23,7 +23,7 @@ tags: courtney-barnett moonlandingz damn low-cut-connie drink-me shy-boys femi-k
 keywords: Courtney Barnett, The Moonlandingz, Damn, Low Cut Connie, Drink Me, Shy
   Boys, Femi Kuti, The Record Company, Spider Bags, Mikaela Davis, Juana Molina, Black
   Moth Super Rainbow, Wild Pink, Thievery Corporation, Add N To (X), The Gun Club,
-  Yung Heazy, This Is The Kit, Madness , The Anubian Lights , The Creation Factory,
+  Yung Heazy, This Is The Kit, Madness, The Anubian Lights, The Creation Factory,
   The Squirrels, Delta Moon, The Essex Green, Sir Millard Mulch, Rock*a*Teens, Here
   Lies Man, Khruangbin, Ondatrópica, Forth Wanderers, The Moms, Café Tacvba, Mazzy
   Star, Father John Misty, Quasi, The Rubens, Twink, Gary Young, Snail Mail, Adrian

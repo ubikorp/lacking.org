@@ -22,7 +22,7 @@ keywords: Diamante Eléctrico, Swarming Branch, Lisa LeBlanc, The Growlers, A Gi
   Dog, Devo, La Louma, Mexican Institute Of Sound + Toy Selectah, Dearly Beloved,
   Escape-ism, Destroyer, Sharon Jones &amp; The Dap-Kings, Beck, Deer Tick, Wendy
   Carlos, The Moms, The Districts, Jason Falkner, Nada Surf, GGOOLLDD, Sugarcubes,
-  Jon Rauhouse, Stereo Total , Elvis Costello + The Attractions, Alvvays, The Hives,
+  Jon Rauhouse, Stereo Total, Elvis Costello + The Attractions, Alvvays, The Hives,
   Robert Plant, JD McPherson, Mosquitos, The Zombies, *Repeat Repeat, Langhorne Slim,
   Toadies, Melvins, Wolf Alice, Luna, Black Gardenia Featuring Daphne Roubini, Kelley
   Stoltz, Courtney Barnett &amp; Kurt Vile, Cibo Matto, Waxahatchee, Thee Oh Sees,
