@@ -23,8 +23,8 @@ Fantastic Aussie rock-pop with a lot of variety, each song having its own strang
 |-+------+-------|
 | 1 | Million Man | Electric piano singalong |
 | 2 | Go On | Fun swagger |
-| 6 | God Forgot | Floor toms and fingersnaps |
 | 4 | Never Ever (feat. Sarah) | Downtempo duet |
+| 6 | God Forgot | Floor toms and fingersnaps |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/5RtMam-4pdg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

@@ -21,8 +21,8 @@ Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power trio 
 
 | | Song | Notes |
 |-+------+-------|
-| 9 | Chamber For Sleep (Part One) | Upbeat and hooky |
 | 1 | Glass House | Smashing it up |
+| 9 | Chamber For Sleep (Part One) | Upbeat and hooky |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/C9GlmrLa1AE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

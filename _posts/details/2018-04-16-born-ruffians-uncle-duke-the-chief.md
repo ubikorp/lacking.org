@@ -22,8 +22,8 @@ Some of that weird pop, this time with a definite tinge of Americana, or perhaps
 | | Song | Notes |
 |-+------+-------|
 | 1 | Forget Me | Max reverberation |
-| 6 | Tricky | Whooping raver |
 | 4 | Love Too Soon | Whistling bits |
+| 6 | Tricky | Whooping raver |
 | 7 | Ring That Bell | Fast surfing |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/0qlo0mhBcGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

@@ -21,9 +21,9 @@ Twenty years later, Dr. Octagon still sounds like the future of intelligent-slas
 
 | | Song | Notes |
 |-+------+-------|
+| 1 | Octagon Octagon | A proper theme |
 | 2 | Polka Dots | Somewhat risqué |
 | 6 | Bear Witness IV | Turntables extreme |
-| 1 | Octagon Octagon | A proper theme |
 | 9 | 3030 Meets the Doc Pt. 1 | With Deltron |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/8p3CyHVzHZQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

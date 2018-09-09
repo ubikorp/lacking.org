@@ -20,8 +20,8 @@ Soulful beats in the style of old-school acid jazz, mostly instrumental.<!--more
 
 | | Song | Notes |
 |-+------+-------|
-| 4 | Mutations | Kickin’ it ‘90s |
 | 3 | Stardust | Short interlude |
+| 4 | Mutations | Kickin’ it ‘90s |
 | 6 | Ride On  / Oshiya Dub | Bring the dub |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/VZhhb5xjQCQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

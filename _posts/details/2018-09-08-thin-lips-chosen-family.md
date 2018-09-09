@@ -21,9 +21,9 @@ Rock anthems filled with quirky bits of beat and string, layered with some honey
 
 | | Song | Notes |
 |-+------+-------|
-| 6 | I Know I'm The Asshole | Song is safe, title is not |
 | 2 | Gaslight Anthem (The Song Not The Band) | The new girl sound |
 | 3 | A Song For Those Who Miss You All The Time | Back and forth and back |
+| 6 | I Know I'm The Asshole | Song is safe, title is not |
 | 12 | What If I Saw You On The Street | Pixie pop punks |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/4OGHkcemxks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

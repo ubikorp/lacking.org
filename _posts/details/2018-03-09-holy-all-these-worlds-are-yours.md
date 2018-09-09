@@ -21,8 +21,8 @@ Dense arrangements make for a hallucinatory experience as each song feels like a
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | Dreaming Still? | Strings and reverb |
 | 4 | Premonition | Prog rock density |
+| 5 | Dreaming Still? | Strings and reverb |
 | 6 | All The Worlds Are Yours | 9-minute epic |
 | 9 | Wish 3 | Groovydelic |
 

@@ -21,8 +21,8 @@ Pitch perfect UK reggae from the Slits vocalist, full of heavenly harmonies and 
 
 | | Song | Notes |
 |-+------+-------|
-| 8 | Vessel of Love | Narcotic harmonies |
 | 3 | Survive | Audio sunshine |
+| 8 | Vessel of Love | Narcotic harmonies |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ymbMmvcVLt8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

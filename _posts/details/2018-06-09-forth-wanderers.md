@@ -21,10 +21,10 @@ Wildly dynamic swings of mood from this rock-format combo, filled with sweet chi
 
 | | Song | Notes |
 |-+------+-------|
-| 8 | Saunter | Out of control |
 | 1 | Nevermine | Like Pixies |
 | 2 | Company | Galloping majestic |
 | 5 | Not For Me | Soaring guitars |
+| 8 | Saunter | Out of control |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/X53IkGOQs0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

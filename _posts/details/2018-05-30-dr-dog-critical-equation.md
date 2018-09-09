@@ -21,8 +21,8 @@ The band returns with more of their particular brand of folksy psychedelia. Lots
 
 | | Song | Notes |
 |-+------+-------|
-| 9 | Under The Wheels | Shuffle and chime |
 | 7 | Heart Killer | Full-on ‘70s |
+| 9 | Under The Wheels | Shuffle and chime |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3cmHsBA0WLA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

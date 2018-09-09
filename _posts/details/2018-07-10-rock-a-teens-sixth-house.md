@@ -21,9 +21,9 @@ This southern gothic staple returns, with a bit less reverb but just as much ago
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | Baby’s On To Me | Slower and drumless |
 | 3 | Turn and Smile | Return to form |
 | 4 | Go Tell Everybody | Lethal hook |
+| 5 | Baby’s On To Me | Slower and drumless |
 | 6 | Closest To Heaven | Water to a boil |
 | 9 | Listen, Sonny Boy | Up for a fight |
 

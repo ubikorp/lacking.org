@@ -21,11 +21,11 @@ Heady mix of folk, electronic and hip hop elements swirling together into someth
 
 | | Song | Notes |
 |-+------+-------|
-| 9 | When It Lands | Rapture breakdown |
-| 8 | Hide | Stopstart beat |
 | 3 | Fever Pitch | Gentle tinkles |
 | 4 | It’s Called: Freefall | Chant-along |
 | 6 | Matchbox | Weird chordings |
+| 8 | Hide | Stopstart beat |
+| 9 | When It Lands | Rapture breakdown |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/zMINv5ggLww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

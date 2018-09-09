@@ -21,8 +21,8 @@ Washes of sound surround you as half-heard vocals intertwine with half-remembere
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | Drunk In LA | Fairly sobering |
 | 2 | Pay No Mind | Slowmotion disaster |
+| 5 | Drunk In LA | Fairly sobering |
 | 9 | Woo | Very Late Eighties |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/M0vMIQLXxqQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

@@ -21,8 +21,8 @@ Angular compositions and Merrill Garbus’ distinctive vocals, glued together in
 
 | | Song | Notes |
 |-+------+-------|
-| 7 | Colonizer | Glitch Beat |
 | 3 | ABC 123 | Not the Jackson 5 |
+| 7 | Colonizer | Glitch Beat |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3-7je-jsuC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

@@ -22,9 +22,9 @@ La Luz takes everything that’s great about surf rock and dreamy girl vocals, g
 
 | | Song | Notes |
 |-+------+-------|
-| 4 | Mean Dream | Laid back strummer |
 | 1 | Floating Features | Epic introduction |
 | 2 | Cicada | Urgent message |
+| 4 | Mean Dream | Laid back strummer |
 | 5 | California Finally | Road anthem |
 | 7 | My Golden One | Tropical cavern |
 

@@ -21,12 +21,12 @@ Is it experimental psychedelia or is it the soundtrack to a fragmented dream? It
 
 | | Song | Notes |
 |-+------+-------|
-| 14 | Backwash | Slow wander |
 | 2 | Baby’s In The Void | Swells and washes |
 | 4 | One More Ear | Tincan guitar |
 | 6 | New Breeze | Wistful hook |
 | 10 | Permanent Hole | Detective story |
 | 12 | We Might Come Back | Twinking stars |
+| 14 | Backwash | Slow wander |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/XI-Vr6gKbwk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

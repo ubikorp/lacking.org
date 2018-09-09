@@ -22,9 +22,9 @@ Very understated, yet completely engaging. Shy Boys live up to their name with t
 
 | | Song | Notes |
 |-+------+-------|
+| 4 | No Fun | Nothing to do with the Stooges |
 | 6 | Basement | Can’t get more self-referential |
 | 8 | Bell House | Chiming guitar layers |
-| 4 | No Fun | Nothing to do with the Stooges |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/JXCbALsrWYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

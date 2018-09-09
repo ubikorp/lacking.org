@@ -22,9 +22,9 @@ Fast-forward punk, with the sort of edge that comes from the current DIY movemen
 
 | | Song | Notes |
 |-+------+-------|
+| 2 | Oxcart Blues | These are fast oxen |
 | 5 | Cop Dream / Black Eye (True Story) | Full-on assault |
 | 7 | Tonight, I Walk On The Water | A triumphant feeling |
-| 2 | Oxcart Blues | These are fast oxen |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/YTW5EIctMKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

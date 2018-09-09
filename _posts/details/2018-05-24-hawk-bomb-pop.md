@@ -21,9 +21,9 @@ Solid power-pop outing with an all-star cast… a must for fans of the Yellow Pi
 
 | | Song | Notes |
 |-+------+-------|
-| 10 | Dry Your Eyes | Slow weeper |
 | 1 | Allison’s Gone | Timetravel time |
 | 3 | I Lied | Rolling psychedelia |
+| 10 | Dry Your Eyes | Slow weeper |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/lRYpJydaeYY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 

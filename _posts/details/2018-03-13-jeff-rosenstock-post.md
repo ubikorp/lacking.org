@@ -20,8 +20,8 @@ Great singalong spirit, hot flaming hooks, and actual things to say.<!--more-->
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | Powerlessness | Minutemen blasting |
 | 3 | Yr Throat | Breakneck speed |
+| 5 | Powerlessness | Minutemen blasting |
 | 8 | Beating My Head Against The Wall | A short beating |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/afg4NxQacvY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

@@ -21,10 +21,10 @@ A master songwriter effortlessly putting out majestic compositions that will sti
 
 | | Song | Notes |
 |-+------+-------|
-| 8 | Fake Magic Angel | Feeling Lennon |
 | 1 | Fever Dream Girl | Fast and feverish |
 | 5 | Exile Rag | Almost country |
 | 6 | Belmont (One Trick Pony) | Like AC/DC |
+| 8 | Fake Magic Angel | Feeling Lennon |
 
 <div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/rjdivIOgnU0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
