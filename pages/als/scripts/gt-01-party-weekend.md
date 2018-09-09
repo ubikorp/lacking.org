@@ -77,9 +77,15 @@ Most awesome.
 
 That song was originally by the Los Angeles hardcore band Black Flag, by the way.
 
-If you are having your own TV Party, I highly recommend you invite Officer Hardy, because he has a primo VHS copy of "Repo Man" he can bring.
+If you are having your own TV Party, you will need three things.
 
-I’ll tell you, you get see a lot of stuff in the course of protecting the campus peace.
+One, a television.
+
+Two, a lot of cheap beer.
+
+Three, Officer Hardy and his primo VHS copy of "Repo Man".
+
+But I’ll tell you, you get see a lot of stuff in the course of protecting the campus peace.
 
 The next song is an absolute true story.
 
