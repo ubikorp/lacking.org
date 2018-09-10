@@ -70,6 +70,7 @@ defaults:
       path: "pages/als"
     values:
       straight_text: true
+      hide_sharing: true
   -
     scope:
       path: "_posts/details"
