@@ -29,6 +29,10 @@ Use your home "radio" for this option. We hear tell of daring mobile radios, ins
 
 Use your Computor Station to decode a fanciful stream of 1s and 0s into an audio simulacrum of the happening! "Point" your "browser" to the following "link": **[kafmradio.org](https://www.kafmradio.org/)** -- therein you can locate a menu item stating "Listen." "Hovering" on this item will bring up a further menu refinement listing a staggering variety of available options. This enables the selection of platform-specific wizardry! Operate your Computor accordingly, and do this at the appropriate time for your chosen option.
 
+## Streaming Archive
+
+Radio broadcasts are archived on **[Radio Free America](https://www.radiofreeamerica.com/schedule/kafm)** and are available for streaming for two weeks after the airdate. Use the calendar to locate the date and time of the show you want to hear, then follow appropriate internet instincts to initiate delivery of time-preserved bytes to your device of preference. Note that labeling of radio broadcasts is not consistent and _The Lacking Organization_ may be listed as _New to You, New to Me_.
+
 ## Podcast
 
 A podcast is in re-development, with a handful of past episodes available. Witness available selections on our **[Podcast](/podcast/)** page.
