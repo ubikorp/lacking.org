@@ -9,11 +9,11 @@ image:
   src: details/2018/shannen_moser.jpg
 index: I’ll Sing, Shannen Moser
 tags: ''
-keywords: Shannon Whright, Joanna Newsom, Jessca Hoop, Lame-O
+keywords: Shannon Wright, Joanna Newsom, Jessca Hoop, Lame-O
 ---
 A distinctive voice and a careful meandering through the forests between Americana and indie rock make this a memorable set of songs.<!--more-->
 
-**Related**: Shannon Whright, Joanna Newsom, Jessca Hoop
+**Related**: Shannon Wright, Joanna Newsom, Jessca Hoop
 
 **FCC Notes**: #2
 
