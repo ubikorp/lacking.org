@@ -9,6 +9,8 @@ keywords: WFIT, KAFM
 image:
   src: pages/radio_activity.jpg
 ---
+{% include components/next_airdate.html %}
+
 Esteemed potential listeners--
 
 A messagegram to elucidate the scheduling of periodic activity! On these dates and times, it is a near-certainty that you can tune in to a type of rambling haphazard musical junkyard, with yours truly deliberating in between with lots of um's and factoids.

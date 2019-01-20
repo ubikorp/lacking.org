@@ -1,16 +1,8 @@
-{% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
 <div class="your-host">
   <a id="your-host-link" href="{% link pages/your_host.md %}">
     <img src="/images/contributors/jclacking.png">
     <h2>Your Host</h2>
     <h3>Julius C. Lacking</h3>
   </a>
-  <a href="{% link pages/radio_activity.md %}">
-    <p class="airdate">Next airdate: {{ next_airdate['date'] | date: "%b %-d, %Y" }}, {{ next_airdate['start_time'] }} - {{ next_airdate['end_time'] }} {{ next_airdate['time_zone'] }}</p>
-  </a>
-  <p class="location"><a href="http://www.kafmradio.org" target="_blank">KAFM Grand Junction 88.1 FM</a></p>
-  <p id="page-link"><a class="button" href="{% link pages/radio_activity.md %}">Schedule + More &raquo;</a></p>
-  <p id="stream-link">
-    <a class="button" href="http://www.radiorethink.com/tuner/?stationCode=KAFM&amp;stream=lo" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;">Listen now!</a>
-  </p>
+  {% include components/next_airdate.html %}
 </div>

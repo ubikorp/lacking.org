@@ -7,7 +7,6 @@
 <script type="text/javascript">
   $(document).ready(function(){
 
-  {% if page.layout == 'home' %}
     /* Show appropriate button when show is on the air */
     {% assign next_airdate = site.data.schedule | where:"future", "x" | sort: "date" | first %}
     {% if next_airdate.end_time == '12m' %}
@@ -24,7 +23,6 @@
       $('#page-link').show();
       $('#stream-link').hide();
     }
-  {% endif %}
 
   {% unless page.straight_text %}
     /* eff shizz up */

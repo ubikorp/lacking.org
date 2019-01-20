@@ -117,6 +117,11 @@ body {
     margin-bottom: 1.5em;
     margin-top: 0;
   }
+}
+
+.next-airdate {
+  text-align: center;
+
   p {
     margin: .25em 0;
     font-size: 1em;
@@ -128,7 +133,24 @@ body {
     font-family: _font(family-heading);
     font-weight: _font(weight-heading-bold);
   }
+}
 
+.single {
+  .next-airdate {
+    padding: 1em;
+
+    @include breakpoint('>=medium') {
+      position: absolute;
+      background: #fffd;
+      width: 50%;
+      top: 320px;
+      left: 25%;
+    }
+
+    #page-link {
+      display: none;
+    }
+  }
 }
 
 .tlo-detail-video {
