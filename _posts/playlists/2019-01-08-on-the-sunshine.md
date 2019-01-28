@@ -1,14 +1,14 @@
 ---
 title: On The Sunshine
-subtitle: KAFM Grand Junction, 10pm - 12am
+subtitle: KAFM Grand Junction, 9pm - 11pm
 category: playlists
 description: It's a slack time for new releases, but The Lacking Organization still
   has a tremendous backlog of excellent music from 2018 to work through. Gratitude
   to tonight's participants, ranging from Charley attending CES in Las Vegas to Sean
   fiddling with the dial and wondering if he got the right station.
 author: jclacking
-airdate: '2019-01-09'
-playlist: 2019-01-09-on-the-sunshine
+airdate: '2019-01-08'
+playlist: 2019-01-08-on-the-sunshine
 image:
   src: artists/2019/spiritualized.jpg
   caption: Spiritualized

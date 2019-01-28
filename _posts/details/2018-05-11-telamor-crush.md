@@ -21,7 +21,6 @@ One-man band Tom Hauck is Telamor, with a variety of songs that sounds like they
 
 | | Song | Notes |
 |-+------+-------|
-|  |  |  |
 | 3 | Rosaline | Gentle strummer |
 | 5 | Eight Miles High | Byrds Cover |
 

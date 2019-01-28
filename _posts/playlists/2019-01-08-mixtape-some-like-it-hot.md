@@ -7,8 +7,8 @@ description: This is SOME LIKE IT HOT, a Mixtape of music about all things that 
   this elusive phenomenon. Although sometimes it resorts to extremes, it is hoped
   that this sonic concoction delivers some measure of imaginary heat to the listener.
 author: jclacking
-airdate: '2019-01-09'
-playlist: 2019-01-09-mixtape-some-like-it-hot
+airdate: '2019-01-08'
+playlist: 2019-01-08-mixtape-some-like-it-hot
 image:
   src: artists/2019/escape.png
   caption: Photo by jcob nasyr via Unsplash
