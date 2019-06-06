@@ -22,7 +22,7 @@ tags: pom-poko dumm-dumms ozwald woolly-bushmen vulfpeck chris-murray anemone te
   animal-eyes elvis-hitler oranges-band myrrors tracker mc-honky imperial-wax habiluim
   spot-1019 calexico forro-in-dark kid-koala steely-dan nevada-bachelors der-dritte-raum
   daisy-chainsaw jimi-hendrix-experience spoon swell sensualists
-keywords: Pom Poko, Dumm-Dumms, Ozwald, The Woolly Bushmen, Vulfpeck, Chris Murray,
+keywords: Pom Poko, Dumm-Dumms, Øzwald, The Woolly Bushmen, Vulfpeck, Chris Murray,
   Anemone, Telekinesis, Toro Y Moi, The Budos Band, La Dame Blanche, Fontaines D.C.,
   Les Thugs, Frankie and the Witch Fingers, Cage The Elephant, Willie Wisely, The
   Wrens, Daddy Long Legs, Tom Zé, Mr. Elevator &amp; The Brain Hotel, Animal Eyes,
