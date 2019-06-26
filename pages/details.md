@@ -1,7 +1,7 @@
 ---
 layout: details_index
 title: The Lacking Details
-permalink: details
+permalink: /details
 pagination:
   enabled: true
   category: details
