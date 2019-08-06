@@ -1,7 +1,7 @@
 sequence,song,artist,artist_slug,album,time,notes
 1,Sick Server,Jeff Tweedy,jeff-tweedy,Warmer,2:48,A pensive start
 2,Fishing For Fishies,King Gizzard And The Lizard Wizard,king-gizzard-lizard-wizard,Fishing For Fishies,5:01,So very pleasant
-3,My Friend's A Liquid,Psychedelic Porn Crumpets,psychedelic-porn-crumpets,And Now For The Whatchamacallit,3:36,Stagger slash wander
+3,My Friend's A Liquid,Psychedelic Porn Crumpets,psychedelic-porn-crumpets,And Now for the Watchamacallit,3:36,Stagger slash wander
 4,Tell Me (Doko Mien),Ibibio Sound Machine,ibibio-sound-machine,Doko Mien,3:45,Ready for some afrofunk
 5,BREAK
 6,Shane,Fruit Bats,fruit-bats,Gold Past Life (Bonus Track),3:41,Sweet golden obscurity
@@ -26,7 +26,7 @@ sequence,song,artist,artist_slug,album,time,notes
 25,Get Some,Lykke Li,lykke-li,Get Some - EP,3:25,Velvet menace
 26,New Sneakers,Deerhoof,deerhoof,Milk Man,2:15,A weird mass
 27,BREAK
-28,Tethered,Versing,versing,10000,3:18,The jangle of the pavement
+28,Tethered,Versing,versing,"10,000",3:18,The jangle of the pavement
 29,Solitude is Bliss,Tame Impala,tame-impala,InnerSpeaker,3:56,"Unphased, rephased"
 30,Ru Ru I'd Love to,Evripidis And His Tragedies,evripidis-his-tragedies,Evripidis and His Tragedies,3:57,A symphony of endearment
 31,BREAK

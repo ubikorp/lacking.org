@@ -8,7 +8,7 @@ sequence,song,artist,artist_slug,album,time,notes
 7,Vitamins,Supernova,supernova,Ages 3 and Up,2:07,Good advice
 8,Pound For Pound,The Aggrolites,aggrolites,Reggae Now!,3:17,More of that 69 Reggae
 9,BREAK
-10,Big Bear Mountain,Jr. Jr.,jr-jr,Invocations / Conversations,3:20,It’s very California
+10,Big Bear Mountain,Jr. Jr.,jr-jr,Invocation / Conversations,3:20,It’s very California
 11,This Piece of Poetry Is Meant to Do Harm,The Ark,ark,State of the Ark,3:28,Taking a menacing tone
 12,Horizon Line,Red Baraat,red-baraat,Bhangra Pirates,4:42,Big horn attack
 13,What Is Hip?,Tower of Power,tower-of-power,The Very Best of Tower of Power: The Warner Years,5:06,Rocco is a monster
@@ -28,7 +28,7 @@ sequence,song,artist,artist_slug,album,time,notes
 27,If You Gotta Go,Thee Shams,thee-shams,Please Yourself,3:18,Spirit of Dylan
 28,BREAK
 29,Worthy,Palehound,palehound,Black Friday,2:53,Understandably low key
-30,Social Candy,Psychedelic Porn Crumpets,psychedelic-porn-crumpets,And Now For The Whatchamacallit,4:21,A boisterous name
+30,Social Candy,Psychedelic Porn Crumpets,psychedelic-porn-crumpets,And Now for the Watchamacallit,4:21,A boisterous name
 31,Just A Satellite,Modern Mal,modern-mal,The Misanthrope Family Album,3:06,Old-fashioned sound
 32,How Long,Flat Duo Jets,flat-duo-jets,White Trees,1:51,Good question
 33,BREAK
@@ -45,7 +45,7 @@ sequence,song,artist,artist_slug,album,time,notes
 44,Young Scene,Keith Mansfield,keith-mansfield,,2:26,Game Show!
 45,Give Me Bread,The Tennors,tennors,Moods,2:18,Start with the basics
 46,BREAK
-47,Sated,Versing,versing,10000,3:27,Mucho Malkmus
+47,Sated,Versing,versing,"10,000",3:27,Mucho Malkmus
 48,Hey Boy,She-Devils,she-devils,She-Devils,3:43,Time for dress up
 49,Pretty Machines,Parquet Courts,parquet-courts,Content Nausea,4:41,Louche and dissipated
 50,BREAK
