@@ -2,15 +2,18 @@
 title: The Party Underground
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-description: The accordionist’s boot was tangled in a mangrove root. The deepening
+description: 'The accordionist’s boot was tangled in a mangrove root. The deepening
   dusk of Meads Bay Pond brought with it a soft breeze and an ugly threat of bug swarms.
   Their chances of getting to the beach and capturing enough glowing sugar crabs were
   dwindling. The roots, more like underwater dreadlocks, heaved as the booted foot
   attempted to twist out, the accordion case held high as counterbalance. The technician
-  glared at the spectacle briefly before shining a light on the clipboard. The keys
-  to the long-range waterbikes had a floaty thing on them, but they were permanently
-  attached to the metal clipboard, which would sink like a stone. The Governor’s Office
-  back in The Valley would certainly hear about this.
+  glared at the spectacle briefly before shining a light on the clipboard. In the
+  distance, a barbershop quartet with a Tuvan throat-singing baritone made it incongruous
+  presence known. The keys to the long-range waterbikes had a floaty thing on them,
+  but they were permanently attached to the metal clipboard, which would sink like
+  a stone. The Governor’s Office back in The Valley would certainly hear about this.
+
+'
 author: jclacking
 airdate: '2019-09-24'
 playlist: 2019-09-24-the-party-underground
@@ -35,4 +38,5 @@ keywords: Redd Kross, Spot 1019, Ultra Vivid Scene, Seratones, Illinois, Hot Chi
   Fresh Fellows, The Neon Angels, The Kinks, Shadowy Men on a Shadowy Planet, Handsome
   Boy Modeling School, Electric Spinach, Jagwar Ma
 ---
-The accordionist’s boot was tangled in a mangrove root. The deepening dusk of Meads Bay Pond brought with it a soft breeze and an ugly threat of bug swarms. Their chances of getting to the beach and capturing enough glowing sugar crabs were dwindling. The roots, more like underwater dreadlocks, heaved as the booted foot attempted to twist out, the accordion case held high as counterbalance. The technician glared at the spectacle briefly before shining a light on the clipboard. The keys to the long-range waterbikes had a floaty thing on them, but they were permanently attached to the metal clipboard, which would sink like a stone. The Governor’s Office back in The Valley would certainly hear about this.
+The accordionist’s boot was tangled in a mangrove root. The deepening dusk of Meads Bay Pond brought with it a soft breeze and an ugly threat of bug swarms. Their chances of getting to the beach and capturing enough glowing sugar crabs were dwindling. The roots, more like underwater dreadlocks, heaved as the booted foot attempted to twist out, the accordion case held high as counterbalance. The technician glared at the spectacle briefly before shining a light on the clipboard. In the distance, a barbershop quartet with a Tuvan throat-singing baritone made it incongruous presence known. The keys to the long-range waterbikes had a floaty thing on them, but they were permanently attached to the metal clipboard, which would sink like a stone. The Governor’s Office back in The Valley would certainly hear about this.
+
