@@ -9,7 +9,7 @@ description: Getting into Darra Adam Khel had not been easy.  Entering Pakistan 
   away foreigners were more of an ordeal than ordinary. The dusty vehicle, neither
   truck nor passenger car nor jeep but somehow all three, had been recalcitrant for
   most of the trip, providing constant frequent minor breakdowns, keeping the mechanic
-  constantly busy. Now they were on a shooting range on the roof of a well-stocked
+  perpetually busy. Now they were on a shooting range on the roof of a well-stocked
   arms shop, surrounded by dozens of identical shops and shooting ranges. As the linguist
   lifted the replica Berthier carbine to their shoulder, they darkly thought it would
   be just their luck, after all of this, to be caught in some rooftop crossfire from
