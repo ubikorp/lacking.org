@@ -10,6 +10,7 @@ description: 'They are everywhere, and some of them are downright weird. My down
 author: jclacking
 airdate: '2019-03-12'
 playlist: 2019-03-12-mixtape-what-s-my-number
+youtube: 
 image:
   src: artists/2019/numbers.jpg
   caption: Photo by Carlos Irineu da Costa on Unsplash

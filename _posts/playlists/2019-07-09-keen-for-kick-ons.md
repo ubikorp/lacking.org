@@ -12,6 +12,7 @@ description: A soft Texas breeze ruffled the grass along the banks of Belton Lak
 author: jclacking
 airdate: '2019-07-09'
 playlist: 2019-07-09-keen-for-kick-ons
+youtube: 
 image:
   src: artists/2019/psychedelic_porn_crumpets.jpg
   caption: Psychedelic Porn Crumpets

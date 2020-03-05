@@ -9,6 +9,7 @@ description: This is SOME LIKE IT HOT, a Mixtape of music about all things that 
 author: jclacking
 airdate: '2019-01-08'
 playlist: 2019-01-08-mixtape-some-like-it-hot
+youtube: 
 image:
   src: artists/2019/escape.png
   caption: Photo by jcob nasyr via Unsplash

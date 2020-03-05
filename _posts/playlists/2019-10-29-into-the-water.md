@@ -13,6 +13,7 @@ description: The screen door banged against the frame of the small building that
 author: jclacking
 airdate: '2019-10-29'
 playlist: 2019-10-29-into-the-water
+youtube: 
 image:
   src: artists/2019/drunken_prayer.png
   caption: Drunken Prayer

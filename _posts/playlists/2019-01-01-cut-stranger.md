@@ -10,6 +10,7 @@ description: With the temperatures plunging into the single digits, we did our b
 author: jclacking
 airdate: '2019-01-01'
 playlist: 2019-01-01-cut-stranger
+youtube: 
 image:
   src: artists/2019/j_mascis.jpg
   caption: J Mascis

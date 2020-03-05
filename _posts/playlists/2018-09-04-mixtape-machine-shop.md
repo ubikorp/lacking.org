@@ -10,6 +10,7 @@ description: This is MACHINE SHOP, a special one-hour mixtape from yours truly f
 author: jclacking
 airdate: '2018-09-04'
 playlist: 2018-09-04-mixtape-machine-shop
+youtube: 
 image:
   src: artists/2018/machine_shop.jpg
   caption: Tammy Gann on Unsplash

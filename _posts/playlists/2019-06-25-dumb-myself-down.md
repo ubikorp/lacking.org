@@ -12,6 +12,7 @@ description: The luthier adjusted the direction control of the four-legged arach
 author: jclacking
 airdate: '2019-06-25'
 playlist: 2019-06-25-dumb-myself-down
+youtube: 
 image:
   src: artists/2019/jr_jr.jpg
   caption: Jr. Jr.

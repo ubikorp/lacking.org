@@ -7,6 +7,7 @@ description: The Thievery Corporation has institutionalized the plagiarism of ge
 author: jclacking
 airdate: '2018-07-20'
 playlist: 2018-07-20-san-san-rock
+youtube: 
 image:
   src: artists/2018/thievery_corporation.jpg
   caption: Thievery Corporation

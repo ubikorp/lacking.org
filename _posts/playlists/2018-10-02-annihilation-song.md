@@ -9,6 +9,7 @@ description: It’s back to a regular schedule, at least for the foreseeable fut
 author: jclacking
 airdate: '2018-10-02'
 playlist: 2018-10-02-annihilation-song
+youtube: 
 image:
   src: artists/2018/rubblebucket.jpg
   caption: Rubblebucket

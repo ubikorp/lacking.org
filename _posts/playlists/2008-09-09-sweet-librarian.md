@@ -12,6 +12,7 @@ description: It's a steamy Florida night, and it marks the debut of Julius C. La
 author: jclacking
 airdate: '2008-09-09'
 playlist: 2008-09-09-sweet-librarian
+youtube: 
 image:
   src: artists/2008/railroad_jerk.jpg
   caption: Railroad Jerk

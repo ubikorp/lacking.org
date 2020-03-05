@@ -13,6 +13,7 @@ description: The parade stretched through the downtown area, its colorful partic
 author: jclacking
 airdate: '2019-07-23'
 playlist: 2019-07-23-sick-server
+youtube: 
 image:
   src: artists/2019/jeff_tweedy.jpg
   caption: Jeff Tweedy

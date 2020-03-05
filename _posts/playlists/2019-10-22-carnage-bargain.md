@@ -12,6 +12,7 @@ description: Would the tour of palaces never end? Having visited several monarch
 author: jclacking
 airdate: '2019-10-22'
 playlist: 2019-10-22-carnage-bargain
+youtube: 
 image:
   src: artists/2019/the_paranoyds.jpg
   caption: The Paranoyds

@@ -1,5 +1,11 @@
 {% assign playlist = site.data.playlists[include.post.playlist] %}
 
+{% if include.post.youtube %}
+<ul class="icons">
+  <li><a href="{{ include.post.youtube }}" class="fa-youtube"> Listen on YouTube</a></li> 
+</ul>
+{% endif %}
+
 <table class="tlo-playlist">
   <thead>
     <tr>

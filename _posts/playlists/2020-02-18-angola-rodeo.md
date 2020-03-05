@@ -14,6 +14,7 @@ description: The pair powered down the sand-skis as they approached the slight c
 author: jclacking
 airdate: '2020-02-18'
 playlist: 2020-02-18-angola-rodeo
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkaqKUnAOlqz41ei2HmqSBo
 image:
   src: artists/2020/black_lips.jpg
   caption: Black Lips
@@ -35,6 +36,4 @@ keywords: Black Lips, The Muffs, Omni, Khruangbin, Chandler Travis Philharmonic,
   Solaris, Brave Combo, the Sisterhood of Convoluted Thinkers, DJ Dolores vs. Taraf
   de Haïdouks, Natalia Clavier, Ramsey 2C-3D
 ---
-The pair powered down the sand-skis as they approached the slight concavity in the beach that had been described by the vendor in the spice market. The cliffs of Levera National Park did not seem to be an ideal place for smugglers to congregate, but the actuary would be the first to admit they did not know the first thing about smugglers and their habits of congregation. The blacksmith was better versed in these things, and they didn’t seem to be bothered by where the assignment was taking them. As the morning fog absorbed the last echoes of the recently-killed engines, they marveled at the conical shape of Sugar Loaf rising above the azure Caribbean water.<!--more-->
-
-<div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLChm3Ffgt_gkaqKUnAOlqz41ei2HmqSBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+The pair powered down the sand-skis as they approached the slight concavity in the beach that had been described by the vendor in the spice market. The cliffs of Levera National Park did not seem to be an ideal place for smugglers to congregate, but the actuary would be the first to admit they did not know the first thing about smugglers and their habits of congregation. The blacksmith was better versed in these things, and they didn’t seem to be bothered by where the assignment was taking them. As the morning fog absorbed the last echoes of the recently-killed engines, they marveled at the conical shape of Sugar Loaf rising above the azure Caribbean water.

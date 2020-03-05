@@ -9,6 +9,7 @@ description: |-
 author: jclacking
 airdate: '2018-08-07'
 playlist: 2018-08-07-crippling-self-doubt
+youtube: 
 image:
   src: artists/2018/courtney_barnett.jpg
   caption: Courtney Barnett

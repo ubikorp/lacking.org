@@ -6,6 +6,7 @@ description: You can always tell a Kinks song.
 author: jclacking
 airdate: '2016-08-30'
 playlist: 2016-08-30-stop-your-sobbing
+youtube: 
 image:
   src: artists/2016/pretenders.jpg
   caption: Pretenders

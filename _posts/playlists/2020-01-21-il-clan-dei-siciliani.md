@@ -2,8 +2,8 @@
 title: Il Clan Dei Siciliani
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-description: Getting into Darra Adam Khel had not been easy.  Entering Pakistan was
-  relatively straightforward, with the right-colored passports and decoy suitcases
+description: Getting into Darra Adam Khel had not been easy.  Getting into Pakistan
+  was relatively straightforward, with the right-colored passports and decoy suitcases
   full of Western tourist necessities. The ride towards the Khyber Pass had been less
   so, and the necessary disguises and bribes to get past the checkpoints that turned
   away foreigners were more of an ordeal than ordinary. The dusty vehicle, neither
@@ -17,6 +17,7 @@ description: Getting into Darra Adam Khel had not been easy.  Entering Pakistan 
 author: jclacking
 airdate: '2020-01-21'
 playlist: 2020-01-21-il-clan-dei-siciliani
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glPpDfSfExZIkiDBXrnaEcS
 image:
   src: artists/2020/khruangbin.jpg
   caption: Khruangbin
@@ -38,6 +39,4 @@ keywords: Khruangbin, Nortec Collective, Serge Gainsbourg, Allah-Las, Sean Henry
   Stringer Cloher, Donovan, Golden Shoulders, Battles, Koop, Mosquitos, Young Fresh
   Fellows, Brooklyn Funk Essentials
 ---
-Getting into Darra Adam Khel had not been easy.  Entering Pakistan was relatively straightforward, with the right-colored passports and decoy suitcases full of Western tourist necessities. The ride towards the Khyber Pass had been less so, and the necessary disguises and bribes to get past the checkpoints that turned away foreigners were more of an ordeal than ordinary. The dusty vehicle, neither truck nor passenger car nor jeep but somehow all three, had been recalcitrant for most of the trip, providing constant frequent minor breakdowns, keeping the mechanic constantly busy. Now they were on a shooting range on the roof of a well-stocked arms shop, surrounded by dozens of identical shops and shooting ranges. As the linguist lifted the replica Berthier carbine to their shoulder, they darkly thought it would be just their luck, after all of this, to be caught in some rooftop crossfire from other purchasers testing their new toys.
-
-<div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLChm3Ffgt_glPpDfSfExZIkiDBXrnaEcS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Getting into Darra Adam Khel had not been easy.  Getting into Pakistan was relatively straightforward, with the right-colored passports and decoy suitcases full of Western tourist necessities. The ride towards the Khyber Pass had been less so, and the necessary disguises and bribes to get past the checkpoints that turned away foreigners were more of an ordeal than ordinary. The dusty vehicle, neither truck nor passenger car nor jeep but somehow all three, had been recalcitrant for most of the trip, providing constant frequent minor breakdowns, keeping the mechanic perpetually busy. Now they were on a shooting range on the roof of a well-stocked arms shop, surrounded by dozens of identical shops and shooting ranges. As the linguist lifted the replica Berthier carbine to their shoulder, they darkly thought it would be just their luck, after all of this, to be caught in some rooftop crossfire from other purchasers testing their new toys.

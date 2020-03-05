@@ -15,6 +15,7 @@ description: "“Did you say you wanted FIVE?” asked the turkey-leg vendor, hi
 author: jclacking
 airdate: '2020-02-04'
 playlist: 2020-02-04-la-cumbia-de-la-muerte
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm5oQO9r9-aHCfOZVS1TpEM
 image:
   src: artists/2020/mutagenicos.jpg
   caption: Los Mutagénicos
@@ -35,6 +36,4 @@ keywords: Mutagénicos, Khruangbin, The Fall, Omni, Sean Henry, Solipsistics, Bo
   Hubler &amp; Siegfried Schwab, Field Music, Optiganally Yours, Serge Gainsbourg,
   Jean-Pierre Sabar, Kelley Stoltz, Money Mark, Devo, Tony Allen
 ---
-“Did you say you wanted FIVE?” asked the turkey-leg vendor, his incredulity betraying the slightest bit of Norwegian accent. The crowds at the Trondenes Middle Ages Visitor Park thronged past as the young man counted the hands available to the pair before him, performed a simple matching algorithm to the five turkey-legs being requested, and came up with a non-computing value. “We’re hungry,” offered the machinist helpfully. The gymnast kept an eye out for Sverre the allodialist. They needed to have a few words with him about the land titles, preferably in the privacy of the sleek three-man catamaran that had discretely brought them here. The half-darkening of the sky that passed for night at these latitudes meant the usual tactics were out and they would have to convince him to come willingly.<!--more-->
-
-<div class="tlo-detail-video"><iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLChm3Ffgt_gm5oQO9r9-aHCfOZVS1TpEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+“Did you say you wanted FIVE?” asked the turkey-leg vendor, his incredulity betraying the slightest bit of Norwegian accent. The crowds at the Trondenes Middle Ages Visitor Park thronged past as the young man counted the hands available to the pair before him, performed a simple matching algorithm to the five turkey-legs being requested, and came up with a non-computing value. “We’re hungry,” offered the machinist helpfully. The gymnast kept an eye out for Sverre the allodialist. They needed to have a few words with him about the land titles, preferably in the privacy of the sleek three-man catamaran that had discretely brought them here. The half-darkening of the sky that passed for night at these latitudes meant the usual tactics were out and they would have to convince him to come willingly.

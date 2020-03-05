@@ -13,6 +13,7 @@ description: Out of all the ways there were to get into Zugdidi — they could h
 author: jclacking
 airdate: '2019-10-15'
 playlist: 2019-10-15-i-wanna-be-your-girlfriend
+youtube: 
 image:
   src: artists/2019/ezra_furman.jpg
   caption: Ezra Furman

@@ -15,6 +15,7 @@ description: It must be heartbreaking to be a slapdash concoction of musical gen
 author: jclacking
 airdate: '2012-02-07'
 playlist: 2012-02-07-0093-take-stuff-from-work
+youtube: 
 image:
   src: podcast/0093-sex-clark-five.jpg
   caption: Sex Clark Five

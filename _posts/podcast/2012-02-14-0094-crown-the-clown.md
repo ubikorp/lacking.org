@@ -15,6 +15,7 @@ description: Despite coming from the hollers of Portland, Oregon, Hillstomp stil
 author: jclacking
 airdate: '2012-02-14'
 playlist: 2012-02-14-0094-crown-the-clown
+youtube: 
 image:
   src: podcast/0094-hillstomp.jpg
   caption: Hillstomp

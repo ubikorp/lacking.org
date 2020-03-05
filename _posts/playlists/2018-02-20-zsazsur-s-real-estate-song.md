@@ -8,6 +8,7 @@ description: Like getting picked up by the scruff of your neck and smashed into 
 author: jclacking
 airdate: '2018-02-20'
 playlist: 2018-02-20-zsazsur-s-real-estate-song
+youtube: 
 image:
   src: artists/2018/swarming_branch.jpg
   caption: Swarming Branch

@@ -6,6 +6,7 @@ description: Exene Cervenka fronting Los Straitjackets is a powerful combination
 author: jclacking
 airdate: '2016-08-23'
 playlist: 2016-08-23-i-ll-go-down-swinging
+youtube: 
 image:
   src: artists/2016/los_straitjackets.jpg
   caption: Los Straitjackets

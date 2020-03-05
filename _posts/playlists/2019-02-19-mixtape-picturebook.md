@@ -10,6 +10,7 @@ description: I’m not going to deny the synesthetic appeal of songs with words 
 author: jclacking
 airdate: '2019-02-19'
 playlist: 2019-02-19-mixtape-picturebook
+youtube: 
 image:
   src: artists/2019/picturebook.jpg
   caption: Photo by NeONBRAND on Unsplash
