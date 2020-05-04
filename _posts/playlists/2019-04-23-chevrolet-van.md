@@ -12,7 +12,6 @@ description: The landtrain rumbled over something bumpy. Probably a hill, though
 author: jclacking
 airdate: '2019-04-23'
 playlist: 2019-04-23-chevrolet-van
-youtube: 
 image:
   src: artists/2019/the_nude_party.jpg
   caption: The Nude Party

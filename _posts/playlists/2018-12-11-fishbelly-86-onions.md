@@ -8,7 +8,6 @@ description: It was a relatively quiet night, with a heavy dose of Brazilian mus
 author: jclacking
 airdate: '2018-12-11'
 playlist: 2018-12-11-fishbelly-86-onions
-youtube: 
 image:
   src: artists/2018/all_them_witches.jpg
   caption: All Them WItches

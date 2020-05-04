@@ -15,7 +15,6 @@ description: 'It’s worth repeating: This is a music hour that is complicated. 
 author: jclacking
 airdate: '2012-02-17'
 playlist: 2012-02-17-0095-complicated-music-hour
-youtube: 
 image:
   src: podcast/0095-secret-chiefs-3.jpg
   caption: Secret Chiefs 3

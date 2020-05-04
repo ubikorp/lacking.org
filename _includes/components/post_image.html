@@ -12,3 +12,7 @@
   {% endif %}
   <cite class="caption">{{ include.post.image.caption }}</cite>
 {% endif %}
+
+{% if include.post.link_url and include.post.link_type == 'mixcloud' %}
+  <iframe width="100%" style="margin-bottom: 1em;" height="120" src="{{ include.post.link_url }}" frameborder="0"></iframe>
+{% endif %}

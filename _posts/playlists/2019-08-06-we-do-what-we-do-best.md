@@ -14,7 +14,6 @@ description: The mason laid a bare hand on the stone block. It was nearly three 
 author: jclacking
 airdate: '2019-08-06'
 playlist: 2019-08-06-we-do-what-we-do-best
-youtube: 
 image:
   src: artists/2019/imperial_teen.jpg
   caption: Imperial Teen

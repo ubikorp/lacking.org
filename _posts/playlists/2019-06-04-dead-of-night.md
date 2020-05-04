@@ -12,7 +12,6 @@ description: Once above the canopy, it was impossible to see the green-winged ha
 author: jclacking
 airdate: '2019-06-04'
 playlist: 2019-06-04-dead-of-night
-youtube: 
 image:
   src: artists/2019/orville_peck.jpg
   caption: Orville Peck

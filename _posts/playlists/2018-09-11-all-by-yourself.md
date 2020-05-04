@@ -9,7 +9,6 @@ description: The evenings grow brisk as the music gets wilder. Tonight zipped by
 author: jclacking
 airdate: '2018-09-11'
 playlist: 2018-09-11-all-by-yourself
-youtube: 
 image:
   src: artists/2018/cullen_omori.jpg
   caption: Cullen Omori

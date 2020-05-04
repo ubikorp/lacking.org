@@ -14,7 +14,8 @@ description: The pair powered down the sand-skis as they approached the slight c
 author: jclacking
 airdate: '2020-02-18'
 playlist: 2020-02-18-angola-rodeo
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkaqKUnAOlqz41ei2HmqSBo
+link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkaqKUnAOlqz41ei2HmqSBo
+link_type: youtube
 image:
   src: artists/2020/black_lips.jpg
   caption: Black Lips

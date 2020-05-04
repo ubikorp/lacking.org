@@ -17,7 +17,8 @@ description: Getting into Darra Adam Khel had not been easy.  Getting into Pakis
 author: jclacking
 airdate: '2020-01-21'
 playlist: 2020-01-21-il-clan-dei-siciliani
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glPpDfSfExZIkiDBXrnaEcS
+link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_glPpDfSfExZIkiDBXrnaEcS
+link_type: youtube
 image:
   src: artists/2020/khruangbin.jpg
   caption: Khruangbin

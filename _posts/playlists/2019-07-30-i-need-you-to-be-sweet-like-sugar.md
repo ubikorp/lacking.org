@@ -12,7 +12,6 @@ description: Shrugging through the rose thorns, protected by a heavy leather apr
 author: jclacking
 airdate: '2019-07-30'
 playlist: 2019-07-30-i-need-you-to-be-sweet-like-sugar
-youtube: 
 image:
   src: artists/2019/ibibio_sound_machine.jpg
   caption: Ibibio Sound Machine

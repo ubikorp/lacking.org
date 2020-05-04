@@ -15,7 +15,8 @@ description: "“Did you say you wanted FIVE?” asked the turkey-leg vendor, hi
 author: jclacking
 airdate: '2020-02-04'
 playlist: 2020-02-04-la-cumbia-de-la-muerte
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm5oQO9r9-aHCfOZVS1TpEM
+link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm5oQO9r9-aHCfOZVS1TpEM
+link_type: youtube
 image:
   src: artists/2020/mutagenicos.jpg
   caption: Los Mutagénicos

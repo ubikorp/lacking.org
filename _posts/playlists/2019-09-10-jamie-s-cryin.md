@@ -14,7 +14,6 @@ description: There was no official name for this giant hole, this cavern that tr
 author: jclacking
 airdate: '2019-09-10'
 playlist: 2019-09-10-jamie-s-cryin
-youtube: 
 image:
   src: artists/2019/the_bird_and_the_bee.jpg
   caption: The Bird and the Bee

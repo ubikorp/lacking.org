@@ -7,7 +7,6 @@ description: I think Lemmy would have appreciated Canadian superbanjoplayer Lisa
 author: jclacking
 airdate: '2017-12-26'
 playlist: 2017-12-26-ace-of-spades
-youtube: 
 image:
   src: artists/2017/lisa_leblanc.jpg
   caption: Lisa LeBlanc

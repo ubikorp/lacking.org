@@ -14,7 +14,6 @@ description: The courier unrolled the blueprints onto the brightly-lit drafting 
 author: jclacking
 airdate: '2019-08-27'
 playlist: 2019-08-27-instant-pace
-youtube: 
 image:
   src: artists/2019/b_boys.jpg
   caption: B Boys

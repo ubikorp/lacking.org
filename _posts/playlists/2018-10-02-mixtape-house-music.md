@@ -9,7 +9,6 @@ description: This is HOUSE MUSIC, a special one-hour mixtape from yours truly fe
 author: jclacking
 airdate: '2018-10-02'
 playlist: 2018-10-02-mixtape-house-music
-youtube: 
 image:
   src: artists/2018/house_music.jpg
   caption: Breno Assis on Unsplash

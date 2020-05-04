@@ -8,7 +8,6 @@ description: Beach House's music always rings as the soundtrack to some brain-wa
 author: jclacking
 airdate: '2018-05-29'
 playlist: 2018-05-29-drunk-in-la
-youtube: 
 image:
   src: artists/2018/beach_house.jpg
   caption: Beach House

@@ -22,7 +22,6 @@ Sweetness and sunshine without overstepping into cloying and saccharine, with ch
 
 | | Song | Notes |
 |-+------+-------|
-|  |  |  |
 | 4 | So Blue | Bass chording |
 | 6 | Rings (On A Tree) | Singing in the garden |
 | 20 | With Great Purpose | Fingerstyle solo |

@@ -17,7 +17,6 @@ description: This is the final episode of The Lacking Organization broadcast on 
 author: jclacking
 airdate: '2016-09-06'
 playlist: 2016-09-06-0100-keep-brevard-weird
-youtube: 
 image:
   src: podcast/0100-keep-brevard-weird.jpg
   caption: Farewell, Space Coast

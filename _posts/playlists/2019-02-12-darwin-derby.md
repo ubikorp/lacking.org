@@ -10,7 +10,6 @@ description: The thin Nebraska ice crackled ominously as one of the occupants of
 author: jclacking
 airdate: '2019-02-12'
 playlist: 2019-02-12-darwin-derby
-youtube: 
 image:
   src: artists/2019/vulfpeck.jpg
   caption: Vulfpeck

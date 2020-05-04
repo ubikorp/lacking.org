@@ -9,7 +9,6 @@ description: |-
 author: jclacking
 airdate: '2018-08-10'
 playlist: 2018-08-10-while-the-city-sleeps
-youtube: 
 image:
   src: artists/2018/mc_900_ft_jesus.jpg
   caption: DJ Zero + MC 900 Ft. Jesus

@@ -14,7 +14,8 @@ description: It was a peaceful suburban street, and they had taken great care to
 author: jclacking
 airdate: '2020-03-03'
 playlist: 2020-03-03-social-man
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glZiyBthviJiuh6LgcWTISr
+link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_glZiyBthviJiuh6LgcWTISr
+link_type: youtube
 image:
   src: artists/2020/growlers.jpg
   caption: The Growlers

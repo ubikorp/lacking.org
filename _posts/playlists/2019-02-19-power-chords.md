@@ -12,7 +12,6 @@ description: The driver felt the leads tremble under their hands. The navigator 
 author: jclacking
 airdate: '2019-02-19'
 playlist: 2019-02-19-power-chords
-youtube: 
 image:
   src: artists/2019/mike_krol.jpg
   caption: Mike Krol

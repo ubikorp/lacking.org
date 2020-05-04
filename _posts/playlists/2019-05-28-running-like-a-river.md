@@ -14,7 +14,6 @@ description: 'There wasn’t enough room on the narrow boat for the botanist to 
 author: jclacking
 airdate: '2019-05-28'
 playlist: 2019-05-28-running-like-a-river
-youtube: 
 image:
   src: artists/2019/telekinesis.jpg
   caption: Telekinesis

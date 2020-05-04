@@ -7,7 +7,6 @@ description: Time has not dulled the edge of this band. "Show Me The Sun" highli
 author: jclacking
 airdate: '2018-04-03'
 playlist: 2018-04-03-show-me-the-sun
-youtube: 
 image:
   src: artists/2018/belle_and_sebastian.jpg
   caption: Belle and Sebastian
