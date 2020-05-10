@@ -1,79 +1,61 @@
-batch,artist,album,label,sounds_like,review,fcc,track_seq,track_name,track_description,,
-2019-11-19,Pixies,Beneath The Eyrie,Infectious,"The Breeders, Frank Black, Violent Femmes","Reminiscent of Bossanova-era songwriting, the band continues to make use of twisted lyrics and unexpected melodic flourishes to further iterate on their iconic sound.",#2,1,In the Arms of Mrs. Mark of Cain,That old twang,,
-,,,,,,,2,On Graveyard Hill,Plucky bass,,
-,,,,,,,4,This Is My Fate,Strange meter,,
-,,,,,,,10,Bird of Prey,Leonard Cohen goes cowboy,,
-,,,,,,,11,Daniel Boone,Delicate profile,,
-2019-11-19,David Kilgour + the Heavy Eights,Bobbie’s A Girl,Merge,"The Clean, Alfie, Real Estate","Gentle music for a pastoral New Zealand scene, with tappity drums and soft jangles playfully jostling understated vocals.",Clean,1,Entrance,A pleasant introduction,,
-,,,,,,,10,Ngapara,Music for eating miles,,
-2019-11-19,Devendra Banhart,Ma,Sire,"Sufjan Stevens, Sondre Lerche, Edwin Collins",Orchestral and very intelligent singer-songwriter music that yields some very intricate arrangements without being overwhelming and overwrought.,,1,Is This Nice?,It’s pretty nice,,
-,,,,,,,2,Kantori Ongaku,Gratefully dead,,
-,,,,,,,9,Taking A Page,Wobbly phased bass,,
-,,,,,,,11,My Boyfriend's In The Band,Surprisingly Spanish,,
-2019-11-19,Greezy Wheels,Ain’t Quite Like That,MaHatMa,"Hot Club of Cowtown, Post-Modern Jukebox, Asylum Street Spankers","A mix of country, western swing, rockabilly, and various other semi-compatible genres, paired with seductive vocals and plenty of musical swagger.",Clean,2,Mercury Blues,Good take on a classic,,
-,,,,,,,8,Numberless (Are The Sands),Somewhat nihilistic,,
-,,,,,,,9,Ain't Quite Like That,Beatnik vibe,,
-2019-11-19,Guaxe,"Paraty, Brazil",OAR,"Os Mutantes, Oh Sees, Boogarins","Intensely layered psychedelic outing from Brazil, with a collection of instrumentals and softly-sibilant Portuguese designed to transport you on a multicolored rainbow of spices.",Clean,2,Pupilxs,Spaceflight journey,,
-,,,,,,,6,Avesso,Pulsing shoegaze,,
-2019-11-19,HalfNoise,Natural Disguise,Congrats,"Vulfpeck, Broncho, The Make-Up","Forward-looking dance funk, the kind of music that immediately makes you grab the closest person by the wrist and drag them to the dance floor.",,1,Woodstock Snap,Opening the floodgates,,
-,,,,,,,2,Who Could You Be,Sharp and spiky,,
-,,,,,,,4,Boogie Juice,Dang good stank,,
-,,,,,,,10,Get Gone,Cop car sonata,,
-2019-11-19,The High Dials,Primitive Feelings,Hook + Prayer,"The Stone Roses, Wooden Shjips, James","A bit of a throwback to the sound of late ‘80s Manchester and subsequent British psychedelic pop, presented with a pulsating dance beat and dreamy multilayered vocals.",Clean,3,Jaws Of Life,The Stone Rosiest,,
-,,,,,,,4,Employment And Enjoyment,Out there synth wails,,
-,,,,,,,6,Guerilla Guru,Afrobeating,,
-,,,,,,,13,Work Of Fiction,High English Pop,,
-2019-11-19,Lala Lala,Sleepyhead,Hardly Art,"Bully, The Breeders, The Muffs","Crafty pop punk, brimming over with chunky guitars, layered female vocals, and lots of sneering.","#2, #3",2,Fuck with Your Friends,"So good, too bad",,
-,,,,,,,6,Nothing,Briefly bursting,,
-2019-11-19,Levitation Room,Headspace,Greenway,"Swarming Branch, The Kinks, The Schizophonics","Verring wildly from soft-funk to outright garage fuzz, this wouldn’t be out of place coming out the AM radio and windows of a 1974 Maverick. ",Clean,1,Mr. Polydactyl Cat,Almost like Ween,,
-,,,,,,,4,Ooh Child,A sunny lament,,
-,,,,,,,5,2025,The near future,,
-,,,,,,,7,Headspace,Almost like the Doors,,
-,,,,,,,9,Here Comes The Man,Velvet psychedelia,,
-,,,,,,,11,Forever Tomorrow,Chiming descents,,
-2019-11-19,M83,DSVII,Mute,"Air, Plaid, Brian Eno","Very low-key instrumentals, dependent more on subtle dynamics than on any sort of recognizable or repeatable melodic content. Quite intellectual and meditative.",Clean,2,A Bit Of Sweetness,Throbbing choir and piano,,
-2019-11-19,Vivian Girls,Memory,Polyvinyl,"La Luz, Phil Spector, Surfer Blood","The girl group aesthetic survives, drenched in spring reverb and distant crooning, and it’s not just unscathed, it’s very agitated and ready to rip throats.","#4, #11",1,Most Of All,Overwhelming force,,
-,,,,,,,12,Waiting In The Car,Sweetly meandering,,
-2019-11-19,Y La Bamba,Entre Los Dos,Tender Loving Empire,"Ozomatli, Captain Beefheart, David Byrne","An exuberant mix of weird rock, Latin influences, and mysterious elements, resulting in some sort of white hot fusion.",Clean,2,Entre Los Dos,Dramatic vocals,,
-,,,,,,,7,Los Gritos,Slow samba,,
-2019-12-07,Big Thief,Two Hands,4AD,"Bettie Serveert, Fleetwood Mac, Rubblebucket","A distinctive female voice fronting a standard indie combo is not the most exciting formula, but Big Thief has a penchant for weird flourishes and unexpected changes that keeps things interesting",Clean,2,Forgotten Eyes,Easy saunter,,
-,,,,,,,5,Those Girls,Whispering from the corner,,
-2019-12-07,Black Marble,Bigger Than Life,Sacred Bones,"Magnetic Fields, Orchestral Maneuvers in the Dark, Liima","Analog synthesizers still sound like the shiny plastic future, even if they’re likely older than the young man fiddling with them in the California sunshine.",Clean,1,Never Tell,A digital landscape,,
-,,,,,,,4,Feels,For the DJs,,
-2019-12-07,Bombadil,Beautiful Country,Ramseur,"Babe Rainbow, Spinto Band, Jon + Roy","Very agreeable folk pop, with clever harmonies and sharp hooks making it the sort of music to bring on a road trip.",#2,1,Oh Suzanne,Porchy ballad,,
-,,,,,,,6,The Man Who Loves You,Sunny disposition,,
-,,,,,,,10,Beautiful Country,Warbled country,,
-,,,,,,,11,The Real Thing,Lovely duet,,
-2019-12-07,Corridor,Junior,Sub Pop,"Ride, Failure, Parquet Courts","Francophonic guitar attaque, brimming with chiming arpeggios, complicated stringular interplay, and words beyond comprehension but not understanding.",Clean,1,Topographe,Sea shanty,,
-,,,,,,,3,Domino,Urgent matter,,
-,,,,,,,10,Bang,Slow grind,,
-2019-12-07,Fly My Pretties,The Studio Recordings,Loop Recordings,"Fiona Apple, The Everly Brothers, North Mississippi Allstars","A disparate assemblage of New Zealand musicians yielding a disparate assemblage of styles, from dusty ballads to reggae whimsy to downright funk.","#1, #2, #5, #7, #8",1,Singing In My Soul,Close harmonies and strumming,,
-,,,,,,,3,Quiet Girl,Like Chris Isaak,,
-,,,,,,,6,Bag Of Money,Reggae send-up,,
-,,,,,,,4,Apple Heart,Crooning and harmonies,,
-,,,,,,,8,It's Never Blown Like It's Goin,Strutting groove,,
-2019-12-07,Lakou Mizik,HaitiaNola,Cumbancha,"Trombone Shorty, Buraka Som Sistema, Anders Osborne","A simmering stew of cross-cultural influences, as the African and Creole sounds of Haiti blend with New Orleans’ own unique funk. The results are as energetic and danceable as you’d expect",Clean,8,Iko Kreyòl (HaitiaNola Album Version),Another spin on Iko Iko,,
-,,,,,,,9,Sa Na Kenbe,Insistent beat,,
-2019-12-07,Omni,Networker,Sub Pop,"Pavement, Steely Dan, Pinback","A strange confluence of influences, with a lot of dynamic arrangements and plenty of weird hooks that shouldn’t work but are lethally effective.",Clean,2,Courtesy Call,Clockwork instruments,,
-,,,,,,,4,Underage,Pinback mood,,
-,,,,,,,5,Skeleton Key,Progressive retro,,
-,,,,,,,9,Flat Earth,Nice place to visit,,
-2019-12-07,Peach Pyramid,Bright Blue,Oscar St.,"Tennis, The Sundays, The Bird and the Bee","Delightfully twee songs, filled with shimmering melodies, sparkling production, and heavenly choruses.",Clean,2,Wear Sunscreen,Sunday driving,,
-,,,,,,,4,Mt. Pleasant,Liquid sunshine,,
-2019-12-07,The Shivas,Dark Thoughts,Tender Loving Empire,"Oh Sees, Velvet Underground, Vivian Girls","Psychedelic surf music from Portland, impossibly catchy and off-the-cuff, built on riffs that bludgeon you like a deliciously dense spongecake.",Clean,2,Turn Me On,Jungle beat,,
-,,,,,,,7,Sometimes II,Plaintive waltz,,
-,,,,,,,9,I Want You,Old fashioned,,
-,,,,,,,10,Feels Surreal,Psychedelic freakout,,
-,,,,,,,12,It's All In Your Head,Garageworthy,,
-2019-12-07,Walrus,Cool To Who,Outside,"Rubblebucket, Big Thief, Veruca Salt","Sounding a lot like the heyday of 1990s indie dream pop, Walrus keeps it a little spicy if not very distinctive.",Clean,2,Cool To Who,Distant vocals,,
-,,,,,,,9,Bored To Death,Pixies chording,,
-2020-01-14,Juliana Hatfield,Sings The Police,American Laundromat,"The Police, Juliana Hatfield","The source material is brilliant, but the interpretations are so uneven that it’s more like “Juliana Hatfield’s Wax Museum of Songs by The Police”.","#10, #11",1,Can't Stand Losing You,Fairly straightahead,,
-,,,,,,,2,Canary in a Coalmine,Good energy,,
-,,,,,,,10,Landlord,An obscure one,,
-,,,,,,,11,Rehumanize Yourself,Bold choice,,
-2020-01-14,Negativland,True False,Seeland,"The Evolution Control Committee, Bran Flakes","Layers of samples, voices, music, found audio, sound effects, and other bizarre elements make up these haunting compositions from the masters of audio collage.","#2, #4, #6, #11",11,Cadillac,Vehicular soundslaughter,,
-2020-01-14,Sean Henry,A Jump from the High Dive,Double Double Whammy,"Beck, Jason Falkner, Telekinesis","Another solo pop genius wunderkind, blasting it out of the water with a summery mix of rock and psychedelia.",Clean,1,Can U,So darn snotty,,
-,,,,,,,3,Surf Song,Extremely catchy,,
-,,,,,,,5,Touch The Sun,Sultry vibe,,
-,,,,,,,7,Space Kicks,Guitar chimes,,
-,,,,,,,9,If,Gentle puzzlement,,
+batch,artist,album,label,sounds_like,review,fcc,track_seq,track_name,track_description
+2020-05-05,Chicano Batman,Freedom Is Free,ATO,"Rocket Ship + the Moon, Ozomatli, The Babe Rainbow","A fluid mixture of influences and identity, with tropical flavors and delicate pop sensibilities layering up with street-tough attitude for some songs, like a leather-jacketed hoodlum holding a bouquet of roses.",,7,Flecha Al Sol,Frantic sesamestreet
+,,,,,,,9,Right Off the Back,Legit afrobeat
+,,,,,,,11,The Taker Story,Pusherman
+2020-05-05,Das Clamps,Shit Music For Shit People,Trash Wax,"The Cramps, Flat Duo Jets, Chicks on Speed","A rowdy, loving tribute to The Cramps, even rawer and more intransigent than the original, from two women furiously channeling Lux Interior and Poison Ivy.",,1,I'm Clamped,Gets to the point
+,,,,,,,3,Goo Goo Muck,Very menacing
+,,,,,,,6,You Got Good Shit,High plinks
+2020-05-05,Drunken Prayer,Cordelia Elsewhere,Deer Lodge,"The Elected, Gram Parsons, Wilco","There’s a handful of acts that can stand out in the vast prairie that makes up modern rural American music, transcending strummy acoustic guitars and introspective lyrics to make something deeper.",,1,Into the Water,Quirked beat
+,,,,,,,2,Rubble and Dust,Sadder ballad
+,,,,,,,3,Cordelia ,Like The Band
+,,,,,,,5,50 Foot Locust,Porch ditty
+,,,,,,,6,It Happens All the Time,Power pop play
+2020-05-05,Mutagénicos,3,Dirty Water,"Agent Orange, Misfits, Teenage Bottlerocket","Straight up garage-billy from Spain, filled with surf rock, psychedelic, and British Invasion references. The vocals are in Spanish, but the bad bad attitude is unmistakable.",,1,Lo Que Digan De Mi,Bad attitude in 5/4
+,,,,,,,2,Actualice Su Fe,Breakneck pace
+,,,,,,,3,La Cumbia De La Muerte,Dance of death
+,,,,,,,9,Idiota,For the morons
+,,,,,,,11,Muerte Marte,La Guerra de los Mundos
+2020-05-05,Schizophonics,People In The Sky,Pig Baby,"The Swingin’ Neckbreakers, Ty Segall, Paul Rever and the Raiders","Hot and bothered garage psychedelia, squeezing every last erg out of frantic guitars, galloping bass, pounding drums, and desperate vocals… not exactly ground-breaking, but certainly ass-shaking.",,1,Something's Got To Give,Rollicking organ
+,,,,,,,2,Steeley Eyed Lady,Punishing riffage
+,,,,,,,10,Like A Mummy ,Old school dance number
+2020-05-05,Sturgill Simpson,Sound + Fury,Elektra,"ZZ Top, Jason Isbell, Steve Earle","Simpson made a name for himself with introspective Americana, but this injects a confusing high-energy EDM element, with mixed results. I imagine die-hard ZZ Top fans felt the same way about “Eliminator”.",,1,Ronin,Starts slow then grinds on
+,,,,,,,3,Sing Along,Eliminator-era ZZ Top
+2020-05-05,Temples,Hot Motion,ATO,"STRFKR, Foxygen, BRONCHO","Modern electronic soul, richly layered and intricately produced, with decidedly old-fashioned influences from ‘60s girl groups, ‘70s AM radio, ‘80s club hits, and so on.",,2,You're Either On Something,Wall of sound
+,,,,,,,3,Holy Horses,Meandering melody
+,,,,,,,5,Context,ref. The Cardiacs
+,,,,,,,7,Not Quite The Same,Bounce the bass
+2020-05-05,The Growlers,Natural Affair,Beach Goth,"Cage The Elephant, Dr. Dog, Garageland","You might expect rowdy blues, or thrash-worthy hardcore from the name, but this is some very creative indie rock, using your standard ingredients yet somehow wringing out a distinctive texture and taste. ",,1,Natural Affair,Follow the narrative
+,,,,,,,4,Social Man,Dance alley
+,,,,,,,6,Shadow Woman,Almost tropical
+,,,,,,,7,Truly,Filled with longing
+,,,,,,,8,Tune Out,Clever shuffling
+2020-05-05,Waax,Big Grief,Dew Process,"Bully, The Grates, The Muffs","Girl-forward pop-punk with a harder edge, the type where dissonant guitar stabs merge into gloriously harmonized chorus hooks.",,1,Big Grief,Anthemic in nature
+,,,,,,,2,Labrador,With an electrobeat
+2020-05-05,Wolf + Moon,Before It Gets Dark,AdP Records,"The Bird and the Bee, Cranberries, Mazzy Star","Well-produced synth / indie pop, with clear female vocals and a variety of styles, from dance-floor anthems to wispy desert ballads.",,4,Getaway,Low key with harmonies
+,,,,,,,5,Shoot For The Moon,Desert twang
+2020-05-05,Black Lips,Sing In A World That’s Falling Apart,Fire,"The Mekons, The Front Bottoms, The Country Teasers",The Black Lips are like looking outside the bar window and seeing country and punk having an argument then a fistfight.,,1,Hooker Jon,Trucker hootin’
+,,,,,,,7,Angola Rodeo,It’s a hot boogie
+,,,,,,,9,Odelia,Sounds like heartbreak
+,,,,,,,10,Dishonest Men,Drunken brawling
+,,,,,,,12,Live Fast Die Slow,Nearing catatonia
+2020-05-05,Clifffs,Panic Attack,State Fair,"Gang of Four, Pixies, The Wrens","Edgy and propulsive in a way that fills songs with multitudes of hooks and excitements, alive with nervy energy and unafraid to fit it all in under two minutes.",,1,Undone,Quite insistent
+,,,,,,,2,Manatee,Surf punk blast
+,,,,,,,5,It's All Gone Wrong,Singsong vs. fuzz
+,,,,,,,9,Dark Clouds,Hit that whammy bar
+,,,,,,,12,Tilt,Beats and chords
+2020-05-05,Dan Deacon,Mystic Familiar,Domino,"Phillip Glass, Squarepusher, Otto Von Schirach, The Flaming Lips","If you grew up on videogames, the frenetic multilayered synths will sound like the final moments of a big boss battle. If not, it sounds like a bunch of live Casio keyboards being sent down the garbage disposal. In a good way.",,1,Become a Mountain,Cascading buildup
+,,,,,,,8,Weeping Birch,Sad arpeggios
+2020-05-05,Disq,Collector,Saddle Creek,"Spoon, Buffalo Tom, Stephen Malkmus","Finely crafted pop songs dressed up in rock outfits, shifting moods and approaches with every track.",,1,Daily Routine,Fantastic outro
+,,,,,,,2,Konichiwa Internet,Wide guitar swoops
+,,,,,,,4,D19,All about the microphone
+2020-05-05,Double Date With Death,L’Au-Delà,Howlin’ Banana,"Ty Segall, Oh Sees, Les Thugs, Peglegasus","Excellent garage psychedelia from Quebec that transcends any language barrier with its insistent guitars, lush textures, and thundering drums.",,2,Copier-coller,Instrumental deathrace
+,,,,,,,3,Trou noir,Tinny at first
+,,,,,,,4,Fluorescent,Epic dream state
+2020-05-05,Peter Bjorn and John,Endless Dream,Ingrid,"Belle and Sebastian, Momus, Interpol","Not exactly dance music, but very danceable music, filled with intricate pop arrangements, sly lyrics, and impeccable production.",,3,Drama King,Afrobeating
+,,,,,,,6,Idiosyncrasy,Smoky jazz club
+,,,,,,,8,Simple Song of Sin,Parallel guitar and bass
+,,,,,,,9,Weekend,Ticktock and pluck
+2020-05-05,Tennis,Swimmer,Mutually Detrimental,"Dressy Bessy, The Sundays, Madder Rose",Intricate blue-eyed soul arrangements and a heavenly female pop singer intersect into something decidedly sturdy and magnetic. ,,1,I'll Haunt You,Shimmers and waves
+,,,,,,,2,Need Your Love,Insistent beat
+,,,,,,,5,Echoes,ref. Sundays
+,,,,,,,7,Tender as a Tomb,Layered bossa

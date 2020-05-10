@@ -25,7 +25,7 @@ tags: drunken-prayer levitation-room astroglides lee-scratch-perry strfkr david-
   babe-rainbow bettie-serveert holydrug-couple chicano-batman movits what stan-getz-avec-astrud-et-joao-gilberto
   bracket plimsouls hair-skin-trading-co lala-lala kid-rio alfie television medeski-martin-wood
 keywords: Drunken Prayer, Levitation Room, The Astroglides, Lee &quot;Scratch&quot;
-  Perry, STRFKR, David Hillyard &amp; The Rocksteady 7, Caravan Palace, The Schizophonics,
+  Perry, STRFKR, David Hillyard &amp; The Rocksteady 7, Caravan Palace, Schizophonics,
   HalfNoise, Pixies, Balkan Beat Box vs Mahala Raï Banda, The Bobby Tenderloin Universe,
   Bodeco, Arling + Cameron, VHS Or Beta, The High Dials, The Jon Spencer Blues Explosion,
   Illinois, Belle and Sebastian, Young Fresh Fellows, Team USA, Cones, Temples, Cage
