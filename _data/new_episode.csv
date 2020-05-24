@@ -1,20 +1,38 @@
 episode,segment,sequence,song,artist,album,time,notes
-101,1,1,,,,1:00,"The Woolly Bushmen may look young, but they sound like a rusted IROC Camaro with a busted manifold roaring out of the 7-11 parking lot."
-101,2,2,Goin' Out West,The Woolly Bushmen,In Shambles,3:48,Highly recommended
-101,2,3,El Chepe,Vulfpeck,The Beautiful Game,4:48,Smooth velvet funk
-101,2,4,Bring Your Love To Me,Chris Murray,The 4-Track Adventures of Venice Shoreline Chris,4:20,Copper ore or bust
-101,3,5,,,,1:00,
-101,4,6,Heart Attack,The Asteroids Galaxy Tour,,3:51,"Danish, get the free remix on their website"
-101,4,7,Polymers Are Forever,Future Of The Left,,4:06,Is that the spirit of Servotron?
-101,4,8,Strano Mondo (Stereo Total Rmx),Die Moulinettes,,3:24,"French, German, Italian, what have you"
-101,4,9,Ubicate,Maneja Beto,,4:00,From Austin!
-101,5,10,,,,1:00,
-101,6,11,Crazy Energy Night,Pom Poko,Birthday,3:27,Very much the like
-101,6,12,Shanty,Dumm-Dumms,,1:41,Truth in advertising
-101,6,13,Dream Child,Øzwald,Sweet Delirium,4:14,Quite magnetic
-101,7,14,,,,1:00,
-101,8,15,Sunshine (Back To The Start),Anemone,Beat My Distance,5:31,Sunshine and light
-101,8,16,A Place In The Sun,Telekinesis,Effluxion,2:20,Fuzzy fuzzy Apples
-101,8,17,Who Am I,Toro Y Moi,Outer Peace,3:29,The subtle boogie
-101,9,18,,,,1:00,
-101,10,19,Enjoy Yourself,The Specials,,3:38,Covered and recovered
+101,a1,1,,,,,"The Woolly Bushmen may look young, but they sound like a rusted IROC Camaro with a busted manifold roaring out of the 7-11 parking lot."
+101,a2,2,Goin' Out West,The Woolly Bushmen,In Shambles,3:48,Highly recommended
+101,a2,3,El Chepe,Vulfpeck,The Beautiful Game,4:48,Smooth velvet funk
+101,a2,4,Bring Your Love To Me,Chris Murray,The 4-Track Adventures of Venice Shoreline Chris,4:20,Copper ore or bust
+101,a3,5,,,,,
+101,a4,6,Heart Attack,The Asteroids Galaxy Tour,,3:51,"Danish, get the free remix on their website"
+101,a4,7,Polymers Are Forever,Future Of The Left,,4:06,Is that the spirit of Servotron?
+101,a4,8,Strano Mondo (Stereo Total Rmx),Die Moulinettes,,3:24,"French, German, Italian, what have you"
+101,a4,9,Ubicate,Maneja Beto,,4:00,From Austin!
+101,a5,10,,,,,
+101,a6,11,Crazy Energy Night,Pom Poko,Birthday,3:27,Very much the like
+101,a6,12,Shanty,Dumm-Dumms,,1:41,Truth in advertising
+101,a6,13,Dream Child,Øzwald,Sweet Delirium,4:14,Quite magnetic
+101,a7,14,,,,,
+101,a8,15,Sunshine (Back To The Start),Anemone,Beat My Distance,5:31,Sunshine and light
+101,a8,16,A Place In The Sun,Telekinesis,Effluxion,2:20,Fuzzy fuzzy Apples
+101,a8,17,Who Am I,Toro Y Moi,Outer Peace,3:29,The subtle boogie
+101,b1,18,,,,,
+101,b2,19,The Art of Projection,Imperial Wax,Gastwerk Saboteurs,4:06,Nonstop fury
+101,b2,20,Casanova Lament,Frank Turner,Campfire Punkrock,2:16,Lamentable
+101,b2,21,Se Todos Fossem Iguais a Você,Cris Delanno,Grandes Canções: Clássicos de Tom Jobim,2:30,By Bossacucanova
+101,b2,22,Strobe Light Beatdown (Bonus Track),Monster Magnet,Last Patrol,4:26,A menacing waltz
+101,b3,23,,,,,
+101,b4,24,Blue Flowers,Dr. Octagon,Dr. Octagonecologyst,3:17,Your insurance is high
+101,b4,25,Ambulance,These Animal Men,"(Come On, Join) The High Society",4:19,Too obscure by far
+101,b4,26,Bleep,Matt Surfin and Friends,Matt Surfin and Friends,3:19,So relaxing
+101,b5,27,,,,,
+101,b6,28,Little Talks,Of Monsters and Men,,4:24,Icelandic
+101,b6,29,Nothing in this World Can Stop Me Worrin' Bout that Girl,The Kinks,,2:43,Check out the Rushmore soundtrack
+101,b6,30,Dirt,Andre Williams,,3:13,From his new album
+101,b6,31,The Sleeping Knights of Jesus,Robyn Hitchcock,,4:00,The goofy Hitchcock kid again
+101,b7,32,,,,,
+101,b8,15,Learning About Love,The Bran Flakes,Hey Won't Somebody Come and Play,2:26,Chopped up wisdom
+101,b8,16,My Girl Reggae,Black Reggae,"Afro Exotique - Adventures In The Leftfield, Africa 1972-82",3:04,Out of Africa
+101,b8,17,Rhythm is All You Can Dance - Album mix,Africaine 808,Basar,4:43,Let the pulse command you
+101,b9,36,,,,,
+101,bX,37,Enjoy Yourself,The Specials,,3:38,Covered and recovered

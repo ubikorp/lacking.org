@@ -22,7 +22,7 @@ playlists:
 podcast:
   title:       The Podcast
   tagline:     An&nbsp;amalgamation of&nbsp;sounds
-  description: Currently under redevelopment, but some older episodes are available and more will be added soon.
+  description: Now available in streaming format via Mixcloud. A downloadable version is still in the works.
   background:  site/banners/podcast_bg.jpg
   icon:        site/banners/podcast_icon.png
   social:      site/banners/podcast_social.jpg

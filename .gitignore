@@ -3,3 +3,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+# Dev stuff
+.DS_Store
+.byebug_history
