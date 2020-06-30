@@ -21,8 +21,8 @@ index: Pickin’ The Chicken
 tags: speedy-west-jimmy-bryant hoosegow enon chameleons-uk kinks oranger jon-spencer-blues-explosion
   lucas nicoteens beat-farmers boredoms janis-joplin michael-holland police split-enz
   laibach
-keywords: Speedy West + Jimmy Bryant, The Hoosegow, Enon, The Chameleons UK, The Kinks,
-  Oranger, The Jon Spencer Blues Explosion, Lucas, The Nicoteens, The Beat Farmers,
-  Boredoms, Janis Joplin, Michael Holland, The Police, Split Enz, Laibach
+keywords: The Beat Farmers, Boredoms, The Chameleons UK, Enon, The Hoosegow, Janis
+  Joplin, The Jon Spencer Blues Explosion, The Kinks, Laibach, Lucas, Michael Holland,
+  The Nicoteens, Oranger, The Police, Speedy West + Jimmy Bryant, Split Enz
 ---
 Is it noise, or is it Memorex? The Boredomes don’t seem to care much, as long as they get to make their fine, fine racket.

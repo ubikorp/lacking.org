@@ -22,12 +22,12 @@ tags: railroad-jerk stereo-total titan dansettes ld-new-criticism westbound-trai
   1990s flamenco-a-go-go moore-brothers robb-benson awkward-stage ok-go erin-mckeown
   madness a-big-yes-a-small-no elis-regina downtown-harvest boss-hogg black-francis
   blue-skies-for-black-hearts monsieur-leroc anubian-lights
-keywords: Railroad Jerk, Stereo Total, Titan, The Dansettes, LD + the New Criticism,
-  Westbound Train, G Love + Special Sauce, David Garza, Head of Femur, Trespassers
-  W, Golden Shoulders, The Hush Sound, James Taylor Quartet, Global Goon, Kinky, Andrea
-  Perry, Three Mile Pilot, Niños Con Bombas, 1990s, The Flamenco A Go Go, Moore Brothers,
-  Robb Benson, The Awkward Stage, OK GO, Erin McKeown, Madness, A Big Yes + A Small
-  No, Elis Regina, Downtown Harvest, Boss Hogg, Black Francis, Blue Skies for Black
-  Hearts, Monsieur LeRoc, The Anubian Lights
+keywords: 1990s, A Big Yes + A Small No, Andrea Perry, The Anubian Lights, The Awkward
+  Stage, Black Francis, Blue Skies for Black Hearts, Boss Hogg, The Dansettes, David
+  Garza, Downtown Harvest, Elis Regina, Erin McKeown, The Flamenco A Go Go, G Love
+  + Special Sauce, Global Goon, Golden Shoulders, Head of Femur, The Hush Sound, James
+  Taylor Quartet, Kinky, LD + the New Criticism, Madness, Monsieur LeRoc, Moore Brothers,
+  Niños Con Bombas, OK GO, Railroad Jerk, Robb Benson, Stereo Total, Three Mile Pilot,
+  Titan, Trespassers W, Westbound Train
 ---
 It's a steamy Florida night, and it marks the debut of Julius C. Lacking on the airwaves of WFIT, a university radio station in Melbourne, Florida. The random nature of the playlist is born of a catastrophic home furnishing disaster that hopelessly jumbled the contents of the vaunted Lacking Selection, the music library which Julius has been aggregating for the last twenty years. The process of its re-cataloging and collation, which promises to last decades, will henceforth be known as The Lacking Organization. Let it begin.

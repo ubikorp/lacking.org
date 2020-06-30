@@ -16,12 +16,12 @@ tags: mastodon asylum-street-spankers blossom-dearie bobs x bongwater brave-comb
   boom-pam camper-van-beethoven carolina-chocolate-drops countdown-quartet keller-williams
   los-straitjackets moog-cookbook puppini-sisters william-shatner dan-hicks blue-hawaiians
   montefiori-cocktail
-keywords: Mastodon, Asylum Street Spankers, Blossom Dearie, The Bobs, X, Bongwater,
-  Brave Combo, Cagney &amp; Lacee, The Coctails, The Specials, Zed Bias Feat. Trigga
-  and Trevor Roots, Persuasions, Shawn Lee&#39;s Ping Pong Orchestra, Mates Of State,
-  The Wedding Present, Bettie Serveert, Allison With One, April March, Ben Folds,
-  Boom Pam, Camper Van Beethoven, Carolina Chocolate Drops, The Countdown Quartet,
-  Keller Williams, Los Straitjackets, The Moog Cookbook, The Puppini Sisters, William
-  Shatner, Dan Hicks, The Blue Hawaiians, Montefiori Cocktail
+keywords: Allison With One, April March, Asylum Street Spankers, Ben Folds, Bettie
+  Serveert, Blossom Dearie, The Blue Hawaiians, The Bobs, Bongwater, Boom Pam, Brave
+  Combo, Cagney &amp; Lacee, Camper Van Beethoven, Carolina Chocolate Drops, The Coctails,
+  The Countdown Quartet, Dan Hicks, Keller Williams, Los Straitjackets, Mastodon,
+  Mates Of State, Montefiori Cocktail, The Moog Cookbook, Persuasions, The Puppini
+  Sisters, Shawn Lee&#39;s Ping Pong Orchestra, The Specials, The Wedding Present,
+  William Shatner, X, Zed Bias Feat. Trigga and Trevor Roots
 ---
 Now this song weighs a ton.

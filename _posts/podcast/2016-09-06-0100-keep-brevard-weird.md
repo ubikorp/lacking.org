@@ -26,12 +26,12 @@ tags: dirty-poodle peter-tuck two-fishes screaming-iguanas-of-love cateye sounds
   ryan-blount patty-bleu jeffrey-stanton patty-bleu ryan-blount southern-fried-genocide
   konglom freeflow-conspiracy dead-serios what brevard-busking-coalition agent86 fields-of-saturn
   oranga-tanga basement-scene
-keywords: Dirty Poodle, Peter Tuck, Two Fishes, Screaming Iguanas Of Love, Cateye,
-  Sounds of Nebula, Ghostbeat, The Sleep Tights, Ryan Blount, Patty Bleu, loftboys,
-  Patty Bleu, Ryan Blount, The Green Goblyn Project, Ryan Blount, Patty Bleu, Jeffrey
-  Stanton, Patty Bleu, Ryan Blount, Southern Fried Genocide, KONGLOM, Freeflow Conspiracy,
-  Dead Serios, What!, Brevard Busking Coalition, Agent86, Fields of Saturn, Oranga
-  Tanga, The Basement Scene
+keywords: Agent86, The Basement Scene, Brevard Busking Coalition, Cateye, Dead Serios,
+  Dirty Poodle, Fields of Saturn, Freeflow Conspiracy, Ghostbeat, The Green Goblyn
+  Project, Jeffrey Stanton, KONGLOM, loftboys, Oranga Tanga, Patty Bleu, Patty Bleu,
+  Patty Bleu, Patty Bleu, Peter Tuck, Ryan Blount, Ryan Blount, Ryan Blount, Ryan
+  Blount, Screaming Iguanas Of Love, The Sleep Tights, Sounds of Nebula, Southern
+  Fried Genocide, Two Fishes, What!
 ---
 This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.<!--more-->
 

@@ -23,13 +23,13 @@ tags: jr-jr starlight-mints cayucas pom-poko stereolab ray-makers orville-peck r
   nikka-costa devil-makes-three chad-vangaalen thee-oh-sees mekons kal manu-chao andrew-bird
   paris-combo police coldcut-hexstatic sex-bob-omb camper-van-beethoven mastretta
   wolf-parade
-keywords: Jr. Jr., The Starlight Mints, Cayucas, Pom Poko, Stereolab, The Ray Makers,
-  Orville Peck, Reptaliens, Bad Bad Hats, Ages And Ages, Violent Femmes, The Dickies,
-  Cheap Trick, Books on Tape, The Aggrolites, The Brian Jonestown Massacre, The Emergency,
-  The Mountain Goats, Janis Joplin, A Giant Dog, King Gizzard &amp; The Lizard Wizard,
-  The Smugglers, The Woolly Bushmen, Habiluim, Animal Eyes, World Standard, Nouvelle
-  Vague, She &amp; Him, Nikka Costa, The Devil Makes Three, Chad VanGaalen, Thee Oh
-  Sees, Mekons, Kal, Manu Chao, Andrew Bird, Paris Combo, The Police, Coldcut &amp;
-  Hexstatic, Sex Bob-omb, Camper Van Beethoven, Mastretta, Wolf Parade
+keywords: A Giant Dog, Ages And Ages, The Aggrolites, Andrew Bird, Animal Eyes, Bad
+  Bad Hats, Books on Tape, The Brian Jonestown Massacre, Camper Van Beethoven, Cayucas,
+  Chad VanGaalen, Cheap Trick, Coldcut &amp; Hexstatic, The Devil Makes Three, The
+  Dickies, The Emergency, Habiluim, Janis Joplin, Jr. Jr., Kal, King Gizzard &amp;
+  The Lizard Wizard, Manu Chao, Mastretta, Mekons, The Mountain Goats, Nikka Costa,
+  Nouvelle Vague, Orville Peck, Paris Combo, The Police, Pom Poko, The Ray Makers,
+  Reptaliens, Sex Bob-omb, She &amp; Him, The Smugglers, The Starlight Mints, Stereolab,
+  Thee Oh Sees, Violent Femmes, Wolf Parade, The Woolly Bushmen, World Standard
 ---
 The luthier adjusted the direction control of the four-legged arachnoform lumbering above the forest of Oro Bay. The spherical contraption had been difficult at first, but proved to be intuitive in guiding the transport’s spindly hissing legs across the varied terrain. Behind the padded seat, the cartographer consulted screens and printouts. The purple spruce should be visible soon. A single trunk would yield over a hundred cello bows, worth millions in the underground market. They were there to make sure it remained just another tree.

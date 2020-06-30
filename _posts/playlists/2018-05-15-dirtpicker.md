@@ -17,13 +17,13 @@ tags: post-animal dr-octagon fishbone brandon-can-t-dance hefner marble-party de
   metal-molly brazilian-girls avett-brothers eels hugh-cornwell rainbow-kitten-surprise
   django-django flaming-lips ill-ease esoebo hawk sonny-smith makeness pixies speedy-ortiz
   parker-lily naked-giants dr-dog goat-girl born-ruffians byrne-veloso khruangbin
-keywords: Post Animal, Dr. Octagon, Fishbone, Brandon Can&#39;t Dance, Hefner, Marble
-  Party, Devo, Push Kings, Barcelona, Ken Nordine, The Starlight Mints, Southern Culture
-  On The Skids, Nortec (Bostich+Fussible), Grand Marquis, Lucy Dacus, Portishead,
-  Belle &amp; Sebastian, Hanni El Khatib, Osaka Popstar, Metal Molly, Brazilian Girls,
-  The Avett Brothers, Eels, Hugh Cornwell, Rainbow Kitten Surprise, Django Django,
-  The Flaming Lips, Ill Ease, Esoebo, Hawk, Sonny Smith, Makeness, Pixies, Speedy
-  Ortiz, Parker And Lily, Naked Giants, Dr. Dog, Goat Girl, Born Ruffians, Byrne/Veloso,
-  Khruangbin
+keywords: The Avett Brothers, Barcelona, Belle &amp; Sebastian, Born Ruffians, Brandon
+  Can&#39;t Dance, Brazilian Girls, Byrne/Veloso, Devo, Django Django, Dr. Dog, Dr.
+  Octagon, Eels, Esoebo, Fishbone, The Flaming Lips, Goat Girl, Grand Marquis, Hanni
+  El Khatib, Hawk, Hefner, Hugh Cornwell, Ill Ease, Ken Nordine, Khruangbin, Lucy
+  Dacus, Makeness, Marble Party, Metal Molly, Naked Giants, Nortec (Bostich+Fussible),
+  Osaka Popstar, Parker And Lily, Pixies, Portishead, Post Animal, Push Kings, Rainbow
+  Kitten Surprise, Sonny Smith, Southern Culture On The Skids, Speedy Ortiz, The Starlight
+  Mints
 ---
 They're all over the place, but that's what I like about Post Animal. "Dirtpicker" owes much to the Jesus Lizard, especially in its title.

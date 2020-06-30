@@ -15,11 +15,11 @@ tags: los-straitjackets rentals hot-hot-heat fratellis hidden-cameras chemical-b
   police ought babies g-love-special-sauce sir-mix-a-lot metric os-mutantes guv-ner
   family-of-god imperial-teen diamanda-galas-with-john-paul-jones charming-turtlenecks
   janis-joplin flamenco-a-go-go jon-auer mc-honky flat-duo-jets brian-eno
-keywords: Los Straitjackets, The Rentals, Hot Hot Heat, The Fratellis, The Hidden
-  Cameras, The Chemical Brothers, Rival Sons, The Claypool Lennon Delirium, Arto Lindsay,
-  Guided By Voices, Action Figure Party, The Police, Ought, The Babies, G. Love &amp;
-  Special Sauce, Sir Mix-A-Lot, Metric, Os Mutantes, Guv&#39;ner, Family Of God, Imperial
-  Teen, Diamanda Galas with John Paul Jones, Charming Turtlenecks, Janis Joplin, The
-  Flamenco A Go Go, Jon Auer, MC Honky, Flat Duo Jets, Brian Eno
+keywords: Action Figure Party, Arto Lindsay, The Babies, Brian Eno, Charming Turtlenecks,
+  The Chemical Brothers, The Claypool Lennon Delirium, Diamanda Galas with John Paul
+  Jones, Family Of God, The Flamenco A Go Go, Flat Duo Jets, The Fratellis, G. Love
+  &amp; Special Sauce, Guided By Voices, Guv&#39;ner, The Hidden Cameras, Hot Hot
+  Heat, Imperial Teen, Janis Joplin, Jon Auer, Los Straitjackets, MC Honky, Metric,
+  Os Mutantes, Ought, The Police, The Rentals, Rival Sons, Sir Mix-A-Lot
 ---
 Exene Cervenka fronting Los Straitjackets is a powerful combination.

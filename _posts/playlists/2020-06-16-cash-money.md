@@ -27,14 +27,14 @@ tags: cornershop adriano-celentano clifffs frights g-love-special-sauce money-ma
   cheo binder-krieglstein jungle-fire young-holt-trio jonathan-wilson asylum-street-spankers
   westbound-train sparks konrad koop barry-sisters cells mr-elevator-brain-hotel siberian
   mad-professor brian-jonestown-massacre material terrorist
-keywords: Cornershop, Adriano Celentano, Clifffs, The Frights, G. Love &amp; Special
-  Sauce, Money Mark, Ohmme, Pokey Lafarge, Olivia Jean, Patchworks, Nathaniel Rateliff,
-  Margaret Glaspy, Cable Ties, Micachu &amp; The Shapes, Gothic Tropic, Antibalas,
-  Acid Tongue, Brendan Benson, M. Ward, Isobel Campbell, Jovenes Y Sexys, Serge Gainsbourg,
-  Alain Goraguer, Pink Floyd, The Stroppies, Shopping, Possible Humans, Cheo, Binder
-  + Krieglstein, Jungle Fire, The Young-Holt Trio, Jonathan Wilson, Asylum Street
-  Spankers, Westbound Train, Sparks, Konrad, Koop, The Barry Sisters, The Cells, Mr.
-  Elevator &amp; The Brain Hotel, Siberian        , Mad Professor, The Brian Jonestown
-  Massacre, Material, The Terrorist
+keywords: Acid Tongue, Adriano Celentano, Antibalas, Asylum Street Spankers, The Barry
+  Sisters, Binder + Krieglstein, Brendan Benson, The Brian Jonestown Massacre, Cable
+  Ties, The Cells, Cheo, Clifffs, Cornershop, The Frights, G. Love &amp; Special Sauce,
+  Gothic Tropic, Isobel Campbell, Jonathan Wilson, Jovenes Y Sexys, Jungle Fire, Konrad,
+  Koop, M. Ward, Mad Professor, Margaret Glaspy, Material, Micachu &amp; The Shapes,
+  Money Mark, Mr. Elevator &amp; The Brain Hotel, Nathaniel Rateliff, Ohmme, Olivia
+  Jean, Patchworks, Pink Floyd, Pokey Lafarge, Possible Humans, Serge Gainsbourg,
+  Alain Goraguer, Shopping, Siberian, Sparks, The Stroppies, The Terrorist, Westbound
+  Train, The Young-Holt Trio
 ---
 They had been shot at. They had avoided countless booby traps. They had been served tiny delicate cups of the most aromatic and poisonous espresso. All of these events were framed as interrupted cribbage games. Maybe they played too much. The phlebotomist ruminated on this as they locked up their two-wheel drive all-terrain motorbikes across the street from Kirov Park. The Transnistrian passports had been excruciatingly expensive, but the ergonomist insisted it was justified, for complicated political reasons. The pieces rattled against the cribbage board and the very dangerous little notebook in the messenger bag as they strolled through the trail, looking for a man holding two empty water bottles.

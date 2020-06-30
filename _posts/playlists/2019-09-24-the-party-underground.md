@@ -28,15 +28,15 @@ tags: redd-kross spot-1019 ultra-vivid-scene seratones illinois hot-chip brave-c
   wammo trabant sure-fire-soul-ensemble fishbone dr-octagon ty-segall thee-oh-sees
   close-talker m-i-a boredoms stubborn-all-stars young-fresh-fellows neon-angels kinks
   shadowy-men-on-a-shadowy-planet handsome-boy-modeling-school electric-spinach jagwar-ma
-keywords: Redd Kross, Spot 1019, Ultra Vivid Scene, Seratones, Illinois, Hot Chip,
-  Brave Combo, The Shivas, Klark Kent, Southern Culture On The Sklds, Mosquitos, The
-  Raconteurs, The Elected, The Extra Glenns, Beachwood Sparks, Twin Peaks, 1990s,
-  Mastretta, The Bird and The Bee, C. Gibbs And The Cardia Bros., Takako Minekawa,
-  Violent Femmes, Jay Som, Frankie Cosmos, Kim Stevenson, The Fever, Ghost Funk Orchestra,
-  VV Brown, Wammo, Trabant, The Sure Fire Soul Ensemble, Fishbone, Dr. Octagon, Ty
-  Segall, Thee Oh Sees, Close Talker, M.I.A., Boredoms, Stubborn All-Stars, Young
-  Fresh Fellows, The Neon Angels, The Kinks, Shadowy Men on a Shadowy Planet, Handsome
-  Boy Modeling School, Electric Spinach, Jagwar Ma
+keywords: 1990s, Beachwood Sparks, The Bird and The Bee, Boredoms, Brave Combo, C.
+  Gibbs And The Cardia Bros., Close Talker, Dr. Octagon, The Elected, Electric Spinach,
+  The Extra Glenns, The Fever, Fishbone, Frankie Cosmos, Ghost Funk Orchestra, Handsome
+  Boy Modeling School, Hot Chip, Illinois, Jagwar Ma, Jay Som, Kim Stevenson, The
+  Kinks, Klark Kent, M.I.A., Mastretta, Mosquitos, The Neon Angels, The Raconteurs,
+  Redd Kross, Seratones, Shadowy Men on a Shadowy Planet, The Shivas, Southern Culture
+  On The Sklds, Spot 1019, Stubborn All-Stars, The Sure Fire Soul Ensemble, Takako
+  Minekawa, Thee Oh Sees, Trabant, Twin Peaks, Ty Segall, Ultra Vivid Scene, Violent
+  Femmes, VV Brown, Wammo, Young Fresh Fellows
 ---
 The accordionist’s boot was tangled in a mangrove root. The deepening dusk of Meads Bay Pond brought with it a soft breeze and an ugly threat of bug swarms. Their chances of getting to the beach and capturing enough glowing sugar crabs were dwindling. The roots, more like underwater dreadlocks, heaved as the booted foot attempted to twist out, the accordion case held high as counterbalance. The technician glared at the spectacle briefly before shining a light on the clipboard. In the distance, a barbershop quartet with a Tuvan throat-singing baritone made it incongruous presence known. The keys to the long-range waterbikes had a floaty thing on them, but they were permanently attached to the metal clipboard, which would sink like a stone. The Governor’s Office back in The Valley would certainly hear about this.
 

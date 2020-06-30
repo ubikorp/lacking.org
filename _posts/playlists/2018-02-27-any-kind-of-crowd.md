@@ -19,13 +19,13 @@ tags: pixies cherry goldfrapp shame fratellis walt-wagner filthy-friends hollie-
   fat-white-family mo-kenney graham-coxon devendra-banhart jeff-rosenstock philly-boy-roy
   ben-folds-five southern-culture-on-sklds andrea-perry teenage-bottlerocket capes
   mac-demarco gillian-welch-alison-krauss
-keywords: Pixies, Cherry, Goldfrapp, Shame, The Fratellis, Walt Wagner, Filthy Friends,
-  Hollie Cook, St. Vincent, Maldita Vecindad &amp; Los Hijos Del Quinto Patio, Nightmares
-  On Wax, Bob Dylan, Bag, Dim Dim, bicycle, Eyelids, The Wailin&#39; Jennys, The Clash,
-  Palm, Grand Analog, The Rants, A Giant Dog, Les Wampas, Starcrawler, Marble Party,
-  Brak, The Slackers, Artichoke, Swear And Shake, Holy, Tune-Yards, Fat White Family,
-  Mo Kenney, Graham Coxon, Devendra Banhart, Jeff Rosenstock, Philly Boy Roy, Ben
-  Folds Five, Southern Culture On The Sklds, Andrea Perry, Teenage Bottlerocket, The
-  Capes, Mac DeMarco, Gillian Welch/Alison Krauss
+keywords: A Giant Dog, Andrea Perry, Artichoke, Bag, Ben Folds Five, bicycle, Bob
+  Dylan, Brak, The Capes, Cherry, The Clash, Devendra Banhart, Dim Dim, Eyelids, Fat
+  White Family, Filthy Friends, The Fratellis, Gillian Welch/Alison Krauss, Goldfrapp,
+  Graham Coxon, Grand Analog, Hollie Cook, Holy, Jeff Rosenstock, Les Wampas, Mac
+  DeMarco, Maldita Vecindad &amp; Los Hijos Del Quinto Patio, Marble Party, Mo Kenney,
+  Nightmares On Wax, Palm, Philly Boy Roy, Pixies, The Rants, Shame, The Slackers,
+  Southern Culture On The Sklds, St. Vincent, Starcrawler, Swear And Shake, Teenage
+  Bottlerocket, Tune-Yards, The Wailin&#39; Jennys, Walt Wagner
 ---
 Even obscurists get to form supergroups, and Filthy Friends is one of the top entries in that category, with membership from Sleater-Kinney, the Young Fresh Fellows, the Fastbacks, and more.

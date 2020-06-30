@@ -20,15 +20,14 @@ tags: swarming-branch j-roddy-walston-business un-dos-tres-y-fuera quintron-miss
   johnny-sangster-robb-benson heavy-trash white-hassle rachel-taylor-brown foxygen
   frente mother-mother neutral-milk-hotel nightmares-on-wax holy jeff-rosenstock reptaliens
   fort-lauderdale z-kamp-express stereo-total tony-allen
-keywords: Swarming Branch, J. Roddy Walston &amp; The Business, Un Dos Tres Y Fuera,
-  Quintron &amp; Miss Pussycat, The Pica Beats, Grand Analog, Palm, Deer Tick, Ween,
-  Ben Folds Five, Squeeze, Marvelous Liars, Mo Kenney, Wolf Parade, Chris Thile, Mayor
-  McCa, Hanni El Khatib, Hollie Cook, Banana Hammock, Once For Kicks, Dappled Cities,
-  King Gizzard &amp; The Lizard Wizard, The Moore Brothers, Red Hot Chili Peppers,
-  Cherry, Starcrawler, Rolling Blackouts Coastal Fever, Kelley Stoltz, Slowdive, Fishbone,
-  Johnny Sangster And Robb Benson, Heavy Trash, White Hassle, Rachel Taylor Brown,
-  Foxygen, Frente!, Mother Mother, Neutral Milk Hotel, Nightmares On Wax, Holy, Jeff
-  Rosenstock, Reptaliens, Fort Lauderdale, The Z Kamp Express, Stereo Total, Tony
-  Allen
+keywords: Banana Hammock, Ben Folds Five, Cherry, Chris Thile, Dappled Cities, Deer
+  Tick, Fishbone, Fort Lauderdale, Foxygen, Frente!, Grand Analog, Hanni El Khatib,
+  Heavy Trash, Hollie Cook, Holy, J. Roddy Walston &amp; The Business, Jeff Rosenstock,
+  Johnny Sangster And Robb Benson, Kelley Stoltz, King Gizzard &amp; The Lizard Wizard,
+  Marvelous Liars, Mayor McCa, Mo Kenney, The Moore Brothers, Mother Mother, Neutral
+  Milk Hotel, Nightmares On Wax, Once For Kicks, Palm, The Pica Beats, Quintron &amp;
+  Miss Pussycat, Rachel Taylor Brown, Red Hot Chili Peppers, Reptaliens, Rolling Blackouts
+  Coastal Fever, Slowdive, Squeeze, Starcrawler, Stereo Total, Swarming Branch, Tony
+  Allen, Un Dos Tres Y Fuera, Ween, White Hassle, Wolf Parade, The Z Kamp Express
 ---
 Like getting picked up by the scruff of your neck and smashed into a wall of orange Jello, Swarming Branch gets your attention with the warping and weaving of "Zsazsur's Real Estate Song".

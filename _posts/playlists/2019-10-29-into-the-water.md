@@ -24,15 +24,15 @@ tags: drunken-prayer levitation-room astroglides lee-scratch-perry strfkr david-
   queens-of-stone-age ezra-furman y-la-bamba laurel-aitken maya-fadeeva differentgear-vs-police
   babe-rainbow bettie-serveert holydrug-couple chicano-batman movits what stan-getz-avec-astrud-et-joao-gilberto
   bracket plimsouls hair-skin-trading-co lala-lala kid-rio alfie television medeski-martin-wood
-keywords: Drunken Prayer, Levitation Room, The Astroglides, Lee &quot;Scratch&quot;
-  Perry, STRFKR, David Hillyard &amp; The Rocksteady 7, Caravan Palace, Schizophonics,
-  HalfNoise, Pixies, Balkan Beat Box vs Mahala Raï Banda, The Bobby Tenderloin Universe,
-  Bodeco, Arling + Cameron, VHS Or Beta, The High Dials, The Jon Spencer Blues Explosion,
-  Illinois, Belle and Sebastian, Young Fresh Fellows, Team USA, Cones, Temples, Cage
-  The Elephant, Queens Of The Stone Age, Ezra Furman, Y La Bamba, Laurel Aitken, Maya
-  Fadeeva, differentGear vs The Police, Babe Rainbow, Bettie Serveert, The Holydrug
-  Couple, Chicano Batman, Movits!, What!, Stan Getz avec Astrud et Joao Gilberto,
-  Bracket, The Plimsouls, The Hair And Skin Trading Co, Lala Lala, Kid Rio, Alfie,
-  Television, Medeski, Martin + Wood
+keywords: Alfie, Arling + Cameron, The Astroglides, Babe Rainbow, Balkan Beat Box
+  vs Mahala Raï Banda, Belle and Sebastian, Bettie Serveert, The Bobby Tenderloin
+  Universe, Bodeco, Bracket, Cage The Elephant, Caravan Palace, Chicano Batman, Cones,
+  David Hillyard &amp; The Rocksteady 7, differentGear vs The Police, Drunken Prayer,
+  Ezra Furman, The Hair And Skin Trading Co, HalfNoise, The High Dials, The Holydrug
+  Couple, Illinois, The Jon Spencer Blues Explosion, Kid Rio, Lala Lala, Laurel Aitken,
+  Lee &quot;Scratch&quot; Perry, Levitation Room, Maya Fadeeva, Medeski, Martin +
+  Wood, Movits!, Pixies, The Plimsouls, Queens Of The Stone Age, Schizophonics, Stan
+  Getz avec Astrud et Joao Gilberto, STRFKR, Team USA, Television, Temples, VHS Or
+  Beta, What!, Y La Bamba, Young Fresh Fellows
 ---
 The screen door banged against the frame of the small building that was once Cisco, Utah’s non-bustling post office. It’s like a ghost town abandoned by the ghosts, mused the cinematographer. Whatever once haunted this place left out of boredom. Meanwhile, the blacksmith methodically tapped the foundation along the perimeter of the building. They had brought the infractometer over from the side-by-side they had arrived in, but sometimes the old ways worked best. The rhythm etched out a Namibian bossanova that had been popular in the ‘70s. The entrance to the silo complex had to be near.

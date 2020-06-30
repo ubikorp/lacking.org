@@ -16,11 +16,11 @@ tags: thievery-corporation ruler speedy-ortiz johnny-marr postdata cut-worms cic
   king-tuff cowboy-junkies black-moth-super-rainbow sonny-smith okkervil-river dick-stusso
   jo-passed buck-meek courtney-barnett rock-a-teens rubens khruangbin wye-oak yung-heazy
   la-luz stephen-malkmus-jicks father-john-misty forth-wanderers
-keywords: Thievery Corporation, Ruler, Speedy Ortiz, Johnny Marr, Postdata, Cut Worms,
-  Cicada Rhythm, Middle Kids, The Essex Green, Rolling Blackouts Coastal Fever, Femi
-  Kuti, Frankie Cosmos, King Tuff, Cowboy Junkies, Black Moth Super Rainbow, Sonny
-  Smith, Okkervil River, Dick Stusso, Jo Passed, Buck Meek, Courtney Barnett, Rock*a*Teens,
-  The Rubens, Khruangbin, Wye Oak, Yung Heazy, La Luz, Stephen Malkmus &amp; The Jicks,
-  Father John Misty, Forth Wanderers
+keywords: Black Moth Super Rainbow, Buck Meek, Cicada Rhythm, Courtney Barnett, Cowboy
+  Junkies, Cut Worms, Dick Stusso, The Essex Green, Father John Misty, Femi Kuti,
+  Forth Wanderers, Frankie Cosmos, Jo Passed, Johnny Marr, Khruangbin, King Tuff,
+  La Luz, Middle Kids, Okkervil River, Postdata, Rock*a*Teens, Rolling Blackouts Coastal
+  Fever, The Rubens, Ruler, Sonny Smith, Speedy Ortiz, Stephen Malkmus &amp; The Jicks,
+  Thievery Corporation, Wye Oak, Yung Heazy
 ---
 The Thievery Corporation has institutionalized the plagiarism of genres, and this week's dub-influenced opener is no exception.

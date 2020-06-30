@@ -20,14 +20,14 @@ tags: cullen-omori temples wrens clap-your-hands-say-yeah white-denim smoking-fl
   witnesses yung-heazy lump rollercoasterwater dusminguet les-wampas fiery-furnaces
   ron-gallo pietasters courtney-barnett phase-selector-sound khruangbin fugazi ian-dury-blockheads
   nouvelle-vague rinocerose king-tuff postdata ursula-1000
-keywords: Cullen Omori, Temples, The Wrens, Clap Your Hands Say Yeah, White Denim,
-  The Smoking Flowers, The Zombies, Rolling Blackouts Coastal Fever, Coastwest Unrest,
-  Margaret Glaspy, Brendan Benson, Fun Boy Three With Bananarama, Rock*a*Teens, Popcanon,
-  The Fever, The Donkeys, Nile Rogers And Roy Hargrove And Money Mark, Cowboy Junkies,
-  The Solace Bros., Rubblebucket, The Buzzcocks, Jake Shimabukuro, Grimskunk, Thin
-  Lips, The Witnesses, Yung Heazy, LUMP, Rollercoasterwater, Dusminguet, Les Wampas,
-  The Fiery Furnaces, Ron Gallo, Pietasters, Courtney Barnett, Phase Selector Sound,
-  Khruangbin, Fugazi, Ian Dury &amp; The Blockheads, Nouvelle Vague, Rinôçerôse, King
-  Tuff, Postdata, Ursula 1000
+keywords: Brendan Benson, The Buzzcocks, Clap Your Hands Say Yeah, Coastwest Unrest,
+  Courtney Barnett, Cowboy Junkies, Cullen Omori, The Donkeys, Dusminguet, The Fever,
+  The Fiery Furnaces, Fugazi, Fun Boy Three With Bananarama, Grimskunk, Ian Dury &amp;
+  The Blockheads, Jake Shimabukuro, Khruangbin, King Tuff, Les Wampas, LUMP, Margaret
+  Glaspy, Nile Rogers And Roy Hargrove And Money Mark, Nouvelle Vague, Phase Selector
+  Sound, Pietasters, Popcanon, Postdata, Rinôçerôse, Rock*a*Teens, Rollercoasterwater,
+  Rolling Blackouts Coastal Fever, Ron Gallo, Rubblebucket, The Smoking Flowers, The
+  Solace Bros., Temples, Thin Lips, Ursula 1000, White Denim, The Witnesses, The Wrens,
+  Yung Heazy, The Zombies
 ---
 The evenings grow brisk as the music gets wilder. Tonight zipped by, thanks to Generoso and Lily, and Robin in Atlanta, for staying up late. Also, a reminder that I'll be out the following two Tuesdays, returning to the air on October 2.

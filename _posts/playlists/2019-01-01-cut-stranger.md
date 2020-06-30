@@ -21,13 +21,13 @@ tags: j-mascis spiritualized cloud-nothings little-ones yo-la-tengo evolution-co
   quintron psychic-lemon omar-souleyman beach-skulls gang-of-four jon-spencer failure
   devo la-femme mahna-mahna-two-snowths joe-king-carrasco surf-gunz carbonas spot-1019
   ron-gallo 3d5spd
-keywords: J Mascis, Spiritualized, Cloud Nothings, The Little Ones, Yo La Tengo, The
-  Evolution Control Committee, Gallon Drunk, The Monolith, Sukia, Komeda, Polysics,
-  BRONCHO, Joe Jackson, Reverend Horton Heat, Aspera Ad Astra, Laura Gibson, MC Honky,
-  Jacob&#39;s Mouse, pApAs fritAs, All Them Witches, The Cat Empire, Freezepop, Dub
-  Trio, Beechwood, The Glands, STRFKR, The Skiffle Players, Kim Lenz, Thought Gang,
-  Quintron, Psychic Lemon, Omar Souleyman, Beach Skulls, Gang Of Four, Jon Spencer,
-  Failure, Devo, La Femme, Mahna Mahna &amp; The Two Snowths, Joe &quot;King&quot;
-  Carrasco, Surf Günz, Carbonas, Spot 1019, Ron Gallo, 3d5spd
+keywords: 3d5spd, All Them Witches, Aspera Ad Astra, Beach Skulls, Beechwood, BRONCHO,
+  Carbonas, The Cat Empire, Cloud Nothings, Devo, Dub Trio, The Evolution Control
+  Committee, Failure, Freezepop, Gallon Drunk, Gang Of Four, The Glands, J Mascis,
+  Jacob&#39;s Mouse, Joe Jackson, Joe &quot;King&quot; Carrasco, Jon Spencer, Kim
+  Lenz, Komeda, La Femme, Laura Gibson, The Little Ones, Mahna Mahna &amp; The Two
+  Snowths, MC Honky, The Monolith, Omar Souleyman, pApAs fritAs, Polysics, Psychic
+  Lemon, Quintron, Reverend Horton Heat, Ron Gallo, The Skiffle Players, Spiritualized,
+  Spot 1019, STRFKR, Sukia, Surf Günz, Thought Gang, Yo La Tengo
 ---
 With the temperatures plunging into the single digits, we did our best to stay warm with piping hot new releases and explosive blasts from the past. This marks not only the first show of the year, but also the first weekly appearance of The Lacking Organization on KAFM. It’s on EVERY Tuesday night from here on out… tune in and freak out!

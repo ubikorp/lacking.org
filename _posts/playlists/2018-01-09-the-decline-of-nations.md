@@ -17,13 +17,13 @@ tags: beck benjamin-gibbard langhorne-slim zombies la-louma king-gizzard-lizard-
   cherry-glazerr mudhoney scofflaws takako-minekawa comet-gain tennis bully escape-ism
   asylum-street-spankers pee-wee-king dexter-romweber pack-a-d sarah-vaughan matt-pond-pa
   jazz-butcher deer-tick habiluim fink
-keywords: Beck, Benjamin Gibbard, Langhorne Slim, The Zombies, La Louma, King Gizzard
-  &amp; The Lizard Wizard, Saint Tropez, Lettuce, Lisa LeBlanc, decker., The Districts,
-  Mo Kenney, Kane Strang, Ty Segall, Belle and Sebastian, Holiday Ghosts, Mike Watt,
-  Coast Modern, Alvvays, Terra Lightfoot, Clint Mansell, JD McPherson, Whitney Rose,
-  Evolfo, Die Moulinettes, Hurray For The Riff Raff, Los De Abajo, Cherry Glazerr,
-  Mudhoney, The Scofflaws, Takako Minekawa, Comet Gain, Tennis, Bully, Escape-ism,
-  Asylum Street Spankers, Pee Wee King, Dexter Romweber, The Pack A.D., Sarah Vaughan,
-  matt pond PA, The Jazz Butcher, Deer Tick, Habiluim, Fink
+keywords: Alvvays, Asylum Street Spankers, Beck, Belle and Sebastian, Benjamin Gibbard,
+  Bully, Cherry Glazerr, Clint Mansell, Coast Modern, Comet Gain, decker., Deer Tick,
+  Dexter Romweber, Die Moulinettes, The Districts, Escape-ism, Evolfo, Fink, Habiluim,
+  Holiday Ghosts, Hurray For The Riff Raff, The Jazz Butcher, JD McPherson, Kane Strang,
+  King Gizzard &amp; The Lizard Wizard, La Louma, Langhorne Slim, Lettuce, Lisa LeBlanc,
+  Los De Abajo, matt pond PA, Mike Watt, Mo Kenney, Mudhoney, The Pack A.D., Pee Wee
+  King, Saint Tropez, Sarah Vaughan, The Scofflaws, Takako Minekawa, Tennis, Terra
+  Lightfoot, Ty Segall, Whitney Rose, The Zombies
 ---
 This song by La Louma sure is a catchy anthem for us skeptics and cynics.

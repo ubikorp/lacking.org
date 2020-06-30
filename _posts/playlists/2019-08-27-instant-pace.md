@@ -26,14 +26,14 @@ tags: b-boys wrens jon-spencer-blues-explosion gauche king-harvest mondo-crescen
   eagles-of-death-metal afghan-whigs tiny-masters-of-today gil-scott-heron boogie-balagan
   devo portland-cello-project ultra-vivid-scene keller-williams ron-gallo holy-modal-rounders
   palehound white-williams simpsons new-order
-keywords: B Boys, The Wrens, The Jon Spencer Blues Explosion, Gauche, King Harvest,
-  The Mondo Crescendo, Joe Maphis, The Bird and The Bee, Dude York, Pascal Comelade
-  + Les Liminanas, Holiday, The Fearless Flyers, Mac DeMarco, black midi, Red Hot
-  Chili Peppers, Joan As Police Woman, Looper, Shellac, Kyle Craft, Mohair, Stubborn
-  All-Stars, Tommy Guerrero, Imperial Teen, Buffalo Daughter, Nôze, King Gizzard And
-  The Lizard Wizard, Generationals, The Rogers Sisters, Okey Dokey, Khruangbin, Eagles
-  of Death Metal, The Afghan Whigs, Tiny Masters of Today, Gil Scott-Heron, Boogie
-  Balagan, Devo, Portland Cello Project, Ultra Vivid Scene, Keller Williams, Ron Gallo,
-  The Holy Modal Rounders, Palehound, White Williams, The Simpsons, New Order
+keywords: The Afghan Whigs, B Boys, The Bird and The Bee, black midi, Boogie Balagan,
+  Buffalo Daughter, Devo, Dude York, Eagles of Death Metal, The Fearless Flyers, Gauche,
+  Generationals, Gil Scott-Heron, Holiday, The Holy Modal Rounders, Imperial Teen,
+  Joan As Police Woman, Joe Maphis, The Jon Spencer Blues Explosion, Keller Williams,
+  Khruangbin, King Gizzard And The Lizard Wizard, King Harvest, Kyle Craft, Looper,
+  Mac DeMarco, Mohair, The Mondo Crescendo, New Order, Nôze, Okey Dokey, Palehound,
+  Pascal Comelade + Les Liminanas, Portland Cello Project, Red Hot Chili Peppers,
+  The Rogers Sisters, Ron Gallo, Shellac, The Simpsons, Stubborn All-Stars, Tiny Masters
+  of Today, Tommy Guerrero, Ultra Vivid Scene, White Williams, The Wrens
 ---
 The courier unrolled the blueprints onto the brightly-lit drafting table. The basement of the Gomel Regional Museum of Military Glory was not only roomy enough to house several specimens of large weaponry, but also extremely well illuminated. The historian had mused, repeatedly, on how some of the bigger pieces must have been disassembled in the field then reassembled in here for storage, hence the need for the lights. Upstairs, the gala which had served as their cover for entry continued into the night, the band now striking up some sort of Caspian samba. Quite an elaborate operation, but they needed to machine a new aileron for the ekranoplan, and this was the only place they would find the designs.

@@ -19,14 +19,14 @@ tags: king-brothers margaret-glaspy poor-little-fools wiseblood haircut-one-hund
   metric mass-gothic knife-in-water blonde-redhead brick-mortar young-antiques reverend-horton-heat
   rubblebucket thin-lips jens-lekman love-language winterbrief sundays ween morlocks
   luyas
-keywords: King Brothers, Margaret Glaspy, Poor Little Fools, Wiseblood, Haircut One
-  Hundred, Mexican Institute of Sound, Stanton Moore, The Skiffle Players, Manfred
-  Hubler &amp; Siegfried Schwab, Iron &amp; Wine, The Determinations, Jesse and the
-  Dandelions, Bird Streets, Komeda, Thundercat Feat. Flying Lotus, Brother Brother,
-  Shannen Moser, Django Reinhardt, Le Shok, Rice &amp; Freetown, White Denim, The
-  Bad Man, Danielle Howle, Walrus, Love Battery, DeVotchKa, Wyves, The Purrs, Ten
-  Years After, Metric, Mass Gothic, Knife In The Water, Blonde Redhead, Brick + Mortar,
-  Young Antiques, Reverend Horton Heat, Rubblebucket, Thin Lips, Jens Lekman, The
-  Love Language, Winterbrief, The Sundays, Ween, The Morlocks, The Luyas
+keywords: The Bad Man, Bird Streets, Blonde Redhead, Brick + Mortar, Brother Brother,
+  Danielle Howle, The Determinations, DeVotchKa, Django Reinhardt, Haircut One Hundred,
+  Iron &amp; Wine, Jens Lekman, Jesse and the Dandelions, King Brothers, Knife In
+  The Water, Komeda, Le Shok, Love Battery, The Love Language, The Luyas, Manfred
+  Hubler &amp; Siegfried Schwab, Margaret Glaspy, Mass Gothic, Metric, Mexican Institute
+  of Sound, The Morlocks, Poor Little Fools, The Purrs, Reverend Horton Heat, Rice
+  &amp; Freetown, Rubblebucket, Shannen Moser, The Skiffle Players, Stanton Moore,
+  The Sundays, Ten Years After, Thin Lips, Thundercat Feat. Flying Lotus, Walrus,
+  Ween, White Denim, Winterbrief, Wiseblood, Wyves, Young Antiques
 ---
 It was a quiet night. Somehow, three songs with states in the title ended up in the second hour, so I bumped them all to the top for a mini-tour.

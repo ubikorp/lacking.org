@@ -20,14 +20,14 @@ tags: jeff-tweedy marcellus-hall os-mutantes lovin-spoonful g-w-mclennan spirit-
   pizzicato-5 vulfpeck mr-t-experience downtown-boys minders ratcat beechwood wild-reeds
   fatboy-slim mission-of-burma big-sandy home broncho thermals tipsy hugh-masakela
   fishbone dead-meadow bran-flakes king-chango sick-thoughts simpsons tommy-guerrero
-keywords: Jeff Tweedy, Marcellus Hall, Os Mutantes, The Lovin&#39; Spoonful, G.W.
-  Mclennan, The Spirit Of The Beehive, We Ragazzi, Hefner, Bajofondo, Field Music,
-  The Mountain Goats, The Police, Beach Skulls, Oh Pep!, Billy F Gibbons, The Bottle
-  Rockets, They Might Be Giants, Kalman Balogh, Alvin &#39;Red&#39; Tyler, The Maxwell
-  Implosion, Apostle of Hustle, The Goodnight Loving, The Fratellis, Mclusky, Franklin
-  Bruno, Pizzicato 5, Vulfpeck, Mr. T Experience, Downtown Boys, The Minders, Ratcat,
-  Beechwood, The Wild Reeds, Fatboy Slim, Mission Of Burma, Big Sandy, Home, BRONCHO,
-  The Thermals, Tipsy, Hugh Masakela, Fishbone, Dead Meadow, The Bran Flakes, King
-  Chango, Sick Thoughts, The Simpsons, Tommy Guerrero
+keywords: Alvin &#39;Red&#39; Tyler, Apostle of Hustle, Bajofondo, Beach Skulls, Beechwood,
+  Big Sandy, Billy F Gibbons, The Bottle Rockets, The Bran Flakes, BRONCHO, Dead Meadow,
+  Downtown Boys, Fatboy Slim, Field Music, Fishbone, Franklin Bruno, The Fratellis,
+  G.W. Mclennan, The Goodnight Loving, Hefner, Home, Hugh Masakela, Jeff Tweedy, Kalman
+  Balogh, King Chango, The Lovin&#39; Spoonful, Marcellus Hall, The Maxwell Implosion,
+  Mclusky, The Minders, Mission Of Burma, The Mountain Goats, Mr. T Experience, Oh
+  Pep!, Os Mutantes, Pizzicato 5, The Police, Ratcat, Sick Thoughts, The Simpsons,
+  The Spirit Of The Beehive, The Thermals, They Might Be Giants, Tipsy, Tommy Guerrero,
+  Vulfpeck, We Ragazzi, The Wild Reeds
 ---
 It was a jam-packed evening, and we even got to fit in a request for Mission of Burma for Generoso and Lily, listening over the satcom from their armored zeppelin thrumming over the Iowa cornfields. Also: the world needs more Franklin Bruno.

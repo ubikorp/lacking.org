@@ -19,14 +19,13 @@ tags: all-them-witches boyracer cloud-nothings zuco-103 los-amigos-invisibles wa
   copa-7 low rentals ron-gallo nick-hakim j-mascis billy-f-gibbons bird-streets x
   brother-brothers nouvelle-vague calvin-johnson el-radio-fantastique hippo-campus
   king-brothers lusk mason-jennings razorlight villagers badmarsh-shri
-keywords: All Them Witches, Boyracer, Cloud Nothings, Zuco 103, Los Amigos Invisibles,
-  Wanda De Sah, Robbie Fulks &amp; Linda Gail Lewis, Daniel Smith / Sufjan Stevens,
-  The Smugglers, The Glands, The Starlight Mints, Dude York, King Kong, Hot Hot Heat,
-  Satisfact, The Skiffle Players, Laura Gibson, The Bad Man, Brave Combo, Death Cab
-  For Cutie, Geraldo Pine, Joe Meek, Hepcat, Akakage&#39;s Happy Set, Copa 7, Low,
-  The Rentals, Ron Gallo, Nick Hakim, J Mascis, Billy F Gibbons, Bird Streets, X,
-  The Brother Brothers, Nouvelle Vague, Calvin Johnson, El Radio Fantastique, Hippo
-  Campus, King Brothers, Lusk, Mason Jennings, Razorlight, Villagers, Badmarsh &amp;
-  Shri
+keywords: Akakage&#39;s Happy Set, All Them Witches, The Bad Man, Badmarsh &amp; Shri,
+  Billy F Gibbons, Bird Streets, Boyracer, Brave Combo, The Brother Brothers, Calvin
+  Johnson, Cloud Nothings, Copa 7, Daniel Smith / Sufjan Stevens, Death Cab For Cutie,
+  Dude York, El Radio Fantastique, Geraldo Pine, The Glands, Hepcat, Hippo Campus,
+  Hot Hot Heat, J Mascis, Joe Meek, King Brothers, King Kong, Laura Gibson, Los Amigos
+  Invisibles, Low, Lusk, Mason Jennings, Nick Hakim, Nouvelle Vague, Razorlight, The
+  Rentals, Robbie Fulks &amp; Linda Gail Lewis, Ron Gallo, Satisfact, The Skiffle
+  Players, The Smugglers, The Starlight Mints, Villagers, Wanda De Sah, X, Zuco 103
 ---
 It was a relatively quiet night, with a heavy dose of Brazilian music to keep things moving. For some reason, honesty and lies was another theme that surfaced through the night.

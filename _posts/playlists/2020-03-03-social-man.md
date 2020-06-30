@@ -27,14 +27,14 @@ tags: growlers pavo-pavo baby-shakes allah-las funky-butt-brass-band joe-pastran
   de-la-soul royal-fingers chicano-batman sparks ben-kweller of-montreal arling-cameron
   elvis-costello handsome-family mitski afghan-whigs flour king-gizzard-lizard-wizard
   cory-wong boneless-children-foundation negativland rinocerose
-keywords: The Growlers, Pavo Pavo, Baby Shakes, Allah-Las, Funky Butt Brass Band,
-  Joe Pastrana &amp; His Orchestra, Preservation Hall Jazz Band, The Obscuritones,
-  Mutagénicos, Brainiac, Animal, Atili, Omar Shooli, Shantel, Double Date with Death,
-  Mikal Cronin, Ben Folds Five, Black Lips, XTC, The Oranges Band, Supergrass, Mr.
-  Elevator &amp; The Brain Hotel, Field Music, Secret Colours, Little Scream, The
-  Incredible Jimmy Smith, De La Soul, The Royal Fingers, Chicano Batman, Sparks, Ben
-  Kweller, Of Montreal, Arling + Cameron, Elvis Costello, The Handsome Family, Mitski,
-  Afghan Whigs, Flour, King Gizzard &amp; The Lizard Wizard, Cory Wong, The Boneless
-  Children Foundation, Negativland, Rinôçerôse
+keywords: Afghan Whigs, Allah-Las, Animal, Arling + Cameron, Atili, Baby Shakes, Ben
+  Folds Five, Ben Kweller, Black Lips, The Boneless Children Foundation, Brainiac,
+  Chicano Batman, Cory Wong, De La Soul, Double Date with Death, Elvis Costello, Field
+  Music, Flour, Funky Butt Brass Band, The Growlers, The Handsome Family, The Incredible
+  Jimmy Smith, Joe Pastrana &amp; His Orchestra, King Gizzard &amp; The Lizard Wizard,
+  Little Scream, Mikal Cronin, Mitski, Mr. Elevator &amp; The Brain Hotel, Mutagénicos,
+  Negativland, The Obscuritones, Of Montreal, Omar Shooli, The Oranges Band, Pavo
+  Pavo, Preservation Hall Jazz Band, Rinôçerôse, The Royal Fingers, Secret Colours,
+  Shantel, Sparks, Supergrass, XTC
 ---
 It was a peaceful suburban street, and they had taken great care to select a vehicle that would not stand out when parked along its sidewalks, a gold Taurus wagon. The very familiar nature of the setting — the shading trees, the mottled but well-kept asphalt, the toys scattered on lawns — made it feel like one of the most exotic places they’d been to in a while. The cartographer checked the coordinates on the fancy device strapped to their wrist, but any web search could have found them Brewster, New York. The ethnomusicologist leaned against the mailbox, labeled “Marie”, and scanned the canopy of the tremendous spreading oak planted square in the middle of the lawn, eyes peeled for that squirrel.

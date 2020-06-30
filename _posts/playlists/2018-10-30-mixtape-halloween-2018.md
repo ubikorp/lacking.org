@@ -15,9 +15,9 @@ index: 'Mixtape :: Halloween 2018'
 tags: deadbolt messer-chups strfkr orwells house-of-freaks eskimo peach-kelli-pop
   duplex-halloween-planet jason-trachtenburg unicorns we-wrote-book-on-connectors
   throbbing-gristle ministry mekons chad-vangaalen thee-oh-sees team-usa
-keywords: Deadbolt, Messer Chups, STRFKR, The Orwells, House of Freaks, Eskimo, Peach
-  Kelli Pop, Duplex Halloween Planet, Jason Trachtenburg, The Unicorns, We Wrote The
-  Book on Connectors, Throbbing Gristle, Ministry, The Mekons, Chad VanGaalen, Thee
-  Oh Sees, Team USA
+keywords: Chad VanGaalen, Deadbolt, Duplex Halloween Planet, Eskimo, House of Freaks,
+  Jason Trachtenburg, The Mekons, Messer Chups, Ministry, The Orwells, Peach Kelli
+  Pop, STRFKR, Team USA, Thee Oh Sees, Throbbing Gristle, The Unicorns, We Wrote The
+  Book on Connectors
 ---
 This is the HALLOWEEN 2018 mixtape, seventeen carefully curated bits and pieces of spine-tingling scary and thematic. Yes, there was some Ministry. And some Throbbing Gristle, and others

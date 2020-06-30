@@ -18,11 +18,11 @@ tags: rubblebucket rubens shy-boys asleep-at-wheel courtney-barnett thin-lips sa
   islands white-denim son-volt arling-cameron brother-brother cullen-omori etienne-charry
   all-girl-summer-fun-band peach-kelli-pop benni rollercoasterwater smoking-flowers
   willie-wisely free-radicals jessica-fletchers breeders juana-molina
-keywords: Rubblebucket, The Rubens, Shy Boys, Asleep At The Wheel, Courtney Barnett,
-  Thin Lips, The Sadies, Ill Ease, The Plugz, The Purrs, Toots + the Maytals, They
-  Might Be Giants, The Creation Factory, Gnac, The Unicorns, Islands, White Denim,
-  Son Volt, Arling + Cameron, Brother Brother, Cullen Omori, Etienne Charry, All Girl
-  Summer Fun Band, Peach Kelli Pop, Bênní, Rollercoasterwater, The Smoking Flowers,
-  Willie Wisely, Free Radicals, The Jessica Fletchers, The Breeders, Juana Molina
+keywords: All Girl Summer Fun Band, Arling + Cameron, Asleep At The Wheel, Bênní,
+  The Breeders, Brother Brother, Courtney Barnett, The Creation Factory, Cullen Omori,
+  Etienne Charry, Free Radicals, Gnac, Ill Ease, Islands, The Jessica Fletchers, Juana
+  Molina, Peach Kelli Pop, The Plugz, The Purrs, Rollercoasterwater, Rubblebucket,
+  The Rubens, The Sadies, Shy Boys, The Smoking Flowers, Son Volt, They Might Be Giants,
+  Thin Lips, Toots + the Maytals, The Unicorns, White Denim, Willie Wisely
 ---
 It’s back to a regular schedule, at least for the foreseeable future, and it’s good to be back with the usual cast of characters. A rare and rainy night in the Grand Valley, perfect for this random gallop through some haphazard old stuff and sparkly new stuff.

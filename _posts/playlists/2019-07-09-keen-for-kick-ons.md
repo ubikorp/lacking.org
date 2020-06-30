@@ -24,14 +24,14 @@ tags: psychedelic-porn-crumpets cardiacs thee-oh-sees tiny-masters-of-today vers
   noriel-vilela tacocat shook-twins sol-ho-opii eddi-reader jr-jr hot-water-music
   sego sir-millard-mulch einsturzende-neubauten dean-ween-group skaguitar bells-atlas
   pale-saints joe-jackson gotan-project
-keywords: Psychedelic Porn Crumpets, The Cardiacs, Thee Oh Sees, Tiny Masters of Today,
-  Versing, Ben Folds Five, The Kingsbury Manx, M.I.A., Prince, The Goodnight Loving,
-  Surfer Blood, The Allergies, Palehound, The Rad Trads, Luminescent Orchestrii, Tommy
-  Guerrero, The Rebel Set, Hefner, Bedouin Soundclash, Jimi Hendrix, Bad Bad Hats,
-  Matthew Sweet &amp; Susanna Hoffs, The Slackers, Flight of the Conchords, Night
-  Moves, The Isley Brothers, Escape Mechanism, The Aggrolites, Jean Michel Jarre,
-  The Snitches, Noriel Vilela, Tacocat, Shook Twins, Sol Ho’opii, Eddi Reader, Jr.
-  Jr., Hot Water Music, Sego, Sir Millard Mulch, Einstürzende Neubauten, The Dean
-  Ween Group, Skaguitar, Bells Atlas, Pale Saints, Joe Jackson, Gotan Project
+keywords: The Aggrolites, The Allergies, Bad Bad Hats, Bedouin Soundclash, Bells Atlas,
+  Ben Folds Five, The Cardiacs, The Dean Ween Group, Eddi Reader, Einstürzende Neubauten,
+  Escape Mechanism, Flight of the Conchords, The Goodnight Loving, Gotan Project,
+  Hefner, Hot Water Music, The Isley Brothers, Jean Michel Jarre, Jimi Hendrix, Joe
+  Jackson, Jr. Jr., The Kingsbury Manx, Luminescent Orchestrii, M.I.A., Matthew Sweet
+  &amp; Susanna Hoffs, Night Moves, Noriel Vilela, Pale Saints, Palehound, Prince,
+  Psychedelic Porn Crumpets, The Rad Trads, The Rebel Set, Sego, Shook Twins, Sir
+  Millard Mulch, Skaguitar, The Slackers, The Snitches, Sol Ho’opii, Surfer Blood,
+  Tacocat, Thee Oh Sees, Tiny Masters of Today, Tommy Guerrero, Versing
 ---
 A soft Texas breeze ruffled the grass along the banks of Belton Lake. Why not Lake Belton? wondered the hydrologist. Behind the trees, the aviator finished securing the paragliders. They had arrived with two, but would be leaving with three, which added a true twist to the logistics. Across the water, the sounds of Jamaican country music could clearly be heard coming from a raucous campsite. They were about 300 feet away, and had not been part of the plan. But if there were to be witnesses, then let them be the inebriated type.

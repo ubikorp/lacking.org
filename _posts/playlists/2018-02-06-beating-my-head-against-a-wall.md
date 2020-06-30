@@ -18,14 +18,14 @@ tags: jeff-rosenstock esoebo phono-pony forty-fives shame dean-ween-group quasi 
   vaccines bob-wiseman starcrawler wolf-parade domestics holiday-ghosts walt-wagner
   penguin-cafe-orchestra mo-kenney bronx escape-ism squeeze bronx reptaliens dandy-warhols
   kelley-stoltz julian-lage decker swell balloon-man liima ggoolldd
-keywords: Jeff Rosenstock, Esoebo, Phono Pony, The Forty-Fives, Shame, Dean Ween Group,
-  Quasi, Petra Haden, Spice Boys, Mister Heavenly, Kyle Craft, Cornelius, Ben Vaughn,
-  Dappled Cities, St. Vincent, Hi-Posi, Ariel Pink, Pixies, Sharon Jones &amp; The
-  Dap-Kings, Cherry, Hazel English, The Continental Cousins, Halcyon, METZ, Brak,
-  The Scofflaws, The Pack A.D., *Repeat Repeat, Lisa LeBlanc, Forro In The Dark, Chris
-  Thile, The Vaccines, Bob Wiseman, Starcrawler, Wolf Parade, The Domestics, Holiday
-  Ghosts, Walt Wagner, Penguin Cafe Orchestra, Mo Kenney, The Bronx, Escape-ism, Squeeze,
-  The Bronx, Reptaliens, The Dandy Warhols, Kelley Stoltz, Julian Lage, decker., Swell,
-  Balloon Man, Liima, GGOOLLDD
+keywords: Ariel Pink, Balloon Man, Ben Vaughn, Bob Wiseman, Brak, The Bronx, The Bronx,
+  Cherry, Chris Thile, The Continental Cousins, Cornelius, The Dandy Warhols, Dappled
+  Cities, Dean Ween Group, decker., The Domestics, Escape-ism, Esoebo, Forro In The
+  Dark, The Forty-Fives, GGOOLLDD, Halcyon, Hazel English, Hi-Posi, Holiday Ghosts,
+  Jeff Rosenstock, Julian Lage, Kelley Stoltz, Kyle Craft, Liima, Lisa LeBlanc, METZ,
+  Mister Heavenly, Mo Kenney, The Pack A.D., Penguin Cafe Orchestra, Petra Haden,
+  Phono Pony, Pixies, Quasi, *Repeat Repeat, Reptaliens, The Scofflaws, Shame, Sharon
+  Jones &amp; The Dap-Kings, Spice Boys, Squeeze, St. Vincent, Starcrawler, Swell,
+  The Vaccines, Walt Wagner, Wolf Parade
 ---
 Did Jeff Rosenstock manage to find an unrecorded Ramones song? "Beating My Head Against A Wall" sure sounds like it, and that is 1,000% a compliment.

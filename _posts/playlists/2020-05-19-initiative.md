@@ -26,13 +26,14 @@ tags: shopping atomic-7 greg-dulli mountain-goats margaret-glaspy waxahatchee ba
   courtney-barnett mojo-nixon mad-professor-gaudi-macka-b olivia-jean habibi zach-uncles
   superdrag caribou arto-lindsay sugar-oaks best-coast feist blue-rags waax this-is-kit
   professor-elemental kruder-dorfmeister
-keywords: Shopping, Atomic 7, Greg Dulli, The Mountain Goats, Margaret Glaspy, Waxahatchee,
-  Baby Shakes, Cheo, Ida Maria, The Jon Spencer Blues Explosion, Black Lips, G. Love
-  &amp; Special Sauce, The Postal Service, Cornershop, David Bowie, Ty Segall, Belle
-  &amp; Sebastian, Born Ruffians, Isobel Campbell, Tennis, The Wood Brothers, Queen,
-  Peter Bjorn and John, The Growlers, Architecture In Helsinki, The Frights, Great
-  Grandpa, Courtney Barnett, Mojo Nixon, Mad Professor, Gaudi, Macka B, Olivia Jean,
-  Habibi, Zach Uncles, Superdrag, Caribou, Arto Lindsay, The Sugar Oaks, Best Coast,
-  Feist, The Blue Rags, Waax, This Is The Kit, Professor Elemental, Kruder &amp; Dorfmeister
+keywords: Architecture In Helsinki, Arto Lindsay, Atomic 7, Baby Shakes, Belle &amp;
+  Sebastian, Best Coast, Black Lips, The Blue Rags, Born Ruffians, Caribou, Cheo,
+  Cornershop, Courtney Barnett, David Bowie, Feist, The Frights, G. Love &amp; Special
+  Sauce, Great Grandpa, Greg Dulli, The Growlers, Habibi, Ida Maria, Isobel Campbell,
+  The Jon Spencer Blues Explosion, Kruder &amp; Dorfmeister, Mad Professor, Gaudi,
+  Macka B, Margaret Glaspy, Mojo Nixon, The Mountain Goats, Olivia Jean, Peter Bjorn
+  and John, The Postal Service, Professor Elemental, Queen, Shopping, The Sugar Oaks,
+  Superdrag, Tennis, This Is The Kit, Ty Segall, Waax, Waxahatchee, The Wood Brothers,
+  Zach Uncles
 ---
 The topologist carefully unfolded the graph depicting prime number frequencies. Across the scrub, the baker was returning from the Unimog, having concluded the search, and from the looks of their empty hands, unsuccessfully. They must have left it in the cab back in Calabar. Wonderful. Together, they considered the placement of the carved stone monoliths before them, their geometric arrangement random to the average visitor, but a clear reflection of order to the ancient people of Alok Ikom, and apparently, also related to the graph before them, with cataclysmic mathematical consequences.

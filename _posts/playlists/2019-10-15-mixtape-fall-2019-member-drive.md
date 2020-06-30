@@ -15,9 +15,9 @@ index: 'Mixtape :: Fall 2019 Member Drive'
 tags: daisy-chainsaw portland-cello-project dan-hicks-his-hot-licks they-might-be-giants
   bongos-bass-bob hill-of-beans spinal-tap looper less-pain-forever jon-spencer-blues-explosion
   field-music barrett-strong antibalas-afrobeat-orchestra
-keywords: Daisy Chainsaw, Portland Cello Project, Dan Hicks &amp; His Hot Licks, They
-  Might Be Giants, Bongos, Bass, and Bob, Hill Of Beans, Spinal Tap, Looper, Less
-  Pain Forever, The Jon Spencer Blues Explosion, Field Music, Barrett Strong, Antibalas
-  Afrobeat Orchestra
+keywords: Antibalas Afrobeat Orchestra, Barrett Strong, Bongos, Bass, and Bob, Daisy
+  Chainsaw, Dan Hicks &amp; His Hot Licks, Field Music, Hill Of Beans, The Jon Spencer
+  Blues Explosion, Less Pain Forever, Looper, Portland Cello Project, Spinal Tap,
+  They Might Be Giants
 ---
 It’s all about the Benjamins, or more like the Hamiltons and Jacksons as we play music to encourage our listeners to become funding members of KAFM. We make no attempt to be subtle here.

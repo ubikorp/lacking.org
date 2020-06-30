@@ -23,13 +23,13 @@ tags: ibibio-sound-machine lil-queenie-percolators os-mutantes mountain-goats de
   dan-auerbach tommy-guerrero mystery-lights charlotte-gainsbourg jarvis-cocker hot-chip
   beach-house glass-eye current-swell presidents-of-united-states-of-america cigarbox-planetarium
   black-midi ruins fat-white-family squarepusher rube-waddell
-keywords: Ibibio Sound Machine, Lil&#39; Queenie And The Percolators, Os Mutantes,
-  The Mountain Goats, Devo, The Pioneers, Jeff Tweedy, Drugdealer and Weyes Blood,
-  Danielle Howle, Bells Atlas, Lush, SSM, St Germain, Psychedelic Porn Crumpets, Los
-  Fabulosos Cadillacs, The Specials, Dressy Bessy, Ages And Ages, Pearl Earl, Coco
-  Hames, Fruit Bats, Ondatrópica, Supernova, Versing, Treat Her Right, Dan Auerbach,
-  Tommy Guerrero, The Mystery Lights, Charlotte Gainsbourg, Jarvis Cocker, Hot Chip,
-  Beach House, Glass Eye, Current Swell, The Presidents of The United States of America,
-  Cigarbox Planetarium, black midi, Ruins, Fat White Family, Squarepusher, Rube Waddell
+keywords: Ages And Ages, Beach House, Bells Atlas, black midi, Charlotte Gainsbourg,
+  Cigarbox Planetarium, Coco Hames, Current Swell, Dan Auerbach, Danielle Howle, Devo,
+  Dressy Bessy, Drugdealer and Weyes Blood, Fat White Family, Fruit Bats, Glass Eye,
+  Hot Chip, Ibibio Sound Machine, Jarvis Cocker, Jeff Tweedy, Lil&#39; Queenie And
+  The Percolators, Los Fabulosos Cadillacs, Lush, The Mountain Goats, The Mystery
+  Lights, Ondatrópica, Os Mutantes, Pearl Earl, The Pioneers, The Presidents of The
+  United States of America, Psychedelic Porn Crumpets, Rube Waddell, Ruins, The Specials,
+  Squarepusher, SSM, St Germain, Supernova, Tommy Guerrero, Treat Her Right, Versing
 ---
 Shrugging through the rose thorns, protected by a heavy leather apron, the blacksmith adjusted the thick gloves, proof against stray hammers and cinders but well-worn enough to allow the gentlest of movements. A stem was carefully pincered and brought in view of the entomologist’s face, who scanned it for aphids. Across Sarmiento Park, a teen herd’s boombox gave voice to an excited Córdoban DJ, announcing the latest from the latin bhangra scene. A traffic cop was nosing around their parked Alfa Romeo, assuming it was just another family sedan that forgot to feed the meter.

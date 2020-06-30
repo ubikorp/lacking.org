@@ -19,14 +19,14 @@ tags: william-shatner mexican-institute-of-sound ween belle-sebastian gwenno nob
   car-seat-headrest stacy-phillips dean-ween-group mood-elevator sir-millard-mulch
   american-pleasure-club king-crimson madness mr-elevator-brain-hotel kiss-me-yesterday
   dylan-group
-keywords: William Shatner, Mexican Institute of Sound, Ween, Belle &amp; Sebastian,
-  Gwenno, Noble Son, Ed Schrader&#39;s Music Beat, Fruit Bats, Ephrata, House of Freaks,
-  Timber Timbre, The Police, Ibibio Sound Machine, Sir Mix-A-Lot, The Bad Plus, The
-  Gentle People, Loma, Naked Giants, The Extra Glenns, White Hassle, Mark Mothersbaugh,
-  Holy, Warbly Jets, Emiliana Torrini, Oberon Rose, Japancakes, Eagles of Death Metal,
-  Messer Chups, Marble Party, Logan&#39;s Sanctuary, Death By Unga Bunga, Car Seat
-  Headrest, Stacy Phillips, Dean Ween Group, Mood Elevator, Sir Millard Mulch, American
-  Pleasure Club, King Crimson, Madness, Mr. Elevator &amp; The Brain Hotel, Kiss Me
-  Yesterday, Dylan Group
+keywords: American Pleasure Club, The Bad Plus, Belle &amp; Sebastian, Car Seat Headrest,
+  Dean Ween Group, Death By Unga Bunga, Dylan Group, Eagles of Death Metal, Ed Schrader&#39;s
+  Music Beat, Emiliana Torrini, Ephrata, The Extra Glenns, Fruit Bats, The Gentle
+  People, Gwenno, Holy, House of Freaks, Ibibio Sound Machine, Japancakes, King Crimson,
+  Kiss Me Yesterday, Logan&#39;s Sanctuary, Loma, Madness, Marble Party, Mark Mothersbaugh,
+  Messer Chups, Mexican Institute of Sound, Mood Elevator, Mr. Elevator &amp; The
+  Brain Hotel, Naked Giants, Noble Son, Oberon Rose, The Police, Sir Millard Mulch,
+  Sir Mix-A-Lot, Stacy Phillips, Timber Timbre, Warbly Jets, Ween, White Hassle, William
+  Shatner
 ---
 Time has not dulled the edge of this band. "Show Me The Sun" highlights their psychedelic side.

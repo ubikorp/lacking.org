@@ -20,11 +20,11 @@ tags: mike-krol jeff-tweedy bongwater ting-tings cat-power a-c-newman deer-tick 
   love-rockets twang-bang klark-kent delicate-steve fratellis esquivel slackers-featuring-chris-murray
   deerhunter pixies heroic-doses galactic mach-kung-fu transgressors pilgrims guster
   dogbowl justus-proffit trio go dandy-warhols swervedriver lmnop spesh mats-morgan
-keywords: Mike Krol, Jeff Tweedy, Bongwater, The Ting Tings, Cat Power, A.C. Newman,
-  Deer Tick, Redd Kross, Love And Rockets, Twang Bang, Klark Kent, Delicate Steve,
-  The Fratellis, Esquivel, The Slackers Featuring Chris Murray, Deerhunter, Pixies,
-  Heroic Doses, Galactic, Mach Kung-Fu, The Transgressors, The Pilgrims, Guster, Dogbowl,
-  Justus Proffit, Trio, The Go, The Dandy Warhols, Swervedriver, LMNOP, Spesh, Mats
-  / Morgan
+keywords: A.C. Newman, Bongwater, Cat Power, The Dandy Warhols, Deer Tick, Deerhunter,
+  Delicate Steve, Dogbowl, Esquivel, The Fratellis, Galactic, The Go, Guster, Heroic
+  Doses, Jeff Tweedy, Justus Proffit, Klark Kent, LMNOP, Love And Rockets, Mach Kung-Fu,
+  Mats / Morgan, Mike Krol, The Pilgrims, Pixies, Redd Kross, The Slackers Featuring
+  Chris Murray, Spesh, Swervedriver, The Ting Tings, The Transgressors, Trio, Twang
+  Bang
 ---
 The driver felt the leads tremble under their hands. The navigator clung resolutely to the sled, keeping an eye on the white horizon of the Wexford hills as they put some miles between themselves and the Monongahela. The only sound besides the rushing skids on the snow and the panting of the dogs was a faint crackle of song leaking from the driver’s earpiece. The heist had been a success; behind them, a net filled with silver Mylar balloons trailed and bobbed in the generated midnight wind.

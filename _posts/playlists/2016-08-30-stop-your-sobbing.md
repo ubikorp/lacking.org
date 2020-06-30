@@ -15,11 +15,11 @@ tags: pretenders claypool-lennon-delirium siouxsie-banshees groove-armada that-d
   clash julie-ruin ruins trio apache-indian tapes-n-tapes hives from-bubblegum-to-sky
   here-come-mummies project-wirehead mosquitos jamaicans trespassers-w westbound-train
   boom-pam lo-fi-fnk kraftwerk king-crimson
-keywords: The Pretenders, The Claypool Lennon Delirium, Siouxsie + The Banshees, Groove
-  Armada, that dog., The Rentals, Quasi, Bourbon Princess, Ween, Jimi Hendrix, The
-  Vines, The Oranges Band, Pixies, Hot Hot Heat, The Clash, The Julie Ruin, Ruins,
-  Trio, Apache Indian, Tapes &#39;N Tapes, The Hives, From Bubblegum to Sky, Here
-  Come The Mummies, Project Wirehead, Mosquitos, Jamaicans, Trespassers W, Westbound
-  Train, Boom Pam, Lo-Fi-Fnk, Kraftwerk, King Crimson
+keywords: Apache Indian, Boom Pam, Bourbon Princess, The Clash, The Claypool Lennon
+  Delirium, From Bubblegum to Sky, Groove Armada, Here Come The Mummies, The Hives,
+  Hot Hot Heat, Jamaicans, Jimi Hendrix, The Julie Ruin, King Crimson, Kraftwerk,
+  Lo-Fi-Fnk, Mosquitos, The Oranges Band, Pixies, The Pretenders, Project Wirehead,
+  Quasi, The Rentals, Ruins, Siouxsie + The Banshees, Tapes &#39;N Tapes, that dog.,
+  Trespassers W, Trio, The Vines, Ween, Westbound Train
 ---
 You can always tell a Kinks song.

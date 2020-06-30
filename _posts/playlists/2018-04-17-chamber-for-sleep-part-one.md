@@ -18,13 +18,13 @@ tags: screaming-females dean-ween-group hush-sound telamor asylum-street-spanker
   messer-chups kinks flight-of-conchords gwenno galactic marble-party artichoke internal-external
   this-is-kit naked-giants julia-p-hersheimer car-seat-headrest elvis-perkins-in-dearland
   quintron l7 metz moon-hooch
-keywords: Screaming Females, Dean Ween Group, The Hush Sound, Telamor, Asylum Street
-  Spankers, The Mercury Program, Ladytron, Killing Joke, Moondog, West Nkosi, Jen
-  Cloher, The Front Bottoms, Five-Eight, All That, Queens Of The Stone Age, Daft Punk,
-  Jennyanykind, Squeeze, Born Ruffians, Gogol Bordello, MOTOR, The White Stripes,
-  that dog., Ill Ease, Loma, Ed Schrader&#39;s Music Beat, Messer Chups, The Kinks,
-  Flight of the Conchords, Gwenno, Galactic, Marble Party, Artichoke, Internal/External,
-  This Is The Kit, Naked Giants, Julia P. Hersheimer, Car Seat Headrest, Elvis Perkins
-  In Dearland, Quintron, L7, METZ, Moon Hooch
+keywords: All That, Artichoke, Asylum Street Spankers, Born Ruffians, Car Seat Headrest,
+  Daft Punk, Dean Ween Group, Ed Schrader&#39;s Music Beat, Elvis Perkins In Dearland,
+  Five-Eight, Flight of the Conchords, The Front Bottoms, Galactic, Gogol Bordello,
+  Gwenno, The Hush Sound, Ill Ease, Internal/External, Jen Cloher, Jennyanykind, Julia
+  P. Hersheimer, Killing Joke, The Kinks, L7, Ladytron, Loma, Marble Party, The Mercury
+  Program, Messer Chups, METZ, Moon Hooch, Moondog, MOTOR, Naked Giants, Queens Of
+  The Stone Age, Quintron, Screaming Females, Squeeze, Telamor, that dog., This Is
+  The Kit, West Nkosi, The White Stripes
 ---
 "Screaming Females" is a misnomer. There's only one, and not a whole lot of screaming in "Chamber For Sleep (Part One)".

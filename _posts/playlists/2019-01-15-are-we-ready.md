@@ -21,15 +21,15 @@ tags: calvin-johnson mike-pinto frankenixon dirty-projectors protovulcan spirit-
   mac-demarco flat-duo-jets tim-blake-nelson camper-van-beethoven pepe-deluxe nikki-corvettes
   lykke-li guantanamo-baywatch skiffle-players penguin-cafe-orchestra greezy-wheels
   mc-900-foot-jesus mitski cagney-lacee china-dub-soundsystem
-keywords: Calvin Johnson, Mike Pinto, Frankenixon, Dirty Projectors, Protovulcan,
-  The Spirit Of The Beehive, Tokyo Police Club, Kero Kero Bonito, Reverend Horton
-  Heat, Spiritualized, Temples, Morphine, Beach Fossils, Carbonas, Ray Corvair Trio,
-  Hippo Campus, The Bottle Rockets, The Red Button, Mexican Institute Of Sound + Toy
-  Selectah, Jessica Hernandez &amp; The Deltas, Bajofondo, Caravan Palace, Mirah,
-  R Stevie Moore, Jack Oblivian, Pixies, The Holy Knives, Shantel, Charles Bradley
-  &amp; The Menahan Street Band, The Ting Tings, Tommy Guerrero, Mac DeMarco, Flat
-  Duo Jets, Tim Blake Nelson, Camper Van Beethoven, Pepe Deluxe, Nikki and the Corvettes,
-  Lykke Li, Guantanamo Baywatch, The Skiffle Players, Penguin Cafe Orchestra, Greezy
-  Wheels, MC 900 Foot Jesus, Mitski, Cagney &amp; Lacee, China Dub Soundsystem
+keywords: Bajofondo, Beach Fossils, The Bottle Rockets, Cagney &amp; Lacee, Calvin
+  Johnson, Camper Van Beethoven, Caravan Palace, Carbonas, Charles Bradley &amp; The
+  Menahan Street Band, China Dub Soundsystem, Dirty Projectors, Flat Duo Jets, Frankenixon,
+  Greezy Wheels, Guantanamo Baywatch, Hippo Campus, The Holy Knives, Jack Oblivian,
+  Jessica Hernandez &amp; The Deltas, Kero Kero Bonito, Lykke Li, Mac DeMarco, MC
+  900 Foot Jesus, Mexican Institute Of Sound + Toy Selectah, Mike Pinto, Mirah, Mitski,
+  Morphine, Nikki and the Corvettes, Penguin Cafe Orchestra, Pepe Deluxe, Pixies,
+  Protovulcan, R Stevie Moore, Ray Corvair Trio, The Red Button, Reverend Horton Heat,
+  Shantel, The Skiffle Players, The Spirit Of The Beehive, Spiritualized, Temples,
+  Tim Blake Nelson, The Ting Tings, Tokyo Police Club, Tommy Guerrero
 ---
 Snow was expected, but never showed up. Suits me fine. Surprisingly, this is the third episode of 2019, and I’m warming up to the hectic weekly pace. Thanks to Mark, Generoso, Lily, and Robin for tuning in and triumphing over the depths of midwinter midnight.

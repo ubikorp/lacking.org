@@ -27,15 +27,15 @@ tags: babe-rainbow moore-brothers howe-gelb bettie-serveert violent-femmes they-
   surfer-blood supersuckers heroine-sheiks led-zeppelin smooth-hound-smith nick-lowe
   los-straitjackets self vulfpeck mood-elevator ted-leo-pharmacists to-rococo-rot
   what-it-is
-keywords: Babe Rainbow, The Moore Brothers, Howe Gelb, Bettie Serveert, Violent Femmes,
-  They Might Be Giants, Versus, Sébastien Tellier, The Bobby Tenderloin Universe,
-  Roy Loney and the Young Fresh Fellows, The Squirrels, Yellow Second, Twin Peaks,
-  The Bird + the Bee, Cones, Family Of God, Iggy Pop, Bracket, Sex Bob-omb, Young
-  Fresh Fellows, Oh Sees, Purple Mountains, The Essex Green, Elvis Costello, His Name
-  Is Alive, Le Big Zero, Sheer Mag, Walrus, Ultra Vivid Scene, The Paranoyds, Foxygen,
-  Afrosonics, Frankie Cosmos, 10cc, Caravan Palace, Madeleine Peyroux, The Pretenders,
-  Honus Honus, Surfer Blood, Supersuckers, The Heroine Sheiks, Led Zeppelin, Smooth
-  Hound Smith, Nick Lowe, Los Straitjackets, Self, Vulfpeck, Mood Elevator, Ted Leo
-  + The Pharmacists, To Rococo Rot, What It Is
+keywords: 10cc, Afrosonics, Babe Rainbow, Bettie Serveert, The Bird + the Bee, The
+  Bobby Tenderloin Universe, Bracket, Caravan Palace, Cones, Elvis Costello, The Essex
+  Green, Family Of God, Foxygen, Frankie Cosmos, The Heroine Sheiks, His Name Is Alive,
+  Honus Honus, Howe Gelb, Iggy Pop, Le Big Zero, Led Zeppelin, Los Straitjackets,
+  Madeleine Peyroux, Mood Elevator, The Moore Brothers, Nick Lowe, Oh Sees, The Paranoyds,
+  The Pretenders, Purple Mountains, Roy Loney and the Young Fresh Fellows, Sébastien
+  Tellier, Self, Sex Bob-omb, Sheer Mag, Smooth Hound Smith, The Squirrels, Supersuckers,
+  Surfer Blood, Ted Leo + The Pharmacists, They Might Be Giants, To Rococo Rot, Twin
+  Peaks, Ultra Vivid Scene, Versus, Violent Femmes, Vulfpeck, Walrus, What It Is,
+  Yellow Second, Young Fresh Fellows
 ---
 The carpenter took a leisurely walk around the perimeter. In the weird light cone projected by the light they had installed at the top of the can, the ropes they had used to rappel down looked like the undulating tentacles of a mysterious jellyfish. Outside the cylindrical building that very deliberately resembled an oversized Coca Cola can, the security guard’s radio played Chicago sambas into the crisp Manitoba evening as he idly played his flashlight over the bushes outside. The choreographer stifled a giggle. On one of the ornithopters parked atop the domed top, next to an opening that looked like someone forgot to bring a canopener, a single LED began to blink. The mission was running out of time.

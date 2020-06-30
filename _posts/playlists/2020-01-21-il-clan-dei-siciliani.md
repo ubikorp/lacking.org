@@ -30,14 +30,14 @@ tags: khruangbin nortec-collective serge-gainsbourg allah-las sean-henry temples
   walrus shivas daft-punk club-des-belugas moon-duo snapped-ankles swell-maps cows
   negativland los-fabulosos-cadillacs preservation-hall-jazz-band dyson-stringer-cloher
   donovan golden-shoulders battles koop mosquitos young-fresh-fellows brooklyn-funk-essentials
-keywords: Khruangbin, Nortec Collective, Serge Gainsbourg, Allah-Las, Sean Henry,
-  Temples, Dimitri From Paris, The Barrence Whitfield Soul Savage Arkestra, Ultra
-  Vivid Scene, Bombadil, Levitation Room, that dog., Black Marble, Ween, Laika &amp;
-  The Cosmonauts, Mikal Cronin, The Dresden Dolls, The Fall, The Regrettes, Kelley
-  Stoltz, Corridor, The Dukes Of Stratosphear, Fly My Pretties Featuring LA Mitchell,
-  Walrus, The Shivas, Daft Punk, Club Des Belugas, Moon Duo, Snapped Ankles, Swell
-  Maps, Cows, Negativland, Los Fabulosos Cadillacs, Preservation Hall Jazz Band, Dyson
-  Stringer Cloher, Donovan, Golden Shoulders, Battles, Koop, Mosquitos, Young Fresh
-  Fellows, Brooklyn Funk Essentials
+keywords: Allah-Las, The Barrence Whitfield Soul Savage Arkestra, Battles, Black Marble,
+  Bombadil, Brooklyn Funk Essentials, Club Des Belugas, Corridor, Cows, Daft Punk,
+  Dimitri From Paris, Donovan, The Dresden Dolls, The Dukes Of Stratosphear, Dyson
+  Stringer Cloher, The Fall, Fly My Pretties Featuring LA Mitchell, Golden Shoulders,
+  Kelley Stoltz, Khruangbin, Koop, Laika &amp; The Cosmonauts, Levitation Room, Los
+  Fabulosos Cadillacs, Mikal Cronin, Moon Duo, Mosquitos, Negativland, Nortec Collective,
+  Preservation Hall Jazz Band, The Regrettes, Sean Henry, Serge Gainsbourg, The Shivas,
+  Snapped Ankles, Swell Maps, Temples, that dog., Ultra Vivid Scene, Walrus, Ween,
+  Young Fresh Fellows
 ---
 Getting into Darra Adam Khel had not been easy.  Getting into Pakistan was relatively straightforward, with the right-colored passports and decoy suitcases full of Western tourist necessities. The ride towards the Khyber Pass had been less so, and the necessary disguises and bribes to get past the checkpoints that turned away foreigners were more of an ordeal than ordinary. The dusty vehicle, neither truck nor passenger car nor jeep but somehow all three, had been recalcitrant for most of the trip, providing constant frequent minor breakdowns, keeping the mechanic perpetually busy. Now they were on a shooting range on the roof of a well-stocked arms shop, surrounded by dozens of identical shops and shooting ranges. As the linguist lifted the replica Berthier carbine to their shoulder, they darkly thought it would be just their luck, after all of this, to be caught in some rooftop crossfire from other purchasers testing their new toys.

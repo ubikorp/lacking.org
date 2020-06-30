@@ -22,9 +22,9 @@ index: Lather Rinse Repeat
 tags: future-kings-of-nowhere harper-simon top-shelf-jazz jesca-hoop cotton-candy
   wugazi drive-by-truckers ruby-suns dismemberment-plan tamba-trio grandaddy charlie-chesterman-legendary-motorbikes
   kinks thao-mirah casper-fandango-his-tiny-sick-tears lali-puna cass-mccombs
-keywords: The Future Kings of Nowhere, Harper Simon, Top Shelf Jazz, Jesca Hoop, Cotton
-  Candy, Wugazi, Drive-By Truckers, The Ruby Suns, The Dismemberment Plan, Tamba Trio,
-  Grandaddy, Charlie Chesterman and the Legendary Motorbikes, The Kinks, Thao &amp;
-  Mirah, Casper Fandango And His Tiny Sick Tears, Lali Puna, Cass McCombs
+keywords: Casper Fandango And His Tiny Sick Tears, Cass McCombs, Charlie Chesterman
+  and the Legendary Motorbikes, Cotton Candy, The Dismemberment Plan, Drive-By Truckers,
+  The Future Kings of Nowhere, Grandaddy, Harper Simon, Jesca Hoop, The Kinks, Lali
+  Puna, The Ruby Suns, Tamba Trio, Thao &amp; Mirah, Top Shelf Jazz, Wugazi
 ---
 Acoustic punk rock is always a dicey proposition, but The Future Kings of Nowhere and Shayne O’Neill rip through the genre like a blowtorch on toilet paper. Slick!

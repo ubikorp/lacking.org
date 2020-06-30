@@ -20,11 +20,11 @@ tags: m-ward nathaniel-rateliff waax 1990s mount-kimbie consolidated brendan-ben
   tennis muffs yo-la-tengo great-grandpa mr-elevator cocorosie we-ragazzi olivia-jean
   brian-jonestown-massacre schneider-tm vhs-or-beta ween snitches breeders plaster
   rock-a-teens fauns deadbeats david-lindley-el-rayo-x of-montreal
-keywords: M. Ward, Nathaniel Rateliff, Waax, 1990s, Mount Kimbie, Consolidated, Brendan
-  Benson, Zig Speck &amp; The Specktones, The Ramones, North Mississippi Allstars,
-  Whitey, The Phenomenal Hand Clap Band, Tennis, The Muffs, Yo La Tengo, Great Grandpa,
-  Mr. Elevator, CocoRosie, We Ragazzi, Olivia Jean, The Brian Jonestown Massacre,
-  Schneider TM, VHS Or Beta, Ween, The Snitches, The Breeders, Plaster, The Rock*A*Teens,
-  The Fauns , Deadbeats, David Lindley &amp; El Rayo-X, Of Montreal
+keywords: 1990s, The Breeders, Brendan Benson, The Brian Jonestown Massacre, CocoRosie,
+  Consolidated, David Lindley &amp; El Rayo-X, Deadbeats, The Fauns , Great Grandpa,
+  M. Ward, Mount Kimbie, Mr. Elevator, The Muffs, Nathaniel Rateliff, North Mississippi
+  Allstars, Of Montreal, Olivia Jean, The Phenomenal Hand Clap Band, Plaster, The
+  Ramones, The Rock*A*Teens, Schneider TM, The Snitches, Tennis, VHS Or Beta, Waax,
+  We Ragazzi, Ween, Whitey, Yo La Tengo, Zig Speck &amp; The Specktones
 ---
 M. Ward could get by on his smoky velvet voice alone, but he also happens to be a supreme connoisseur of what alert musicians call songcraft.

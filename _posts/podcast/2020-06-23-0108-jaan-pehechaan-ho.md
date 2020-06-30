@@ -20,11 +20,11 @@ tags: olivia-jean habibi zach-uncles superdrag taken-by-trees benjamin-gibbard m
   burning-of-rome g-love-special-sauce postal-service cornershop david-bowie pinback
   amon-tobin tennis peter-bjorn-john growlers architecture-in-helsinki frights waax
   this-is-kit professor-elemental kruder-dorfmeister
-keywords: Olivia Jean, Habibi, Zach Uncles, Superdrag, Taken By Trees, Benjamin Gibbard,
-  Mexican Institute of Sound, Tame Impala, The Mountain Goats, Margaret Glaspy, Waxahatchee,
-  Baby Shakes, Trans Am, Drink Me, The Burning Of Rome, G. Love &amp; Special Sauce,
-  The Postal Service, Cornershop, David Bowie, Pinback, Amon Tobin, Tennis, Peter
-  Bjorn and John, The Growlers, Architecture In Helsinki, The Frights, Waax, This
-  Is The Kit, Professor Elemental, Kruder &amp; Dorfmeister
+keywords: Amon Tobin, Architecture In Helsinki, Baby Shakes, Benjamin Gibbard, The
+  Burning Of Rome, Cornershop, David Bowie, Drink Me, The Frights, G. Love &amp; Special
+  Sauce, The Growlers, Habibi, Kruder &amp; Dorfmeister, Margaret Glaspy, Mexican
+  Institute of Sound, The Mountain Goats, Olivia Jean, Peter Bjorn and John, Pinback,
+  The Postal Service, Professor Elemental, Superdrag, Taken By Trees, Tame Impala,
+  Tennis, This Is The Kit, Trans Am, Waax, Waxahatchee, Zach Uncles
 ---
 If a mermaid learned to play surf guitar, she could give Olivia Jean some exciting competition, at least for a little while.

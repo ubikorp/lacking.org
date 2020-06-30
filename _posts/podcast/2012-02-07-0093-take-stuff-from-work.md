@@ -22,9 +22,9 @@ index: Take Stuff From Work
 tags: king-missile chris-tad evolution-control-committee built-to-spill ditty-mu andre-williams-sadies
   camper-van-beethoven maxwell-implosion fergus-geronimo perez-prado los-amigos-invisibles
   fujiya-miyagi thomas-function sex-clark-five primus those-darlins bobs
-keywords: King Missile, Chris &amp; Tad, The Evolution Control Committee, Built To
-  Spill, The Ditty Mu, Andre Williams &amp; The Sadies, Camper Van Beethoven, The
-  Maxwell Implosion, Fergus &amp; Geronimo, Perez Prado, Los Amigos Invisibles, Fujiya
-  And Miyagi, Thomas Function, Sex Clark Five, Primus, Those Darlins, The Bobs
+keywords: Andre Williams &amp; The Sadies, The Bobs, Built To Spill, Camper Van Beethoven,
+  Chris &amp; Tad, The Ditty Mu, The Evolution Control Committee, Fergus &amp; Geronimo,
+  Fujiya And Miyagi, King Missile, Los Amigos Invisibles, The Maxwell Implosion, Perez
+  Prado, Primus, Sex Clark Five, Thomas Function, Those Darlins
 ---
 It must be heartbreaking to be a slapdash concoction of musical genius… in Alabama. The Sex Clark Five were done and gone by the time the world really took notice, but we can still enjoy the limited artifacts they left behind.

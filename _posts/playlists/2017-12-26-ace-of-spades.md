@@ -18,14 +18,14 @@ tags: diamante-electrico swarming-branch lisa-leblanc growlers a-giant-dog devo 
   jd-mcpherson mosquitos zombies repeat-repeat langhorne-slim toadies melvins wolf-alice
   luna black-gardenia-featuring-daphne-roubini kelley-stoltz courtney-barnett-kurt-vile
   cibo-matto waxahatchee thee-oh-sees soft-boys benjamin-gibbard
-keywords: Diamante Eléctrico, Swarming Branch, Lisa LeBlanc, The Growlers, A Giant
-  Dog, Devo, La Louma, Mexican Institute Of Sound + Toy Selectah, Dearly Beloved,
-  Escape-ism, Destroyer, Sharon Jones &amp; The Dap-Kings, Beck, Deer Tick, Wendy
-  Carlos, The Moms, The Districts, Jason Falkner, Nada Surf, GGOOLLDD, Sugarcubes,
-  Jon Rauhouse, Stereo Total, Elvis Costello + The Attractions, Alvvays, The Hives,
-  Robert Plant, JD McPherson, Mosquitos, The Zombies, *Repeat Repeat, Langhorne Slim,
-  Toadies, Melvins, Wolf Alice, Luna, Black Gardenia Featuring Daphne Roubini, Kelley
-  Stoltz, Courtney Barnett &amp; Kurt Vile, Cibo Matto, Waxahatchee, Thee Oh Sees,
-  The Soft Boys, Benjamin Gibbard
+keywords: A Giant Dog, Alvvays, Beck, Benjamin Gibbard, Black Gardenia Featuring Daphne
+  Roubini, Cibo Matto, Courtney Barnett &amp; Kurt Vile, Dearly Beloved, Deer Tick,
+  Destroyer, Devo, Diamante Eléctrico, The Districts, Elvis Costello + The Attractions,
+  Escape-ism, GGOOLLDD, The Growlers, The Hives, Jason Falkner, JD McPherson, Jon
+  Rauhouse, Kelley Stoltz, La Louma, Langhorne Slim, Lisa LeBlanc, Luna, Melvins,
+  Mexican Institute Of Sound + Toy Selectah, The Moms, Mosquitos, Nada Surf, *Repeat
+  Repeat, Robert Plant, Sharon Jones &amp; The Dap-Kings, The Soft Boys, Stereo Total,
+  Sugarcubes, Swarming Branch, Thee Oh Sees, Toadies, Waxahatchee, Wendy Carlos, Wolf
+  Alice, The Zombies
 ---
 I think Lemmy would have appreciated Canadian superbanjoplayer Lisa LeBlanc's fierce take on "Ace Of Spades".
