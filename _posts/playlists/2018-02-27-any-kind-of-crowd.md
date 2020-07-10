@@ -8,6 +8,7 @@ description: Even obscurists get to form supergroups, and Filthy Friends is one 
 author: jclacking
 airdate: '2018-02-27'
 playlist: 2018-02-27-any-kind-of-crowd
+audio_player: ''
 image:
   src: artists/2018/filthy_friends.jpg
   caption: Filthy Friends

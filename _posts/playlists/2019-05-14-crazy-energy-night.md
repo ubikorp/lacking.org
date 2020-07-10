@@ -12,6 +12,7 @@ description: The earth rumbled into an appropriate angle of repose as the bucket
 author: jclacking
 airdate: '2019-05-14'
 playlist: 2019-05-14-crazy-energy-night
+audio_player: ''
 image:
   src: artists/2019/pom_poko.jpg
   caption: Pom Poko

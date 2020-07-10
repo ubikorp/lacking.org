@@ -12,6 +12,7 @@ description: The baker took one last look at the cake, sitting on its gold-rimme
 author: jclacking
 airdate: '2019-07-16'
 playlist: 2019-07-16-real-or-not
+audio_player: ''
 image:
   src: artists/2019/french_vanilla.jpg
   caption: French Vanilla

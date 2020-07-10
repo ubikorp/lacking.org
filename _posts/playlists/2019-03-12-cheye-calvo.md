@@ -13,6 +13,7 @@ description: The Cadillac engine roared with naked abandon behind the driver. It
 author: jclacking
 airdate: '2019-03-12'
 playlist: 2019-03-12-cheye-calvo
+audio_player: ''
 image:
   src: artists/2019/american_high.jpg
   caption: American High

@@ -14,6 +14,7 @@ description: The Sasha river was running dry, and the aerialist maneuvered his c
 author: jclacking
 airdate: '2019-10-01'
 playlist: 2019-10-01-supersonics
+audio_player: ''
 image:
   src: artists/2019/caravan_palace.jpg
   caption: Caravan Palace

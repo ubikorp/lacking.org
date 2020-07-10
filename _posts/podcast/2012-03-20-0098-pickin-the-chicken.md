@@ -14,6 +14,7 @@ description: Is it noise, or is it Memorex? The Boredomes don’t seem to care m
 author: jclacking
 airdate: '2012-03-20'
 playlist: 2012-03-20-0098-pickin-the-chicken
+audio_player: ''
 image:
   src: podcast/0098-boredoms.jpg
   caption: Boredoms

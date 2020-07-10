@@ -13,6 +13,7 @@ description: The pilot felt the glider’s control surfaces bite into the updraf
 author: jclacking
 airdate: '2019-05-07'
 playlist: 2019-05-07-little-bit-of-life
+audio_player: ''
 image:
   src: artists/2019/woolly_bushmen.jpg
   caption: The Woolly Bushmen

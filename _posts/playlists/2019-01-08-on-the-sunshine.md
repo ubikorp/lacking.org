@@ -9,6 +9,7 @@ description: It's a slack time for new releases, but The Lacking Organization st
 author: jclacking
 airdate: '2019-01-08'
 playlist: 2019-01-08-on-the-sunshine
+audio_player: ''
 image:
   src: artists/2019/spiritualized.jpg
   caption: Spiritualized

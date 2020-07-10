@@ -14,6 +14,7 @@ description: The economist wondered where they’d be if the herpetologist had b
 author: jclacking
 airdate: '2019-09-03'
 playlist: 2019-09-03-sometimes-ii
+audio_player: ''
 image:
   src: artists/2019/the_shivas.png
   caption: The Shivas

@@ -8,6 +8,7 @@ description: After a long absence, the Rock*a*Teens return with their trademark 
 author: jclacking
 airdate: '2018-07-24'
 playlist: 2018-07-24-turn-and-smile
+audio_player: ''
 image:
   src: artists/2018/rock_a_teens.jpg
   caption: The Rock*A*Teens

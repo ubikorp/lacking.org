@@ -13,6 +13,7 @@ description: The mechanic reached deep into the tool bag, knowing the required s
 author: jclacking
 airdate: '2019-04-09'
 playlist: 2019-04-09-pais-nublado
+audio_player: ''
 image:
   src: artists/2019/helado_negro.jpg
   caption: Helado Negro

@@ -7,6 +7,7 @@ description: They're all over the place, but that's what I like about Post Anima
 author: jclacking
 airdate: '2018-05-15'
 playlist: 2018-05-15-dirtpicker
+audio_player: ''
 image:
   src: artists/2018/post_animal.jpg
   caption: Post Animal

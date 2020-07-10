@@ -9,6 +9,7 @@ description: 'It was a jam-packed evening, and we even got to fit in a request f
 author: jclacking
 airdate: '2019-01-29'
 playlist: 2019-01-29-i-know-what-it-s-like
+audio_player: ''
 image:
   src: artists/2019/jeff_tweedy.jpg
   caption: Jeff Tweedy

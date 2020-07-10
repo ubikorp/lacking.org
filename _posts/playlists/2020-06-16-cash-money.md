@@ -14,6 +14,8 @@ description: They had been shot at. They had avoided countless booby traps. They
 author: jclacking
 airdate: '2020-06-16'
 playlist: 2020-06-16-cash-money
+audio_player: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLChm3Ffgt_glWX5KPaLZgWRk3zkmNGcpM&hide_artwork=1&hide_cover=1&light=1"
+  frameborder="0"></iframe>'
 link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_glWX5KPaLZgWRk3zkmNGcpM
 link_type: youtube
 image:

@@ -13,6 +13,8 @@ description: The composer stood over the gunwale, pressed the small button, and 
 author: jclacking
 airdate: '2020-06-02'
 playlist: 2020-06-02-ghost-town
+audio_player: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLChm3Ffgt_gm7uZzupcBhKR-Tu3F_IFUZ&hide_artwork=1&hide_cover=1&light=1"
+  frameborder="0"></iframe>'
 link_url: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm7uZzupcBhKR-Tu3F_IFUZ
 link_type: youtube
 image:

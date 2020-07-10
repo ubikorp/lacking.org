@@ -9,6 +9,7 @@ description: Snow was expected, but never showed up. Suits me fine. Surprisingly
 author: jclacking
 airdate: '2019-01-15'
 playlist: 2019-01-15-are-we-ready
+audio_player: ''
 image:
   src: artists/2019/calvin_johnson.jpg
   caption: Calvin Johnson

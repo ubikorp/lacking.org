@@ -14,6 +14,7 @@ description: It’s a hard turn to the left from Mexican funk pop to electronic 
 author: jclacking
 airdate: '2012-01-31'
 playlist: 2012-01-31-0092-nero-worst-dressed
+audio_player: ''
 image:
   src: podcast/0092-sara-valenzuela.jpg
   caption: Sara Valenzuela

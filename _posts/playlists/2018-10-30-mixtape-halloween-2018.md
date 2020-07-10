@@ -8,6 +8,7 @@ description: This is the HALLOWEEN 2018 mixtape, seventeen carefully curated bit
 author: jclacking
 airdate: '2018-10-30'
 playlist: 2018-10-30-mixtape-halloween-2018
+audio_player: ''
 image:
   src: artists/2018/halloween_2018.png
   caption: Rob Potter on Unsplash

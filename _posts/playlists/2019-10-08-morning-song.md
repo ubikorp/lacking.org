@@ -14,6 +14,7 @@ description: The carpenter took a leisurely walk around the perimeter. In the we
 author: jclacking
 airdate: '2019-10-08'
 playlist: 2019-10-08-morning-song
+audio_player: ''
 image:
   src: artists/2019/babe_rainbow.jpg
   caption: Babe Rainbow
