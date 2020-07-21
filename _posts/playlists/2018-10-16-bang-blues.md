@@ -7,7 +7,6 @@ description: It was a quiet night. Somehow, three songs with states in the title
 author: jclacking
 airdate: '2018-10-16'
 playlist: 2018-10-16-bang-blues
-audio_player: ''
 image:
   src: artists/2018/king_brothers.jpg
   caption: King Brothers

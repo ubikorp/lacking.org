@@ -13,10 +13,8 @@ description: The pediatrician scrambled on hands and knees after the rubber ball
 author: jclacking
 airdate: '2020-07-14'
 playlist: 2020-07-14-bang-go-the-bongos
-audio_player: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ1Y9BBdSs2k%26list%3DPLChm3Ffgt_gkblHNufEfXUnB4WlSipmrQ&hide_artwork=1&hide_cover=1&light=1"
-  frameborder="0"></iframe>'
-link_url: https://www.youtube.com/watch?v=Z1Y9BBdSs2k&list=PLChm3Ffgt_gkblHNufEfXUnB4WlSipmrQ
-link_type: youtube
+media: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkblHNufEfXUnB4WlSipmrQ
+media_type: youtube
 image:
   src: artists/2020/bananagun.jpg
   caption: Bananagun

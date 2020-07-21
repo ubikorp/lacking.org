@@ -7,7 +7,6 @@ description: Did Jeff Rosenstock manage to find an unrecorded Ramones song? "Bea
 author: jclacking
 airdate: '2018-02-06'
 playlist: 2018-02-06-beating-my-head-against-a-wall
-audio_player: ''
 image:
   src: artists/2018/jeff_rosenstock.jpg
   caption: Jeff Rosenstock

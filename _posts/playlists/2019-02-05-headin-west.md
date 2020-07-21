@@ -11,7 +11,6 @@ description: The vessel floated silently across the Mississippi, as silently as 
 author: jclacking
 airdate: '2019-02-05'
 playlist: 2019-02-05-headin-west
-audio_player: ''
 image:
   src: artists/2019/tommy_guerrero.jpg
   caption: Tommy Guerrero

@@ -13,7 +13,6 @@ description: The specialist carefully manipulated the waldoes linked to the robo
 author: jclacking
 airdate: '2019-02-26'
 playlist: 2019-02-26-around-part-1
-audio_player: ''
 image:
   src: artists/2019/pavo_pavo.jpg
   caption: Pavo Pavo

@@ -7,7 +7,6 @@ description: '"Screaming Females" is a misnomer. There''s only one, and not a wh
 author: jclacking
 airdate: '2018-04-17'
 playlist: 2018-04-17-chamber-for-sleep-part-one
-audio_player: ''
 image:
   src: artists/2018/screaming_females.jpg
   caption: Screaming Females

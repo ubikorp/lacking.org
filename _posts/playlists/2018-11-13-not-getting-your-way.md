@@ -7,7 +7,6 @@ description: It was a cold night, but things were kept warm by a steady influx o
 author: jclacking
 airdate: '2018-11-13'
 playlist: 2018-11-13-not-getting-your-way
-audio_player: ''
 image:
   src: artists/2018/jesse_dandelions.png
   caption: Jesse and the Dandelions

@@ -12,7 +12,6 @@ description: The chauffeur peered at the rear-view mirror. The scattered reflect
 author: jclacking
 airdate: '2019-07-02'
 playlist: 2019-07-02-groove-them-move-them
-audio_player: ''
 image:
   src: artists/2019/aggrolites.jpg
   caption: The Aggrolites

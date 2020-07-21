@@ -10,7 +10,6 @@ description: The engineer looked through the diminishing dawn murk and spotted t
 author: jclacking
 airdate: '2019-04-02'
 playlist: 2019-04-02-big-boss-man
-audio_player: ''
 image:
   src: artists/2019/mercury_rev.jpg
   caption: Mercury Rev

@@ -6,7 +6,6 @@ description: Now this song weighs a ton.
 author: jclacking
 airdate: '2016-08-02'
 playlist: 2016-08-02-a-spoonful-weighs-a-ton
-audio_player: ''
 image:
   src: artists/2016/mastodon.jpg
   caption: Mastodon

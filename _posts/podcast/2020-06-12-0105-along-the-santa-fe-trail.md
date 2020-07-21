@@ -9,10 +9,9 @@ description: M. Ward could get by on his smoky velvet voice alone, but he also h
 author: jclacking
 airdate: '2020-06-12'
 playlist: 2020-06-12-0105-along-the-santa-fe-trail
-audio_player: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=widget%2Fiframe%2F%3Fhide_cover%3D1%26light%3D1%26hide_artwork%3D1%26feed%3D%252Fthe-lacking-org%252Fgltinf-105-along-the-santa-fe-trail%252F&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fgltinf-105-along-the-santa-fe-trail%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
-link_url: https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&hide_artwork=1&feed=%2Fthe-lacking-org%2Fgltinf-105-along-the-santa-fe-trail%2F
-link_type: mixcloud
+media_type: mixcloud
 image:
   src: podcast/0105-m-ward.jpg
   caption: M. Ward

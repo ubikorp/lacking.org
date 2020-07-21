@@ -9,10 +9,9 @@ description: If a mermaid learned to play surf guitar, she could give Olivia Jea
 author: jclacking
 airdate: '2020-06-23'
 playlist: 2020-06-23-0108-jaan-pehechaan-ho
-audio_player: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=widget%2Fiframe%2F%3Fhide_cover%3D1%26light%3D1%26hide_artwork%3D1%26feed%3D%252Fthe-lacking-org%252Fitgmha-108-jaan-pehechaan-ho%252F&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fitgmha-108-jaan-pehechaan-ho%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
-link_url: https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&hide_artwork=1&feed=%2Fthe-lacking-org%2Fitgmha-108-jaan-pehechaan-ho%2F
-link_type: mixcloud
+media_type: mixcloud
 image:
   src: podcast/0108-olivia-jean.jpg
   caption: Olivia Jean

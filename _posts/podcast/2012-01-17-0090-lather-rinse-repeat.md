@@ -15,7 +15,6 @@ description: Acoustic punk rock is always a dicey proposition, but The Future Ki
 author: jclacking
 airdate: '2012-01-17'
 playlist: 2012-01-17-0090-lather-rinse-repeat
-audio_player: ''
 image:
   src: podcast/0090-future-kings-of-nowhere.jpg
   caption: The Future Kings of Nowhere

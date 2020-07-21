@@ -17,7 +17,6 @@ description: 'The accordionist’s boot was tangled in a mangrove root. The deep
 author: jclacking
 airdate: '2019-09-24'
 playlist: 2019-09-24-the-party-underground
-audio_player: ''
 image:
   src: artists/2019/redd_kross.jpg
   caption: Redd Kross
