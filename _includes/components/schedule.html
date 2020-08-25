@@ -16,7 +16,13 @@
       <td>
         {{ item["start_time"] }} - {{ item["end_time"] }} {{ item["time_zone"] }}
       </td>
-      <td>KAFM Grand Junction</td>
+      <td>
+          {% if item['location'] == 'kafm' %}
+            KAFM Grand Junction
+          {% else %}
+            <a href="https://www.mixcloud.com/live/the-lacking-org/" target="_blank">Mixcloud</a>
+          {% endif %}
+      </td>
       <td>{{ item["notes"] }}</td>
     </tr>
   {% endfor %}
