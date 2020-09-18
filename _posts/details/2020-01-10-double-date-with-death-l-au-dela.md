@@ -6,7 +6,7 @@ description: Excellent garage psychedelia from Quebec that transcends any langua
   barrier with its insistent guitars, lush textures, and thundering drums.
 author: jclacking
 image:
-  src: details/2020/double_date_with_death.jpg
+  src: details/2020/double-date-with-death.jpg
 index: L’Au-Delà, Double Date with Death
 tags: ''
 keywords: Ty Segall, Oh Sees, Les Thugs, Peglegasus, Howlin’ Banana
