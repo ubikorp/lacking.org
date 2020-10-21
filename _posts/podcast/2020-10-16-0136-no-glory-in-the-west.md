@@ -7,8 +7,8 @@ episode: '0136'
 description: The mysterious Orville Peck is a modern cowboy marvel, a rare and legendary
   masked man with a dusty guitar and a lonesome coyote howl.
 author: jclacking
-airdate: '2020-10-17'
-playlist: 2020-10-17-0136-no-glory-in-the-west
+airdate: '2020-10-16'
+playlist: 2020-10-16-0136-no-glory-in-the-west
 media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Ffqgynq-136-no-glory-in-the-west%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud
