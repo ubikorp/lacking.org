@@ -1,42 +1,43 @@
 episode,segment,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds,Mixcloud
-142,a1,,,,,,"There are many two-genre combos that will fit on Blitzen Trapper like a tailored suit, but my current favorite is “country psychedelia”.",https://www.mixcloud.com/the-lacking-org/c1633v-142-holy-smokes-future-jokes/,0,,Your Host 
-142,a2,6,Holy Smokes Future Jokes,Blitzen Trapper,Holy Smokes Future Jokes,4:58,A gentle approach,0:00:00,298,0,"Blitzen Trapper ""Holy Smokes Future Jokes"" 0:00:00"
-142,a2,7,Wildflowers,Tom Petty,Wildflowers & All The Rest (Super Deluxe Edition),3:12,Pure unfiltered genius,0:04:58,192,298,"Tom Petty ""Wildflowers"" 0:04:58"
-142,a2,8,Dress,PJ Harvey,Dry - Demos,3:17,If you put it on,0:08:10,197,490,"PJ Harvey ""Dress"" 0:08:10"
-142,a2,9,Pigs On The Wing 2,Les Claypool's Frog Brigade,Live Frogs,2:00,High above the factories,0:11:27,120,687,"Les Claypool's Frog Brigade ""Pigs On The Wing 2"" 0:11:27"
-142,a3,,,,,,,0:13:27,84,807,Your Host 0:13:27
-142,a4,116,Panik,Heavy Trash,Panik,2:04,From NOO YOCK CIDDEH!,0:14:51,124,891,"Heavy Trash ""Panik"" 0:14:51"
-142,a4,117,Agua De Beber,Montefiori Cocktail,Montefiori Appetizer Vol. 1,3:54,From Italy!,0:16:55,234,1015,"Montefiori Cocktail ""Agua De Beber"" 0:16:55"
-142,a4,118,Cars,To Roccoco Rot,The Amateur View,2:59,From Germany!,0:20:49,179,1249,"To Roccoco Rot ""Cars"" 0:20:49"
-142,a4,119,Banana Meltdown,Dub Narcotic Sound System Meets The Jon Spencer Blues Explosion,Dub Narcotic Sound System meets The Jon Spencer Blues Explosion in a Dancehall Style!,2:56,From Olympia!,0:23:48,176,1428,"Dub Narcotic Sound System Meets The Jon Spencer Blues Explosion ""Banana Meltdown"" 0:23:48"
-142,a5,,,,,,,0:26:44,42,1604,Your Host 0:26:44
-142,a6,1,Riddle Daddy,The Bobby Lees,Skin Suit,3:43,Good question,0:27:26,223,1646,"The Bobby Lees ""Riddle Daddy"" 0:27:26"
-142,a6,2,Somebody's Gonna Get Their Head Kicked In Tonight,The Rezillos,Can't Stand The Rezillos,1:56,Alright!,0:31:09,116,1869,"The Rezillos ""Somebody's Gonna Get Their Head Kicked In Tonight"" 0:31:09"
-142,a6,3,Canopnr '74,Oh Sees,Protean Threat,3:01,Flying saucer AM radio,0:33:05,181,1985,"Oh Sees ""Canopnr '74"" 0:33:05"
-142,a6,4,December 21,The Snitches,,2:24,Calendar time,0:36:06,144,2166,"The Snitches ""December 21"" 0:36:06"
-142,a7,,,,,,,0:38:30,43,2310,Your Host 0:38:30
-142,a8,74,Ghostwriter,Garotas Suecas,,3:28,"Hey Doug, have some!",0:39:13,208,2353,"Garotas Suecas ""Ghostwriter"" 0:39:13"
-142,a8,75,Live At Budokan,Gallygows,,2:35,"The Beatles’ Budokan, not Cheap Trick’s",0:42:41,155,2561,"Gallygows ""Live At Budokan"" 0:42:41"
-142,a8,76,The Ruminant Band,Fruit Bats,,3:21,"Bats aren’t ruminant, are they?",0:45:16,201,2716,"Fruit Bats ""The Ruminant Band"" 0:45:16"
-142,a8,77,Humo En El Agua,Señor Coconut And His Orchestra,,4:48,You may recognize this.,0:48:37,288,2917,"Señor Coconut And His Orchestra ""Humo En El Agua"" 0:48:37"
-142,b1,,,,,,,0:53:25,54,3205,Your Host 0:53:25
-142,b2,101,La Que Me Gusta,Los Amigos Invisibles,Repeat After Me,4:00,It's the Venezuelan Walking on Sunshine,0:54:19,240,3259,"Los Amigos Invisibles ""La Que Me Gusta"" 0:54:19"
-142,b2,102,User-Friendly Guide to Change,Chris Robley + the Fear of Heights,Movie Theatre Haiku,2:55,Startling composition,0:58:19,175,3499,"Chris Robley + the Fear of Heights ""User-Friendly Guide to Change"" 0:58:19"
-142,b2,103,What Quid?,"Kitty, Daisy & Lewis",Smoking In Heaven,7:31,Jamming it out,1:01:14,451,3674,"Kitty, Daisy & Lewis ""What Quid?"" 1:01:14"
-142,b3,,,,,,,1:08:45,28,4125,Your Host 1:08:45
-142,b4,51,I Turned Into A Martian,The Misfits,The Misfits Box Set,1:44,"Walked like an Egyptian, too",1:09:13,104,4153,"The Misfits ""I Turned Into A Martian"" 1:09:13"
-142,b4,52,Shelby Jenkins,Chris + Tad,Hand Me That Door,0:32,Don’t blink,1:10:57,32,4257,"Chris + Tad ""Shelby Jenkins"" 1:10:57"
-142,b4,53,A Skit About Vocations,MC Frontalot,Final Boss,1:46,Outdated already,1:11:29,106,4289,"MC Frontalot ""A Skit About Vocations"" 1:11:29"
-142,b4,54,I’m in the Doorway (feat. Oh. Land),Tricky,Fall to Pieces,2:52,Siren calling,1:13:15,172,4395,"Tricky ""I’m in the Doorway (feat. Oh. Land)"" 1:13:15"
-142,b5,,,,,,,1:16:07,49,4567,Your Host 1:16:07
-142,b6,64,Becomings,The Fresh & Onlys,Wolf Lie Down,4:15,The sound of dust,1:16:56,255,4616,"The Fresh & Onlys ""Becomings"" 1:16:56"
-142,b6,65,Tongue Tied,A Giant Dog,Toy,2:28,A lot like X,1:21:11,148,4871,"A Giant Dog ""Tongue Tied"" 1:21:11"
-142,b6,66,Emotions and Math,Margaret Glaspy,Emotions and Math,3:17,Clearly complicated stuff,1:23:39,197,5019,"Margaret Glaspy ""Emotions and Math"" 1:23:39"
-142,b6,67,Luna De Miel,Alejandro Escovedo,Burn Something Beautiful,2:57,Still burning!,1:26:56,177,5216,"Alejandro Escovedo ""Luna De Miel"" 1:26:56"
-142,b7,,,,,,,1:29:53,37,5393,Your Host 1:29:53
-142,b8,26,Sixth Hammer,The Budos Band,Long in the Tooth,3:16,Music for the Sahara patrol,1:30:30,196,5430,"The Budos Band ""Sixth Hammer"" 1:30:30"
-142,b8,27,Mucang'ang'o Ugiraga Mukindirio,Rift Valley Brothers,"Kenya Special, Vol. 2",4:52,For a new day,1:33:46,292,5626,"Rift Valley Brothers ""Mucang'ang'o Ugiraga Mukindirio"" 1:33:46"
-142,b8,28,Machinery Hill,Flour,Machinery Hill,3:00,Chicago noise days,1:38:38,180,5918,"Flour ""Machinery Hill"" 1:38:38"
-142,b8,29,Special Designer Song,Wagon Christ,Recepticon,4:19,Who samples Negativland?,1:41:38,259,6098,"Wagon Christ ""Special Designer Song"" 1:41:38"
-142,b9,,,,,,,1:45:57,106,6357,Your Host 1:45:57
-142,bX,84,Connect,Schrasj,,7:31,Not as noisy as it seems.,1:47:43,451,6463,"Schrasj ""Connect"" 1:47:43"
+143,a1,,,,,,"If you got The Nude Party to perform at your next get-together, it would be the kind of shindig that produces two marriages, three break-ups, and gossip for years to come.",https://www.mixcloud.com/the-lacking-org/wpdiuz-143-lonely-heather/,0,,Your Host 
+143,a2,21,Lonely Heather,The Nude Party,Midnight Manor,2:07,Everyone brought drinks,0:00:00,127,0,"The Nude Party ""Lonely Heather"" 0:00:00"
+143,a2,22,Mean Girl (Early Mix),Status Quo,Peephole In My Brain. The British Progressive Pop Sound Of 1971,3:52,From the early days of a 50-year career,0:02:07,232,127,"Status Quo ""Mean Girl (Early Mix)"" 0:02:07"
+143,a2,23,Destination Danger,Four Corners,Say You're a Scream,2:26,Arriving some time later,0:05:59,146,359,"Four Corners ""Destination Danger"" 0:05:59"
+143,a2,24,Flathead,The Fratellis,Costello Music,3:19,The Glasgow sound,0:08:25,199,505,"The Fratellis ""Flathead"" 0:08:25"
+143,a3,,,,,,,0:11:44,74,704,Your Host 0:11:44
+143,a4,64,It's Gonna Be A Long Night,Ween,,2:50,Indeed it is.,0:12:58,170,778,"Ween ""It's Gonna Be A Long Night"" 0:12:58"
+143,a4,65,Part Time Punks,The Airwaves,,2:54,Or is it new wave?,0:15:48,174,948,"The Airwaves ""Part Time Punks"" 0:15:48"
+143,a4,66,Flowers,The Kazimier Krunk Band,,3:49,Let’s have some ska polka,0:18:42,229,1122,"The Kazimier Krunk Band ""Flowers"" 0:18:42"
+143,a4,67,"1, 2, 3, Probando",Kinky,,2:07,"1 2 3 Check, y’all",0:22:31,127,1351,"Kinky ""1, 2, 3, Probando"" 0:22:31"
+143,a5,,,,,,,0:24:38,31,1478,Your Host 0:24:38
+143,a6,11,The KKK Took My Baby Away,Drive-By Truckers,The New OK,2:31,Originalmente de los Ramones,0:25:09,151,1509,"Drive-By Truckers ""The KKK Took My Baby Away"" 0:25:09"
+143,a6,12,Cry Baby,Janis Joplin,Pearl,3:58,Boo hoo,0:27:40,238,1660,"Janis Joplin ""Cry Baby"" 0:27:40"
+143,a6,13,Mr. Big Stuff,Jean Knight,Mr. Big Stuff,2:31,An outlandish self-valuation,0:31:38,151,1898,"Jean Knight ""Mr. Big Stuff"" 0:31:38"
+143,a6,14,On Your Radio,Joe Jackson,I'm the Man,4:01,The warm glow of tubes,0:34:09,241,2049,"Joe Jackson ""On Your Radio"" 0:34:09"
+143,a7,,,,,,,0:38:10,38,2290,Your Host 0:38:10
+143,a8,132,That Train Don't Stop Here,Los Lobos,Kiko,3:52,Two decades ago,0:38:48,232,2328,"Los Lobos ""That Train Don't Stop Here"" 0:38:48"
+143,a8,133,Early Morning,Jungle Brothers,V.I.P.,5:33,Apropos,0:42:40,333,2560,"Jungle Brothers ""Early Morning"" 0:42:40"
+143,a8,134,Shark Attack,Split Enz,History Never Repeats,3:00,Love those keyboards,0:48:13,180,2893,"Split Enz ""Shark Attack"" 0:48:13"
+143,a8,135,Grown So Ugly,Al Lover,Safe As Milk Replica ,2:16,Wandering attention,0:51:13,136,3073,"Al Lover ""Grown So Ugly"" 0:51:13"
+143,b1,,,,,,,0:53:29,61,3209,Your Host 0:53:29
+143,b2,31,Just Dropped In (To See What Condition My Condition Was In),Sharon Jones & The Dap-Kings,Just Dropped In (To See What Condition My Rendition Was In),3:01,Condition red hot,0:54:30,181,3270,"Sharon Jones & The Dap-Kings ""Just Dropped In (To See What Condition My Condition Was In)"" 0:54:30"
+143,b2,32,Signal In The Sky (Let's Go),The Apples In Stereo,Heroes & Villains,3:27,A song for initiative!,0:57:31,207,3451,"The Apples In Stereo ""Signal In The Sky (Let's Go)"" 0:57:31"
+143,b2,33,"Hey Ho, Let's Not Go",The Just Joans,The Private Memoirs And Confessions Of The Just Joans,2:46,A song for apathy!,1:00:58,166,3658,"The Just Joans ""Hey Ho, Let's Not Go"" 1:00:58"
+143,b2,34,I Stick The Doll With Burning Pins,Greezy Wheels,String Theory 2.0,3:33,Very quite regrettable behavior,1:03:44,213,3824,"Greezy Wheels ""I Stick The Doll With Burning Pins"" 1:03:44"
+143,b3,,,,,,,1:07:17,49,4037,Your Host 1:07:17
+143,b4,109,"Get Up, Stand Up (Thievery Corporation Remix)",Bob Marley & The Wailers,Legend Remixed,4:22,Still digging through this,1:08:06,262,4086,"Bob Marley & The Wailers ""Get Up, Stand Up (Thievery Corporation Remix)"" 1:08:06"
+143,b4,110,No Waves,The Shivas,Whiteout,4:36,Save me surfing Portland,1:12:28,276,4348,"The Shivas ""No Waves"" 1:12:28"
+143,b4,111,Stone Letter,Tomahawk,Oddfellows [Bonus],2:52,"It's got Jesus Lizards, can't go wrong",1:17:04,172,4624,"Tomahawk ""Stone Letter"" 1:17:04"
+143,b4,112,Interference,Cop Shoot Cop,Release,4:15,A thumping like only the 90s can offer,1:19:56,255,4796,"Cop Shoot Cop ""Interference"" 1:19:56"
+143,b5,,,,,,,1:24:11,54,5051,Your Host 1:24:11
+143,b6,73,That's Alright,Baby Jesus,Took Our Sons Away,3:20,So sloppy and beautiful,1:25:05,200,5105,"Baby Jesus ""That's Alright"" 1:25:05"
+143,b6,74,Face Of God,The Drums,Encyclopedia,4:02,High and wailing,1:28:25,242,5305,"The Drums ""Face Of God"" 1:28:25"
+143,b6,75,Avalon,Foxygen,Hang,3:47,So very fruity!,1:32:27,227,5547,"Foxygen ""Avalon"" 1:32:27"
+143,b6,76,Anonymous Skulls,Medeski Martin & Wood,End of the World Party (Just in Case),4:25,Spooky jazz for Halloween,1:36:14,265,5774,"Medeski Martin & Wood ""Anonymous Skulls"" 1:36:14"
+143,b7,,,,,,,1:40:39,30,6039,Your Host 1:40:39
+143,b8,41,OD'd in Denver (feat. Matt Sweeney),Bill Callahan & Bonnie 'Prince' Billy,OD'd in Denver,3:30,Grim stuff,1:41:09,210,6069,"Bill Callahan & Bonnie 'Prince' Billy ""OD'd in Denver (feat. Matt Sweeney)"" 1:41:09"
+143,b8,42,Heartbreak Boulevard,Messer Chups,Don't Say Cheese,1:47,The bright lights,1:44:39,107,6279,"Messer Chups ""Heartbreak Boulevard"" 1:44:39"
+143,b8,43,Mary Anning,Artichoke,"26 Scientists, Vol. 1: Anning - Malthus",2:22,Fossil collector,1:46:26,142,6386,"Artichoke ""Mary Anning"" 1:46:26"
+143,b8,44,Sing Sing Sing,Flat Duo Jets,Wild Wild Love,3:10,No such thing as overreverberation,1:48:48,190,6528,"Flat Duo Jets ""Sing Sing Sing"" 1:48:48"
+143,b9,,,,,,,1:51:58,109,6718,Your Host 1:51:58
+143,bX,62,New Moon,MC 900 Ft Jesus,,11:41,"Spooky, eh?",1:53:47,701,6827,"MC 900 Ft Jesus ""New Moon"" 1:53:47"
