@@ -1,19 +1,93 @@
-batch,artist,album,label,sounds_like,review,fcc,track_seq,track_name,track_description
-2020-N,The Fearless Flyers,Tailwinds,Vulf,"Vulfpeck, John Scofield, Galactic","“Fearless” is a good word to use for this fully-formed funk outfit, as are “fierce,” “fiery,” “finessed,” “futuristic,” and so many effing others. A blend of precision and groove that does well on repeat.",197,,Nate Smith Is the Ace of Aces,No good band has a bad drummer
-,,,,,,0,,Colonel Panic,Get your core dump
-,,,,,,0,,Ambush,Funk metal
-,,,,,,0,,Assassin,A deadly fast racket
-,,,,,,0,,Kenni and the Jets,Like the Elton John
-2020-O,Fantastic Negrito,Have You Lost Your Mind Yet?,Cooking Vinyl,"G. Love and Special Sauce, Har Mar Superstar, Blood Orange","The essence of R&B, with a soulful vocals that range from besotted to anguished and lush harmonic arrangements covering slow jams, hot funk and everything in between.",166,1,Chocolate Samurai,Channeling some Stevie Wonder
-,,,,,,0,7,These Are My Friends,For a drinky mood
-,,,,,,0,11,Platypus Dipster,Get you some chikka chikka
-2020-O,Joey Joesph,Smile,,"The Apples In Stereo, Mr. Elevator, Self","Covering the Beach Boys’ mythical album Smile from start to finish is not an original idea, but Joesph’s take on the matter is filled to the brim with inventive perspectives on a lost classic.",192,2,Heroes and Villains,Psychedelic joyride
-2020-O,The Just Joans,The Private Memoirs And Confessions Of The Just Joans,Fika,"Belle and Sebastian, The Rezillos, Asylum Street Spankers","The Just Joans are the sonic equivalent of tartan… between the girl group influences, the pitch-perfect pastoral pop, and a sense of humor as black and bitter as truck stop coffee, they could not be more Scottish.",213,1,"Hey Ho, Let's Not Go",An anthem to apathy
-,,,,,,0,3,Wee Guys (Bobby's Got A Punctured Lung),"Haha, kids"
-,,,,,,0,8,The One I Loathe The Least,Very well put
-,,,,,,0,9,Another Doomed Relationship,For fans of The Human League
-,,,,,,0,10,Holiday,Truly sounds like a wonderful time
-2020-O,Nano Banton,Inna De Bedroom,CDR,"Adrian Sherwood, Mad Professor, Goldie","The name should be enough to tune you in, but a more descriptive review would be to say this is deconstructed chiptune jungle dub, all your favorite riddims as DJ’d by the Mario Brothers. ",188,1,Yoruba,Electric ritual
-,,,,,,0,2,Final Answer,Jungle riddims
-,,,,,,0,3,Super Market,Shopping in a jiffy
-,,,,,,0,6,Soran Riddim,Ring the alarm
+batch,chars,published,cover,artist,album,label,review,sounds_like,release_date,track_seq,track_name,track_description
+2020-O,225,2020-10-05,nofx-frank-turner.jpg,NOFX + Frank Turner,West Coast vs. Wessex,Fat Wreck Chords,"Two very political acts, performing each other’s songs. NOFX is archetypically SoCal snot-nose punk, while Frank Turner is from a proud tradition of left-leaning UK strummers, but the songs fare well in any protester’s hands.","Billy Bragg, Propaghandi, Jello Biafra + Mojo Nixon","July 31, 2020",3,Thatcher Fucked the Kids,The dark side of the ‘80s
+2020-O,202,2020-12-12,tobacco.jpg,Tobacco,Hot Wet + Sassy,Ghostly International,"Electronic music seems to trend towards extremes of ambience, rhythm, or noise, but there is a place of balance where textures and beats combine aggressively into what can only be called a rock barrage.","STRFKR, Jagwar Ma, Filter","October 30, 2020",1,Centaur Skin,Taught and glistening
+2020-P,162,2020-11-01,bill-callahan.jpg,Bill Callahan,Gold Record,Drag City,"Callahan’s deep gruff voice meanders through acoustic non-linear arrangements like a limo driver telling a story, completely oblivious to their own cowboy poetry.","Smog, Johnny Cash, Tom Waits","September 4, 2020",1,Pigeons,Exploding pigeons over San Antone
+2020-P,0,,,,,,,,,4,Protest Song,"Step aside, son"
+2020-P,0,,,,,,,,,8,Cowboy,Dusty as hell
+2020-P,144,2020-11-02,cambodian-space-project.jpg,The Cambodian Space Project,Electric Blue Boogaloo,ABC,"The name would lead you to expect old-school riff-heavy fuzzed-out psychedelia with a strong southeast Asian accent, and it would lead you true.","Dengue Fever, La Luz, The Woggles","June 30, 2015",3,Laisses Tomber Les Filles,Like a chick habit
+2020-P,0,,,,,,,,,8,Get On This Plane,Jetting off to who cares where
+2020-P,0,,,,,,,,,13,Broken Hearted Wo-Man,Sonic yowling
+2020-P,176,2020-10-15,old-97s.jpg,Old 97’s,Twelfth,ATO,"Someone threw a key party for a bunch of musical genres, and Americana, Rock, and Punk left together. On the dashboard radio on the way to the motel, the Old 97’s were playing.","The Sadies, The Bottlerockets, Drive By Truckers","August 21, 2020",1,The Dropouts,Sounds like a fun bunch
+2020-P,0,,,,,,,,,3,Turn Off The TV,Good idea
+2020-P,0,,,,,,,,,10,Bottle Rocket Baby,A blastoffer
+2020-P,231,2020-11-03,tricky.jpg,Tricky,Fall To Pieces,Liberator,"Tricky’s approach to music, with subdued tempos and striking contrasts (like pitting his industrial grit voice against Marta’s honeyed vocals) has not dulled over the years, glinting in the streetlight like an out of place scalpel.","Portishead, DJ Food, This Mortal Coil","September 4, 2020",4,I’m in the Doorway (feat. Oh. Land),Surprisingly upbeat
+2020-P,0,,,,,,,,,5,Hate this Pain (feat. Marta),Show us on the Borg scale
+2020-P,197,2020-10-21,yello.jpg,Yello,Point,Polydor,"The recipe for Yello’s bass-heavy, rhythmic, mid-tempo groovecake has not changed in forever, and it still makes the ideal soundtrack for putting on your sunglasses and slouching down in your seat.","Trio, Arling + Cameron, Infected Mushroom","August 28, 2020",1,Waba Duba,Practice your robot moves
+2020-P,0,,,,,,,,,8,Core Shift,Oldskool cruising
+2020-P,0,,,,,,,,,10,Hot Pan,Throbbing menace
+2020-Q,196,2020-12-08,blitzen-trapper.jpg,Blitzen Trapper,Holy Smokes Future Jokes,Yep Roc,"I don’t know why I want to call this sound “California country”, when it’s not from California nor is it truly country, but its twangy aroma and psychedelic coloring are probably a big reason why.","Jeff Tweedy, Flying Burrito Brothers, The Elected","September 25, 2020",3,Don't Let Me Run,A country sort of mood
+2020-Q,0,,,,,,,,,5,Masonic Temple Microdose #1,Sounded like a good idea at the time
+2020-Q,0,,,,,,,,,7,Holy Smokes Future Jokes,A eulogy for irony
+2020-Q,156,2020-09-29,deerhoof.jpg,Deerhoof,Love-Lore,Joyful Noise,"You never know what to expect from Deerhoof, even if your list contains “sound art medleys improvised out of musical themes recognizable and unrecognizable”","Blonde Redhead, Pom Poko, Laurie Anderson","September 29, 2020",5,Love-Lore 5 (Velvet Underground/Laurie Anderson),Feral medley
+2020-Q,174,2020-12-10,idles.jpg,IDLES,Ultra Mono,Partisan,"It’s difficult to explain why this sort of aggressive guitar-forward post-punk sound feels so much more anthemic when it comes from the UK, but the effect is certainly there.","Fontaines DC, Future of the Left, McClusky","September 25, 2020",1,War,Going all-out
+2020-Q,0,,,,,,,,,5,Kill Them With Kindness,An aggressive solution
+2020-Q,0,,,,,,,,,6,Model Village,Lovely place
+2020-Q,202,2020-10-13,illuminati-hotties.jpg,illuminati hotties,FREE I.H: This Is Not The One You've Been Waiting For,,"Swerving wildly between sweetly melodic and audibly unhinged, this carousel of buzzsaw-inflected ditties definitely whirls too fast, and you’ll enjoy every minute of its glitchy post-hardcore pop magic.","Le Tigre, Brainiac, Daisy Chainsaw","July 17, 2020",1,"will i get cancelled if i write a song called, ""if you were a man you'd be so cancelled""","You know, probably"
+2020-Q,0,,,,,,,,,4,melatonezone,Drifting in and out of the dream
+2020-Q,0,,,,,,,,,5,WATTBL,A brand new rebreviation
+2020-Q,0,,,,,,,,,7,content//bedtime,Eternal struggle
+2020-Q,0,,,,,,,,,11,superiority complex (big noise),Question authority
+2020-Q,173,2020-12-06,oh-sees.jpg,Oh Sees,Protean Threat,Castle Face,"The name of this band may change every few years, but the implacable drone is unmistakable, like a heavy, doomed Ramones with a penchant for occasional celestial excursions.","Moon Duo, Wooden Shjips, The Melvins","September 18, 2020",3,Upbeat Ritual,Splash the gronk chord
+2020-Q,0,,,,,,,,,10,Toadstool,Stilted waltzing
+2020-Q,0,,,,,,,,,12,Canopnr '74,Overexcited tremolo
+2020-Q,184,2020-12-02,sneaks.jpg,Sneaks,Happy Birthday,,There is something familiar yet quite subversive in the way Sneaks assembles their synthetic layers and stream-of-consciousness vocalizations into a collage of desperate modern living.,"Gossip, Tom Tom Club, Tennis","August 21, 2020",2,Faith,Genius of groove
+2020-Q,0,,,,,,,,,4,Sanity,Listen to your mother
+2020-R,227,2020-10-31,bobby-lees.jpg,The Bobby Lees,Skin Suit,Alive Naturalsound,"The insurance inspector shook her head. She’d never seen a fire consume a structure so quickly and completely; this must be some new form of accelerant. Most curiously, the inferno seemed to have started at the stereo speakers.","Sleater-Kinney, John Wilkes Booze, Oblivians","July 17, 2020",1,Move,Takes a bit to start
+2020-R,0,,,,,,,,,2,Coin,Rattling rhumba
+2020-R,0,,,,,,,,,4,Riddle Daddy,Mystery unsolved
+2020-R,0,,,,,,,,,10,Russell,I don’t think this is working
+2020-R,171,2020-11-16,budos-band.jpg,The Budos Band,Long in the Tooth,Daptone,"The Budos Band have a distinctive sound that blends afrobeat, funk, and a herd of thundering elephants that could also be one of the most aggressive brass sections around.","Antibalas Afrobeat Orchestra, Fela Kuti, Rocket Juice and the Moon","October 9, 2020",2,Sixth Hammer,Does the trick
+2020-R,0,,,,,,,,,9,Mierda De Toro,By any other name
+2020-R,208,2020-11-18,drive-by-truckers.jpg,Drive-By Truckers,The New OK,ATO,"Yes, it’s the Drive-By Truckers, and they remain consistent to their deep Southern roots, but I had to keep checking the player to see who was sounding exactly like Dinosaur Jr. or riffing off Hall and Oates.","Wilco, Ramones, Dinosaur Jr.","October 2, 2020",5,Sarah's Flame,Hello blue eyed soul
+2020-R,0,,,,,,,,,9,The KKK Took My Baby Away,Sadly still relevant
+2020-R,199,2020-11-20,elvis-perkins.jpg,Elvis Perkins,Creation Myths,MIR,"It’s been a while, but Elvis Perkins’ songwriting chops remain as lush as ever, an unexpected oasis of skewed harmonies and surprising arrangements in a dry sandy desert of plinky singer-songwriters.","Jason Isbell, Michael Penn, Kurt Vile","October 2, 2020",1,Sing Sing,Some of that sweet sadness
+2020-R,0,,,,,,,,,2,See Monkey,What about Hear Monkey and Speak Monkey?
+2020-R,0,,,,,,,,,5,Iris,A Beatlesque turn
+2020-R,237,2020-11-24,kurt-vile.jpg.jpg,Kurt Vile,"Speed, Sound, Lonely KV EP",Matador,"Kurt Vile’s surgical lyrics and out-there guitar playing overshadow the fact that he is a bona-fide troubadour, a distinctive voice and presence that hangs out in your head and strums out their weird tunes from an armchair in the corner.","John Prine, Paleface, Lou Barlow","October 2, 2020",1,Speed of the Sound of Loneliness,Prine time
+2020-R,0,,,,,,,,,3,Dandelions,Drifting seed pods
+2020-R,165,2020-11-12,nude-party.jpg,The Nude Party,Midnight Manor,New West,"The word “party” is right there in the name, as is the word “nude”, and it might be a coincidence, but this is rowdy, horny, let-it-all-hang-out rock and roll music.","The Georgia Satellites, Old 97s, The Woolly Bushmen","October 2, 2020",1,Lonely Heather,Pedal through the metal
+2020-R,0,,,,,,,,,2,"Pardon Me, Satan",Probably good to apologize
+2020-R,0,,,,,,,,,3,Cure Is You,Slow burning medication
+2020-R,0,,,,,,,,,6,What's The Deal?,Hot twang
+2020-R,0,,,,,,,,,10,Judith,All about a girl
+2020-R,0,,,,,,,,,12,Nashville Record Co.,Would love to work there too
+2020-R,200,2020-11-30,yo-la-tengo.jpg,Yo La Tengo,Sleepless Night,Matador,"A new collection of covers from Yo La Tengo is not unusual, but their frequency does allow for some measurement of the band’s current mood, and the songs are always trailheads for musical exploration.","Bob Dylan, The Byrds, The Flying Machine","October 9, 2020",4,"It Takes a Lot to Laugh, It Takes a Train to Cry",Feelin’ Dylan
+2020-R,0,,,,,,,,,6,Smile a Little Smile for Me,AM radio forever
+2020-S,228,2020-12-21,andrew-bird.jpg,Andrew Bird,Panthology Songs II,,"Years from now, the early 2020s will timestamp short albums recorded and released during isolation the way protest songs on the pop charts mark the late ‘60s. This one would be near the top of the heap, intimate yet meticulous. ","Orville Peck, M. Ward, Squirrel Nut Zippers","June 26, 2020",1,Roma Fade,Whistling like a bird
+2020-S,0,,,,,,,,,6,Capsized,A revisiting
+2020-S,234,2020-12-30,bootsy-collins.jpg,Bootsy Collins,The Power of the One,Sweetwater Sounds,"Bootsy lays out the not-so-secret ingredient in funk right there in the title, and then gives you a giant plate and puts you at the head of the line of this 70-minute buffet of lose-you-inhibitions-and-dig-in variations on the recipe.","Parliament, Victor Wooten, Monsieur LeRoc","September 18, 2020",2,The Power of the One,A mighty power
+2020-S,0,,,,,,,,,11,WantMe2Stay,Featuring Larry Graham
+2020-S,0,,,,,,,,,8,Bewise,Listen to the man
+2020-S,208,2020-12-31,certain-animals.jpg,Certain Animals,Songs To Make You Move,TCBYML,"Dutch indie rock psychedelic bands often stand out from their UK or US counterparts because they are just too good at the tropes. It’s like they took the test and got 110%, and there wasn’t even extra credit.","Born Ruffians, Bettie Serveert, Sloan","September 25, 2020",1,Automaton,Can't harsh a big opening riff
+2020-S,0,,,,,,,,,2,Strawberry Sunset,Related to a strawberry alarm clock
+2020-S,0,,,,,,,,,5,Tangerine,Again with the fruit
+2020-S,238,2020-12-22,eels.jpg,Eels,Earth To Dora,E Works,"Pain, desperation, a desperate will to hang in there, and an obsession with noticing the small things in life are common themes in Eels’ musical career, and they remain present here to comfort those in need of a song to help them through.","A Man Called E, Nick Drake, Tom Waits","September 16, 2020",1,Anything For Boo,Anything
+2020-S,0,,,,,,,,,4,Earth to Dora,Are you receiving me?
+2020-S,0,,,,,,,,,6,Are You Fucking Your Ex,An important question
+2020-S,200,2020-12-29,free-radicals.jpg,Free Radicals,White Power Outage vol. 1,,"I haven’t seen the word skronk bandied about lately, it feels good to bring it out again. The Free Radicals are rhythmic, abrasive, definitely political, but most of all extra funky and pure of heart.","Sun Ra Arkestra, Too Many Zoos, Gil Scott-Heron","September 15, 2020",10,Estamos En La Lucha (feat. Karina Nistal),Always in battle
+2020-S,0,,,,,,,,,11,Café Sin Leche (feat. Arthur Yoria),The blackest of coffees
+2020-S,185,2020-12-27,lunchbox.jpg,Lunchbox,After School Special,Slumberland,"They hit hard and they hit fast, with half of the songs here clocking in at two minutes or less, but they also hit sweet, with layers of boy-girl harmonies and drizzles of horn section.","Camera Obscura, They Might Be Giants, 2nd Grade","August 20, 2020",1,Dream Parade,Find your place
+2020-S,0,,,,,,,,,3,Gary of the Academy,Swinging horn section
+2020-S,0,,,,,,,,,4,Utopia,"A brief utopia, don’t blink"
+2020-S,192,2020-12-04,rob-crow.jpg,Rob Crow,Everybody’s Got Damage,Joyful Noise,"When Rob Crow gets to anthologize the songs he wants to cover into an album, the results are disparate, insightful, and educational, ranging from King Crimson to the Melvins to the Beach Boys.","Heavy Vegetable, Pinback, Bill Fox","August 14, 2020",2,Frame By Frame,King Crimson intertwining
+2020-S,0,,,,,,,,,5,Alice Crucifies The Pedophiles,What the
+2020-S,0,,,,,,,,,8,Praha In Spring,Sonic Penrose tiling
+2020-S,0,,,,,,,,,12,Astro Zombies,The zombies are not what people remember
+2020-S,0,,,,,,,,,13,Surf's Up,For a kaleidoscope morning
+2020-S,208,2020-11-22,sharon-jones.jpg,Sharon Jones + the Dap Kings,Just Dropped In (To See What Condition My Rendition Was In),Daptone,"Posthumous releases are always a tricky proposition, but Sharon Jones was a talent literally larger than life, and the combination of her of deep rich voice slathered over the funky Dap Kings has yet to fail.","Gladys Knight, Aretha Franklin, Shuggie Otis","October 23, 2020",1,"Signed, Sealed, Delivered I'm Yours",Let’s hear it for the USPS
+2020-S,0,,,,,,,,,3,Just Dropped In (To See What Condition My Condition Was In),In great condition
+2020-S,0,,,,,,,,,8,Inspiration Information,Can’t get enough Shuggie Otis
+2020-S,182,2020-12-26,a-tale-of-golden-keys.jpg,A Tale of Golden Keys,The Only Thing That’s Real,Listenrecords,"When I hear indie pop as carefully crafted as this, with luminous chord changes and impeccable diction, I immediately suspect a Dutch or German origin… these cats are from Nuremberg.","Peter Bjorn and John, Certain Animals, Metal Molly","October 30, 2020",1,Gin Tonic State of Mind,Dissonance and harmony
+2020-S,0,,,,,,,,,5,Hostility,Sparse and ticking
+2020-S,0,,,,,,,,,9,No Endodontic Treatment,Not what I want to hear now
+2020-S,203,2020-12-23,vulfpeck.jpg,Vulfpeck,"The Joy of Music, The Job of Real Estate",Vulf,"Part holiday album, part jazz funk excursion, all Vulfpeck, this collection can be a bit haphazard but in the end has something for everyone and can be used to put your home in a festive mood year-round.","Fearless Flyers, Greyboy Allstars, All That!","October 23, 2020",2,3 on E (feat. Antwaun Stanley),No transcription necessary
+2020-S,0,,,,,,,,,4,Radio Shack,Sesame Street party
+2020-S,0,,,,,,,,,6,Poinciana,Warbling synthoid Xmas
+2020-S,188,2020-11-14,wagon-christ.jpg,Wagon Christ,Recepticon,People of Rhythm,"Some people will slice and dice their way to a hostile disjointed soundscape filled with vague unease, but Wagon Christ’s approach yields something sunnier and wholesome, like fruit salad.","Negativland, Tipsy, Yello","October 24, 2020",7,Special Designer Song,Who samples Negativland?
+2020-S,0,,,,,,,,,9,"Same Ol', Same Ol' Recording",I disagree
+2020-S,199,2020-12-28,woods.jpg,Woods,Strange To Explain,Woodsist,"If this band were actual woods, they would be filled with fog swirling in sunlight, sparkling yet tenebrous, a distant falsetto clearly audible inside your ear as the leaves are chiming in the light.","Fleet Foxes, Elf Power, Blitzen Trapper","May 22, 2020",1,Next to You and the Sea,A siren song
+2020-S,0,,,,,,,,,4,Can't Get Out,Big forward motion
+2020-S,0,,,,,,,,,5,Strange to Explain,Dappled forest music
+2020-S,0,,,,,,,,,8,Fell so Hard,The clock is ticking
+2020-S,185,2020-12-24,young-fresh-fellows.jpg,Young Fresh Fellows,Toxic Youth,Yep Roc,"The boys are back, fresh as ever and resplendent in stereo as they churn more of their distinctive hot-rod music, guitar-bass-drum sounds suitable for the open road and a full throttle.","The Replacements, The Sonics, Fastbacks","November 20, 2020",3,Gear Summer,That was the summer that was
+2020-S,0,,,,,,,,,5,Black Boots,Sexy and stompy

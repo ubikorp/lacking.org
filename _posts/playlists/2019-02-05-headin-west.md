@@ -27,7 +27,7 @@ keywords: 2 Many DJs, A Big Yes And A Small No, Afro B, The Aislers Set, Anbessa
   The Dap-Kings, David Bowie, Eggs Over Easy, The Flamin&#39; Groovies, Graham Coxon,
   Graves, Great Grandpa, Head of Femur, Holly Golightly &amp; The Brokeoffs, Jeff
   Tweedy, The Jesus and Mary Chain, John Medeski + DJ Logic, Klark Kent, Lee Bains
-  III &amp; The Glory Fires, London Calling Of Chicago, Man or Astroman?, The Meters,
+  III + the Glory Fires, London Calling Of Chicago, Man or Astroman?, The Meters,
   Money Mark, Negativland, Pixies, Radio Futura, Seu Jorge, Sick Thoughts, Smoking
   Popes, Squirrel Nut Zippers, Swarming Branch, Tommy Guerrero, Unknown Mortal Orchestra,
   Vulfpeck, Ween, White Hassle

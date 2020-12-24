@@ -1,0 +1,25 @@
+---
+title: 'Downtown Boys :: Cost of Living'
+subtitle: Sub Pop &bull; released 2017-08-11
+category: details
+description: Aggressive, guitar-inflected punk, led by females unafraid to yell out
+  lyrics in Spanglish… either precisely your cup of tea or an aggravating experience,
+author: jclacking
+image:
+  src: details/2017/downtown-boys.jpg
+index: Cost of Living, Downtown Boys
+tags: ''
+keywords: Pixies, The Plugz, Bleached, Sub Pop
+---
+Aggressive, guitar-inflected punk, led by females unafraid to yell out lyrics in Spanglish… either precisely your cup of tea or an aggravating experience,<!--more-->
+
+**Related**: Pixies, The Plugz, Bleached
+
+## Highlights
+
+| | Song | Notes |
+|-+------+-------|
+| 3 | Somos Chulas (No Somos Pendejas) |  |
+| 5 | Because You |  |
+| 11 | Clara Rancia |  |
+
