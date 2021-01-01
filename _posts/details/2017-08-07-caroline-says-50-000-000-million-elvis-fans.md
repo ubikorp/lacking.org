@@ -20,6 +20,6 @@ A delicate and introspective set of self-recorded songs from an Alabama native t
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | My Fiance’s Pets |  |
-| 7 | Ghost Pokes |  |
+| 5 | My Fiance’s Pets | Gentle bossa |
+| 7 | Ghost Pokes | Jangle and shaker |
 

@@ -19,7 +19,7 @@ Aggressive, guitar-inflected punk, led by females unafraid to yell out lyrics in
 
 | | Song | Notes |
 |-+------+-------|
-| 3 | Somos Chulas (No Somos Pendejas) |  |
-| 5 | Because You |  |
-| 11 | Clara Rancia |  |
+| 3 | Somos Chulas (No Somos Pendejas) | US FCC Safe! |
+| 5 | Because You | Slow start |
+| 11 | Clara Rancia | Tribal Yelling |
 

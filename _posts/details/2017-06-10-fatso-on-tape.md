@@ -19,6 +19,6 @@ A nice set of New Orleans-style blue funk from this Colombian band on a German l
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Hello |  |
-| 8 | Movie Star |  |
+| 1 | Hello | Ambling into the picture, a proper introduction |
+| 8 | Movie Star | Slow, swinging mood |
 

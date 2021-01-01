@@ -20,7 +20,7 @@ About the only thing I could argue about here is the song selection, and that wo
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | My Favorite Things (Pt. 1) |  |
-| 4 | Giant Steps |  |
-| 7 | Naima |  |
+| 1 | My Favorite Things (Pt. 1) | Recognizable yet adventurous |
+| 4 | Giant Steps | Dissertations have been written about this composition |
+| 7 | Naima | Sparse and thoughtful |
 

@@ -20,8 +20,8 @@ At the extreme end of DIY is DEY — do everything yourself. It’s a unique sol
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | I’m Here For Now |  |
-| 5 | No Pepper for the Dustman |  |
-| 7 | Same Pattern |  |
-| 11 | Empty Kicks |  |
+| 1 | I’m Here For Now | Pulsing rocker |
+| 5 | No Pepper for the Dustman | Pink Floydesque |
+| 7 | Same Pattern | Synth throwback |
+| 11 | Empty Kicks | Beautifully sad |
 

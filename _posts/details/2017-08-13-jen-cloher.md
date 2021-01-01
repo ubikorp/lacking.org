@@ -20,8 +20,8 @@ Tight set of songs from Australian native Cloher, a key figure in the Melbourne 
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Forgot Myself |  |
-| 2 | Analysis Paralysis |  |
-| 8 | Great Australian Bite |  |
-| 9 | Loose Magic |  |
+| 1 | Forgot Myself | Chiming and splashy |
+| 2 | Analysis Paralysis | Lovely Velvet Underground groove |
+| 8 | Great Australian Bite | Slow burner |
+| 9 | Loose Magic | Loose and magical |
 

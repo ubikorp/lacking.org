@@ -20,7 +20,7 @@ Is it possible to overuse the word “swirly” when describing modern psychedel
 
 | | Song | Notes |
 |-+------+-------|
-| 2 | Dream Dream |  |
-| 4 | Hold Me Up |  |
-| 12 | Carry On |  |
+| 2 | Dream Dream | Easy groove with an angelic chorus |
+| 4 | Hold Me Up | A hefty dose of retro |
+| 12 | Carry On | “Come Together” revisited |
 

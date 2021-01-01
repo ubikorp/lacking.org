@@ -20,9 +20,9 @@ The name is jokey but the songs are seriously warped surf-style instrumentals wi
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Conquistador |  |
-| 2 | Neglect |  |
-| 4 | Mesa, AZ |  |
-| 7 | Blame Myself |  |
-| 9 | Video |  |
+| 1 | Conquistador | Classic surf |
+| 2 | Neglect | 50s freakout |
+| 4 | Mesa, AZ | Rowdy boogie |
+| 7 | Blame Myself | Slow burner |
+| 9 | Video | Like Man Man |
 

@@ -21,7 +21,7 @@ A tribute to Allen Touissant organized by Stanton Moore, who plays drums for Gal
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Here Come The Girls |  |
-| 3 | Java |  |
-| 6 | The Beat |  |
+| 1 | Here Come The Girls | featuring Cyril Neville |
+| 3 | Java | You may recognize this game show music |
+| 6 | The Beat | Spoken word with Cyril Neville |
 

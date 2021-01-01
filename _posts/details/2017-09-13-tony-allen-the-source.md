@@ -19,6 +19,6 @@ Always adaptable and never boring, Allen’s highlife drumming is unmistakable, 
 
 | | Song | Notes |
 |-+------+-------|
-| 9 | Push And Pull |  |
-| 11 | Life Is Beautiful |  |
+| 9 | Push And Pull | Tuba bass |
+| 11 | Life Is Beautiful | Trance inducing |
 

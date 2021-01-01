@@ -18,6 +18,6 @@ Lush pop with strange turns of melody and complicated hooks.<!--more-->
 
 | | Song | Notes |
 |-+------+-------|
-| 3 | Won’t Keep Me Up At Night |  |
-| 5 | Sunny Day Girls |  |
+| 3 | Won’t Keep Me Up At Night | Gentle and lilting |
+| 5 | Sunny Day Girls | Quiet start, AM radio hooks |
 

@@ -19,6 +19,6 @@ Reverb- and keyboard-drenched psychedelia fronted by urgent female vocals. Out o
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Meet Your Maker |  |
-| 5 | Cosmic Queen |  |
+| 1 | Meet Your Maker | Surf organ |
+| 5 | Cosmic Queen | Yowling and dramatic |
 

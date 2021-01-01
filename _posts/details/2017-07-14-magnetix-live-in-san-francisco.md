@@ -20,6 +20,6 @@ Noisy blunt riff punk from Bordeaux, France, via Oh Sees label Castleface Record
 
 | | Song | Notes |
 |-+------+-------|
-| 3 | Lawn Mowers Attack! |  |
-| 4 | Mort Clinique |  |
+| 3 | Lawn Mowers Attack! | Short and brutal |
+| 4 | Mort Clinique | Mid-tempo doom riffing |
 

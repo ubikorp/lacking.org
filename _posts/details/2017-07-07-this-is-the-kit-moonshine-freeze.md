@@ -20,9 +20,9 @@ Kate Stables is a one-woman tour-de-force, and this John Parrish production brin
 
 | | Song | Notes |
 |-+------+-------|
-| 2 | Hotter Colder |  |
-| 3 | Moonshine Freeze |  |
-| 7 | Riddled With Ticks |  |
-| 10 | By My Demon Eye |  |
-| 11 | Solid Grease |  |
+| 2 | Hotter Colder | Dropping beats and not caring a bit |
+| 3 | Moonshine Freeze | Introspective approaches to geometry |
+| 7 | Riddled With Ticks | Very pretty for being a song that features ticks |
+| 10 | By My Demon Eye | At its Jessca Hoopiest |
+| 11 | Solid Grease | Trilling vocals and an acoustic guitar |
 

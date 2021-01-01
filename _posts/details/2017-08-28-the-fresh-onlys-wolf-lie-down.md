@@ -20,7 +20,7 @@ Wildly varied compositions, ranging from driving fuzz with vocal harmonies to sp
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Wolf Lie Down |  |
-| 3 | Qualm of Innocence |  |
-| 7 | Becomings |  |
+| 1 | Wolf Lie Down | Fuzzed out bliss |
+| 3 | Qualm of Innocence | Very Elvis Costello |
+| 7 | Becomings | Twangy cowboy |
 

@@ -19,5 +19,5 @@ Synth-driven songs in a variety of moods, emboldened by a careful interplay of v
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Unusable Love |  |
+| 1 | Unusable Love | Sensual slowdance |
 

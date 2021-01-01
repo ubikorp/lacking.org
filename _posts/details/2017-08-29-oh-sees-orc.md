@@ -19,7 +19,7 @@ Relentless, pounding, and subtle beyond comprehension, these songs buzz by like 
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | The Static God |  |
-| 7 | Paranoise |  |
-| 10 | Raw Optics |  |
+| 1 | The Static God | Shards of noise |
+| 7 | Paranoise | Meditation echoes |
+| 10 | Raw Optics | Includes drum solo |
 

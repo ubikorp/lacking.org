@@ -18,7 +18,7 @@ Danish female-fronted trio with punishing riffage and dramatic vocals <!--more--
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | To Heaven And Back |  |
-| 2 | Transcendent |  |
-| 9 | Thank You |  |
+| 1 | To Heaven And Back | Haunting chorus harmony |
+| 2 | Transcendent | Grinding and wailing |
+| 9 | Thank You | You need punishment |
 

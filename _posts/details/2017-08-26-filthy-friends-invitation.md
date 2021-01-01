@@ -21,6 +21,6 @@ Supergroup featuring members from the Young Fresh Fellows, R.E.M., Sleater-Kinne
 
 | | Song | Notes |
 |-+------+-------|
-| 4 | Any Kind Of Crowd |  |
-| 7 | Come Back Shelley |  |
+| 4 | Any Kind Of Crowd | Very REM |
+| 7 | Come Back Shelley | Fun shuffle |
 

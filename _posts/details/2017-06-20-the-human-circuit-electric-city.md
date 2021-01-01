@@ -19,6 +19,6 @@ Meticulously-crafted arrangements highlighted by male-female harmonies, occasion
 
 | | Song | Notes |
 |-+------+-------|
-| 5 | How It Used To Be |  |
-| 9 | Aspire For Hire |  |
+| 5 | How It Used To Be | Off-kilter waltz, nice harmonies |
+| 9 | Aspire For Hire | Slower, suspenseful chords |
 

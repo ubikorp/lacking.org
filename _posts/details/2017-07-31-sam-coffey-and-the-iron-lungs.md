@@ -19,6 +19,6 @@ Dinosaur rock is alive and well here, and Coffey + Co deliver some great stuff t
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Talk 2 Her |  |
-| 2 | Tough |  |
+| 1 | Talk 2 Her | Bar burner |
+| 2 | Tough | Totally Thin Lizzy |
 

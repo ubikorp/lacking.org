@@ -19,7 +19,7 @@ Anthemic songs filled with dramatic dynamics and playing that ranges between thu
 
 | | Song | Notes |
 |-+------+-------|
-| 2 | Violet |  |
-| 7 | Airplane |  |
-| 11 | Will You Please Be Quiet Please? |  |
+| 2 | Violet | Very dramatic |
+| 7 | Airplane | Slow dissonance |
+| 11 | Will You Please Be Quiet Please? | Big and sad |
 

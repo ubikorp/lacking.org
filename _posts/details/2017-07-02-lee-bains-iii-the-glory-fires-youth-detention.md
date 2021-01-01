@@ -20,7 +20,7 @@ Alabama native Lee Bains III and three other guys recorded these 17 anthems of s
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Breaking It Down! |  |
-| 8 | Crooked Letters |  |
-| 9 | I Can Change! |  |
+| 1 | Breaking It Down! | Slow start, wait for the rockin’ |
+| 8 | Crooked Letters | Darn strange kid chorus |
+| 9 | I Can Change! | “We have nothing to lose but our chains” |
 

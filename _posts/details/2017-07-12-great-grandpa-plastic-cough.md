@@ -19,9 +19,9 @@ Female-fronted alt-rock with sparkly pop sensibilities that sounds straight out 
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Teen Challenge |  |
-| 2 | Favorite Show |  |
-| 3 | NO |  |
-| 5 | All Things Must Behave / Eternal Friend |  |
-| 6 | Expert Eraser |  |
+| 1 | Teen Challenge | Very Weezer |
+| 2 | Favorite Show | Off-kilter beat |
+| 3 | NO | Fast and whooping |
+| 5 | All Things Must Behave / Eternal Friend | Almost pastoral |
+| 6 | Expert Eraser | Epic walls of Noise |
 

@@ -20,7 +20,7 @@ A bold performance from Katie Crutchfield, who bares her heart and rips her chor
 
 | | Song | Notes |
 |-+------+-------|
-| 2 | 8 Ball |  |
-| 6 | Brass Beam |  |
-| 10 | Fade |  |
+| 2 | 8 Ball | Low and entrancing |
+| 6 | Brass Beam | Solid mid-tempo rocker |
+| 10 | Fade | A perfect closing lullaby |
 

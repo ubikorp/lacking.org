@@ -19,7 +19,7 @@ Moody, semi-whispered low vocals and reverb-drenched guitar twang make for some 
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | The Dream |  |
-| 2 | When I Tried |  |
-| 5 | Good Sport |  |
+| 1 | The Dream | Like Mazzy Star |
+| 2 | When I Tried | Very ‘90s |
+| 5 | Good Sport | Sparse guitar |
 

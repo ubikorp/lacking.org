@@ -20,7 +20,7 @@ It’s all in the name… fast and fuzzy blow-up-in-your-face pop punk. With an 
 
 | | Song | Notes |
 |-+------+-------|
-| 6 | No Hugging, No Learning |  |
-| 10 | Alien Motion Technology |  |
-| 11 | Hat Nerd |  |
+| 6 | No Hugging, No Learning | Chugging along Ramones-style |
+| 10 | Alien Motion Technology | Breakneck pace, induces dance spasms |
+| 11 | Hat Nerd | A happy theme for the hat-wearer in your life |
 

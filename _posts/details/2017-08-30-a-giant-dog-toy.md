@@ -18,10 +18,10 @@ Good collection of power pop, with male / female / duet vocals.<!--more-->
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Get Away |  |
-| 2 | Fake Plastic Trees |  |
-| 6 | Photograph |  |
-| 8 | Angst In My Pants |  |
-| 9 | Tounge Tied |  |
-| 12 | Night Terror |  |
+| 1 | Get Away | Woozy churning |
+| 2 | Fake Plastic Trees | FCC! Too bad. Not the Radiohead song. |
+| 6 | Photograph | Doowop fuzz ride |
+| 8 | Angst In My Pants | Sparks cover |
+| 9 | Tounge Tied | Sounds like X |
+| 12 | Night Terror | Haunting jangle |
 

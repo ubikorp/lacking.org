@@ -19,6 +19,6 @@ Aggressive sounds from Canadia. Driving rock anthems with well-defined melodies,
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | R.I.P. |  |
-| 8 | Boxing Days |  |
+| 1 | R.I.P. | Don’t stop the car |
+| 8 | Boxing Days | Slower chimes |
 

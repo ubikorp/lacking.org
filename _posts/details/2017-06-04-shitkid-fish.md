@@ -21,7 +21,7 @@ Bratty bedroom fuzz from an out there Swedish woman, this rocks in a raw way, li
 
 | | Song | Notes |
 |-+------+-------|
-| 1 | Never Seen a Girl Like Me |  |
-| 2 | Sugar Town |  |
-| 4 | Two Motorbikes |  |
+| 1 | Never Seen a Girl Like Me | Desolate solo vocals |
+| 2 | Sugar Town | Bad attitude as song |
+| 4 | Two Motorbikes | Distorted hooks |
 
