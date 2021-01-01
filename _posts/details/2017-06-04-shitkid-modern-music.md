@@ -1,5 +1,5 @@
 ---
-title: 'Shitkid :: Fish'
+title: 'Shitkid :: Modern Music'
 subtitle: PNKSLM &bull; released 2017-06-02
 category: details
 description: Bratty bedroom fuzz from an out there Swedish woman, this rocks in a
@@ -9,7 +9,7 @@ description: Bratty bedroom fuzz from an out there Swedish woman, this rocks in 
 author: jclacking
 image:
   src: details/2017/shitkid.jpg
-index: Fish, Shitkid
+index: Modern Music, Shitkid
 tags: ''
 keywords: Brassy, Tiny Masters of Today, Solex, White Stripes, PNKSLM
 ---
