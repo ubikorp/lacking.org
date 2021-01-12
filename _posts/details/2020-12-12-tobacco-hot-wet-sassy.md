@@ -10,11 +10,11 @@ image:
   src: details/2020/tobacco.jpg
 index: Hot Wet + Sassy, Tobacco
 tags: ''
-keywords: STRFKR, Jagwar Ma, Filter, Ghostly International
+keywords: Black Moth Super Rainbow, STRFKR, Jagwar Ma, Filter, Ghostly International
 ---
 Electronic music seems to trend towards extremes of ambience, rhythm, or noise, but there is a place of balance where textures and beats combine aggressively into what can only be called a rock barrage.<!--more-->
 
-**Related**: STRFKR, Jagwar Ma, Filter
+**Related**: Black Moth Super Rainbow, STRFKR, Jagwar Ma, Filter
 
 ## Highlights
 
