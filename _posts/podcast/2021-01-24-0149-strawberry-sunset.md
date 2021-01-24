@@ -10,6 +10,9 @@ description: When your arrangements are razor-sharp, your moods mercurial and ps
 author: jclacking
 airdate: '2021-01-24'
 playlist: 2021-01-24-0149-strawberry-sunset
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fpntls7-149-strawberry-sunset%2F&hide_artwork=1&hide_cover=1&light=1"
+  frameborder="0"></iframe>'
+media_type: mixcloud
 image:
   src: podcast/0149-certain-animals.jpg
   caption: Certain Animals
