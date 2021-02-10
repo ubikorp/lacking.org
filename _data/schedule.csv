@@ -1,7 +1,8 @@
 date,location,start_time,end_time,time_zone,notes,future
+2021-03-23,kafm,9pm,12m,MDT,,x
 2021-03-09,mixcloud,9pm,11pm,MDT,,x
-2021-02-23,kafm,9pm,12m,MDT,Tentative,x
-2021-02-09,mixcloud,9pm,11pm,MDT,,x
+2021-02-23,kafm,9pm,12m,MDT,,x
+2021-02-09,mixcloud,9pm,11pm,MDT,,
 2021-01-26,kafm,9pm,12m,MDT,,
 2021-01-12,mixcloud,9pm,11pm,MDT,,
 2020-12-29,kafm,9pm,12m,MDT,,
