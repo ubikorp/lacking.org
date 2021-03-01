@@ -23,7 +23,7 @@ tags: rentals 2nd-grade mariachi-el-bronx oranges-band myrrors tracker beck baby
 keywords: 2nd Grade, A Giant Dog, Babylon Timewarp, Beck, Black Lips, Cable Ties,
   The Chats, Deerhunter, Devendra Banhart, Donkey, Graham Coxon, The Greyboy Allstars,
   Jeff Rosenstock, King Tuff feat. Gap Dream, Les Wampas, Marble Party, Mariachi El
-  Bronx, Melvins &amp; Shitkid, Mind Sirens, Mo Kenney, The Myrrors, The Oranges Band,
+  Bronx, Melvins + Shitkid, Mind Sirens, Mo Kenney, The Myrrors, The Oranges Band,
   The Rentals, The Scofflaws, Starcrawler, Ted Leo + The Pharmacists, Tracker, The
   Vaccines, Youth + Jah Wobble
 ---

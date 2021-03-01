@@ -30,9 +30,9 @@ keywords: Architecture In Helsinki, Arto Lindsay, Atomic 7, Baby Shakes, Belle &
   Sebastian, Best Coast, Black Lips, The Blue Rags, Born Ruffians, Caribou, Cheo,
   Cornershop, Courtney Barnett, David Bowie, Feist, The Frights, G. Love &amp; Special
   Sauce, Great Grandpa, Greg Dulli, The Growlers, Habibi, Ida Maria, Isobel Campbell,
-  The Jon Spencer Blues Explosion, Kruder &amp; Dorfmeister, Mad Professor, Gaudi,
-  Macka B, Margaret Glaspy, Mojo Nixon, The Mountain Goats, Olivia Jean, Peter Bjorn
-  and John, The Postal Service, Professor Elemental, Queen, Shopping, The Sugar Oaks,
+  The Jon Spencer Blues Explosion, Kruder + Dorfmeister, Mad Professor, Gaudi, Macka
+  B, Margaret Glaspy, Mojo Nixon, The Mountain Goats, Olivia Jean, Peter Bjorn and
+  John, The Postal Service, Professor Elemental, Queen, Shopping, The Sugar Oaks,
   Superdrag, Tennis, This Is The Kit, Ty Segall, Waax, Waxahatchee, The Wood Brothers,
   Zach Uncles
 ---

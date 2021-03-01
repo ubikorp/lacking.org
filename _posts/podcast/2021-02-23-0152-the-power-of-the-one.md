@@ -7,8 +7,8 @@ episode: '0152'
 description: You can say that bedrock funk bassist Bootsy Collins is The One, and
   you would be right on so many levels.
 author: jclacking
-airdate: '2021-02-16'
-playlist: 2021-02-16-0152-the-power-of-the-one
+airdate: '2021-02-23'
+playlist: 2021-02-23-0152-the-power-of-the-one
 media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fsmjyjt-152-the-power-of-the-one%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud

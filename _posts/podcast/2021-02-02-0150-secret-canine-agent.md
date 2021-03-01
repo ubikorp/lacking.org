@@ -24,8 +24,8 @@ tags: viagra-boys andre-williams crocodiles certain-animals drive-by-truckers la
 keywords: A Big Yes And A Small No, Andre Williams, Boh Runga, Certain Animals, Com
   Truise, Crocodiles, Death Valley Girls, DJ Dolores, Dr. Dog, Drive-By Truckers,
   Fastball, Fort Lauderdale, illuminati hotties, Jeff Tweedy, Jennyanykind, The Kinks,
-  Kruder &amp; Dorfmeister, Lavender Diamond, The Lemon Twigs, Les idiots, Lunchbox,
-  The Nude Party, Quasi, Rob Crow, Robyn Hitchcock, Stereo Total, The Stillmen, TLO,
-  Viagra Boys, The Wedding Present, The Z Kamp Express
+  Kruder + Dorfmeister, Lavender Diamond, The Lemon Twigs, Les idiots, Lunchbox, The
+  Nude Party, Quasi, Rob Crow, Robyn Hitchcock, Stereo Total, The Stillmen, TLO, Viagra
+  Boys, The Wedding Present, The Z Kamp Express
 ---
 Viagra Boys don’t care what you think… there’s plenty of room for a saxophone and John Prine covers in the backseat of a 21st century punk band. 

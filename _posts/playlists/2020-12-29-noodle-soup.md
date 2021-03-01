@@ -30,10 +30,10 @@ keywords: A Tale of Golden Keys, The Afghan Whigs, Asian Dub Foundation, Bad Bad
   The Bobby Lees, Boom Pam, Bootsy Collins, Born Ruffians, Com Truise, Daniel Johnston,
   DJ Dolores, Drive-By Truckers, Elvis Costello, Free Radicals, The Growlers, Handsome
   Boy Modeling School, illuminati hotties, Jeepster, Jeff Tweedy, Jennyanykind, The
-  Kinks, Kruder &amp; Dorfmeister, La Francachela, The Last, Lavender Diamond, Le
-  Hammond Inferno, Les idiots, Lunchbox, Mano Negra, The Mountain Goats, Naked Giants,
-  Niños Con Bombas, Oh Sees, The Paranoyds, Pomplamoose, The Rave-Ups, Robbie Fulks,
-  Robyn Hitchcock, The Solace Bros., The Squirrels, Star Feminine Band, Still Flyin&#39;,
+  Kinks, Kruder + Dorfmeister, La Francachela, The Last, Lavender Diamond, Le Hammond
+  Inferno, Les idiots, Lunchbox, Mano Negra, The Mountain Goats, Naked Giants, Niños
+  Con Bombas, Oh Sees, The Paranoyds, Pomplamoose, The Rave-Ups, Robbie Fulks, Robyn
+  Hitchcock, The Solace Bros., The Squirrels, Star Feminine Band, Still Flyin&#39;,
   True Love, Woods, The Wrens, Young Fresh Fellows
 ---
 The journey to the island had been placid, cutting through the postcard-blue waters on the kite hydrofoil like an experienced tailor shearing fine cloth for a new suit. Things were a bit more complicated now that they were at the Heraklion Archaeological Museum. The horologist consulted the mission notes, which simply stated “remove all anachronistic displays.” The historian, fearing seasickness, had taken a pill and was now having a comically adverse reaction that rendered them useless for these judgements. A security guard eyed them warily, but perhaps they could turn the situation to their advantage by playing up the effects as excessive inebriation.
