@@ -1,6 +1,6 @@
 ---
 title:       The Lacking Details
-subtitle:    A weekly compedium of random audible artifacts that are considered quite good.
+subtitle:    A weekly compendium of random audible artifacts that are considered quite good.
 description: >
              Gather the family around the computer screen and prepare to be entertained for hours
              by the reliable delivery of an Electronic Missive, every seven days!

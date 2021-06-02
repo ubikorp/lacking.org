@@ -2,7 +2,7 @@
 
 <div class="next-airdate">
   <a href="{% link pages/radio_activity.md %}">
-    <p class="airdate">Next airdate: {{ next_airdate['date'] | date: "%b %-d, %Y" }}, {{ next_airdate['start_time'] }} - {{ next_airdate['end_time'] }} {{ next_airdate['time_zone'] }}</p>
+    <p class="airdate">Next airdate:<br/>{{ next_airdate['date'] | date: "%b %-d, %Y" }}, {{ next_airdate['start_time'] }} - {{ next_airdate['end_time'] }} {{ next_airdate['time_zone'] }}</p>
   </a>
   {% if next_airdate['location'] == 'kafm' %}
     <p class="location"><a href="https://www.kafmradio.org" target="_blank">KAFM Grand Junction 88.1 FM</a></p>
