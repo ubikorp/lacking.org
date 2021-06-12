@@ -12,7 +12,7 @@
       </a>
       {% endif %}
   <p>{{ category_data.description }}</p>
-  {% unless category_name == 'home' %}
+  {% unless category_name == 'home' or category_name == 'newsletter' %}
     Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
   {% endunless %}
 </li>

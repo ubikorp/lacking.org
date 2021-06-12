@@ -5,10 +5,10 @@ home:
   background:  site/banners/home_bg.jpg
   icon:        site/banners/home_icon.png
   social:      site/banners/home_social.jpg
-details:
+newsletter:
   title:       The&nbsp;Lacking Details
   tagline:     Recently&nbsp;played&nbsp;and favorite&nbsp;albums
-  description: Brief and useful reviews and highlights for recent and favorite albums. Free video included!
+  description: A weekly email missive with brief and useful reviews and highlights of recent and upcoming Lacking Activity. Free video included!
   background:  site/banners/details_bg.jpg
   icon:        site/banners/details_icon.png
   social:      site/banners/details_social.jpg
