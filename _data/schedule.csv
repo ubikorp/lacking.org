@@ -1,7 +1,10 @@
 date,location,start_time,end_time,time_zone,notes,future
+2021-08-03,kafm,9pm,12m,MDT,,x
+2021-07-27,OUT OF TOWN,,,,,,x
+2021-07-20,OUT OF TOWN,,,,,,x
 2021-07-13,mixcloud,9pm,10pm,MDT,,x
 2021-07-06,kafm,9pm,12m,MDT,,x
-2021-06-29,mixcloud,9pm,10pm,MDT,,x
+2021-06-29,mixcloud,9pm,10pm,MDT,,
 2021-06-22,kafm,9pm,12m,MDT,,
 2021-06-15,mixcloud,9pm,10pm,MDT,,
 2021-06-08,kafm,9pm,12m,MDT,,
