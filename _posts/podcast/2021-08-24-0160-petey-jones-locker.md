@@ -10,7 +10,7 @@ description: The Ghoulies from Perth, Australia look like regular blokes caught 
 author: jclacking
 airdate: '2021-08-24'
 playlist: 2021-08-24-0160-petey-jones-locker
-media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F2xqjhd-160-petey-jones-locker&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F2xqjhd-160-petey-jones-locker%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud
 image:
