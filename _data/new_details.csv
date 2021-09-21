@@ -1,88 +1,146 @@
-batch,chars,published,cover,artist,album,label,review,sounds_like,release_date,track_seq,track_name,track_description
-2020-M,237,,bananagun.jpg,Bananagun,The True Story of Bananagun,Full Time Hobby,"Something’s in the water Down Under; there’s a veritable rainbow of guitar-forward fuzziness emanating from the land, and Bananagun is the kind that has a loose-limbed ability to pivot from genuine ‘60s jingleisms into full-out afrobeat.","Babe Rainbow, Pond, Swarming Branch","June 26, 2020",1,Bang Go The Bongos,Let the party begin!
-2020-M,0,,,,,,,,,3,People Talk Too Much,A real afrobeating
-2020-M,0,,,,,,,,,7,She Now,Good use of a cuica
-2020-M,0,,,,,,,,,9,Mushroom Bomb,Blowing right up
-2020-M,0,,,,,,,,,10,Modern Day Problems,Discoball lament
-2020-M,219,2020-10-06,billy-martin.jpg,Billy Martin,G U I L T Y,Amulet,"Billy Martin’s drumming makes me think of oxymorons like “precisely sloppy” and “intensely casual” and “red hot chill out”. This album lives within a zone that’s hazily bounded by funk, jazz, and electronic dance music.","Tommy Guerrero, Money Mark, Stewart Copeland","July 7, 2020",1,In Doubley,Is that a Spinal Tap reference?
-2020-M,0,,,,,,,,,4,Thieves,So very loose
-2020-M,216,,greyboy-allstars.jpg,The Greyboy Allstars,Como De Allstars,Knowledge Room,"Sunny, loose-limbed, and grinning from ear to ear, this collection of infectious and sometimes intricate funk sounds like the songs that play in your head as your foot touches the sidewalk on the first day of spring.","Galactic, The New Mastersounds, Vulfpeck","July 3, 2020",1,Como De Allstars,Latin heat
-2020-M,0,,,,,,,,,2,The Skipper,Ahoy there
-2020-M,0,,,,,,,,,4,Executive Party,Boogaloo time
-2020-M,0,,,,,,,,,5,Warm Brass,A jammy fable
-2020-M,0,,,,,,,,,8,Les Imperials,All is smooth in the neighborhood
-2020-M,220,,khruangbin.jpg,Khruangbin,Mordechai,Dead Oceans,"The Texas trio returns with their very specific blend of surf, psychedelia, and exotic spice, but this time around they’ve dropped the “instrumental” part by adding gloriously subdued vocalizations to some of the tracks.","Dengue Fever, Tom Tom Club, La Luz","June 26, 2020",2,Time (You and I),Tom Tom Club time
-2020-M,0,,,,,,,,,6,Pelota,Playing ball
-2020-M,0,,,,,,,,,9,So We Won't Forget,Subtle shimmers
-2020-M,148,,melvins-shitkid.jpg,Melvins + Shitkid,Bangers,Amphetamine Reptile,A collaboration of bad attitudes. The Melvins are the more disciplined of the two here but everyone’s affinity for big surly rock is running at 150%,"The Melvins, Shitkid, Bully","July 14, 2019",4,Tattooed Love Boys,Sloppy and proud
-2020-M,185,,mikal-cronin.jpg,Mikal Cronin,Switched-On Seeker,Merge,"A fully synthesized version of Cronin’s previous album, this retake offers the same moody melodies as “Seeker”, this time filled to the brim with the warble and saw of old-tyme synthes.","Self, The Moog Cookbook, Magnetic Fields","June 30, 2020",2,Show Me (Switched On),Slow burner
-2020-M,0,,,,,,,,,6,I’ve Got Reason (Switched On),Grandiose oscillations
-2020-M,169,,paint.jpg,Paint,Spiritual Vegas,Mexican Summer,"When you make pop psychedelia with an exotic yet indeterminate element, you end up with the musical soundtrack to a children’s television show from an alternate reality.","Alla Lahs, Chicano Batman, Elf Power","July 10, 2020",4,Lanolin,Wandering lamb
-2020-M,0,,,,,,,,,5,Flying Fox,Instrumental levitation
-2020-M,0,,,,,,,,,6,Ta Fardah,Til tomorrow
-2020-M,0,,,,,,,,,9,Land Man,Related to the Ocean Man
-2020-M,194,,pretenders.jpg,Pretenders,Hate For Sale,BMG,"If you wanted some watered-down drinks type of songs because Hynde now qualifies for an AARP membership, you should probably look elsewhere, because this is true-to-form confessional gritty rock","Chrissy Hynde, Starcrawler, X","July 17, 2020",2,The Buzz,Kid all over again
-2020-M,0,,,,,,,,,7,Maybe Love Is in NYC,"Unlikely, but anything can happen!"
-2020-M,0,,,,,,,,,8,Junkie Walk,No punches pulled
-2020-M,0,,,,,,,,,9,Didn't Want to Be This Lonely,"Fairly upbeat, considering"
-2020-R,230,2021-01-28,mad-professor.jpg,Mad Professor,40 Years of Dub,Ariwa,"One of the kingpins of dub easily proves his worth on this retrospective covering the first four decades of UK producer Mad Professor and his deep undulating grooves, universal sounds that are neither fresh nor dated, but eternal.","Lee “Scratch” Perry, Massive Attack, the KLF","October 16, 2020",2,Immigration Plan,Featuring Ranking Ann
-2020-R,0,,,,,,,,,3,John Peel Dub,Clearly labeled origin
-2020-R,0,,,,,,,,,11,Soft Drugs,Everybody needs them
-2020-R,190,2021-01-30,north-americans.jpg,North Americans,Roped In,Third Man,"Subtle expressions of singing strings from a guitar and pedal steel, mixed with ambient sounds and other sources to make the soundtrack for the most intense relaxation you’ve had in a while.","Calexico, Brian Eno, Japancakes","October 9, 2020",3,Furniture In The Valley,Gorgeous video
-2020-R,0,,,,,,,,,4,American Dipper,Flitting through the branches
-2020-R,0,,,,,,,,,6,Run Down,Strumming mantra
-2020-R,0,,,,,,,,,8,Greetings From A Distant Friend,Comfortable pauses
-2020-T,170,,bad-bad-meow.jpg,Bad Bad Meow,Rick Rubin and Steve Albini Had Nothing To Do With This Record,Bad Bad Bad,Weird manic indie funk-verging-on-pop with a weird manic sense of humor and they’re not afraid to throw in a horn section here and there to bolster their hooks and riffs.,"The Format, We Wrote The Book On Connectors, Man Man","November 18, 2020",2,Tom Young Of Radioface,I think it’s on purpose
-2020-T,0,,,,,,,,,4,Don’t Set Yourself (on Fire),Inexplicable parentheses
-2020-T,0,,,,,,,,,8,"Women, Smoking, And Cats (Full Band Final Version)",Swaggering good time
-2020-T,154,,born-ruffians-squeeze.jpg,Born Ruffians,SQUEEZE,Yep Roc,"The second release in less than a year from this outfit continues along the same path, which is to say meticulously crafted indie guitar mini-symphonies. ","Sloane, Cage The Elephant, Garageland","October 2, 2020",2,30th Century War,Future conflicts are messy
-2020-T,0,,,,,,,,,5,Sinking Ships,Distress call
-2020-T,0,,,,,,,,,8,Noodle Soup,Lush harmonies and comfort food
-2020-T,202,,cory-wong.jpg,Cory Wong,The Striped Album,Roundwound Media,"The celebrated funk guitarist releases this collection of R&B and/or big-band inflected compositions, featuring some notable guest stars, but it’s all just wrapping paper on a big cinderblock of groove.","Vulfpeck, Prince, Joe Satriani","October 23, 2020",1,Design,Kimbra hotting it up
-2020-T,0,,,,,,,,,5,Smooth Move,Steady as she goes
-2020-T,0,,,,,,,,,8,Massive,Big bag of Satch
-2020-T,188,,crocodiles.jpg,Crocodiles,Shitty Times Volume 3,,"This is the third release in a series of benefit cassette (and digital) releases, all featuring covers of music that is sometimes brazenly obscure, and this one is my favorite of the lot. ","The Ramones, Love, Alaska y Dinarama","November 13, 2020",1,Decisions,Pump and thump
-2020-T,0,,,,,,,,,4,My Flash On You,Loving the love
-2020-T,227,,ghost-funk-orchestra-ode.jpg,Ghost Funk Orchestra,An Ode To Escapism,Karma Chief,"Visiting exotic destinations has become an armchair pastime lately, and if you need a soundtrack for your virtual excursions to places far and strange, this futuristic mix of global beats and funk grooves is surely your ticket.","Antibalas Afrobeat Orchestra, Budos Band, Goat","November 13, 2020",3,Little Bird,Loping in 5
-2020-T,0,,,,,,,,,8,Quiet Soul,Night flight
-2020-T,0,,,,,,,,,12,Queen Bee,Royal jelly
-2020-T,221,2021-02-01,grandaddy.jpg,Grandaddy,The Sophtware Slump ..... on a wooden piano,Dangerbird,"Twenty years ago, Grandaddy’s banged-up future was wrapped up in heavy production… now that has been stripped out, leaving only Jason Lytle, his songs, his piano, and his characteristic keening on inevitable observations.","Neil Young, The Mountain Goats, Ben Folds","November 20, 2020",10,Miner At The Dial-a-View,"Sad, sad miner"
-2020-T,165,,jah-wobble.jpg,Jah Wobble,Nocturne in the City (Ambient Jazz Grooves),,Among the lockdown detritus of 2020 is this gem showing the introspective jazzy musings of one of the most important dub and post-punk bassists of the last 40 years.,"Barry Adamson, Ui, John Zorn","November 6, 2020",3,A Walk in the Park,Very quite literal
-2020-T,249,,kruder-and-dorfmeister.jpg,Kruder + Dorfmeister,1995,RECORDJET,"I can’t tell if having a name that sounds like something SNL cooked up for a sketch about a pair of Austrian DJs is good or bad for this pair of Austrian DJs. These soulful electronic compositions unearthed from the last century are no joke, though.","The Orb, DJ Kicks, Ninja Tune","November 13, 2020",6,King Size,Suave clave
-2020-T,0,,,,,,,,,7,Holmes,Crossing the sunny boulevard
-2020-T,0,,,,,,,,,12,Ambiente,Moody moody times
-2020-T,0,,,,,,,,,13,One Break,Epic proportions
-2020-T,192,,the-last.jpg,The Last,Look Again,House Arrest,"With its Byrds-inpired jangle, harmonized “whoah-oh”s, and overflowing nervous energy, this could very well be an unearthed recording from the liminal era between “new wave” and “alternative”.","The Clash, Plimsouls, Sex Clark Five","November 20, 2020",1,Lies,Because the truth hurts
-2020-T,0,,,,,,,,,2,That's Just Life,Organ wailer
-2020-T,0,,,,,,,,,9,Everybody Had It with You,Recrimination at the State Fair
-2020-T,0,,,,,,,,,12,Look Again,A complete arc
-2020-T,237,,naked-giants.jpg,Naked Giants,The Shadow,New West,"Sometimes you just need a pounding beat and a shout-along chorus, and this is something Naked Giants truly excel at, throwing in plenty of inventive twists and turns to keep the whole thing from collapsing into a steaming pile of riffs. ","Poster Children, Moistboyz, French Kicks","August 21, 2020",1,Walk of Doom,Big rumble
-2020-T,0,,,,,,,,,2,High School (Don't Like Them),Holding a grudge
-2020-T,0,,,,,,,,,3,Take A Chance,Not ABBA
-2020-T,0,,,,,,,,,5,(God Damn!) What I Am,And proud of it
-2020-T,0,,,,,,,,,9,Better Not Waste My Time,Quite vitriolic
-2020-T,0,,,,,,,,,10,The Shadow,Sludge city
-2020-T,204,,negativland.jpg,Negativland,The World Will Decide,Seeland,"The Weatherman returns and takes prominence on this latest sound art foray, taking on the intersection of the surveillance apparatus and our insatiable need to have machines listening for our latest whim.","The Evolution Control Committee, Girltalk, The Residents","November 13, 2020",1,Unlawful Assembly,Immediately disperse
-2020-T,0,,,,,,,,,3,Before I Ask,They are listening
-2020-T,201,,paranoyds.jpg,The Paranoyds,Pet Cemetery,,"Spooky and unhinged, this single plods along with the menacing tone you might expect from the title. The flip side is more interesting, with call-and-response vocals, a bad attitude, and a woozy organ.","Dry Cleaning, Naked Giants, The Kiss-Offs","November 27, 2020",2,Hotel Celebrity,All the girls sing
-2020-U,143,,cut-worms.jpg,Cut Worms,Nobody Lives Here Anymore,Jagjaguar,"This is a heady mix of Tin Pan Alley melodies, lonesome cowboy delivery, and ornate arrangements fit for the most dramatic of the theater kids.","Okey Dokey, Buddy Holly, The Lemon Twigs","October 9, 2020",1,The Heat Is On,Hopalong rhythm
-2020-U,0,,,,,,,,,5,Every Once In A While,A comfortable pace
-2020-U,248,,joe-jack-talcum.jpg,Joe Jack Talcum,Joe Jack Talcum sings Railroad Bill and Other Songs,,"A sparse yet not simple outing for this member of the Dead Milkmen, including some truly folksy stuff like the title track and “Cool Water”, and surprisingly sophisticated original tracks delivered in the same man-and-his-acoustic guitar aesthetic.","The Dead Milkmen, Daniel Johnston, Woody Guthrie","September 11, 2020",4,Moonbeams Dance From Your Eyes Into Mine,Alternate reality Nick Drake
-2020-U,187,,pascal-comelade.jpg,Pascal Comelade,Le cut-up populaire,,"This collection of instrumentals is bewildering in its variety and intent, miniature symphonies with the tinkling plunk of a toy orchestra and a sharp whiff of sulfur from a struck match.","The Limiñanas, Barry Black, Pierre Bastien","October 30, 2020",14,Des rails en mou de veau,Hefti melodies
-2020-U,225,,paul-mccartney.jpg,Paul McCartney,McCartney III,,"Of course, when it’s Sir Paul doing the pandemic recording, it’s old hat to play all the instruments, this being his third such truly solo album. Like the others, it exists in the McCartney continuum of eternal rock and roll.","Robert Plant, T. Rex, Ben Folds","December 18, 2020",5,Lavatory Lil,Fuzzy Rexin’
-2020-U,196,,pomplamoose.jpg,Pomplamoose,Invisible People,,"The bewitching chanteuse and the mute production wizard is a pairing that has yielded consistently intriguing results through the ages, and these VideoSong pioneers are still leading today’s pack.","The Bird and the Bee, Portishead, Eurhythmics","October 22, 2020",4,Prioritise-moi,A French imperative
-2020-U,0,,,,,,,,,5,Stress Me Out,To the point of cussin’
-2020-U,0,,,,,,,,,7,Seven,Heavy regrets
-2020-U,0,,,,,,,,,8,Sleeping Without You,Mischievous bossa 
-2020-U,0,,,,,,,,,11,I Love You Always,Pillow talk instrumental
-2020-U,158,,robyn-hitchcock.jpg,Robyn Hitchcock,The Man Downstairs: Demos & Rarities,Tiny Ghost,"A variety of acoustic guitar performances from Hitchcock, of songs both original and by others, which results in a very contemplative sort of musical journey.","Nick Drake, Syd Barrett, Nick Lowe","August 7, 2020",1,All Love And No Peace,Restless campfire
-2020-U,0,,,,,,,,,2,River Man,Tribute to Drake
-2020-U,0,,,,,,,,,3,Arnold Layne,More love for Barrett
-2020-U,229,2021-02-05,scott-the-hoople.jpg,Scott The Hoople,NEIL Vol. 1,,"If you love Neil Young as much as Scott McCaughey does, you’ll be able to grin at yourself on recognizing each and every one of these deep, deep cuts, delivered in McCaughey’s enthusiastic yelp rather than Young’s grizzled whine.","Young Fresh Fellows, Neil Young, The Minus 5","November 6, 2020",1,Music Arcade,Down but not out
-2020-U,218,,star-feminine-band.jpg,Star Feminine Band,Star Feminine Band,Born Bad,"Pure unbridled joy bursts forth from the moment these young Beninese women begin doing their thing. Even if liquid song structures and single-voiced group singing aren’t normally your thing, you should give it a taste.","Fela Kuti, William Onyeabor, Le Mystère des Voix Bulgares","September 23, 2020",1,Peba,Chaos and joy
-2020-U,0,,,,,,,,,3,Femme africaine,Trilling guitars
-2021-A,147,2021-02-03,ascendants.jpg,Ascendants,Quarantine,,"This producer-songwriter duo invests electronic beats and heavily-textured arrangements with soaring vocals, sometimes wordless but always emotive.","Portishead, Laurie Anderson, The Bird and the Bee","December 18, 2020",1,Spirit 927,First class
-2021-A,0,,,,,,,,,8,Angry Girl,Don’t cross her
-2021-A,212,,lemon-twigs.jpg,The Lemon Twigs,Songs for the General Public,4AD,"Bombastic pop filled with lush arrangements, bizarre chord extensions, and unexpected harmonies aren’t everyone’s cup of kombucha, but those of us that have acquired the taste will drink this stuff by the gallon.","Todd Rundgren, Steely Dan, Meatloaf","August 21, 2020",2,Live in Favor of Tomorrow,Fast jangle
-2021-A,0,,,,,,,,,3,No One Holds You (Closer Than the One You Haven't Met),Piano stomper
-2021-A,0,,,,,,,,,7,The One,Flamboyant freshmaking
+batch,chars,cover,status,artist,album,label,review,sounds_like,release_date,link,track_seq,track_name,track_description,posted
+2020-H,195,born-ruffians-juice.jpeg,tracks,Born Ruffians,JUICE,Yep Roc,"Nailing the indie guitar sound is one thing, but Born Ruffians have become so adept at it that it’s more like lathering it in epoxy, then bolting it down, and adding some rivets for good measure.","Cage The Elephant, Spoon, Pixies","April 3, 2020",https://open.spotify.com/album/35WpCbOfkYtqgq9fcs0lLs?si=TAyMcqfuTOKmW5n7Tz-j1Q&dl_branch=1,2,Breathe,Born Ruffians,
+2020-H,0,,tracks,,,,,,,,3,Dedication,Born Ruffians,
+2020-H,0,,tracks,,,,,,,,4,The Poet [Can't Jam],Born Ruffians,
+2020-H,0,,tracks,,,,,,,,7,Squeaky,Born Ruffians,
+2020-F,188,cornershop.jpeg,tracks,Cornershop,England is a Garden,Ample Play,"Tjinder Singh’s easygoing voice and melodies, and penchant for carefree sunny grooves sits well at the center of this multicultural stew, where flute accents weave in and out of the loops.","Poi Dog Pondering, Belle and Sebastian, Babe Rainbow","November 26, 2019",https://open.spotify.com/album/6gHLOAoKYiuSjrZOFksGrQ?si=8WS3xrcPR9uxLoVk1LCTAQ&dl_branch=1,1,St Marie Under Canon,Tjinder Singh,
+2020-F,0,,tracks,,,,,,,,2,Slingshot,Tjinder Singh,
+2020-F,0,,tracks,,,,,,,,8,Cash Money,Tjinder Singh,
+2020-F,0,,tracks,,,,,,,,10,I'm A Wooden Soldier,Tjinder Singh,
+2020-H,188,mountain-goats.jpeg,tracks,The Mountain Goats,Songs for Pierre Chuvin,Merge,"No topic is too esoteric for John Darnielle to base an entire Mountain Goats album on, not even the persecution of pagans as a wave of Christianity moved through Europe in the middle ages.","Bob Dylan, Howe Gelb, Daniel Johnston","April 10, 2020",https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG?si=RslrXOVQT7ebH9ZPYyXF5Q&dl_branch=1,1,Aulon Raid,The Mountain Goats,
+2020-H,0,,tracks,,,,,,,,2,Until Olympius Returns,The Mountain Goats,
+2020-H,0,,tracks,,,,,,,,6,"January 31, 438",The Mountain Goats,
+2020-G,119,margaret-glaspy.jpeg,tracks,Margaret Glaspy,Devotion,ATO,"Glaspy’s voice is a broad crooked smile, unique in its shape and well-suited for this particular set of laconic jangle.","Cat Power, Waxahatchie, Hope Sandoval","March 27, 2020",https://open.spotify.com/album/6W5W9dSxDosi128pCjT5WD?si=o8_AUczgQQyaTesmHHrR8A&dl_branch=1,5,Stay With Me,Margaret Glaspy,
+2020-G,0,,tracks,,,,,,,,8,You Amaze Me,Margaret Glaspy,
+2020-G,215,olivia-jean.jpeg,tracks,Olivia Jean,Night Owl,Third Man,"Heavily influenced by surf music and pre-psychedelic jangle, this collection of songs show a lot of energy and musicality, with Jean’s nicely hyper-reverberated guitar sharing the spotlight with her hypnotic vocals.","The Insect Surfers, La Luz, Los Straitjackets","August 30, 2019",https://open.spotify.com/album/1GXzJea9SIMyWz6yds1rxI?autoplay=true,2,Night Owl,Olivia Jean,
+2020-G,0,,tracks,,,,,,,,3,Shut Your Mouth,Olivia Jean,
+2020-G,0,,tracks,,,,,,,,4,Brushfire,Olivia Jean,
+2020-G,0,,tracks,,,,,,,,8,The Hunt,Olivia Jean,
+2020-G,0,,tracks,,,,,,,,9,Jaan Pehechaan Ho,Olivia Jean,
+2020-G,0,,tracks,,,,,,,,11,Siren Call,Olivia Jean,
+2020-G,228,ty-seagall-smeagol.jpeg,tracks,Ty Segall,Segall Smeagol,,"Jealousy is an intense driving artistic force, and nowhere is this more evident than with the recent tradition of releasing a covers album. These selections from *Nilsson Schmilsson* show a good variety of styles and approaches.","Harry Nilsson, T. Rex, Hanni El Khatib","March 31, 2020",https://tysegall.bandcamp.com/album/segall-smeagol,1,Coconut,Ty Segall,
+2020-G,0,,tracks,,,,,,,,2,Gotta Get Up,Ty Segall,
+2020-G,0,,tracks,,,,,,,,4,Early in the Morning,Ty Segall,
+2020-I,188,melkbelly.jpeg,tracks,Melkbelly,PITH,Wax Nine,"Sultry, measured vocals are set off against an array of spiky arrangements and instrumental bursts, song parts constantly evolving and mutating, so that little finishes the way it started.","Breeders, The Muffs, Deerhoof","April 3, 2020",https://open.spotify.com/album/2zoXXpVhuTLr9LVxgRac9O?si=QempSmTETdmzTGAadPbSAA&dl_branch=1,1,THC,Melkbelly,
+2020-I,0,,tracks,,,,,,,,10,Take H20,Melkbelly,
+2021-D,216,deathray-davies.jpeg,tracks,The Deathray Davies,Time Well Wasted,,"The band is back after an extended hiatus, picking up where they left off, with low-key catchy tunes making up an album that slowly develops into an outstanding collection of propulsive melodies and infectious hooks.","Surfer Blood, Clifffs, Sloan","April 3, 2021",,2,Oh Stars,The Deathray Davies,X
+2021-D,0,,tracks,,,,,,,,4,Talking With Friends,The Deathray Davies,
+2021-D,0,,tracks,,,,,,,,5,Close Your Eyes and Floor It,The Deathray Davies,
+2021-D,0,,tracks,,,,,,,,6,Medicine Head,The Deathray Davies,
+2021-D,0,,tracks,,,,,,,,9,"Lucas, I'm in Room 39",The Deathray Davies,
+2021-D,0,,tracks,,,,,,,,11,They Took Your Brains Tonight,The Deathray Davies,
+2021-D,242,kid-congo-powers.jpeg,tracks,Kid Congo + the Pink Monkey Birds,Swing From The Sean Dealer,In The Red,"Looking for some wildman rockandroll? You need look no further than this four-song effort (one of which takes up more than half the album), featuring out-of-control guitar stunts, an implacable rhythm section, and a wonderfully unhinged vibe.","The Evaporators, The Gun Club, Ron Gallo","February 20, 2021",https://open.spotify.com/album/7bRabhMf37PVxYXhC2muDb?si=mKrPUwzKTamsuVpvM81owQ&dl_branch=1,1,Sean Delear,Kid Congo + the Pink Monkey Birds,X
+2021-D,0,,tracks,,,,,,,,2,"(Are You) Ready, Freddy?",Kid Congo + the Pink Monkey Birds,
+2021-D,244,mexican-institute-of-sound.jpeg,tracks,Mexican Institute of Sound,Distrito Federal,Nacional,"An all-too-short collaborative effort between Camilo Lara, the mind behind MIS, and a witches’ brew of guest appearances making for a selection of space-age cumbias and other sounds as brazenly colorful and exuberant as the city it’s named for.","Nortec Collective, Graham Coxon, Toy Selectah","February 5, 2021",,4,La Luna de Noviembre,Mexican Institute of Sound,X
+2021-D,0,,tracks,,,,,,,,6,My America Is Not Your America,Mexican Institute of Sound,
+2021-D,0,,tracks,,,,,,,,7,La Balada de la Aspirina,Mexican Institute of Sound,
+2021-D,0,,tracks,,,,,,,,8,Cruzando el Río,Mexican Institute of Sound,
+2021-D,0,,tracks,,,,,,,,9,Paloma,Mexican Institute of Sound,
+2021-D,0,,tracks,,,,,,,,10,The Lunatics,Mexican Institute of Sound,
+2021-D,244,tele-novella.jpeg,tracks,Tele Novella,Merlyn Belle,Kill Rock Stars,"This beguiling set of intricate songs could have come out of a Tin Pan Alley songbook, so calling them old-fashioned is somewhat incomplete. And like all the best fluffy shiny pop led by a heavenly female voice, it hides many razor-sharp barbs.","Jenny Toomey, Rilo Kiley, Pomplamoose","February 6, 2021",https://open.spotify.com/album/2biNQiTDfU3EB7iu73l3ZD?si=mUgdY2KETzC6uzZOMksmNA&dl_branch=1,1,Words That Stay,Tele Novella,X
+2021-D,0,,tracks,,,,,,,,2,It Won't Be Long,Tele Novella,
+2021-D,0,,tracks,,,,,,,,6,Paper Crown,Tele Novella,
+2021-D,0,,tracks,,,,,,,,10,Technicolor Town,Tele Novella,
+2021-D,230,tokyo-ska-paradise.jpeg,tracks,Tokyo Ska Paradise Orchestra,SKA=ALMIGHTY,Nacional,"The ska orchestra is a rare beast, astounding to behold. Absorbing and expressing a manic energy worthy of ska, big bands, and thrash metal, the TSPO enters its fourth decade still on the redline and with no signs of slowing down.","St. Petersburg Ska-Jazz Review, Babymetal, Skavoovie and the Epitones","March 3, 2021",https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C,2,9,Tokyo Ska Paradise Orchestra,X
+2021-E,237,asian-dub-foundation.jpeg,tracks,Asian Dub Foundation,Access Denied,,"Bands mashing together sounds from different musical traditions, usually throwing in some modern electronic affectation, can be hit or miss. Asian Dub Foundation has a long history of hitting it out of the park, and this is no exception.","Badawi, Budos Band, Ozomatli","September 18, 2020",,1,Can't Pay Won't Pay,Asian Dub Foundation,X
+2021-E,0,,tracks,,,,,,,,13,Frontline Santiago (feat. Ana Tijoux),Asian Dub Foundation,
+2021-E,246,el-michels-affair.jpg,tracks,El Michels Affair,Yeti Season,Big Crown,"They couldn’t figure out why they kept returning. At first, the hookah lounge was a noxious hangout, bearable only for the crushed-on bartender. Then, suspicion of nicotine addiction. Finally, the realization that it was the music on the jukebox.","Chicano Batman, Shantel, Budos Band","March 26, 2021",https://open.spotify.com/album/1XRAj74N3EDQ0suMb5qplS?si=j9RgCcLYQtKB-uknsLWHRA&dl_branch=1,1,Unathi (feat. Piya Malik),El Michels Affair,X
+2021-E,0,,tracks,,,,,,,,2,Sha Na Na (feat. The Shacks),El Michels Affair,
+2021-E,0,,tracks,,,,,,,,5,Murkit Gem (feat. Piya Malik),El Michels Affair,
+2021-E,0,,tracks,,,,,,,,10,Zaharila (feat. Piya Malik),El Michels Affair,
+2021-E,147,genghis-tron.jpg,tracks,Genghis Tron,Dream Weapon,Relapse,"Lush synthetic bitscapes, layered with drones, sweeps, short loops, and the ecstasy of robots make for a propulsive immersion into a world of flow.","Tangerine Dream, Django Django, The Anubian Lights","March 26, 2021",https://open.spotify.com/album/3ngwSRokoZYcPywWbpzVfi?si=ywFQGj9OS_G3Z3B9BlVHbg&dl_branch=1,2,Pyrocene,Genghis Tron,X
+2021-E,0,,tracks,,,,,,,,3,Dream Weapon,Genghis Tron,
+2021-E,0,,tracks,,,,,,,,5,Alone in the Heart of the Light,Genghis Tron,
+2021-E,247,ghost-of-vroom.jpeg,tracks,Ghost of Vroom,Ghost of Vroom 2 EP,Mod y Vi,"That loose groove on the drums, the casually menacing bass, and Mike Doughty’s stream-and-consciousness narration… there’s also no shortage of political commentary on these three songs, putting a bold face on topics most others approach obliquely.","Soul Coughing, Beck, Medeski Martin + Wood","September 25, 2020",,1,1918,Ghost of Vroom,X
+2021-E,0,,tracks,,,,,,,,3,Chief of Police,Ghost of Vroom,
+2021-E,228,mathus-bird.jpg,tracks,Jimbo Mathus & Andrew Bird,These 13,Thirty Tigers,"These two have always made for a dynamic pairing, a yin and yang of raw backwoods holler and big-city sophistication that together make for some of the most genuine American folk music to come out of your newfangled contraption.","Squirrel Nut Zippers, Asylum Street Spankers, Avett Brothers","March 5, 2021",https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh?si=_UkRykgyRMu-wiCnqx7mlA&dl_branch=1,1,Poor Lost Souls,Jimbo Mathus & Andrew Bird,X
+2021-E,0,,tracks,,,,,,,,3,Encircle My Love,Jimbo Mathus & Andrew Bird,
+2021-E,0,,tracks,,,,,,,,10,Dig up the Hatchet,Jimbo Mathus & Andrew Bird,
+2021-F,247,dry-cleaning.jpeg,tracks,Dry Cleaning,New Long Leg,4AD,"Trebled-out bass lines, disaffected vocals that could very well be reading from a dream journal, and a penchant for occasional dissonance are taking the forefront in this outing, refining their savage punk structures with a more stylized approach.","The Fall, Bongwater, Sonic Youth","April 2, 2021",https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz?si=XVDWLDI8QxKDtM8iSPJ4qg&dl_branch=1,1,Scratchcard Lanyard,Dry Cleaning,X
+2021-F,234,jeff-rosenstock.jpeg,tracks,Jeff Rosenstock,SKA DREAM,Quote Unquote,"You can love something so completely and sincerely that it becomes hard to tell whether you are mocking it. This is what Rosenstock does with third wave ska, with no detail, trope, or subgenre too small to escape notice and inclusion.","Weird Al Yankovic, Less Than Jake, Mephiskapheles","April 20, 2021",https://open.spotify.com/album/6RsPeJ23Ebx37Vdp0SmUQV,2,Airwalks (Alt),Jeff Rosenstock,X
+2021-F,0,,tracks,,,,,,,,4,S K A D R E A M,Jeff Rosenstock,
+2021-F,0,,tracks,,,,,,,,10,***SKA,Jeff Rosenstock,
+2021-F,224,josh-caterer.jpeg,tracks,Josh Caterer,The Hideout Sessions,Pravda,"Caterer was the unmistakable voice behind the Smoking Popes, and his post-Popes career has taken many interesting turns, something reflected in this collection of croony standards and revisited songs from his previous band. ","Smoking Popes, M. Ward, Jeff Buckley","March 26, 2021",https://open.spotify.com/album/150OJXxuqgVQyRWPiL6AFC,6,Need You Around,Josh Caterer,X
+2021-F,0,,tracks,,,,,,,,7,Goodnight My Someone,Josh Caterer,
+2021-F,0,,tracks,,,,,,,,9,Writing a Letter,Josh Caterer,
+2021-F,206,knoxville-girls.jpeg,tracks,Knoxville Girls,In A Ripped Dress,Bang!,"Kid Congo Powers has a musical resume you wouldn’t believe, and this particular outing for his talents is garage psychobilly supreme, a wonderfully uncouth expression of much-needed sophisticated boom boom.","Jack Oblivian, The Brian Jonestown Massacre, Country Teasers","March 5, 2021",,9,Sophisticated Boom Boom,Knoxville Girls,X
+2021-F,0,,tracks,,,,,,,,11,Virginia Ave,Knoxville Girls,
+2021-F,208,mccartney-iii-imagined.jpg,tracks,Paul McCartney + Friends,McCartney III Imagined,Capitol,"This takes McCartney’s third “fine, I’ll do it all myself” effort and delivers it into some surprising and very capable hands, a diverse roster of artists who take these McCartney songs and fumble nary a one.","Khruangbin, Josh Homme, Dominic Fike","April 16, 2021",https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT?si=ibhb8U2-QB2xsJ4c49GB6A&dl_branch=1,2,The Kiss of Venus,Dominic Fike,X
+2021-F,0,,tracks,,,,,,,,3,Pretty Boys,Khruangbin,
+2021-F,0,,tracks,,,,,,,,9,Lavatory Lil,Josh Homme,
+2021-F,232,ratboys.jpeg,tracks,Ratboys,"Happy Birthday, Ratboy",,"Revisiting songs from their debut 2011 EP and various favorites from a ten-year career, this sunny folk-pop ensemble is buoyed by brightly colored harmony balloons dangling deathly sharp unexpected hooks. Listen with care and often.","Waxahatchee, The Sundays, Margaret Glaspy","April 1, 2021",,3,Intense Judgment,Ratboys,X
+2021-F,0,,tracks,,,,,,,,4,Key,Ratboys,
+2021-F,0,,tracks,,,,,,,,6,Space Blows,Ratboys,
+2021-F,0,,tracks,,,,,,,,7,Collected,Ratboys,
+2021-F,0,,tracks,,,,,,,,11,Go Outside,Ratboys,
+2021-F,219,round-eye.jpeg,tracks,Round Eye,Culture Shock Treatment,Paper and Plastick,"Imagine a heavy punk-core assault, one with a bad attitude, weird experimental asides, an unhinged vocalist, and a rhythm section suitable for pulverizing concrete. How do you take it to the next level? Add a saxophone.","Rocket From The Crypt, The Bronx, Scratch Acid","July 4, 2020",https://open.spotify.com/album/4XIGzNFe3rm7IHh3Ttqb9w,1,Culture Shock Treatment,Round Eye,X
+2021-F,0,,tracks,,,,,,,,2,Smokestack,Round Eye,
+2021-F,0,,tracks,,,,,,,,3,Magaman,Round Eye,
+2021-F,0,,tracks,,,,,,,,6,Armadillo Man,Round Eye,
+2021-F,0,,tracks,,,,,,,,15,Endless Sleep,Round Eye,
+2021-F,204,routes.jpg,tracks,The Routes,Mesmerised,Action Weekend,"Rowdy and thunderous guitar rock is what’s on call for the months ahead, and it’s easy to fill that order with this set of ten fuzzy symphonies meticulously assembled for all your bombastic musical needs.","The Sonics, Zoobombs, Ty Segall","April 9, 2021",https://open.spotify.com/album/4jKjRR7ny4l3yHkBBqynFG?si=dcT3-6VTQ460RDhHWr3hMg&dl_branch=1,1,Broken Goods,The Routes,X
+2021-F,0,,tracks,,,,,,,,4,Mesmerised,The Routes,
+2021-F,0,,tracks,,,,,,,,7,The World's At Fault,The Routes,
+2021-F,0,,tracks,,,,,,,,10,Foot In Mouth,The Routes,
+2021-F,180,schneider-tm.jpg,tracks,Schneider TM,The 8 Of Space,,"For a quarter century, Dirk Dresselhaus has been putting out sparse, intelligent electronic compositions that even at their calmest crackle with some subtle form of nervous energy.","Com Truise, To Rococo Rot, The Orb","April 9, 2021",https://open.spotify.com/album/4uc3WJaW0souVWRa988QUm?si=LPSxjm00TWiA6hufs1HXFA&dl_branch=1,2,The 8 of Space,Schneider TM,X
+2021-F,0,,tracks,,,,,,,,5,Spiral,Schneider TM,
+2021-F,233,spirit-of-the-beehive.jpeg,tracks,SPIRIT OF THE BEEHIVE,"ENTERTAINMENT, DEATH",,"I DON’T REALLY UNDERSTAND WHY BANDS MAKE ALLCAPS PART OF THEIR BRANDING AND MOSTLY FIND IT ANNOYING, BUT I CAN MAKE AN EXCEPTION FOR THIS PHILADELPHIA OUTFIT AND THIS ALBUM THAT SOUNDS LIKE A DREAM RADIO WITH A FAULTY FREQUENCY LOCK.","The Photon Band, of Montreal, Oh Sees","April 9, 2021",https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ,1,ENTERTAINMENT,Spirit of the Beehive,X
+2021-F,0,,tracks,,,,,,,,5,Give Up Your Live,Spirit of the Beehive,
+2021-F,0,,tracks,,,,,,,,9,Wake Up (In Rotation),Spirit of the Beehive,
+2021-G,219,you-didnt-think-2.jpg,tracks,You Didn’t Think We Could Take It Vol. 2,A Tribute to the Subsonics,Mandinga,"Atlanta’s long-reigning kings of greasy garage fuzz get yet another tribute, and given the source material and the participants, it’s easy to see why this hits all the green lights for a multicolored psychedelic ramble.","The Subsonics, Kid Congo Powers, Disturbios","May 14, 2021",https://mandingarecords.bandcamp.com/album/you-didnt-think-we-could-take-it-vl-2-a-tribute-to-subsonics,4,See Thru Honda,Disturbios,X
+2021-G,0,,tracks,,,,,,,,2,I Made You A Clown,Kid Congo Powers,
+2021-G,0,,tracks,,,,,,,,1,I Can't Get Out,Ugly Sounds,
+2021-G,242,datblygu.jpg,tracks,Datblygu,Wyau / Pyst,Hate,"Wales has always had an abnormally high number of interesting bands per capita, and listening to these early ‘80s reissues it’s obvious that Datblygu, whose unique style can range all over the musical map while remaining recognizable, is why.","Blondie, Throbbing Gristle, Country Teasers","April 23, 2021",https://open.spotify.com/album/3nKr0vIZQGEB4TALGTDeSR?si=HJv7ggBuSRGLghFyFuXyYQ&dl_branch=1,4,23,Datblygu,X
+2021-G,0,,tracks,,,,,,,,8,Saith Arch Bach,Datblygu,
+2021-G,0,,tracks,,,,,,,,13,Fanzine Ynfytyn,Datblygu,
+2021-G,0,,tracks,,,,,,,,15,Babannod Beichiog Nawr,Datblygu,
+2021-G,246,ghoulies.jpg,tracks,Ghoulies,Reprogram,Goodbye Boozy,"There are many bands named Ghoulies, or something like it, but let it be known that we’re talking about the Australian outfit that can deliver an hour’s worth of mosh-pit worthy punk sprinkled with spastic organ warbles in just about ten minutes.","The Dickies, Brainiac, Sex Bob-omb","May 21, 2021",https://open.spotify.com/album/7c9vYNB96xZyhdUS0mLq1Y?si=n_YQZDRgTW69EV_3NLhjng&dl_branch=1,1,B.O.,Ghoulies,X
+2021-G,0,,tracks,,,,,,,,3,Petey Jones' Locker,Ghoulies,
+2021-G,0,,tracks,,,,,,,,7,E.T Gnome,Ghoulies,
+2021-G,199,juliana-hatfield.jpg,tracks,Juliana Hatfield,Blood,American Laundromat,"Hatfield’s relentless output is given some inventive production, and I have to pause to carefully listen. There’s a lot to unpack, sonically and lyrically, and it refuses to fade into the background.","Suzanne Vega, Eels, Jenny Lewis","May 14, 2021",https://open.spotify.com/album/1GNg1zdci6RGYNZFAcpmXn?si=4B15Fp1KRCewUeqdwRZTqQ&dl_branch=1,1,The Shame of Love,Juliana Hatfield,X
+2021-G,0,,tracks,,,,,,,,4,Had a Dream,Juliana Hatfield,
+2021-G,237,superwolves.jpg,tracks,Matt Sweeney + Bonnie “Prince” Billy,Superwolves,Drag City,"Sweeney’s carefully considered guitar lines are entwined with Will Oldham’s intimate quaver and lyrical prowess, and it’s uncanny how this occasional intersection of two very prolific artists sounds like it’s decades into its trajectory.","Nick Cave, Silver Jews, Lambchop","April 30, 2021",https://open.spotify.com/album/0aGYuZmwC0E8rWOgUkNgkl?si=Iz6XfVDtSR2FljrhBKfTWA&dl_branch=1,1,Make Worry for Me,Matt Sweeney & Bonnie 'Prince' Billy,X
+2021-G,0,,tracks,,,,,,,,8,Watch What Happens,Matt Sweeney & Bonnie 'Prince' Billy,
+2021-G,0,,tracks,,,,,,,,10,There Must Be a Someone,Matt Sweeney & Bonnie 'Prince' Billy,
+2021-G,245,rare-occations.jpg,tracks,The Rare Occasions,Big Whoop,,"There is a lot of smart indie guitar pop out there these days, and this effort showcases this band’s ability to easily traverse that range, from anthemic hook-laden singalongs to richly harmonized earworms, with many unexpected stops in between.","Weezer, Kitty In The Tree, Born Ruffians","June 18, 2021",https://open.spotify.com/album/3LJ8HoyzFM8NA5M1zd7Z5W?si=zRpuVDJwQtOuWu3WQCh4Pg&dl_branch=1,1,Alone,The Rare Occasions,X
+2021-G,0,,tracks,,,,,,,,2,Bolts,The Rare Occasions,
+2021-G,0,,tracks,,,,,,,,7,CMWYGT,The Rare Occasions,
+2021-G,0,,tracks,,,,,,,,8,The American Way,The Rare Occasions,
+2021-G,232,tony-allen.jpg,tracks,Tony Allen,There Is No End,Blue Note,"This is an ominous title for a posthumous release, but Allen’s stuttering drum work will no doubt stand the test of time, and this melding of his work with more modern non-Afrobeat collaborators is a glimpse of a fascinating future.","Fela Kuti, Questlove, Damon Albarn","April 30, 2021",https://open.spotify.com/album/4BK64Duprygx9JNpXv9dmH?si=f7-jslKHSyyh8BgNAXPyDA&dl_branch=1,8,One Inna Million,Tony Allen,X
+2021-G,0,,tracks,,,,,,,,13,Cosmosis,Tony Allen,
+2021-H,232,bachelor.jpg,tracks,Bachelor,Doomin’ Sun,,"Bachelor are in no rush to get to the end of the song, which makes it the perfect soundtrack for getting things done around the house, or alternately sinking into a deep bliss of angel volces, tapped drums, and faraway guitar solos.","Jay Som, Palehound, Breeders","May 28, 2021",https://open.spotify.com/album/0JGCh2hiXbz5bbyGhVPx4B?si=ux6vAdBwRueNgn_0XAkCiQ&dl_branch=1,1,Back of My Hand,Bachelor,X
+2021-H,0,,tracks,,,,,,,,2,Sand Angel,Bachelor,
+2021-H,0,,tracks,,,,,,,,3,Stay in the Car,Bachelor,
+2021-H,0,,tracks,,,,,,,,8,Sick of Spiraling,Bachelor,
+2021-H,238,wolf-alice.jpg,tracks,Wolf Alice,Blue Weekend,RCA,"Sneer at the formula all you like, but putting a strong, dynamic female voice, one which ranges from a husky whisper to an anguished scream, in front of a well-produced guitar-centric combo can sometimes yield unexpectedly unique results.","Garbage, Metric, illuminati hotties","June 4, 2021",https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0?si=zg7_26PcTySCQNHI0Y0jig&dl_branch=1,7,Play The Greatest Hits,Wolf Alice,X
+2021-H,0,,tracks,,,,,,,,10,No Hard Feelings,Wolf Alice,
+2021-I,248,black-midi.jpeg,tracks,black midi,Covercade,Rough Trade,"Out of many odd cover-filled releases bands have ejected over the last year-plus, this is one of the most disparate and interesting, partly from the selections and the interstitial music, but mostly because it’s not what you expect from black midi.","Rodgers and Hammerstein, Bjork, Bruce Springsteen","May 28, 2021",,11,Daylight Matters (Originally by Cate Le Bon),black midi,
+2021-I,231,catenary-wires.jpeg,tracks,The Catenary Wires,Birling Gap,Shelflife,"It is difficult to make lush pastoral pop like this without going completely overboard into schmalz territory, but this band manages quite well, carefully draping their orchestral tendencies over a solid base of interesting songs. ","Heavenly, The Just Joans, Camera Obscura","June 18, 2021",https://open.spotify.com/album/3A9rU5UX34SdRfu5UQFwYw?autoplay=true,1,Face On The Rail Line,The Catenary Wires,
+2021-I,0,,tracks,,,,,,,,2,Alpine,The Catenary Wires,
+2021-I,0,,tracks,,,,,,,,3,Always On My Mind,The Catenary Wires,
+2021-I,0,,tracks,,,,,,,,7,Canterbury Lanes,The Catenary Wires,
+2021-I,225,death-valley-girls.jpeg,tracks,Death Valley Girls,Street Venom,Burger,The reissue of the band’s 2014 cassette debut shows a clear trajectory for this garage-delic outfit that constantly wanders through the dirtiest of musical territories and comes out the other end looking perfectly disheveled.,"Queens of the Stone Age, Mag Wheel, Bully","February 11, 2014",https://open.spotify.com/album/7ATVKLEXBV9Cb8vq5AGAz4?autoplay=true,3,Arrow,Death Valley Girls,
+2021-I,176,drug-store-romeos.jpeg,tracks,Drug Store Romeos,The World Within Our Bedrooms,Rough Trade,"The female vocals have a child-like quality, and the bass-forward music hulks behind it, sometimes like a princess’ bodyguard, sometimes like a delicate clockwork contraption. ","Tennis, Tribe, Pinback","June 25, 2021",https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3?si=YL_77UmmQz-NYHYKHmxUuQ&dl_branch=1,2,Secret Plan,Drug Store Romeos,
+2021-I,0,,tracks,,,,,,,,4,Elevator,Drug Store Romeos,
+2021-I,0,,tracks,,,,,,,,5,Walking Talking Marathon,Drug Store Romeos,
+2021-I,0,,tracks,,,,,,,,10,Vibrate,Drug Store Romeos,
+2021-I,230,hearty-har.jpeg,tracks,Hearty Har,Radio Astro,BMG,"Rock and roll is absent from the charts, and you’d hardly know there is a serious revival going on, this slab of shimmering paisley from the Fogerty kids being a prime example. Get your riffs, hooks, choruses, and more right here.","Strawberry Alarm Clock, The Black Keys, Ty Segall","February 12, 2021",https://open.spotify.com/album/4gJAfIdMFrt9FBVzDCL7n8?si=cfacbzr6QJ-qslDoHy7YeQ&dl_branch=1,1,Radio Man '56,Hearty Har,
+2021-I,0,,tracks,,,,,,,,2,Calling You Out,Hearty Har,
+2021-I,0,,tracks,,,,,,,,3,One For The Other,Hearty Har,
+2021-I,0,,tracks,,,,,,,,4,Scream and Shout!,Hearty Har,
+2021-I,242,march-jean.jpeg,tracks,Olivia Jean / April March,Palladium EP,Third Man,"This is basically one song, rendered in three different ways by each artist, for a total of six complete blasts of enjoyment. Olivian Jean delivers the mermaid vibes, and April March is full of her usual yeh yeh, so you really can’t go wrong.","The Pussywillows, Les Sans Culottes, The Insect Surfers","March 5, 2021",https://oliviajean.bandcamp.com/album/palladium,3,Sauce Piquante,April March,
+2021-I,243,palberta.jpeg,tracks,Palberta,Palberta5000,Wharf Cat,"It’s hard to pin down this Brooklyn trio, with their angular guitar dissonance and harmonies that range from drone to treacle. This live album showcases the band’s strange energy with a barrage of short songs and very little audience reaction.","Heavy Vegetable, Dry Cleaning, Sleater Kinney","January 22, 2021",https://open.spotify.com/album/0bF0MmOAxVT4hBlareepVq?autoplay=true,1,No Way,Palberta,
+2021-I,0,,tracks,,,,,,,,6,In Again,Palberta,
+2021-I,0,,tracks,,,,,,,,7,Hey!,Palberta,
+2021-I,175,pom-pom-squad.jpeg,tracks,Pom Pom Squad,Death of a Cheerleader,City Slang,"A solid debut album, with a wide range of energies and emotions,  filled with swirling guitars, moments of unabashed vulnerability, and sheer screeching unhinged psychopathy. ","The Sundays, The Bobby Lees, Lush","June 25, 2021",https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4?si=HJrlNxtQRUG_hO0ti13AAw&dl_branch=1,3,Crying,Pom Pom Squad,
+2021-I,0,,tracks,,,,,,,,6,Lux,Pom Pom Squad,
+2021-I,0,,tracks,,,,,,,,7,Crimson + Clover,Pom Pom Squad,
+2021-I,0,,tracks,,,,,,,,10,Shame Reactions,Pom Pom Squad,
+2021-I,218,scientists.jpeg,tracks,The Scientists,Negativity,In The Red,"If there is one word to describe this latest outing from Kim Salmon, with its droning rumbles, hazy distortion, and proto-punk vibe, it is “menacing”. This is an album you apologize to, maybe buy it a drink to be safe.","Viagra Boys, The Clash, Laughing Hyenas","June 11, 2021",https://open.spotify.com/album/2jxZt7idPxnafKPEd2qiko?si=ZyqN_mYCSAGZ6LmL7484gQ&dl_branch=1,4,Safe,The Scientists,
+2021-I,0,,tracks,,,,,,,,5,Magic Pants,The Scientists,
+2021-I,0,,tracks,,,,,,,,10,Dissonance,The Scientists,
+2021-I,232,tom-tom-club.jpeg,tracks,Tom Tom Club,The Good The Bad and the Funky,Nacional,"This is a reissue of a 20-year-old album, yet the pan-global disco stew that comes from this band could live anywhere in their decades-long career continuum, past, present, or future. This is dance music for getting subtly amped up.","Talking Heads, Fantastic Plastic Machine, Lee “Scratch” Perry","September 12, 2000",https://open.spotify.com/album/0hlUPOcMOadY0psIvpChCc?si=alCdwqFuSn6V7xiO5jZzNQ&dl_branch=1,2,Who Feelin' It,Tom Tom Club,
+2021-I,0,,tracks,,,,,,,,5,Soul Fire,Tom Tom Club,
+2021-I,0,,tracks,,,,,,,,7,Love To Love You Baby,Tom Tom Club,
+2021-J,248,los-lobos.jpeg,tracks,Los Lobos,Native Sons,New West,"The cover album is trite and cliché by now, but when the kings of Los Angeles release a tribute to the music scene that made them who they are, it’s definitely worth a listen, as both a rock show and a history lesson on what made LA sound that way.","Thee Midniters, Willie Bobo, Buffalo Springfield","July 30, 2021",https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM?si=VLgii8wYT5ayeMp16IC8jg&dl_branch=1,1,Love Special Delivery,Los Lobos,
+2021-J,0,,tracks,,,,,,,,9,Farmer John,Los Lobos,
