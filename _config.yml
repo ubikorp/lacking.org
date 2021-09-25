@@ -86,9 +86,9 @@ defaults:
       priority: 0.5
   -
     scope:
-      path: "_posts/podcast"
+      path: "_posts/mixtapes"
     values:
-      permalink: /podcast/:year/:title
+      permalink: /mixtapes/:year/:title
       priority: 0.7
 
 collections:
