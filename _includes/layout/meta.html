@@ -3,13 +3,13 @@
 {% assign description = page.description | strip %}
 {% case page.layout %}
   {% when 'home' %}
-    {% assign categpry_data = site.data.category_index['home'] %}
-    {% assign image = categpry_data.social %}
-    {% assign description = categpry_data.tagline %}
+    {% assign category_data = site.data.category_index['home'] %}
+    {% assign image = category_data.social %}
+    {% assign description = category_data.tagline %}
   {% when 'index' %}
-    {% assign categpry_data = site.data.category_index[page.pagination.category] %}
-    {% assign image = categpry_data.social %}
-    {% assign description = categpry_data.tagline %}
+    {% assign category_data = site.data.category_index[page.pagination.category] %}
+    {% assign image = category_data.social %}
+    {% assign description = category_data.tagline %}
   {% when 'details' %}
     {% assign type = 'music.album' %}
   {% when 'playlist' %}

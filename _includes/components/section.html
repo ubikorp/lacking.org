@@ -4,9 +4,11 @@
 <article class="mini-post section-box">
   <header>
     <p class="description">{{ category_data.description }}</p>
+    {% if category_data.show_latest %}
     <p class="published">
       Latest: <a href="{{ latest.url }}">{{ latest.title }}</a>
     </p>
+    {% endif %}
   </header>
   <section class="banner {{ category_name }}" style="background-image: url('{{ site.images_url }}/{{ category_data.background }}');">
     <a href="/{{ category_name }}" class="tlo-icon">
