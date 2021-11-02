@@ -13,6 +13,10 @@ permalink: /details
 keywords: newsletter
 update: 2021-05-19
 issues:
+  - https://xyrh1.mjt.lu/nl2/xyrh1/0izl.html # 015
+  - https://xyrh1.mjt.lu/nl2/xyrh1/06qh.html # 014
+  - https://xyrh1.mjt.lu/nl2/xyrh1/0g1x.html # 013
+  - https://xyrh1.mjt.lu/nl2/xyrh1/0tvw.html # 012
   - https://xyrh1.mjt.lu/nl2/xyrh1/0unp.html # 011
   - https://xyrh1.mjt.lu/nl2/xyrh1/05w9.html # 010
   - https://xyrh1.mjt.lu/nl2/xyrh1/04p8.html # 009
