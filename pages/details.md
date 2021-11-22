@@ -11,8 +11,11 @@ description: >
              by the reliable delivery of an Electronic Missive, every seven days!
 permalink: /details
 keywords: newsletter
+image:
+  src: pages/details.jpg
 update: 2021-05-19
 issues:
+  - https://xyrh1.mjt.lu/nl2/xyrh1/0r2z.html # 016
   - https://xyrh1.mjt.lu/nl2/xyrh1/0izl.html # 015
   - https://xyrh1.mjt.lu/nl2/xyrh1/06qh.html # 014
   - https://xyrh1.mjt.lu/nl2/xyrh1/0g1x.html # 013
