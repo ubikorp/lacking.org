@@ -1,40 +1,42 @@
 ep,seg,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds,Mixcloud
-173,a1,,,,,,"The three-piece punchy pop formula should be familiar to everyone by now, but the sounds of Bad Bad Hats are an elegant proof of their own.",https://www.mixcloud.com/the-lacking-org/18hpft-173-detroit-basketball/,0,,Your Host 
-173,a2,593,Detroit Basketball,Bad Bad Hats,Walkman,02:27,Are they winning?,0:00:00,147,0,"Bad Bad Hats ""Detroit Basketball"" 0:00:00"
-173,a2,594,My Ladies Can't Remember the Eighties,Euphone,Hashin' It Out,02:35,Good vibrations,0:02:27,155,147,"Euphone ""My Ladies Can't Remember the Eighties"" 0:02:27"
-173,a2,595,Don't Ignore the Air,The Mommyheads,Age Of Isolation,04:38,Subtle currents,0:05:02,278,302,"The Mommyheads ""Don't Ignore the Air"" 0:05:02"
-173,a3,,,,,,,0:09:40,74,580,Your Host 0:09:40
-173,a4,458,Power Broker Blues,The Gravel Pit,Serpent Umbrella,03:03,Big power,0:10:54,183,654,"The Gravel Pit ""Power Broker Blues"" 0:10:54"
-173,a4,459,Stepkids In Love,Switches,,03:17,Such a conundrum,0:13:57,197,837,"Switches ""Stepkids In Love"" 0:13:57"
-173,a4,460,Watercooler,TLO,,,,0:17:14,51,1034,"TLO ""Watercooler"" 0:17:14"
-173,a4,461,Dear M,C. Gibbs And The Cardia Bros.,The Pinkermen Set,04:06,Harrisonesque,0:18:05,246,1085,"C. Gibbs And The Cardia Bros. ""Dear M"" 0:18:05"
-173,a4,462,I Dig Love (2020 Mix),George Harrison,All Things Must Pass [2021 Super Deluxe],04:57,Fifty years,0:22:11,297,1331,"George Harrison ""I Dig Love (2020 Mix)"" 0:22:11"
-173,a5,,,,,,,0:27:08,33,1628,Your Host 0:27:08
-173,a6,559,Rock Me Baby,The Shivas,Feels So Good / Feels So Bad,03:16,Warm and gooey,0:27:41,196,1661,"The Shivas ""Rock Me Baby"" 0:27:41"
-173,a6,560,Good Guys + Bad Guys,Camper Van Beethoven,,03:56,Simple and effective,0:30:57,236,1857,"Camper Van Beethoven ""Good Guys + Bad Guys"" 0:30:57"
-173,a6,561,Capturing Moods,Rilo Kiley,,03:35,With a maritime feel,0:34:53,215,2093,"Rilo Kiley ""Capturing Moods"" 0:34:53"
-173,a6,562,I Feel It All,Feist,,03:39,Familiar chimes,0:38:28,219,2308,"Feist ""I Feel It All"" 0:38:28"
-173,a7,,,,,,,0:42:07,22,2527,Your Host 0:42:07
-173,a8,381,The Incessant,Meat Wave,The Incessant,04:40,Pounding on the surf,0:42:29,280,2549,"Meat Wave ""The Incessant"" 0:42:29"
-173,a8,382,Black to Comm,The Schizophonics,Black To Comm b/w Remake Model,03:22,Hot tonight,0:47:09,202,2829,"The Schizophonics ""Black to Comm"" 0:47:09"
-173,a8,383,Saith Arch Bach,Datblygu,Wyau,01:49,Welsh and fascinating,0:50:31,109,3031,"Datblygu ""Saith Arch Bach"" 0:50:31"
-173,b1,,,,,,,0:52:20,45,3140,Your Host 0:52:20
-173,b2,8,Trouble,Death By Unga Bunga,Heavy Male Insecurity,02:49,More than a punchline,0:53:05,169,3185,"Death By Unga Bunga ""Trouble"" 0:53:05"
-173,b2,9,Tighten My Tie,The Like Young,So Serious,02:18,"Like, really tight",0:55:54,138,3354,"The Like Young ""Tighten My Tie"" 0:55:54"
-173,b2,10,Popcorn,TLO,,,,0:58:12,25,3492,"TLO ""Popcorn"" 0:58:12"
-173,b2,11,You're Gonna Save Me,The Nicoteens,,03:28,At their Big Starriest,0:58:37,208,3517,"The Nicoteens ""You're Gonna Save Me"" 0:58:37"
-173,b3,,,,,,,1:02:05,20,3725,Your Host 1:02:05
-173,b4,217,Broken Goods,The Routes,Mesmerised,03:43,Punked out in Shanghai,1:02:25,223,3745,"The Routes ""Broken Goods"" 1:02:25"
-173,b4,218,Nosebleed,Illinois,What the Hell Do I Know?,02:46,Country fried freak show,1:06:08,166,3968,"Illinois ""Nosebleed"" 1:06:08"
-173,b4,219,Lalita,The Love Language,The Love Language,03:12,But is it Chardlingo?,1:08:54,192,4134,"The Love Language ""Lalita"" 1:08:54"
-173,b5,,,,,,,1:12:06,23,4326,Your Host 1:12:06
-173,b6,181,When the Morning Greets You With a Smile,Mr. Elevator & The Brain Hotel,When the Morning Greets You,04:49,Bring me my paisleys,1:12:29,289,4349,"Mr. Elevator & The Brain Hotel ""When the Morning Greets You With a Smile"" 1:12:29"
-173,b6,182,Breathe Me In,The Moles,Untune the Sky,04:32,Original Australian lo-fi,1:17:18,272,4638,"The Moles ""Breathe Me In"" 1:17:18"
-173,b6,183,"If Not Now, Then When?",King Gizzard & The Lizard Wizard,L.W.,03:50,The new Australian lo-fi,1:21:50,230,4910,"King Gizzard & The Lizard Wizard ""If Not Now, Then When?"" 1:21:50"
-173,b7,,,,,,,1:25:40,51,5140,Your Host 1:25:40
-173,b8,447,Love To Love You Baby,Tom Tom Club,The Good The Bad And The Funky,04:00,Originally from Donna Summer and Giorgio Moroder,1:26:31,240,5191,"Tom Tom Club ""Love To Love You Baby"" 1:26:31"
-173,b8,448,86 The Mayo,The Slackers,Peculiar,04:23,Sage advice,1:30:31,263,5431,"The Slackers ""86 The Mayo"" 1:30:31"
-173,b8,449,Happy Life,Money Mark,,02:52,A nice jaunt,1:34:54,172,5694,"Money Mark ""Happy Life"" 1:34:54"
-173,b8,450,Wear Your Love Like Heaven,Marc Ribot's Ceramic Dog,Hope,05:31,Deconstructed Donovan,1:37:46,331,5866,"Marc Ribot's Ceramic Dog ""Wear Your Love Like Heaven"" 1:37:46"
-173,b9,,,,,,,1:43:17,80,6197,Your Host 1:43:17
-173,bX,,Slade Treacher,µ-Ziq,Scurlage,05:48,Washing your delicates,1:44:37,348,6277,"µ-Ziq ""Slade Treacher"" 1:44:37"
+174,a1,,,,,,"When you are bored with every sound you hear, the Universe will send you an entire collection of songs to make you break out in an involuntary smile, like Goodbye Honolulu's latest.",https://www.mixcloud.com/the-lacking-org/szzdzn-174-you-and-me/,0,,Your Host 
+174,a2,16,You and Me,Goodbye Honolulu,Goodbye Honolulu,02:25,That makes two,0:00:00,145,0,"Goodbye Honolulu ""You and Me"" 0:00:00"
+174,a2,17,Happiness Is All The Rage,The Promise Ring,Very Emergency,02:55,Get your feelings synchronized,0:02:25,175,145,"The Promise Ring ""Happiness Is All The Rage"" 0:02:25"
+174,a2,18,Get It 'Fore It’s Gone,Pokey LaFarge,In the Blossom of their Shade,03:35,But no cutting in line,0:05:20,215,320,"Pokey LaFarge ""Get It 'Fore It’s Gone"" 0:05:20"
+174,a2,19,Getting By,The Rentals,Getting By,02:52,When you need BIG SYNTHS,0:08:55,172,535,"The Rentals ""Getting By"" 0:08:55"
+174,a3,,,,,,,0:11:47,86,707,Your Host 0:11:47
+174,a4,5,Somerset Morning,The Fleshtones,Face of the Screaming Werewolf,02:47,No particular place to go,0:13:13,167,793,"The Fleshtones ""Somerset Morning"" 0:13:13"
+174,a4,6,Close To Me,The Cure,The Head On the Door,03:41,It’s crowded in here,0:16:00,221,960,"The Cure ""Close To Me"" 0:16:00"
+174,a4,7,Denver Omelette,TLO,,,,0:19:41,40,1181,"TLO ""Denver Omelette"" 0:19:41"
+174,a4,8,Watch What Happens,Matt Sweeney & Bonnie 'Prince' Billy,Superwolves,02:56,"My, what big teeth you have",0:20:21,176,1221,"Matt Sweeney & Bonnie 'Prince' Billy ""Watch What Happens"" 0:20:21"
+174,a4,9,ZERO,James,All The Colours Of You,05:42,In true form,0:23:17,342,1397,"James ""ZERO"" 0:23:17"
+174,a5,,,,,,,0:28:59,32,1739,Your Host 0:28:59
+174,a6,13,Blue Light,Lindsey Buckingham,Lindsey Buckingham,03:25,Very quite Buckingham,0:29:31,205,1771,"Lindsey Buckingham ""Blue Light"" 0:29:31"
+174,a6,14,I'm On Standby,Grandaddy,Sumday,03:12,Powered down for redesign,0:32:56,192,1976,"Grandaddy ""I'm On Standby"" 0:32:56"
+174,a6,15,Lookin' For A 7-11,Ben Vaughn,,02:34,Good luck in Colorado,0:36:08,154,2168,"Ben Vaughn ""Lookin' For A 7-11"" 0:36:08"
+174,a7,,,,,,,0:38:42,21,2322,Your Host 0:38:42
+174,a8,9,Guilty as Charged,Moderator,Midnight Madness,03:01,Some strange mixture,0:39:03,181,2343,"Moderator ""Guilty as Charged"" 0:39:03"
+174,a8,10,Printer-Painter,Coyle & Sharpe,Words & Pranks,02:18,It's all confused,0:42:04,138,2524,"Coyle & Sharpe ""Printer-Painter"" 0:42:04"
+174,a8,11,B for Boredoms,Boredoms,,02:44,Spelling it out,0:44:22,164,2662,"Boredoms ""B for Boredoms"" 0:44:22"
+174,a8,12,The Bar Is Too Low To Fail,Boat,Songs You Might Not Like,03:35,A convenient situation,0:47:06,215,2826,"Boat ""The Bar Is Too Low To Fail"" 0:47:06"
+174,b1,,,,,,,0:50:41,51,3041,Your Host 0:50:41
+174,b2,85,Gloria Love,Bad Bad Hats,Walkman,02:53,Sunny day strolling,0:51:32,173,3092,"Bad Bad Hats ""Gloria Love"" 0:51:32"
+174,b2,86,Field Notes from a College Town,Darrin Bradbury,Artvertisement,02:07,No lies detected,0:54:25,127,3265,"Darrin Bradbury ""Field Notes from a College Town"" 0:54:25"
+174,b2,87,100 Games Of Solitaire,Concrete Blonde,Still In Hollywood,03:37,How to kill time,0:56:32,217,3392,"Concrete Blonde ""100 Games Of Solitaire"" 0:56:32"
+174,b3,,,,,,,1:00:09,25,3609,Your Host 1:00:09
+174,b4,26,I Share a Rhythm,Guided By Voices,It's Not Them. It Couldn't Be Them. It Is Them!,02:02,Quite congenial,1:00:34,122,3634,"Guided By Voices ""I Share a Rhythm"" 1:00:34"
+174,b4,27,Them Kids,Sam Roberts,Love at the End of the World,03:59,Getting younger every day,1:02:36,239,3756,"Sam Roberts ""Them Kids"" 1:02:36"
+174,b4,28,Lucky To Be Alive,My Morning Jacket,My Morning Jacket,04:24,In a jolly mood,1:06:35,264,3995,"My Morning Jacket ""Lucky To Be Alive"" 1:06:35"
+174,b4,29,Teenage Kicks,The Undertones,Teenage Kicks,02:26,Original pop punk,1:10:59,146,4259,"The Undertones ""Teenage Kicks"" 1:10:59"
+174,b5,,,,,,,1:13:25,39,4405,Your Host 1:13:25
+174,b6,55,0010110,Taraka,Welcome To Paradise Lost,04:58,Learn your binary,1:14:04,298,4444,"Taraka ""0010110"" 1:14:04"
+174,b6,56,Ponk,Yohimbe Brothers,Front End Lifter,02:58,Wild gyrations,1:19:02,178,4742,"Yohimbe Brothers ""Ponk"" 1:19:02"
+174,b6,57,Vitamins,TLO,,,,1:22:00,28,4920,"TLO ""Vitamins"" 1:22:00"
+174,b6,58,Party with Children,Ratatat,,02:58,It’s high intensity,1:22:28,178,4948,"Ratatat ""Party with Children"" 1:22:28"
+174,b7,,,,,,,1:25:26,52,5126,Your Host 1:25:26
+174,b8,1,In ko enkrat bom umrl,Magnifico,Komplet II.,04:24,Out of Slovenia,1:26:18,264,5178,"Magnifico ""In ko enkrat bom umrl"" 1:26:18"
+174,b8,2,Remy's Night,Money Mark,,03:30,With rainbow space sprinkles,1:30:42,210,5442,"Money Mark ""Remy's Night"" 1:30:42"
+174,b8,3,Nova (Pt. 1),Tracker,Polk,02:50,Very scratchy,1:34:12,170,5652,"Tracker ""Nova (Pt. 1)"" 1:34:12"
+174,b8,4,Tijuana Sound Machine,Nortec Collective,Tijuana Sound Machine,03:03,Chopped up,1:37:02,183,5822,"Nortec Collective ""Tijuana Sound Machine"" 1:37:02"
+174,b9,,,,,,,1:40:05,85,6005,Your Host 1:40:05
+174,bX,62,Spiral Era (Prins Thomas Remix),Jaga Jazzist,Pyramid Remix,11:17,Around and around,1:41:30,677,6090,"Jaga Jazzist ""Spiral Era (Prins Thomas Remix)"" 1:41:30"
