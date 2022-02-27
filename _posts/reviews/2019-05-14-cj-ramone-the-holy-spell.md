@@ -6,7 +6,7 @@ description: Once a Ramone always a Ramone, one supposes, but this is closer to 
   California chug-core than gritty Queens punk. Nonetheless, a fun time.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/cj-ramone.jpg
 index: The Holy Spell…, CJ Ramone
 tags: ''
 keywords: The Ramones, Social Distortion, Rancid, FAT Wreck Chords

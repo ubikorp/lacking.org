@@ -6,7 +6,7 @@ description: Moody, semi-whispered low vocals and reverb-drenched guitar twang m
   for some very cinematic material.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/widowspeak.jpg
 index: Expect The Best, Widowspeak
 tags: ''
 keywords: 'Cowboy Junkies, Mazzy Star, Tennis, the Sundays, Lisa Germano, '

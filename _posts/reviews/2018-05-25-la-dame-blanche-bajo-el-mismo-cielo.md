@@ -7,7 +7,7 @@ description: 'A Cuban transplant in Paris, this artist mixes Afro-Cuban elements
   a very danceable time. '
 author: jclacking
 image:
-  src: ''
+  src: details/2018/la-dame-blanche.jpg
 index: Bajo el Mismo Cielo, La Dame Blanche
 tags: ''
 keywords: Buraka Som Sistema, Rosalia, Tijuana Sound Machine, Nacional

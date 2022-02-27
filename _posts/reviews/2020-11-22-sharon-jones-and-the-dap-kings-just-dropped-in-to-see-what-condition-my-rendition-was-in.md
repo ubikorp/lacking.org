@@ -8,7 +8,7 @@ description: Posthumous releases are always a tricky proposition, but Sharon Jon
   voice slathered over the funky Dap Kings has yet to fail.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/sharon-jones-dap-kings.jpg
 index: Just Dropped In (To See What Condition My Rendition Was In), Sharon Jones and
   the Dap-Kings
 tags: ''

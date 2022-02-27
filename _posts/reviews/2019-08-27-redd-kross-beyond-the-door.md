@@ -6,7 +6,7 @@ description: The clown kings of LA punk are back with their (so-far) commerciall
   yet overwhelmingly fulfilling mix of bad attitude and party rock.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/redd-kross.jpg
 index: Beyond The Door, Redd Kross
 tags: ''
 keywords: The Lemonheads, Cheap Trick, The Posies, Merge

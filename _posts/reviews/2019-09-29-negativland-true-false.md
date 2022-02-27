@@ -6,7 +6,7 @@ description: Layers of samples, voices, music, found audio, sound effects, and o
   bizarre elements make up these haunting compositions from the masters of audio collage.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/negativland.jpg
 index: True False, Negativland
 tags: ''
 keywords: The Evolution Control Committee, Bran Flakes, Seeland

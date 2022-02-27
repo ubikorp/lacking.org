@@ -6,7 +6,7 @@ description: Nice indie guitar sounds, with whispery vocals and a meandering mel
   spirit.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/palehound.jpg
 index: Black Friday, Palehound
 tags: ''
 keywords: Liz Phair, Waxahatchie, Soccer Mommy, Polyvinyl

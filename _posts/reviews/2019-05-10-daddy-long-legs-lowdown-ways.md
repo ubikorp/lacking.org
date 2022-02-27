@@ -6,7 +6,7 @@ description: Having the word “daddy” in your band’s name is a tough bar to
   and these guys have just the type of delta blues sleaze to make it over easy.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/daddy-long-legs.jpg
 index: Lowdown Ways, Daddy Long Legs
 tags: ''
 keywords: The Legendary Shack Shakers, Hillstomp, North Mississippi Allstars, Yep

@@ -6,7 +6,7 @@ description: Psychedelic surf music from Portland, impossibly catchy and off-the
   built on riffs that bludgeon you like a deliciously dense spongecake.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/shivas.jpg
 index: Dark Thoughts, The Shivas
 tags: ''
 keywords: Oh Sees, Velvet Underground, Vivian Girls, Tender Loving Empire

@@ -6,7 +6,7 @@ description: Americana with a punk-ass louche attitude always makes for a good b
   time.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/devil-makes-three.jpg
 index: Chains Are Broken, The Devil Makes Three
 tags: ''
 keywords: Mumford and Sons, The Bath Salt Zombies, Bad Livers, New West

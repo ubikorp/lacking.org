@@ -6,7 +6,7 @@ description: High-order guitar instrumentals more concerned with melody and expr
   than pyrotechnics. Truly ear-opening.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/julian-lage.jpg
 index: Modern Lore, Julian Lage
 tags: ''
 keywords: John Scofield, Marc Ribot, Mack Avenue

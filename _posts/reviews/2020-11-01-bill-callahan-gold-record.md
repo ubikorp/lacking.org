@@ -6,7 +6,7 @@ description: Callahan’s deep gruff voice meanders through acoustic non-linear 
   like a limo driver telling a story, completely oblivious to their own cowboy poetry.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/bill-callahan.jpg
 index: Gold Record, Bill Callahan
 tags: ''
 keywords: Smog, Johnny Cash, Tom Waits, Drag City

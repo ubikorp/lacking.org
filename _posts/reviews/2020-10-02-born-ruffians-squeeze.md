@@ -6,7 +6,7 @@ description: 'The second release in less than a year from this outfit continues 
   the same path, which is to say meticulously crafted indie guitar mini-symphonies. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/born-ruffians.jpg
 index: SQUEEZE, Born Ruffians
 tags: ''
 keywords: Sloane, Cage The Elephant, Garageland, Yep Roc

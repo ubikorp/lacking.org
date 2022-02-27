@@ -7,7 +7,7 @@ description: Tight set of songs from Australian native Cloher, a key figure in t
   this has the feeling of a brilliant debut to a stellar career.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/jen-cloher.jpg
 index: Jen Cloher, Jen Cloher
 tags: ''
 keywords: Liz Phair, Catpower, Courtney Barnett, Milk!

@@ -6,7 +6,7 @@ description: Take the most memorable weirdness to come out of Dr. Demento’s ne
   reign and let a bunch of punks cover them.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/various-artists.jpg
 index: Dr. Demento Covered In Punk, Various Artists
 tags: ''
 keywords: What you would hear on Dr. Demento’s show, Demented Punk

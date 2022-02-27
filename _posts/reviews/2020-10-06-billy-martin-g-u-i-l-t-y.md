@@ -7,7 +7,7 @@ description: Billy Martin’s drumming makes me think of oxymorons like “preci
   hazily bounded by funk, jazz, and electronic dance music.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/billy-martin.jpg
 index: G U I L T Y, Billy Martin
 tags: ''
 keywords: Tommy Guerrero, Money Mark, Stewart Copeland, Amulet

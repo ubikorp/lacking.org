@@ -6,7 +6,7 @@ description: A collaboration of bad attitudes. The Melvins are the more discipli
   of the two here but everyone’s affinity for big surly rock is running at 150%
 author: jclacking
 image:
-  src: ''
+  src: details/2019/melvins-shitkid.jpg
 index: Bangers, Melvins + Shitkid
 tags: ''
 keywords: The Melvins, Shitkid, Bully, Amphetamine Reptile

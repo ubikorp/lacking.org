@@ -6,7 +6,7 @@ description: At one time, electronic soul felt like the future of music, but her
   is Hot Chip doing just the same thing in 2019 and it feels nostalgic.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/hot-chip.jpg
 index: A Bathfull of Ecstasy, Hot Chip
 tags: ''
 keywords: Pet Shop Boys, Erasure, Depeche Mode, Domino

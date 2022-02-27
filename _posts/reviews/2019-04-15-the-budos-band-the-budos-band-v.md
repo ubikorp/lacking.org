@@ -7,7 +7,7 @@ description: A completely international approach to music, with influences rangi
   celebration of groove.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/budos-band.jpg
 index: The Budos Band V, The Budos Band
 tags: ''
 keywords: The James Taylor Quartet, Antibalas, Balkan Beat Box, Daptone

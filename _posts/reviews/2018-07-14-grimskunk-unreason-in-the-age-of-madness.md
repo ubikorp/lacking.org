@@ -6,7 +6,7 @@ description: Aggressive metal-reggae-funk, which is not something I generally li
   but this one has some sort of undermined charm to it.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/grimskunk.jpg
 index: Unreason In the Age of Madness, Grimskunk
 tags: ''
 keywords: Faith No More, Sublime, Anthrax, Fishbone, Indica

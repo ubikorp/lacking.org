@@ -7,7 +7,7 @@ description: The Texas trio returns with their very specific blend of surf, psyc
   adding gloriously subdued vocalizations to some of the tracks.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/khruangbin.jpg
 index: Mordechai, Khruangbin
 tags: ''
 keywords: Dengue Fever, Tom Tom Club, La Luz, Dead Oceans

@@ -6,7 +6,7 @@ description: An exuberant mix of weird rock, Latin influences, and mysterious el
   resulting in some sort of white hot fusion.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/y-la-bamba.jpg
 index: Entre Los Dos, Y La Bamba
 tags: ''
 keywords: Ozomatli, Captain Beefheart, David Byrne, Tender Loving Empire

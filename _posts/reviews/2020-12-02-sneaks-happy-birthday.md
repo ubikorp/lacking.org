@@ -7,7 +7,7 @@ description: There is something familiar yet quite subversive in the way Sneaks 
   of desperate modern living.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/sneaks.jpg
 index: Happy Birthday, Sneaks
 tags: ''
 keywords: 'Gossip, Tom Tom Club, Tennis, '

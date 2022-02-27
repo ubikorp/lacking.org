@@ -6,7 +6,7 @@ description: Solid guitar and keyboard pop, on the gentle dreamy side, with whis
   singing and sharp arrangements.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/cones.jpg
 index: Pictures of Pictures, Cones
 tags: ''
 keywords: Tame Impala, Toro y Moi, Papas Fritas, Dangerbird

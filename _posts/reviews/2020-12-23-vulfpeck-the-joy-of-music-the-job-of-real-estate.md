@@ -7,7 +7,7 @@ description: Part holiday album, part jazz funk excursion, all Vulfpeck, this co
   to put your home in a festive mood year-round.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/vulfpeck.jpg
 index: The Joy of Music, The Job of Real Estate, Vulfpeck
 tags: ''
 keywords: Fearless Flyers, Greyboy Allstars, All That!, Vulf

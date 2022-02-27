@@ -6,7 +6,7 @@ description: Whip-smart hooks, electronic frosting, and a sassy female vocalist 
   for a good combination.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/waax.jpg
 index: Wild and Weak EP, Waax
 tags: ''
 keywords: 'Garbage, Metric, Bully, '

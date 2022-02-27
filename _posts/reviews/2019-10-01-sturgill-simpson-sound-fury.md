@@ -7,7 +7,7 @@ description: Simpson made a name for himself with introspective Americana, but t
   ZZ Top fans felt the same way about “Eliminator”.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/sturgill-simpson.jpg
 index: Sound + Fury, Sturgill Simpson
 tags: ''
 keywords: ZZ Top, Jason Isbell, Steve Earle, Elektra

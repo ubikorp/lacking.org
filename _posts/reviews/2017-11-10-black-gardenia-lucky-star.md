@@ -7,7 +7,7 @@ description: Although you can no longer smoke in most live music venues, this wi
   on top.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/black-gardenia.jpg
 index: Lucky Star, Black Gardenia
 tags: ''
 keywords: 'Billie Holliday, Hot Club of Cowtown, '

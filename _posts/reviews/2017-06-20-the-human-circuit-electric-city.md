@@ -6,7 +6,7 @@ description: Meticulously-crafted arrangements highlighted by male-female harmon
   occasional orchestral instruments, and a wide use of dynamics.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/human-circuit.jpg
 index: Electric City, The Human Circuit
 tags: ''
 keywords: 'Greezy Wheels, Mates of State, X, Frankenixon, '

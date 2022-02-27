@@ -6,7 +6,7 @@ description: With Emily Haines’ expressive vocals standing proud and up front,
   is a collection of catchy singalong dance rock anthems.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/metric.jpg
 index: Art of Doubt, Metric
 tags: ''
 keywords: Garbage, Lush, Le Tigre, Til Tuesday, MMI

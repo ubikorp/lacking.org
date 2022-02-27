@@ -7,7 +7,7 @@ description: Alabama native Lee Bains III and three other guys recorded these 17
   It’s not a new sound, but it’s very well done.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/lee-bains-iii-glory-fires.jpg
 index: Youth Detention, Lee Bains III + the Glory Fires
 tags: ''
 keywords: Drive By Truckers, Georgia Satellites, Black Crowes, Don Giovanni

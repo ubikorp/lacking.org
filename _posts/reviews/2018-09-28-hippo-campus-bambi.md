@@ -5,7 +5,7 @@ category: reviews
 description: Nicely done collection of funky pop, or poppy funk.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/hippo-campus.jpg
 index: Bambi, Hippo Campus
 tags: ''
 keywords: Dr. Dog, Cage The Elephant, Grand Analog, Grand Jury

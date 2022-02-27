@@ -6,7 +6,7 @@ description: An engaging hybrid of analog and electronic sounds, with occasional
   vocals intertwined in the mix.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/makeness.jpg
 index: Loud Patterns, Makeness
 tags: ''
 keywords: Nine Inch Nails, Daft Punk, OMD, Secretly Canadian

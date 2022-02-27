@@ -6,7 +6,7 @@ description: You never know what to expect from Deerhoof, even if your list cont
   “sound art medleys improvised out of musical themes recognizable and unrecognizable”
 author: jclacking
 image:
-  src: ''
+  src: details/2020/deerhoof.jpg
 index: Love-Lore, Deerhoof
 tags: ''
 keywords: Blonde Redhead, Pom Poko, Laurie Anderson, Joyful Noise

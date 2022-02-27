@@ -7,7 +7,7 @@ description: The recipe for Yello’s bass-heavy, rhythmic, mid-tempo groovecake
   sunglasses and slouching down in your seat.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/yello.jpg
 index: Point, Yello
 tags: ''
 keywords: Trio, Arling + Cameron, Infected Mushroom, Polydor

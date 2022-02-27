@@ -7,7 +7,7 @@ description: If you wanted some watered-down drinks type of songs because Hynde 
   is true-to-form confessional gritty rock
 author: jclacking
 image:
-  src: ''
+  src: details/2020/pretenders.jpg
 index: Hate For Sale, Pretenders
 tags: ''
 keywords: Chrissy Hynde, Starcrawler, X, BMG

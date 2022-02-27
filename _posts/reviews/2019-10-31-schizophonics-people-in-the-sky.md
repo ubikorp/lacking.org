@@ -7,7 +7,7 @@ description: Hot and bothered garage psychedelia, squeezing every last erg out o
   ground-breaking, but certainly ass-shaking.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/schizophonics.jpg
 index: People In The Sky, Schizophonics
 tags: ''
 keywords: The Swingin’ Neckbreakers, Ty Segall, Paul Rever and the Raiders, Pig Baby

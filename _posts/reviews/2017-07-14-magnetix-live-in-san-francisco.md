@@ -7,7 +7,7 @@ description: Noisy blunt riff punk from Bordeaux, France, via Oh Sees label Cast
   in time for this two-piece.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/magnetix.jpg
 index: Live In San Francisco, Magnetix
 tags: ''
 keywords: Coachwhips, The Sonics, The Oblivians, Flat Duo Jets, Castleface

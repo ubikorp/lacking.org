@@ -6,7 +6,7 @@ description: A rollicking ride through rock and roll’s back roads, with fuzzed
   riffing coming on way too loud for the stereo. Good times.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/all-them-witches.jpg
 index: ATW, All Them Witches
 tags: ''
 keywords: Led Zeppelin, Melvins, Low Frequency In Stereo, Queens of the Stone Age,

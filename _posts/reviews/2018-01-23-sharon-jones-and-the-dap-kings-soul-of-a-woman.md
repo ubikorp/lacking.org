@@ -5,7 +5,7 @@ category: reviews
 description: Posthumous release from one of the strongest voices in modern soul.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/sharon-jones-dap-kings.jpg
 index: Soul of a Woman, Sharon Jones and the Dap-Kings
 tags: ''
 keywords: Aretha Franklin, James Brown, Sugarman 3, old-school R&B, DapTone

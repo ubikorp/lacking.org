@@ -5,7 +5,7 @@ category: reviews
 description: Garage rock revivalists from Sweden, guaranteed to make your monkey dance.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/baby-jesus.jpg
 index: Took Our Sons Away, Baby Jesus
 tags: ''
 keywords: Mooney Suzuki, Oh Sees, Oblivians, Yippee Ki Yay

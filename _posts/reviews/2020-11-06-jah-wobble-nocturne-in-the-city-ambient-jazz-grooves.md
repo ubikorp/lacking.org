@@ -7,7 +7,7 @@ description: Among the lockdown detritus of 2020 is this gem showing the introsp
   40 years.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/jah-wobble.jpg
 index: Nocturne in the City (Ambient Jazz Grooves), Jah Wobble
 tags: ''
 keywords: 'Barry Adamson, Ui, John Zorn, '

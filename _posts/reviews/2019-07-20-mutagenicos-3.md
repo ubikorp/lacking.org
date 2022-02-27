@@ -7,7 +7,7 @@ description: Straight up garage-billy from Spain, filled with surf rock, psyched
   is unmistakable.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/mutagenicos.jpg
 index: 3, Mutagénicos
 tags: ''
 keywords: Agent Orange, Misfits, Teenage Bottlerocket, Dirty Water

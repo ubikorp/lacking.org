@@ -7,7 +7,7 @@ description: 'Years from now, the early 2020s will timestamp short albums record
   ‘60s. This one would be near the top of the heap, intimate yet meticulous. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/andrew-bird.jpg
 index: Panthology Songs II, Andrew Bird
 tags: ''
 keywords: 'Orville Peck, M. Ward, Squirrel Nut Zippers, '

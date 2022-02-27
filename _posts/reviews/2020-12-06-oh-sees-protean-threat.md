@@ -7,7 +7,7 @@ description: The name of this band may change every few years, but the implacabl
   celestial excursions.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/oh-sees.jpg
 index: Protean Threat, Oh Sees
 tags: ''
 keywords: Moon Duo, Wooden Shjips, The Melvins, Castle Face

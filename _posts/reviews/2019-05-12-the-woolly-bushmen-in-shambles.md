@@ -7,7 +7,7 @@ description: This Florida garage-rock combo provides complete party in audio for
   fun ever end.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/woolly-bushmen.jpg
 index: In Shambles, The Woolly Bushmen
 tags: ''
 keywords: The Woggles, The Swingin’ Neckbreakers, The Sonics, Pig Baby

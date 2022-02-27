@@ -6,7 +6,7 @@ description: Spencer delivers another trash-talkin’, leg-humpin’, hip-grindi
   in his particular inimitable style.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/jon-spencer.jpg
 index: Spencer Sings The Hits, Jon Spencer
 tags: ''
 keywords: The Cramps, The Oblivians, Pussy Galore, In The Red

@@ -6,7 +6,7 @@ description: A rowdy, loving tribute to The Cramps, even rawer and more intransi
   than the original, from two women furiously channeling Lux Interior and Poison Ivy.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/das-clamps.jpg
 index: Shit Music For Shit People, Das Clamps
 tags: ''
 keywords: The Cramps, Flat Duo Jets, Chicks on Speed, Trash Wax

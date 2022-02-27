@@ -5,7 +5,7 @@ category: reviews
 description: Solid collection of guitar-forward indie rock.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/tokyo-police-club.jpg
 index: TPC, Tokyo Police Club
 tags: ''
 keywords: Pulp, The Church, Metric, Dine Alone

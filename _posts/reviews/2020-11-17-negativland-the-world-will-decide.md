@@ -7,7 +7,7 @@ description: The Weatherman returns and takes prominence on this latest sound ar
   need to have machines listening for our latest whim.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/negativland.jpg
 index: The World Will Decide, Negativland
 tags: ''
 keywords: The Evolution Control Committee, Girltalk, The Residents, Seeland

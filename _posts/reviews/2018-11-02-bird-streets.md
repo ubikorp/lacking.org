@@ -6,7 +6,7 @@ description: Smart guitar pop never goes out of style, and sharp lyrics make it 
   the better.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/bird-streets.jpg
 index: Bird Streets, Bird Streets
 tags: ''
 keywords: Jason Falkner, Death Cab For Cutie, XTC, Omnivore

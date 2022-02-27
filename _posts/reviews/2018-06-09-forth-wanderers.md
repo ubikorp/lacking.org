@@ -6,7 +6,7 @@ description: Wildly dynamic swings of mood from this rock-format combo, filled w
   sweet chiming vocal harmonies set against dissonance and rhythm.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/forth-wanderers.jpg
 index: Forth Wanderers, Forth Wanderers
 tags: ''
 keywords: Breeders, Throwing Muses, Toenut, Deerhoof, Sub Pop

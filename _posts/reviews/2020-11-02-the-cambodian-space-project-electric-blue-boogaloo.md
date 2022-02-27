@@ -6,7 +6,7 @@ description: The name would lead you to expect old-school riff-heavy fuzzed-out 
   with a strong southeast Asian accent, and it would lead you true.
 author: jclacking
 image:
-  src: ''
+  src: details/2015/cambodian-space-project.jpg
 index: Electric Blue Boogaloo, The Cambodian Space Project
 tags: ''
 keywords: Dengue Fever, La Luz, The Woggles, ABC

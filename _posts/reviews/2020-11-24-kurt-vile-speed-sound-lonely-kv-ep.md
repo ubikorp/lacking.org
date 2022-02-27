@@ -7,7 +7,7 @@ description: Kurt Vile’s surgical lyrics and out-there guitar playing overshad
   out in your head and strums out their weird tunes from an armchair in the corner.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/kurt-vile.jpg
 index: Speed, Sound, Lonely KV EP, Kurt Vile
 tags: ''
 keywords: John Prine, Paleface, Lou Barlow, Matador

@@ -7,7 +7,7 @@ description: A beat-heavy collection of international sounds, this band is liter
   and other genres.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/red-baraat.jpg
 index: Sound The People, Red Baraat
 tags: ''
 keywords: Balkan Beat Box, Asian Dub Foundation, Antibalas, Rhyme + Reason

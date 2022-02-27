@@ -6,7 +6,7 @@ description: Sparse and electronic, sometimes abrasive, this project from Swedis
   vocalist Karin Elisabeth Dreijer can be difficult and/or rewarding.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/fever-ray.jpg
 index: Plunge, Fever Ray
 tags: ''
 keywords: Bjork, Nine Inch Nails, Micachu and the Shapes, Mute

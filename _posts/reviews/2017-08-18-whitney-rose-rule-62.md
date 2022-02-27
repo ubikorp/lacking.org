@@ -7,7 +7,7 @@ description: 'There is nothing about Whitney Rose’s country music that sets it
   top-notch performances by an all-star cast of studio musicians make this a fun listen. '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/whitney-rose.jpg
 index: Rule 62, Whitney Rose
 tags: ''
 keywords: Dolly Parton, Tanya Tucker, Six Shooter

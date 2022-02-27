@@ -7,7 +7,7 @@ description: 'Electronic drums, layers and filigrees of keyboards, and falsetto 
   Eighties dance floor. '
 author: jclacking
 image:
-  src: ''
+  src: details/2019/generationals.jpg
 index: Reader As Detective, Generationals
 tags: ''
 keywords: Hot Chip, Orchestral Maneuvers in the Dark, STRFKR, Polyvinyl

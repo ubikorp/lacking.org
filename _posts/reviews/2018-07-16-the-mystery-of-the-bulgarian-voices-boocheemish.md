@@ -7,7 +7,7 @@ description: A sound you could classify as ethereal, alien, or both. Ancient gre
   Features DCD’s Lisa Gerrard
 author: jclacking
 image:
-  src: ''
+  src: details/2018/mystery-of-bulgarian-voices.jpg
 index: BooCheeMish, The Mystery of the Bulgarian Voices
 tags: ''
 keywords: Enigma, Dead Can Dance, creepy film soundtracks, Prophecy

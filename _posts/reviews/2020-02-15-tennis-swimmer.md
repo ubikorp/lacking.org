@@ -6,7 +6,7 @@ description: 'Intricate blue-eyed soul arrangements and a heavenly female pop si
   intersect into something decidedly sturdy and magnetic. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/tennis.jpg
 index: Swimmer, Tennis
 tags: ''
 keywords: Dressy Bessy, The Sundays, Madder Rose, Mutually Detrimental

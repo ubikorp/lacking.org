@@ -6,7 +6,7 @@ description: Like chocolate-covered potato chips, this mixture of disparate ingr
   sounds unlikely but sounds delicious.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/rubblebucket.jpg
 index: Sun Machine, Rubblebucket
 tags: ''
 keywords: Metric, Portishead, Jamiroquai, Tom Tom Club, Grand Jury

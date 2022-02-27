@@ -7,7 +7,7 @@ description: Pure unbridled joy bursts forth from the moment these young Benines
   group singing aren’t normally your thing, you should give it a taste.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/star-feminine-band.jpg
 index: Star Feminine Band, Star Feminine Band
 tags: ''
 keywords: Fela Kuti, William Onyeabor, Le Mystère des Voix Bulgares, Born Bad

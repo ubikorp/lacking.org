@@ -7,7 +7,7 @@ description: Weird manic indie funk-verging-on-pop with a weird manic sense of h
   hooks and riffs.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/bad-bad-meow.jpg
 index: Rick Rubin and Steve Albini Had Nothing To Do With This Record, Bad Bad Meow
 tags: ''
 keywords: The Format, We Wrote The Book On Connectors, Man Man, Bad Bad Bad

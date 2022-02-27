@@ -5,7 +5,7 @@ category: reviews
 description: Guitars, synths, great production, and pop hooks a-plenty.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/wolf-alice.jpg
 index: Visions of a Life, Wolf Alice
 tags: ''
 keywords: The Horrors, Hole, Garbage, RCA

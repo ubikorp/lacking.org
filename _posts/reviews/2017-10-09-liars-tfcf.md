@@ -7,7 +7,7 @@ description: Down to one original member, who recorded most of this in the Austr
   mix of acoustic, electronic, and environmental sounds.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/liars.jpg
 index: TFCF, Liars
 tags: ''
 keywords: Nine Inch Nails, Swans, The National, Mute

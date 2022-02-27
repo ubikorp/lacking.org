@@ -6,7 +6,7 @@ description: Furman sounds like he’s barely keeping it together as he blasts t
   a set of classic rockers, loaded with riffs and swagger.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/ezra-furman.jpg
 index: Twelve Nudes, Ezra Furman
 tags: ''
 keywords: Ty Segall, Ron Gallo, Destroyer, Bella Union

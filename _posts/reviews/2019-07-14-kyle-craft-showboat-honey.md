@@ -7,7 +7,7 @@ description: This is salty, and tangy, and spicy, and sweet, like the musical eq
   from Today.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/kyle-craft.jpg
 index: Showboat Honey, Kyle Craft
 tags: ''
 keywords: Ty Segall, T. Rex, Hanni Al Khatib, Sub Pop

@@ -6,7 +6,7 @@ description: Returning to the seminal “Super Ape” album after four decades, 
   proves he’s adept at new technologies as well as old techniques.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/lee-scratch-perry.jpg
 index: Super Ape Returns To Conquer, Lee "Scratch" Perry
 tags: ''
 keywords: Jamaican dub music, ROIR

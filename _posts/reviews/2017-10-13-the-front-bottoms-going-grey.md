@@ -6,7 +6,7 @@ description: 'The masters of punk Americana return with a highly-polished and we
   effort. '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/front-bottoms.jpg
 index: Going Grey, The Front Bottoms
 tags: ''
 keywords: Frank Turner, Future Kings of Nowhere, Fueled By Ramen

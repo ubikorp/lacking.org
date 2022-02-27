@@ -6,7 +6,7 @@ description: Driving indie guitar rock with extra-strength riffs and detailed dy
   great harmonies, and memorable hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/purrs.jpg
 index: Destroy The Sun, The Purrs
 tags: ''
 keywords: Pavement, Superchunk, The Vaccines, Swoon

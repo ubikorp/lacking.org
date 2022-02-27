@@ -6,7 +6,7 @@ description: Overthinking garage rock never goes out of style, and Interpol cont
   to put out albums that sound just like Interpol.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/interpol.jpg
 index: Marauder, Interpol
 tags: ''
 keywords: The Strokes, The Yeah Yeah Yeahs, Midnight Oil, Marauder

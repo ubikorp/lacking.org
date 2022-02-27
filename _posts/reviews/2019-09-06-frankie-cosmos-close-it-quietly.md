@@ -7,7 +7,7 @@ description: Sweetness and sunshine without overstepping into cloying and saccha
   croonings.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/frankie-cosmos.jpg
 index: Close It Quietly, Frankie Cosmos
 tags: ''
 keywords: Lush, Belle and Sebastian, Dressy Bessy, Sub Pop

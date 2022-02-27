@@ -6,7 +6,7 @@ description: If you gotta have some beats, you gotta have some Nightmares on Wax
   Moody interludes for slick rainy asphalt.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/nightmares-on-wax.jpg
 index: Shape The Future, Nightmares On Wax
 tags: ''
 keywords: Thievery Corporation, Warp

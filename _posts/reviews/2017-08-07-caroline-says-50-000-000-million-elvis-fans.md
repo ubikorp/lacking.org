@@ -7,7 +7,7 @@ description: A delicate and introspective set of self-recorded songs from an Ala
   watching miles of Western US highways roll by. Because that's what it is.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/caroline-says.jpg
 index: 50,000,000 Million Elvis Fans, Caroline Says
 tags: ''
 keywords: Cat Power, Denvendra Banhart, Jen Cloher, Western Vinyl

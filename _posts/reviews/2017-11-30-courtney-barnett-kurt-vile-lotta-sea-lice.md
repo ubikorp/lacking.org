@@ -6,7 +6,7 @@ description: Such grand disaffection from this US/AUS pairing … my new favorit
   and Courtney, providing the weirdest yet most natural male/female vocal duets.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/courtney-barnett-kurt-vile.jpg
 index: Lotta Sea Lice, Courtney Barnett & Kurt Vile
 tags: ''
 keywords: Paleface, Juliana Hatfield, X, Matador

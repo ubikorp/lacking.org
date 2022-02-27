@@ -7,7 +7,7 @@ description: A distinctive female voice fronting a standard indie combo is not t
   changes that keeps things interesting
 author: jclacking
 image:
-  src: ''
+  src: details/2019/big-thief.jpg
 index: Two Hands, Big Thief
 tags: ''
 keywords: Bettie Serveert, Fleetwood Mac, Rubblebucket, 4AD

@@ -7,7 +7,7 @@ description: Bombastic pop filled with lush arrangements, bizarre chord extensio
   have acquired the taste will drink this stuff by the gallon.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/lemon-twigs.jpg
 index: Songs for the General Public, The Lemon Twigs
 tags: ''
 keywords: Todd Rundgren, Steely Dan, Meatloaf, 4AD

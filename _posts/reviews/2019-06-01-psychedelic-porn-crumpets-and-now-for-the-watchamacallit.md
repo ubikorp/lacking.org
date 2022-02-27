@@ -6,7 +6,7 @@ description: The name promises so much, and the band overdelivers. The continent
   Australia is awash in lysergic excursions lately, and this is one of the finest.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/psychedelic-porn-crumpets.jpg
 index: And Now for the Watchamacallit, Psychedelic Porn Crumpets
 tags: ''
 keywords: King Gizzard and the Lizard Wizard, Ty Segall, Pond, Marathon Artists

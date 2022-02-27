@@ -5,7 +5,7 @@ category: reviews
 description: An interesting set of covers for solo piano, performed live
 author: jclacking
 image:
-  src: ''
+  src: details/2017/walt-wagner.jpg
 index: Reworks, Walt Wagner
 tags: ''
 keywords: The Bad Plus, Keith Jarret, Sub Pop

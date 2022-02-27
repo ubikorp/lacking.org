@@ -6,7 +6,7 @@ description: Somewhere beyond easy genres is this woozy mix of indie soul and po
   complication.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/jo-passed.jpg
 index: Their Prime, Jo Passed
 tags: ''
 keywords: Deerhoof, Nirvana, Sonic Youth, Thingy, Sub Pop

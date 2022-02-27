@@ -6,7 +6,7 @@ description: Despite the name, this is understated and minimalistic, with sparse
   and a haunting voice floating on top.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/yowler.jpg
 index: Black Dog In My Path, Yowler
 tags: ''
 keywords: This Mortal Coil, Laura Gibson, Swans, Double Double Whammy

@@ -6,7 +6,7 @@ description: Wildly dynamic outfit with in-your-face female vocals. Sounds twent
   years old and completely new at the same time.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/bully.jpg
 index: Losing, Bully
 tags: ''
 keywords: L7, The Muffs, The Bits, Sub Pop

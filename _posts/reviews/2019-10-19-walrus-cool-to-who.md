@@ -6,7 +6,7 @@ description: Sounding a lot like the heyday of 1990s indie dream pop, Walrus kee
   it a little spicy if not very distinctive.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/walrus.jpg
 index: Cool To Who, Walrus
 tags: ''
 keywords: Rubblebucket, Big Thief, Veruca Salt, Outside

@@ -6,7 +6,7 @@ description: Imagine your Beach Boys CD started skipping but you liked it better
   way.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/palm.jpg
 index: Rock Island, Palm
 tags: ''
 keywords: The Zombies, Papas Fritas, High Llamas, Carpark

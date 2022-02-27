@@ -7,7 +7,7 @@ description: Dutch indie rock psychedelic bands often stand out from their UK or
   test and got 110%, and there wasn’t even extra credit.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/certain-animals.jpg
 index: Songs To Make You Move, Certain Animals
 tags: ''
 keywords: Born Ruffians, Bettie Serveert, Sloan, TCBYML

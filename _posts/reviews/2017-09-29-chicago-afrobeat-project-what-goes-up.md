@@ -7,7 +7,7 @@ description: More modern Afrobeat, connected to the source via drummer Tony Alle
   shorter (for Afrobeat) songs.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/chicago-afrobeat-project.jpg
 index: What Goes Up, Chicago Afrobeat Project
 tags: ''
 keywords: 'Fela, Tony Allen, Afrobeat, '

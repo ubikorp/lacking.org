@@ -7,7 +7,7 @@ description: Very understated, yet completely engaging. Shy Boys live up to thei
   indie basement gems.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/shy-boys.jpg
 index: Bell House, Shy Boys
 tags: ''
 keywords: Stephen Malkmus, Real Estate, Yo La Tengo, Polyvinyl

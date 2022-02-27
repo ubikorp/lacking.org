@@ -6,7 +6,7 @@ description: Bewildering and enchanting solo project that can swing dramatically
   lo-fi and supremely nuanced
 author: jclacking
 image:
-  src: ''
+  src: details/2018/le-rug.jpg
 index: Bleenex, Le Rug
 tags: ''
 keywords: Japandroids, The Unicorns, Los Campesinos!, Omad

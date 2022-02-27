@@ -7,7 +7,7 @@ description: A pitch perfect replica of what made the British Invasion so formid
   much more.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/creation-factory.jpg
 index: The Creation Factory, The Creation Factory
 tags: ''
 keywords: The Rolling Stones, The Brian Jonestown Massacre, The Jessica Fletchers,

@@ -6,7 +6,7 @@ description: Trumpeter Jamie Younkin mixes standards and her own compositions in
   smoky set of songs that feature languid vocals and finessed horn playing.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/jamie-younkin.jpg
 index: Did It Anyway, Jamie Younkin
 tags: ''
 keywords: 'Chet Baker, Chris Botti, Diana Krall, '

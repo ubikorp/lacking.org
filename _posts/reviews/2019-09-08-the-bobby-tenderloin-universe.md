@@ -6,7 +6,7 @@ description: The cowboy bandwagon is in full effect as Bobby Tenderloin takes us
   a rough-and-tumble universe filled with tragic and entertaining Western tropes.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/bobby-tenderloin-universe.jpg
 index: The Bobby Tenderloin Universe, The Bobby Tenderloin Universe
 tags: ''
 keywords: Orville Peck, Johnny Cash, Ween, Keeping On

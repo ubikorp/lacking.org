@@ -6,7 +6,7 @@ description: 'Incredibly smart power pop overflowing with fat analog synth lines
   enough earworms and hooks to launch a sonic fishing expedition. '
 author: jclacking
 image:
-  src: ''
+  src: details/2019/imperial-teen.jpg
 index: Now We Are Timeless, Imperial Teen
 tags: ''
 keywords: Faith No More, Weezer, Spoon, Merge

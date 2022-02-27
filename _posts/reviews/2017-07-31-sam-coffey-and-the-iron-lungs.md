@@ -6,7 +6,7 @@ description: Dinosaur rock is alive and well here, and Coffey + Co deliver some 
   stuff that sounds like it came out of a 1970s time capsule.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/sam-coffey-iron-lungs.jpg
 index: Sam Coffey and the Iron Lungs, Sam Coffey and the Iron Lungs
 tags: ''
 keywords: Bob Seger, Thin Lizzy, Cheap Trick, Burger

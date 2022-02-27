@@ -6,7 +6,7 @@ description: Good southern-tinged rock, anthemic and singalong. Nothing ground-b
   but top-notch songwriting and production.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/j-roddy-walston-business.jpg
 index: Destroyers Of The Soft Life, J. Roddy Walston & The Business
 tags: ''
 keywords: Wilco, Drive By Truckers, The Outfield,  ATO

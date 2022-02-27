@@ -6,7 +6,7 @@ description: This is Ian Svenonius’ latest foray, a beatbox-backed recitation 
   poetry swimming in over-the-top soul delivery.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/escape-ism.jpg
 index: Introduction to Escape-Ism, Escape-ism
 tags: ''
 keywords: Nation of Ulysses, the Make Up, Ian Svenonius, Merge

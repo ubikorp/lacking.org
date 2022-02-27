@@ -7,7 +7,7 @@ description: A fully synthesized version of Cronin’s previous album, this reta
   and saw of old-tyme synthes.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/mikal-cronin.jpg
 index: Switched-On Seeker, Mikal Cronin
 tags: ''
 keywords: Self, The Moog Cookbook, Magnetic Fields, Merge

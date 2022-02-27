@@ -7,7 +7,7 @@ description: The beat rules supreme, the instrumentation is slinky, the vocals a
   night.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/toro-y-moi.jpg
 index: Outer Peace, Toro Y Moi
 tags: ''
 keywords: Panda Bear, VHS Or Beta, Tom Tom Club, Jamiroquai, Carpark

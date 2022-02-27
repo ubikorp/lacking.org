@@ -6,7 +6,7 @@ description: Diverse mix of influences, from synth pop to hip hop to plain old i
   rock.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/brick-mortar.jpg
 index: Meta Meta Etc., Brick + Mortar
 tags: ''
 keywords: 'The Postal Service, Tears for Fears, The Decembrists, '

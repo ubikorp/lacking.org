@@ -7,7 +7,7 @@ description: Kate Stables is a one-woman tour-de-force, and this John Parrish pr
   quite inventive arrangements.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/this-is-kit.jpg
 index: Moonshine Freeze, This Is The Kit
 tags: ''
 keywords: Tune-Yards, PJ Harvey, Mikachu + the Shapes, Jessca Hoop, Rough Trade

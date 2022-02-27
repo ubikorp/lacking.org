@@ -6,7 +6,7 @@ description: 'Fantastic Aussie rock-pop with a lot of variety, each song having 
   own strange melodic structure and personality. '
 author: jclacking
 image:
-  src: ''
+  src: details/2018/rubens.jpg
 index: Lo La Ru, The Rubens
 tags: ''
 keywords: Cage The Elephant, Jellyfish, Born Ruffians, Ivy League

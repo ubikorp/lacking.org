@@ -7,7 +7,7 @@ description: This is heavy pounding music that is pounding and heavy, also disto
   pounding, and heavy.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/metz.jpg
 index: Automat, METZ
 tags: ''
 keywords: Bass Drum of Death, Night Whip, Melvins, Sub Pop

@@ -6,7 +6,7 @@ description: Great set of non-stop rocking from this one-man-band which turned i
   a full-blown outfit.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/cloud-nothings.jpg
 index: Last Building Burning, Cloud Nothings
 tags: ''
 keywords: Rocket From The Crypt, Jawbreaker, Portugal! The Man, Carpark

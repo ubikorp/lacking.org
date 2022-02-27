@@ -6,7 +6,7 @@ description: King Tuff clearly has a rock and roll heart, with the sort of grand
   expression that has a southern blues charm.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/king-tuff.jpg
 index: The Other, King Tuff
 tags: ''
 keywords: Led Zeppelin, Black Crowes, Billy Squier, Sub Pop

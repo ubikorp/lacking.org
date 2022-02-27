@@ -6,7 +6,7 @@ description: Swirling and pounding sounds with reverb-drenched vocals from this 
   “post-punk” outfit
 author: jclacking
 image:
-  src: ''
+  src: details/2017/makthaverskan.jpg
 index: III, Makthaverskan
 tags: ''
 keywords: Lush, The Raveonettes, Savages, Run For Cover

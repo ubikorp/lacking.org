@@ -6,7 +6,7 @@ description: Aggressive, guitar-inflected punk, led by females unafraid to yell 
   lyrics in Spanglish… either precisely your cup of tea or an aggravating experience,
 author: jclacking
 image:
-  src: ''
+  src: details/2017/downtown-boys.jpg
 index: Cost of Living, Downtown Boys
 tags: ''
 keywords: Pixies, The Plugz, Bleached, Sub Pop

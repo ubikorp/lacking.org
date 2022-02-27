@@ -6,7 +6,7 @@ description: Awkward jams that nonetheless stick in your head on repeat, with hi
   production and a decidedly noir feel.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/velvet-negroni.jpg
 index: Neon Brown, Velvet Negroni
 tags: ''
 keywords: Dirty Projectors, Blood Orange, Portishead, 4AD

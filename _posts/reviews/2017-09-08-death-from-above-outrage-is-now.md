@@ -7,7 +7,7 @@ description: There’s a very straight line between classic rock and this stuff 
   that some dudes with instruments could make.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/death-from-above.jpg
 index: Outrage! is Now, Death From Above
 tags: ''
 keywords: QOTSA, Black Sabbath, Fu Manchu, Wolfmother, Warner

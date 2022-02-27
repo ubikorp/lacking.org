@@ -6,7 +6,7 @@ description: Insistent angular weirdfunk, songs that sound like tape loops that 
   fallen out of order and yet maintain a diligent desire to be songs.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/black-midi.jpg
 index: Schlagenheim, black midi
 tags: ''
 keywords: Art Brut, The Dismemberment Plan, The Fall, Rough Trade

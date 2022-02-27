@@ -6,7 +6,7 @@ description: Another solo pop genius wunderkind, blasting it out of the water wi
   a summery mix of rock and psychedelia.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/sean-henry.jpg
 index: A Jump from the High Dive, Sean Henry
 tags: ''
 keywords: Beck, Jason Falkner, Telekinesis, Double Double Whammy

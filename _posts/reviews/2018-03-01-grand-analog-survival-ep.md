@@ -5,7 +5,7 @@ category: reviews
 description: Soulful beats in the style of old-school acid jazz, mostly instrumental.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/grand-analog.jpg
 index: Survival EP, Grand Analog
 tags: ''
 keywords: DJ Food, Dan the Automator, Ninja Tune, Grand Analog Music

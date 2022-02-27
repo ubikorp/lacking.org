@@ -6,7 +6,7 @@ description: Hailing from the original wave of shoegaze, the band delivers the e
   dosage of swooping guitar amidst dream-state vocals and rock rhythms
 author: jclacking
 image:
-  src: ''
+  src: details/2019/swervedriver.jpg
 index: Future Ruins, Swervedriver
 tags: ''
 keywords: Ride, My Bloody Valentine, Failure, Dangerbird

@@ -6,7 +6,7 @@ description: It’s indie pop, but it’s also heavily inflected with soul, coun
   western swing, and a bad attitude.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/okey-dokey.jpg
 index: Tell All Your Friend, Okey Dokey
 tags: ''
 keywords: 'Supergrass, The Sadies, Islands, '

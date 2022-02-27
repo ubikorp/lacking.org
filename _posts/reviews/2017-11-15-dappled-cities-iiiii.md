@@ -6,7 +6,7 @@ description: Australia’s Dappled Cities straddles the line between new wave an
   with solid hooks and crystal-clear pop production.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/dappled-cities.jpg
 index: IIIII, Dappled Cities
 tags: ''
 keywords: Echo and the Bunnymen, James, early U2, Chugg

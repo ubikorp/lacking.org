@@ -6,7 +6,7 @@ description: Angular compositions and Merrill Garbus’ distinctive vocals, glue
   in strange uncomfortable ways, but it all works.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/tune-yards.jpg
 index: I can feel you creep into my private life, Tune-Yards
 tags: ''
 keywords: King Crimson, St. Vincent, 4AD

@@ -7,7 +7,7 @@ description: A fluid mixture of influences and identity, with tropical flavors a
   like a leather-jacketed hoodlum holding a bouquet of roses.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/chicano-batman.jpg
 index: Freedom Is Free, Chicano Batman
 tags: ''
 keywords: Rocket Ship + the Moon, Ozomatli, The Babe Rainbow, ATO

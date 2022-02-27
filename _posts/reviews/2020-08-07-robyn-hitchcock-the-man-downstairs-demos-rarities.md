@@ -6,7 +6,7 @@ description: A variety of acoustic guitar performances from Hitchcock, of songs 
   original and by others, which results in a very contemplative sort of musical journey.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/robyn-hitchcock.jpg
 index: 'The Man Downstairs: Demos & Rarities, Robyn Hitchcock'
 tags: ''
 keywords: Nick Drake, Syd Barrett, Nick Lowe, Tiny Ghost

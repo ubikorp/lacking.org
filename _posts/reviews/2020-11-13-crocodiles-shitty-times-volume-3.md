@@ -7,7 +7,7 @@ description: 'This is the third release in a series of benefit cassette (and dig
   this one is my favorite of the lot. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/crocodiles.jpg
 index: Shitty Times Volume 3, Crocodiles
 tags: ''
 keywords: 'The Ramones, Love, Alaska y Dinarama, '

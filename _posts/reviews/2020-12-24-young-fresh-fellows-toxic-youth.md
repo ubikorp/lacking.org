@@ -7,7 +7,7 @@ description: The boys are back, fresh as ever and resplendent in stereo as they 
   open road and a full throttle.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/young-fresh-fellows.jpg
 index: Toxic Youth, Young Fresh Fellows
 tags: ''
 keywords: The Replacements, The Sonics, Fastbacks, Yep Roc

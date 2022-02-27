@@ -6,7 +6,7 @@ description: It’s not ska, and it’s not rocksteady, but it’s definitely Ja
   powerfully dancy — you can call it “69 Reggae” after the year of its initial popularity.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/aggrolites.jpg
 index: Reggae Now!, The Aggrolites
 tags: ''
 keywords: The Slackers, Madness, The Clash, Pirates Press

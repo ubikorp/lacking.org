@@ -5,7 +5,7 @@ category: reviews
 description: Clever pop songs, filled with good hooks and ready for mixtapes
 author: jclacking
 image:
-  src: ''
+  src: details/2019/cayucas.jpg
 index: Real Life, Cayucas
 tags: ''
 keywords: Vampire Weekend, Eels, Panda Bear, Park The Van

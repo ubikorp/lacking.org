@@ -6,7 +6,7 @@ description: The off-kilter combination of glossy vaguely Japanese pop and glitc
   vaguely Japanese noise treatments make for an interesting mix.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/kero-kero-bonito.jpg
 index: Time n’ Place, Kero Kero Bonito
 tags: ''
 keywords: Boyracer, Robyn, Poppy, Polyvinyl

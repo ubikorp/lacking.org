@@ -6,7 +6,7 @@ description: A set of guitar-centered mid-tempo numbers that live somewhere in t
   region staked out by jazz, funk, and soul.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/mattson-2.jpg
 index: Paradise, The Mattson 2
 tags: ''
 keywords: Mac DeMarco, Chuck Mangione, Tortoise, Company

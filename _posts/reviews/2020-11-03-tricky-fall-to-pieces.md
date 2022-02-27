@@ -7,7 +7,7 @@ description: Tricky’s approach to music, with subdued tempos and striking cont
   dulled over the years, glinting in the streetlight like an out of place scalpel.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/tricky.jpg
 index: Fall To Pieces, Tricky
 tags: ''
 keywords: Portishead, DJ Food, This Mortal Coil, Liberator

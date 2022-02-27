@@ -7,7 +7,7 @@ description: Wildly varied compositions, ranging from driving fuzz with vocal ha
   outright cowboy dirges
 author: jclacking
 image:
-  src: ''
+  src: details/2017/fresh-onlys.jpg
 index: Wolf Lie Down, The Fresh & Onlys
 tags: ''
 keywords: Wilco, Tweedy, The Jesus and Mary Chain, Elvis Costello, Sinderlyn

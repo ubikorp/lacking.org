@@ -6,7 +6,7 @@ description: Girl-forward pop-punk with a harder edge, the type where dissonant 
   stabs merge into gloriously harmonized chorus hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/waax.jpg
 index: Big Grief, Waax
 tags: ''
 keywords: Bully, The Grates, The Muffs, Dew Process

@@ -7,7 +7,7 @@ description: Songs that the Purple One wrote for others, as performed by the per
   been released a long time ago and mostly of historical interest.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/prince.jpg
 index: Originals, Prince
 tags: ''
 keywords: Morris Day and the Time, The Bangles, Sinead O’Conner, NPG

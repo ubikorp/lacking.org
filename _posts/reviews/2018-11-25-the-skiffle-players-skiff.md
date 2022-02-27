@@ -6,7 +6,7 @@ description: Words like “rollicking”, “thumping”, and “boisterous” a
   mix of blues, boogie, and mystery meats.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/skiffle-players.jpg
 index: Skiff, The Skiffle Players
 tags: ''
 keywords: Ween, Marshall Crenshaw, Mano Negra, Oranga Tanga, Spiritual Pajamas

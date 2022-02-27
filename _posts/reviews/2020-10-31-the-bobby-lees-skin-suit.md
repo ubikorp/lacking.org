@@ -7,7 +7,7 @@ description: The insurance inspector shook her head. She’d never seen a fire c
   Most curiously, the inferno seemed to have started at the stereo speakers.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/bobby-lees.jpg
 index: Skin Suit, The Bobby Lees
 tags: ''
 keywords: Sleater-Kinney, John Wilkes Booze, Oblivians, Alive Naturalsound

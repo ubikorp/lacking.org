@@ -7,7 +7,7 @@ description: A bold performance from Katie Crutchfield, who bares her heart and 
   mood.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/waxahatchee.jpg
 index: Out In The Storm, Waxahatchee
 tags: ''
 keywords: Shannon Wright, Juliana Hatfield, Jenny Lewis, Speedy Ortiz, Garbage, Merge

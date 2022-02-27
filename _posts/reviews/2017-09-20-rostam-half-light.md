@@ -7,7 +7,7 @@ description: The person behind Vampire Weekend’s production and half of Island
   in analog and digital abstractions and heavenly choruses
 author: jclacking
 image:
-  src: ''
+  src: details/2017/rostam.jpg
 index: Half-Light, Rostam
 tags: ''
 keywords: Vampire Weekend, Islands, MGMT, Tame Impala, Nonesuch

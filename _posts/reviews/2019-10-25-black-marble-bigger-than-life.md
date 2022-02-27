@@ -6,7 +6,7 @@ description: Analog synthesizers still sound like the shiny plastic future, even
   they’re likely older than the young man fiddling with them in the California sunshine.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/black-marble.jpg
 index: Bigger Than Life, Black Marble
 tags: ''
 keywords: Magnetic Fields, Orchestral Maneuvers in the Dark, Liima, Sacred Bones

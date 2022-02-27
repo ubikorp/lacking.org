@@ -7,7 +7,7 @@ description: It’s difficult to explain why this sort of aggressive guitar-forw
   is certainly there.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/idles.jpg
 index: Ultra Mono, IDLES
 tags: ''
 keywords: Fontaines DC, Future of the Left, McClusky, Partisan

@@ -6,7 +6,7 @@ description: Jazz trio renditions of a curiously selected set of songs. Jimi Hen
   Bartok, the Police, Led Zeppelin (twice), Steely Dan, and more all get a turn.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/hazelrigg-brothers.jpg
 index: Songs We Like, Hazelrigg Brothers
 tags: ''
 keywords: 'The Bad Plus, '

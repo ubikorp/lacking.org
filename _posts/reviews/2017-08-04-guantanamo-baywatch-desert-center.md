@@ -6,7 +6,7 @@ description: The name is jokey but the songs are seriously warped surf-style ins
   with occasional vocals and other trickery.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/guantanamo-baywatch.jpg
 index: Desert Center, Guantanamo Baywatch
 tags: ''
 keywords: Surf Instrumentals, Man Man, Laika and the Cosmonauts, Insect Surfers, Atomic

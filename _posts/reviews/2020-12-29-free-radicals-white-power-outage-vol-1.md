@@ -7,7 +7,7 @@ description: I haven’t seen the word skronk bandied about lately, it feels goo
   but most of all extra funky and pure of heart.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/free-radicals.jpg
 index: White Power Outage vol. 1, Free Radicals
 tags: ''
 keywords: 'Sun Ra Arkestra, Too Many Zoos, Gil Scott-Heron, '

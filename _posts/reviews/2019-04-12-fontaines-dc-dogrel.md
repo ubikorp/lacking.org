@@ -6,7 +6,7 @@ description: Razor-sharp post-punk delivered with a disaffected Irish brogue. Ve
   smart on many levels, recalling The Fall when they were at their most musical
 author: jclacking
 image:
-  src: ''
+  src: details/2019/fontaines-dc.jpg
 index: Dogrel, Fontaines DC
 tags: ''
 keywords: Art Brut, Gang of Four, The Fall, Eugene McGuiness, Partisan

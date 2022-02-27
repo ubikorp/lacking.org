@@ -6,7 +6,7 @@ description: More from this wave of reverb-drenched noisy Swedish psychedelia th
   we’re enjoying lately.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/spice-boys.jpg
 index: Glade, Spice Boys
 tags: ''
 keywords: Thee Oh Sees, Shitkid, Holiday Ghosts, PNKSLM

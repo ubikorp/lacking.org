@@ -6,7 +6,7 @@ description: Multilayered excursions into the analog and digital realms, blurrin
   everything into a psychoactive tapestry.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/panda-bear.jpg
 index: Buoys, Panda Bear
 tags: ''
 keywords: Animal Collective, Dirty Projectors, hollAnd, Domino

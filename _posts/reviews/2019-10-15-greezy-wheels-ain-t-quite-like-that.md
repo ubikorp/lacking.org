@@ -6,7 +6,7 @@ description: A mix of country, western swing, rockabilly, and various other semi
   genres, paired with seductive vocals and plenty of musical swagger.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/greezy-wheels.jpg
 index: Ain’t Quite Like That, Greezy Wheels
 tags: ''
 keywords: Hot Club of Cowtown, Post-Modern Jukebox, Asylum Street Spankers, MaHatMa

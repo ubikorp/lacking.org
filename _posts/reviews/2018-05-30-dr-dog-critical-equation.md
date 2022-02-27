@@ -6,7 +6,7 @@ description: The band returns with more of their particular brand of folksy psyc
   Lots of great hooks and harmonies, as usual.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/dr-dog.jpg
 index: Critical Equation, Dr. Dog
 tags: ''
 keywords: Born Ruffians, My Morning Jacket, ELO, We Buy Gold

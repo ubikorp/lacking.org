@@ -6,7 +6,7 @@ description: Sparse and haunting, this minimal acoustic approach works well with
   unique fairy vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/laura-gibson.jpg
 index: Goners, Laura Gibson
 tags: ''
 keywords: Joanna Newsom, Jessca Hoop, Waxahatchie, Barsuk

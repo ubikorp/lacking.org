@@ -7,7 +7,7 @@ description: The nostalgic approach strikes gold, as this goes back to the heyda
   that you will have a hard time shaking off.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/seratones.jpg
 index: Power, Seratones
 tags: ''
 keywords: The Chiffons, Amy Winehouse, The Donettes, New West

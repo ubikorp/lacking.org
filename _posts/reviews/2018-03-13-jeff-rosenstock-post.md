@@ -5,7 +5,7 @@ category: reviews
 description: Great singalong spirit, hot flaming hooks, and actual things to say.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/jeff-rosenstock.jpg
 index: POST-, Jeff Rosenstock
 tags: ''
 keywords: Andrew Jackson Jihad, The Front Bottoms, Polyvinyl

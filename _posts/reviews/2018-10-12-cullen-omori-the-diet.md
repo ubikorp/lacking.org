@@ -6,7 +6,7 @@ description: A solid effort filled with gently sparkling guitar lines and subtle
   this manages to sound completely retro and current at the same time.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/cullen-omori.jpg
 index: The Diet, Cullen Omori
 tags: ''
 keywords: The Zombies, George Harrison, Smith Westerns, Sub Pop

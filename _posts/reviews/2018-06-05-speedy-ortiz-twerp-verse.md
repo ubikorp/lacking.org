@@ -6,7 +6,7 @@ description: A powerful set of guitar pop songs, fronted by sometimes disaffecte
   indie female vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/speedy-ortiz.jpg
 index: Twerp Verse, Speedy Ortiz
 tags: ''
 keywords: The Rentals, Veruca Salt, Liz Phair, Carpark

@@ -6,7 +6,7 @@ description: It’s a fun party with Johnson, with his deep deep voice, laconic 
   and a boogie-down attitude from the Black Keys’ Patrick Carney
 author: jclacking
 image:
-  src: ''
+  src: details/2018/calvin-johnson.jpg
 index: A Wonderful Beast, Calvin Johnson
 tags: ''
 keywords: Dub Narcotic Sound System, Tom Tom Club, Beat Happening, The Black Keys,

@@ -6,7 +6,7 @@ description: A variety of sounds and moods from this duo. Yes, that is a winky e
   in the album title.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/faith-healer.jpg
 index: Try ;-), Faith Healer
 tags: ''
 keywords: Margaret Glaspy, Heartless Bastards, Liz Phair, Girlpool, Mint

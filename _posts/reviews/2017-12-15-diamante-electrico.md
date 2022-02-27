@@ -6,7 +6,7 @@ description: 'Rock latino, full-on-boogie, or as they say in their native Colomb
   “bugi.” '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/diamante-electrico.jpg
 index: Diamante Eléctrico, Diamante Eléctrico
 tags: ''
 keywords: Los De Abajo, Los Fabulosos Cadillacs, ZZ Top, Mercado Negro

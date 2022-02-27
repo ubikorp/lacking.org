@@ -6,7 +6,7 @@ description: A distinctive voice and a careful meandering through the forests be
   Americana and indie rock make this a memorable set of songs.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/shannen-moser.jpg
 index: I’ll Sing, Shannen Moser
 tags: ''
 keywords: Shannon Wright, Joanna Newsom, Jessca Hoop, Lame-O

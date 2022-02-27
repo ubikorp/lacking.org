@@ -6,7 +6,7 @@ description: Hard-rocking, beer-chugging, smoke-breaking anthems from this Cleve
   couple. They can also veer into weird and spooky.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/cleveland-steamers.jpg
 index: Best Record Ever, The Cleveland Steamers
 tags: ''
 keywords: Spinal Tap, The Horrors, The Raveonnettes, Julee Cruise, Smog Veil

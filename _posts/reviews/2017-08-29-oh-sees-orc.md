@@ -6,7 +6,7 @@ description: Relentless, pounding, and subtle beyond comprehension, these songs 
   by like a runaway saw, missing you by an eyelash.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/oh-sees.jpg
 index: Orc, Oh Sees
 tags: ''
 keywords: Oblivians, Orange Goblin, Mötörhead, Castle Face

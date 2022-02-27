@@ -6,7 +6,7 @@ description: Very carefully constructed selection of cavernous compositions stud
   with a grandiose feel, fine detail, and moody lyrics.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/mass-gothic.jpg
 index: I’ve Tortured You Long Enough, Mass Gothic
 tags: ''
 keywords: Arcade Fire, Suede, Pulp, Sub Pop

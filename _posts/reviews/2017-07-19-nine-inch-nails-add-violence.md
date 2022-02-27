@@ -6,7 +6,7 @@ description: Trent Reznor delivers more biting digial/analog fusion, with dark s
   pads abetted by darker guitar tones.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/nine-inch-nails.jpg
 index: Add Violence, Nine Inch Nails
 tags: ''
 keywords: A depressed Nintendo, Capitol

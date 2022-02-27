@@ -6,7 +6,7 @@ description: Some very young Canadians show plenty of promos with this pleasantl
   bratty set of indie guitar rock.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/calpurnia.jpg
 index: Scout EP, Calpurnia
 tags: ''
 keywords: Half Japanese, Dr. Dog, Mooney Suzuki, Spice Boys, Royal Mountain

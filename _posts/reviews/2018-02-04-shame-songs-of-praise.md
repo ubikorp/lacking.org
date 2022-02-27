@@ -6,7 +6,7 @@ description: Aggressive debut from this UK band features some highly dynamic son
   loaded with twisty hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/shame.jpg
 index: Songs of Praise, Shame
 tags: ''
 keywords: Failure, Killing Joke, Mudhoney, Fugazi, Parquet Courts, Dead Oceans

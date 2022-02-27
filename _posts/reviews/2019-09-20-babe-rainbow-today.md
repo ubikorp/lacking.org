@@ -7,7 +7,7 @@ description: An extremely diverse outing, with songs cutting across many genres 
   filled with memorable hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/babe-rainbow.jpg
 index: Today, Babe Rainbow
 tags: ''
 keywords: Je Suis France, Gorky’s Zygotic Minci, Donovan, 30th Century

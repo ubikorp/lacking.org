@@ -6,7 +6,7 @@ description: 'Off-kilter washes of synth and gothic vocals amidst psychedelic fo
   rushes of prog rock, and incredibly delicate moments. '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/ariel-pink.jpg
 index: Dedicated to Bobby Jameson, Ariel Pink
 tags: ''
 keywords: Animal Collective, Deerhunter, Hawkwind, Luna, Mexican Summer

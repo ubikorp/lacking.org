@@ -5,7 +5,7 @@ category: reviews
 description: Straightahead rock, no apologies.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/starcrawler.jpg
 index: Starcrawler, Starcrawler
 tags: ''
 keywords: L7, Thin Lizzy, Warpaint, Bully, Rough Trade

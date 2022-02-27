@@ -6,7 +6,7 @@ description: A disparate assemblage of New Zealand musicians yielding a disparat
   assemblage of styles, from dusty ballads to reggae whimsy to downright funk.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/fly-my-pretties.jpg
 index: The Studio Recordings, Fly My Pretties
 tags: ''
 keywords: Fiona Apple, The Everly Brothers, North Mississippi Allstars, Loop Recordings

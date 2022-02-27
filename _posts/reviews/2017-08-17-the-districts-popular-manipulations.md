@@ -6,7 +6,7 @@ description: Anthemic songs filled with dramatic dynamics and playing that range
   between thunderous and ethereal.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/districts.jpg
 index: Popular Manipulations, The Districts
 tags: ''
 keywords: Franz Ferdinand, My Morning Jacket, The National, Fat Possum

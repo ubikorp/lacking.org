@@ -6,7 +6,7 @@ description: Very agreeable folk pop, with clever harmonies and sharp hooks maki
   it the sort of music to bring on a road trip.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/bombadil.jpg
 index: Beautiful Country, Bombadil
 tags: ''
 keywords: Babe Rainbow, Spinto Band, Jon + Roy, Ramseur

@@ -7,7 +7,7 @@ description: Fast-forward punk, with the sort of edge that comes from the curren
   barrage of fuzzed out chords and beats.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/spider-bags.jpg
 index: Someday Everything Will Be Fine, Spider Bags
 tags: ''
 keywords: Social Distortion, Parquet Courts, The Oblivians, Bad Brains, Merge

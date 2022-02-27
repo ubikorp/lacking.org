@@ -6,7 +6,7 @@ description: This is a smooth collection of beats and grooves filled with intric
   chord work and surprising vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/blood-orange.jpg
 index: Negro Swan, Blood Orange
 tags: ''
 keywords: Steely Dan, De La Soul, The Dirty Projectors, A Tribe Called Quest, Domino

@@ -7,7 +7,7 @@ description: The word “party” is right there in the name, as is the word “
   roll music.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/nude-party.jpg
 index: Midnight Manor, The Nude Party
 tags: ''
 keywords: The Georgia Satellites, Old 97s, The Woolly Bushmen, New West

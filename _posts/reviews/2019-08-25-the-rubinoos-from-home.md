@@ -7,7 +7,7 @@ description: Straight and true from the source of power pop, the Rubinoos delive
   melody, and glorious harmonious infectious hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/rubinoos.jpg
 index: From Home, The Rubinoos
 tags: ''
 keywords: The Raspberries, The Shins, The Flamin’ Groovies, Yep Roc

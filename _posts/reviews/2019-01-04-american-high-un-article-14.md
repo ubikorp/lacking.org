@@ -6,7 +6,7 @@ description: These lush harmonies with a sharp pop sensibility are hiding a set 
   biting and insightful lyrics.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/american-high.jpg
 index: UN Article 14, American High
 tags: ''
 keywords: 'The Kinks, Spinto Band, Born Ruffians, Robb Benson, '

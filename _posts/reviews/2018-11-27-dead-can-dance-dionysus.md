@@ -5,7 +5,7 @@ category: reviews
 description: An epic tale set to music, and a whirlwind tour of world musics.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/dead-can-dance.jpg
 index: Dionysus, Dead Can Dance
 tags: ''
 keywords: This Mortal Coil, Cocteau Twins, PAIS

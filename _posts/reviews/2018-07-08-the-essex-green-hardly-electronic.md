@@ -6,7 +6,7 @@ description: Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guit
   what else do you need to play this summer?
 author: jclacking
 image:
-  src: ''
+  src: details/2018/essex-green.jpg
 index: Hardly Electronic, The Essex Green
 tags: ''
 keywords: Apples In Stereo, Belle and Sebastian, Push Kings, Dressy Bessy, Merge

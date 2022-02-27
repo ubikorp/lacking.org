@@ -6,7 +6,7 @@ description: Fast and furious punk blasts that are over by the time you catch up
   the hook, keeping true to the Ramones’ quarter-mile aesthetic
 author: jclacking
 image:
-  src: ''
+  src: details/2018/carbonas.jpg
 index: Your Moral Superior, Carbonas
 tags: ''
 keywords: Misfits, The Way-Outs, Ramones, The Dickies, Goner

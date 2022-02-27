@@ -6,7 +6,7 @@ description: Dark and bombastic, this is full of dragged-out ballads and dramati
   pauses for moody rainy evenings
 author: jclacking
 image:
-  src: ''
+  src: details/2018/holy-knives.jpg
 index: Year of the Black Dog, The Holy Knives
 tags: ''
 keywords: 'Nick Cave, Gallon Drunk, '

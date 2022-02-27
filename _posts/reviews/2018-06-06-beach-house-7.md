@@ -6,7 +6,7 @@ description: Washes of sound surround you as half-heard vocals intertwine with h
   melodies.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/beach-house.jpg
 index: 7, Beach House
 tags: ''
 keywords: Cocteau Twins, Lush, Stereolab, Sub Pop

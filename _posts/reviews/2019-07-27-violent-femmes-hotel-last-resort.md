@@ -6,7 +6,7 @@ description: This is kept stripped-down and acerbic, completely aligned with the
   original punk-folk ethic.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/violent-femmes.jpg
 index: Hotel Last Resort, Violent Femmes
 tags: ''
 keywords: "`, PIAS"

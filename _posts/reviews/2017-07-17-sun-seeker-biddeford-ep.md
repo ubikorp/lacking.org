@@ -5,7 +5,7 @@ category: reviews
 description: Lush pop with strange turns of melody and complicated hooks.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/sun-seeker.jpg
 index: Biddeford EP, Sun Seeker
 tags: ''
 keywords: Foxygen, MGMT, Spinto Band, 10cc, The Zombies, Thirdman

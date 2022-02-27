@@ -6,7 +6,7 @@ description: An unusually sharp pop sensibility keeps this outfit from blending 
   the background, with rough-and-tumble rocking.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/telekinesis.jpg
 index: Effluxion, Telekinesis
 tags: ''
 keywords: Cage the Elephant, Heartless Bastards, Merge

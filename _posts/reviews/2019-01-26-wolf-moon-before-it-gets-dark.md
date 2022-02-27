@@ -6,7 +6,7 @@ description: Well-produced synth / indie pop, with clear female vocals and a var
   of styles, from dance-floor anthems to wispy desert ballads.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/wolf-moon.jpg
 index: Before It Gets Dark, Wolf + Moon
 tags: ''
 keywords: The Bird and the Bee, Cranberries, Mazzy Star, AdP Records

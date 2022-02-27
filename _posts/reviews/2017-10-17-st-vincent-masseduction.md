@@ -6,7 +6,7 @@ description: Annie Clarke’s strong voice floats effortlessly above a dense cas
   of synthetic and organic sounds
 author: jclacking
 image:
-  src: ''
+  src: details/2017/st-vincent.jpg
 index: Masseduction, St. Vincent
 tags: ''
 keywords: Tom Tom Club, Nine Inch Nails, Annie Lennox, Loma Vista

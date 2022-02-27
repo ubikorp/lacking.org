@@ -6,7 +6,7 @@ description: Old fashioned haunted country music… Orville Peck howls, croons, 
   yodels in a way that is extremely dramatic, yet never quite goes over the top.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/orville-peck.jpg
 index: Pony, Orville Peck
 tags: ''
 keywords: Parker and Lily, Roy Orbison, Nick Cave, Sub Pop

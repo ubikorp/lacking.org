@@ -7,7 +7,7 @@ description: Spiky little numbers filled with quicksilver guitar lines, the occa
   someone making fun of their bullies.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/gauche.jpg
 index: A People’s History of Gauche, Gauche
 tags: ''
 keywords: Chicks on Speed, Le Tigre, French Vanilla, Merge

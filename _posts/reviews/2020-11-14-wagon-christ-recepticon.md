@@ -7,7 +7,7 @@ description: Some people will slice and dice their way to a hostile disjointed s
   wholesome, like fruit salad.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/wagon-christ.jpg
 index: Recepticon, Wagon Christ
 tags: ''
 keywords: Negativland, Tipsy, Yello, People of Rhythm

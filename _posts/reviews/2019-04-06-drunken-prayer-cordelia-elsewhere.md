@@ -7,7 +7,7 @@ description: There’s a handful of acts that can stand out in the vast prairie 
   introspective lyrics to make something deeper.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/drunken-prayer.jpg
 index: Cordelia Elsewhere, Drunken Prayer
 tags: ''
 keywords: The Elected, Gram Parsons, Wilco, Deer Lodge

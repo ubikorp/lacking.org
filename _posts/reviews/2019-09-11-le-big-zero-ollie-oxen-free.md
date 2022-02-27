@@ -6,7 +6,7 @@ description: Pop jigsaw symphonies, incongruous bits and pieces of songs interlo
   together into a hypnotic cascade of rhythms, melodies, and harmonies.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/le-big-zero.jpg
 index: Ollie Oxen Free, Le Big Zero
 tags: ''
 keywords: 'Pop Canon, Heavy Vegetable, Apples In Stereo, '

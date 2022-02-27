@@ -7,7 +7,7 @@ description: Cinematic expressions of synthesis collide and swirl for an introsp
   from the past.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/benni.jpg
 index: The Return, Bênní
 tags: ''
 keywords: QuarterHawk, Jean-Michel Jarre, Tangerine Dream, Maserati, Com Truise, Goner

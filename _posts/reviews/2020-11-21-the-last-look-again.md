@@ -7,7 +7,7 @@ description: With its Byrds-inpired jangle, harmonized “whoah-oh”s, and over
   era between “new wave” and “alternative”.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/last.jpg
 index: Look Again, The Last
 tags: ''
 keywords: The Clash, Plimsouls, Sex Clark Five, House Arrest

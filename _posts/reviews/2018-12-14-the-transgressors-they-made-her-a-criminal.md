@@ -7,7 +7,7 @@ description: High octane fuel for your sonic funnycar, this is a set of guitar d
   and lots of attitude.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/transgressors.jpg
 index: They Made Her A Criminal, The Transgressors
 tags: ''
 keywords: Trespassers W, Buddy Holly, The Gomers , Super Secret

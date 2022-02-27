@@ -7,7 +7,7 @@ description: The macabre sounds of The Bad Man will appeal to those who like dar
   more.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/bad-man.jpg
 index: Laughing With Bad Teeth, The Bad Man
 tags: ''
 keywords: 'Man Man, Tom Waits, Mischief Brew, World/Inferno Friendship Society, '

@@ -6,7 +6,7 @@ description: Thoughtful and delicate, this collection of songs features a variet
   of near-pastoral pop tunes.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/jesse-dandelions.jpg
 index: Give Up The Gold, Jesse and the Dandelions
 tags: ''
 keywords: 'Real Estate, The Monolith, Ben Folds, '

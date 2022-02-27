@@ -5,7 +5,7 @@ category: reviews
 description: 'Danish female-fronted trio with punishing riffage and dramatic vocals '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/baby-in-vain.jpg
 index: More Nothing, Baby In Vain
 tags: ''
 keywords: Lush, Bleached, Raveonettes, Partisan

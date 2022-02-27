@@ -6,7 +6,7 @@ description: Dense arrangements make for some slowly emerging indie orchestral m
   Disc 2 is the demo versions of the songs on Disc 1.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/car-seat-headrest.jpg
 index: Twin Fantasy, Car Seat Headrest
 tags: ''
 keywords: Pavement, The Smiths, The Wedding Present, Matador

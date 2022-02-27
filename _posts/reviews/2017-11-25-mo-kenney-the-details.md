@@ -6,7 +6,7 @@ description: A great collection of intense flavors, from easy rockers to bedroom
   to full-on blasts
 author: jclacking
 image:
-  src: ''
+  src: details/2017/mo-kenney.jpg
 index: The Details, Mo Kenney
 tags: ''
 keywords: Juliana Hatfield, Courtney Barnett, Jenny Wilson, Pheromone

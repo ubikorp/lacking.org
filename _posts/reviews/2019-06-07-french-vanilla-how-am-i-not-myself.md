@@ -6,7 +6,7 @@ description: Hot-as-fire punk disco party with a raging saxophone and urgent fem
   vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/french-vanilla.jpg
 index: How Am I Not Myself?, French Vanilla
 tags: ''
 keywords: Le Tigre, Obliterati, Palberta, Danger Collective

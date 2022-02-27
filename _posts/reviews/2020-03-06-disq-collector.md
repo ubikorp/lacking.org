@@ -6,7 +6,7 @@ description: Finely crafted pop songs dressed up in rock outfits, shifting moods
   approaches with every track.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/disq.jpg
 index: Collector, Disq
 tags: ''
 keywords: Spoon, Buffalo Tom, Stephen Malkmus, Saddle Creek

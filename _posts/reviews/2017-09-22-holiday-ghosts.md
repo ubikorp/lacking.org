@@ -6,7 +6,7 @@ description: 'Garage rock like it’s meant to be, full of barely-controlled fuz
   vocals, warbling organs, and four-on-the-floor drums. '
 author: jclacking
 image:
-  src: ''
+  src: details/2017/holiday-ghosts.jpg
 index: Holiday Ghosts, Holiday Ghosts
 tags: ''
 keywords: Black Tambourines, The Woggles, King Khan, PNKSLM

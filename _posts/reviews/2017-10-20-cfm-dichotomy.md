@@ -6,7 +6,7 @@ description: Fuzzy solo project from LA fixture Charles Moothart, with a DIY eth
   clearly in place.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/cfm.jpg
 index: Dichotomy, CFM
 tags: ''
 keywords: Ty Segall, Mykal Cronin, Toadies, T-Rex, In The Red

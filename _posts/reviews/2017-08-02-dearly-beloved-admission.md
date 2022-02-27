@@ -6,7 +6,7 @@ description: Aggressive sounds from Canadia. Driving rock anthems with well-defi
   melodies, chugging guitars, and galloping bass.
 author: jclacking
 image:
-  src: ''
+  src: details/2016/dearly-beloved.jpg
 index: Admission, Dearly Beloved
 tags: ''
 keywords: Wolfmother, Pack AD, Turbonegro, Factor Canada

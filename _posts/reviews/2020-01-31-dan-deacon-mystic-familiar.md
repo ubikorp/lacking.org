@@ -7,7 +7,7 @@ description: If you grew up on videogames, the frenetic multilayered synths will
   Casio keyboards being sent down the garbage disposal. In a good way.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/dan-deacon.jpg
 index: Mystic Familiar, Dan Deacon
 tags: ''
 keywords: Phillip Glass, Squarepusher, Otto Von Schirach, The Flaming Lips, Domino

@@ -6,7 +6,7 @@ description: Always adaptable and never boring, Allen’s highlife drumming is u
   here set against a backdrop of a big jazz ensemble.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/tony-allen.jpg
 index: The Source, Tony Allen
 tags: ''
 keywords: Fela, Afrobeat, Big Band Jazz, Blue Note

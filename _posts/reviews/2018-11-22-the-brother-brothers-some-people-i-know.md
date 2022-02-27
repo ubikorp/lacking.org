@@ -6,7 +6,7 @@ description: If you like bands with Brothers in the name, the kind that pluck gu
   plunk banjos, and sing in close harmonies, here’s some more great stuff.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/brother-brothers.jpg
 index: Some People I Know, The Brother Brothers
 tags: ''
 keywords: The Moore Brothers, Simon and Garfunkel, Avett Brothers, Compass

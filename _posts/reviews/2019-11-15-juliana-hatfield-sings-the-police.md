@@ -6,7 +6,7 @@ description: The source material is brilliant, but the interpretations are so un
   that it’s more like “Juliana Hatfield’s Wax Museum of Songs by The Police”.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/juliana-hatfield.jpg
 index: Sings The Police, Juliana Hatfield
 tags: ''
 keywords: The Police, Juliana Hatfield, American Laundromat

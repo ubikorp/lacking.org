@@ -5,7 +5,7 @@ category: reviews
 description: Four chuggy songs showing great promise. From Canada.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/phono-pony.jpg
 index: Death by Blowfish EP, Phono Pony
 tags: ''
 keywords: 'Pixies, White Stripes, Oh Sees, '

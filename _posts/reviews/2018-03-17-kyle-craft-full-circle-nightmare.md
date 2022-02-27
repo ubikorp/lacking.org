@@ -6,7 +6,7 @@ description: A master songwriter effortlessly putting out majestic compositions 
   will stick in your head for weeks.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/kyle-craft.jpg
 index: Full Circle Nightmare, Kyle Craft
 tags: ''
 keywords: Ben Folds, AC Newman, Sub Pop

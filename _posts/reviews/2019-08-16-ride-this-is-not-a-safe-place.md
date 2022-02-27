@@ -7,7 +7,7 @@ description: With so many new bands discovering and repurposing the swirling sou
   of guitar-heavy near-instrumentals.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/ride.jpg
 index: This Is Not A Safe Place, Ride
 tags: ''
 keywords: My Bloody Valentine, Curve, Slowdive, Wichita

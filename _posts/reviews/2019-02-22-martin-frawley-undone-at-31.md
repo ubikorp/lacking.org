@@ -6,7 +6,7 @@ description: Martin is baring his soul, exposing his darkest secrets in a whispe
   croon, here inside this closet.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/martin-frawley.jpg
 index: Undone At 31, Martin Frawley
 tags: ''
 keywords: Twerps, Lou Reed, The Mountain Goats, Merge

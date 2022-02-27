@@ -7,7 +7,7 @@ description: Sunny, loose-limbed, and grinning from ear to ear, this collection 
   head as your foot touches the sidewalk on the first day of spring.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/greyboy-allstars.jpg
 index: Como De Allstars, The Greyboy Allstars
 tags: ''
 keywords: Galactic, The New Mastersounds, Vulfpeck, Knowledge Room

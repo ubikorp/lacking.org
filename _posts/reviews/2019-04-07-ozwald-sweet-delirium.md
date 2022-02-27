@@ -6,7 +6,7 @@ description: Sparkling gems, with great ‘70s AM radio hooks and harmonies and 
   detailed production.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/ozwald.jpg
 index: Sweet Delirium, Øzwald
 tags: ''
 keywords: Owsley, Mohair, Dr. Dog, Allswell

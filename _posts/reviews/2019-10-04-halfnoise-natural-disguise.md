@@ -6,7 +6,7 @@ description: Forward-looking dance funk, the kind of music that immediately make
   you grab the closest person by the wrist and drag them to the dance floor.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/halfnoise.jpg
 index: Natural Disguise, HalfNoise
 tags: ''
 keywords: Vulfpeck, Broncho, The Make-Up, Congrats

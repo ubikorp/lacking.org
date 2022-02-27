@@ -6,7 +6,7 @@ description: Heavenly melodies, luscious harmonies, over-chorused guitar jangles
   and a sunny sparkling delivery make this suitable for ‘90s 4AD fans.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/anemone.jpg
 index: Beat My Distance, Anemone
 tags: ''
 keywords: Tennis, The Bird and the Bee, Belly, Luminelle

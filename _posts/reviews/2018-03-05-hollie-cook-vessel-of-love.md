@@ -6,7 +6,7 @@ description: Pitch perfect UK reggae from the Slits vocalist, full of heavenly h
   and thumping bass.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/hollie-cook.jpg
 index: Vessel of Love, Hollie Cook
 tags: ''
 keywords: Steel Pulse, The Selecter, Merge

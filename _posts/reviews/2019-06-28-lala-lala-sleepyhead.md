@@ -6,7 +6,7 @@ description: Crafty pop punk, brimming over with chunky guitars, layered female 
   and lots of sneering.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/lala-lala.jpg
 index: Sleepyhead, Lala Lala
 tags: ''
 keywords: Bully, The Breeders, The Muffs, Hardly Art

@@ -7,7 +7,7 @@ description: The essence of R&B, with a soulful vocals that range from besotted 
   in between.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/fantastic-negrito.jpg
 index: Have You Lost Your Mind Yet?, Fantastic Negrito
 tags: ''
 keywords: G. Love and Special Sauce, Har Mar Superstar, Blood Orange, Cooking Vinyl

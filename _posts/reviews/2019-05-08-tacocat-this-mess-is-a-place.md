@@ -6,7 +6,7 @@ description: It’s catchy pop punk, and it’s clearly female-powered, but ther
   here than rainbow stickers, glorious hooks and riffs, and big puffy girl handwriting.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/tacocat.jpg
 index: This Mess Is A Place, Tacocat
 tags: ''
 keywords: Cub, Dressy Bessy, Veruca Salt, Sub Pop

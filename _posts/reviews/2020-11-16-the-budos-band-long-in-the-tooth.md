@@ -7,7 +7,7 @@ description: The Budos Band have a distinctive sound that blends afrobeat, funk,
   sections around.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/budos-band.jpg
 index: Long in the Tooth, The Budos Band
 tags: ''
 keywords: Antibalas Afrobeat Orchestra, Fela Kuti, Rocket Juice and the Moon, Daptone

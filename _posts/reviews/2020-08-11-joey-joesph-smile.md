@@ -7,7 +7,7 @@ description: Covering the Beach Boys’ mythical album Smile from start to finis
   inventive perspectives on a lost classic.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/joey-joesph.jpg
 index: Smile, Joey Joesph
 tags: ''
 keywords: 'The Apples In Stereo, Mr. Elevator, Self, '

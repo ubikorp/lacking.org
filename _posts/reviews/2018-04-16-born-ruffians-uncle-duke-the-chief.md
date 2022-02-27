@@ -6,7 +6,7 @@ description: Some of that weird pop, this time with a definite tinge of American
   or perhaps Canadiana, since the band is from Toronto
 author: jclacking
 image:
-  src: ''
+  src: details/2018/born-ruffians.jpg
 index: Uncle, Duke + the Chief, Born Ruffians
 tags: ''
 keywords: My Morning Jacket, Vampire Weekend, Deertick, Yep Roc

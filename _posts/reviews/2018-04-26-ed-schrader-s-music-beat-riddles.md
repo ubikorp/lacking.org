@@ -6,7 +6,7 @@ description: Heady mix of post-punk and electronic sounds, heavy on the bass rif
   Features Dan Deacon on beeps and such.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/ed-schrader-s-music-beat.jpeg
 index: Riddles, Ed Schrader's Music Beat
 tags: ''
 keywords: Dan Deacon, Liars, Lightning Bolt, Carpark

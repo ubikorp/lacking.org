@@ -7,7 +7,7 @@ description: 'You might expect rowdy blues, or thrash-worthy hardcore from the n
   wringing out a distinctive texture and taste. '
 author: jclacking
 image:
-  src: ''
+  src: details/2019/growlers.jpg
 index: Natural Affair, The Growlers
 tags: ''
 keywords: Cage The Elephant, Dr. Dog, Garageland, Beach Goth

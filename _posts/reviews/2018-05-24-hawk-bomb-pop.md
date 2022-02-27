@@ -6,7 +6,7 @@ description: Solid power-pop outing with an all-star cast… a must for fans of 
   Yellow Pills series.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/hawk.jpeg
 index: Bomb Pop, Hawk
 tags: ''
 keywords: Material Issue, The Posies, The Kinks, New Garden

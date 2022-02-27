@@ -6,7 +6,7 @@ description: If the aliens thought we communicated in oldies, and were trying to
   us a message, this would be it.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/mister-heavenly.jpg
 index: Boxing The Moonlight, Mister Heavenly
 tags: ''
 keywords: The Unicorns, Man Man, Islands, Polyvinyl

@@ -7,7 +7,7 @@ description: Pain, desperation, a desperate will to hang in there, and an obsess
   and they remain present here to comfort those in need of a song to help them through.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/eels.jpg
 index: Earth To Dora, Eels
 tags: ''
 keywords: A Man Called E, Nick Drake, Tom Waits, E Works

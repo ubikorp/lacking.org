@@ -6,7 +6,7 @@ description: Original psychedelic riff rock is an oxymoron … what matters is t
   to get you off your seat, which this band has aplenty
 author: jclacking
 image:
-  src: ''
+  src: details/2019/frankie-witchfingers.jpg
 index: Zam, Frankie and the Witchfingers
 tags: ''
 keywords: Oh Sees, King Gizzard and the Lizard Wizard, Brainiac, Greenway

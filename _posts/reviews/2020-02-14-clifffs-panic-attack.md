@@ -7,7 +7,7 @@ description: Edgy and propulsive in a way that fills songs with multitudes of ho
   minutes.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/clifffs.jpg
 index: Panic Attack, Clifffs
 tags: ''
 keywords: Gang of Four, Pixies, The Wrens, State Fair

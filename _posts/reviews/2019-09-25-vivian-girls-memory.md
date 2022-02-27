@@ -6,7 +6,7 @@ description: The girl group aesthetic survives, drenched in spring reverb and di
   crooning, and it’s not just unscathed, it’s very agitated and ready to rip throats.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/vivian-girls.jpg
 index: Memory, Vivian Girls
 tags: ''
 keywords: La Luz, Phil Spector, Surfer Blood, Polyvinyl

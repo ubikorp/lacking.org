@@ -6,7 +6,7 @@ description: Francophonic guitar attaque, brimming with chiming arpeggios, compl
   stringular interplay, and words beyond comprehension but not understanding.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/corridor.jpg
 index: Junior, Corridor
 tags: ''
 keywords: Ride, Failure, Parquet Courts, Sub Pop

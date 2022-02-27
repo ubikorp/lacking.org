@@ -6,7 +6,7 @@ description: Rock anthems filled with quirky bits of beat and string, layered wi
   some honey-toned vocals and surging guitars.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/thin-lips.jpg
 index: Chosen Family, Thin Lips
 tags: ''
 keywords: Speedy Ortiz, Courtney Barnett, Liz Phair, Lame-O

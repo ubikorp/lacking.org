@@ -6,7 +6,7 @@ description: Short blasts of punk fury. Many unsafe tracks, but the rest are a l
   good quick fun.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/sick-thoughts.jpg
 index: Sick Thoughts, Sick Thoughts
 tags: ''
 keywords: Ramones, Misfits, Agent Orange, Goner

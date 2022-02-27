@@ -6,7 +6,7 @@ description: Norwegian death pop worthy of Dave Brubeck with its catchy off-mete
   hooks takes you through a rainbow-colored tunnel of sharp candy shards.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/pom-poko.jpg
 index: Birthday, Pom Poko
 tags: ''
 keywords: Deerhoof, Low Frequency In Stereo, Kero Kero Bonito, Yeah Yeah Yeahs, Bella

@@ -6,7 +6,7 @@ description: 'This is the old Low turned up to 15. All hail the new Low! Note: T
   is very noisy and distorted. The machinery is not acting up.'
 author: jclacking
 image:
-  src: ''
+  src: details/2018/low.jpg
 index: Double Negative, Low
 tags: ''
 keywords: Cowboy Junkies, Sunn O))), This Mortal Coil, Brian Eno, Sub Pop

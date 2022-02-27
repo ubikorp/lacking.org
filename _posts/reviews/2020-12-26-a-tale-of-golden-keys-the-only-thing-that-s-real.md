@@ -7,7 +7,7 @@ description: When I hear indie pop as carefully crafted as this, with luminous c
   these cats are from Nuremberg.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/a-tale-of-golden-keys.jpg
 index: The Only Thing That’s Real, A Tale of Golden Keys
 tags: ''
 keywords: Peter Bjorn and John, Certain Animals, Metal Molly, Listenrecords

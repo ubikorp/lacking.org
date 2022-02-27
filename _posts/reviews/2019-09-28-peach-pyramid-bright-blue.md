@@ -6,7 +6,7 @@ description: Delightfully twee songs, filled with shimmering melodies, sparkling
   and heavenly choruses.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/peach-pyramid.jpg
 index: Bright Blue, Peach Pyramid
 tags: ''
 keywords: Tennis, The Sundays, The Bird and the Bee, Oscar St.

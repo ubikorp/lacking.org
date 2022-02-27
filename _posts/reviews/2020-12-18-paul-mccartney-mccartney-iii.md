@@ -7,7 +7,7 @@ description: Of course, when it’s Sir Paul doing the pandemic recording, it’
   the others, it exists in the McCartney continuum of eternal rock and roll.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/paul-mccartney.jpg
 index: McCartney III, Paul McCartney
 tags: ''
 keywords: 'Robert Plant, T. Rex, Ben Folds, '

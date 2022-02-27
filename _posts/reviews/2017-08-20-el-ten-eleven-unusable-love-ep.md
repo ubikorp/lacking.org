@@ -6,7 +6,7 @@ description: Synth-driven songs in a variety of moods, emboldened by a careful i
   of vocals and textures.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/el-ten-eleven.jpg
 index: Unusable Love EP, El Ten Eleven
 tags: ''
 keywords: 'Wolfgang Press, Jenny Lewis, '

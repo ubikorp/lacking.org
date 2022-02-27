@@ -7,7 +7,7 @@ description: Is it possible to overuse the word “swirly” when describing mod
   a kaleidoscopic land of… where was I going with this?
 author: jclacking
 image:
-  src: ''
+  src: details/2017/secret-colours.jpg
 index: Dream Dream, Secret Colours
 tags: ''
 keywords: 'STRFKR, Jagwar Ma, Tame Impala, Elephant 6 stuff, '

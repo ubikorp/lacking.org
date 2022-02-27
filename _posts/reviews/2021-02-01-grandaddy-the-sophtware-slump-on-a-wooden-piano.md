@@ -7,7 +7,7 @@ description: Twenty years ago, Grandaddy’s banged-up future was wrapped up in 
   his piano, and his characteristic keening on inevitable observations.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/grandaddy.jpg
 index: The Sophtware Slump ..... on a wooden piano, Grandaddy
 tags: ''
 keywords: Neil Young, The Mountain Goats, Ben Folds, Dangerbird

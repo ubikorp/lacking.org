@@ -6,7 +6,7 @@ description: A next-generation Neil Young, J Mascis blends massive guitar riffs,
   lyrics, and a whiny delivery to great effect.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/j-mascis.jpg
 index: Elastic Days, J Mascis
 tags: ''
 keywords: Neil Young, Dinosaur Jr., Sebadoh, Sub Pop

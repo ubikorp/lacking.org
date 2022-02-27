@@ -6,7 +6,7 @@ description: The Black Lips are like looking outside the bar window and seeing c
   and punk having an argument then a fistfight.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/black-lips.jpg
 index: Sing In A World That’s Falling Apart, Black Lips
 tags: ''
 keywords: The Mekons, The Front Bottoms, The Country Teasers, Fire

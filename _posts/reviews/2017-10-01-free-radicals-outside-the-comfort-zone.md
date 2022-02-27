@@ -6,7 +6,7 @@ description: A dynamic collection of mostly-short funky jazz instrumentals, with
   full horn section and a driving beat.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/free-radicals.jpg
 index: Outside the Comfort Zone, Free Radicals
 tags: ''
 keywords: 'Medeski Martin + Wood, Galactic, Antibalas, '

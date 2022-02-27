@@ -7,7 +7,7 @@ description: Subtle expressions of singing strings from a guitar and pedal steel
   intense relaxation you’ve had in a while.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/north-americans.jpg
 index: Roped In, North Americans
 tags: ''
 keywords: Calexico, Brian Eno, Japancakes, Third Man

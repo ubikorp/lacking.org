@@ -6,7 +6,7 @@ description: Indie rock is evergreen, especially when mixed with elements of psy
   and southern boogie.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/twin-peaks.jpg
 index: Lookout Low, Twin Peaks
 tags: ''
 keywords: The Band, The Skiffle Players, Spinto Band, Grand Jury

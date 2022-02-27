@@ -7,7 +7,7 @@ description: Something’s in the water Down Under; there’s a veritable rainbo
   ability to pivot from genuine ‘60s jingleisms into full-out afrobeat.
 author: jclacking
 image:
-  src: ''
+  src: details/2021/bananagun.jpg
 index: The True Story of Bananagun, Bananagun
 tags: ''
 keywords: Babe Rainbow, Pond, Swarming Branch, Full Time Hobby

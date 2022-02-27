@@ -7,7 +7,7 @@ description: Spooky and unhinged, this single plods along with the menacing tone
   vocals, a bad attitude, and a woozy organ.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/paranoyds.jpg
 index: Pet Cemetery, The Paranoyds
 tags: ''
 keywords: 'Dry Cleaning, Naked Giants, The Kiss-Offs, '

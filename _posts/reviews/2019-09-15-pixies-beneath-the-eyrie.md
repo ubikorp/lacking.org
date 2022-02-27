@@ -7,7 +7,7 @@ description: Reminiscent of Bossanova-era songwriting, the band continues to mak
   iconic sound.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/pixies.jpg
 index: Beneath The Eyrie, Pixies
 tags: ''
 keywords: The Breeders, Frank Black, Violent Femmes, Infectious

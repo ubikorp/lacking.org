@@ -6,7 +6,7 @@ description: Heady mix of folk, electronic and hip hop elements swirling togethe
   into something unique and accessible.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/rainbow-kitten-surprise.jpeg
 index: 'How To: Friend, Love, Freefal, Rainbow Kitten Surprise'
 tags: ''
 keywords: Modest Mouse, Django Django, My Morning Jacket, Vampire Weekend, Elektra

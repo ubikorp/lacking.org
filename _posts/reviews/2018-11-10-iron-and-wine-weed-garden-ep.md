@@ -6,7 +6,7 @@ description: A brief taste of Iron and Wine’s evolving style, filling out the 
   introspective strumming with updated production and a fuller “band” feel.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/iron-wine.jpg
 index: Weed Garden EP, Iron and Wine
 tags: ''
 keywords: Nick Drake, Wilco, Yo La Tengo, Sub Pop

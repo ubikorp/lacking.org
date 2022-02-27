@@ -7,7 +7,7 @@ description: I don’t know why I want to call this sound “California country�
   coloring are probably a big reason why.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/blitzen-trapper.jpg
 index: Holy Smokes Future Jokes, Blitzen Trapper
 tags: ''
 keywords: Jeff Tweedy, Flying Burrito Brothers, The Elected, Yep Roc

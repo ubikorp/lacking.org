@@ -7,7 +7,7 @@ description: WIth their minimalist riffing, straight ahead drumming, and disaffe
   a side project
 author: jclacking
 image:
-  src: ''
+  src: details/2019/b-boys.jpg
 index: Dudu, B Boys
 tags: ''
 keywords: Parquet Courts, Wire, The Minutemen, Captured Tracks

@@ -6,7 +6,7 @@ description: Female-fronted alt-rock with sparkly pop sensibilities that sounds 
   out of the ‘90s
 author: jclacking
 image:
-  src: ''
+  src: details/2017/great-grandpa.jpg
 index: Plastic Cough, Great Grandpa
 tags: ''
 keywords: Weezer, The Rentals, L7, Lush, Double Double Whammy

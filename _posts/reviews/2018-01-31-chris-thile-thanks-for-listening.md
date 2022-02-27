@@ -6,7 +6,7 @@ description: Thile (THEE-lee) is a world-class mandolinist who also happens to h
   replaced Garrison Keillor as the host of that Wobegon show. Subtle and introspective.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/chris-thile.jpg
 index: Thanks for Listening, Chris Thile
 tags: ''
 keywords: Jeff Buckley, Randy Newman, Nonesuch

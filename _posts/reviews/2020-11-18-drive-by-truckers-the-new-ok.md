@@ -7,7 +7,7 @@ description: Yes, it’s the Drive-By Truckers, and they remain consistent to th
   exactly like Dinosaur Jr. or riffing off Hall and Oates.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/drive-by-truckers.jpg
 index: The New OK, Drive-By Truckers
 tags: ''
 keywords: Wilco, Ramones, Dinosaur Jr., ATO

@@ -6,7 +6,7 @@ description: Short blasts of raw fury, seething with rage, dirty keyboards, and 
   a lot of fun.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/le-shok.jpg
 index: We Are Electrocution, Le Shok
 tags: ''
 keywords: Rondelles, Brainiac, Oblivians, Burger

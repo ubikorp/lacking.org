@@ -6,7 +6,7 @@ description: Bold effort from this young musician, this set of introspective son
   shows great skill and promise.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/snail-mail.jpg
 index: Lush, Snail Mail
 tags: ''
 keywords: The Sundays, Lush, Liz Phair, Madder Rose, Matador

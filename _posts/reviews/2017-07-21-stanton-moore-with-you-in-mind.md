@@ -8,7 +8,7 @@ description: A tribute to Allen Touissant organized by Stanton Moore, who plays 
   something for everyone.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/stanton-moore.jpg
 index: With You In Mind, Stanton Moore
 tags: ''
 keywords: Galactic, Meters, Neville Brothers, Allen Touissant, Cool Green

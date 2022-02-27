@@ -6,7 +6,7 @@ description: Posthumous release for this powerhouse soul singer. Perfect for a â
   cop drama.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/charles-bradley.jpg
 index: Black Velvet, Charles Bradley
 tags: ''
 keywords: Marvin Gaye, Otis Redding, Sam Cooke, Daptone

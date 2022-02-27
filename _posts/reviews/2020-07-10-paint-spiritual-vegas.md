@@ -7,7 +7,7 @@ description: When you make pop psychedelia with an exotic yet indeterminate elem
   reality.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/paint.jpg
 index: Spiritual Vegas, Paint
 tags: ''
 keywords: Alla Lahs, Chicano Batman, Elf Power, Mexican Summer

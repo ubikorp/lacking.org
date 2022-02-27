@@ -7,7 +7,7 @@ description: Still burning bright, this is an interesting collection of material
   loud, but it sure is sneering and in your face.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/iggy-pop.jpg
 index: Free, Iggy Pop
 tags: ''
 keywords: Tom Waits, Ken Nordine, Portishead, Loma Vista

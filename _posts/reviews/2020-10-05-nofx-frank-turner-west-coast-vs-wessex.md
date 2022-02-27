@@ -7,7 +7,7 @@ description: Two very political acts, performing each other’s songs. NOFX is a
   UK strummers, but the songs fare well in any protester’s hands.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/nofx-frank-turner.jpg
 index: West Coast vs. Wessex, NOFX + Frank Turner
 tags: ''
 keywords: Billy Bragg, Propaghandi, Jello Biafra + Mojo Nixon, Fat Wreck Chords

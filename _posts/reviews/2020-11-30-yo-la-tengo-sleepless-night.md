@@ -7,7 +7,7 @@ description: A new collection of covers from Yo La Tengo is not unusual, but the
   are always trailheads for musical exploration.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/yo-la-tengo.jpg
 index: Sleepless Night, Yo La Tengo
 tags: ''
 keywords: Bob Dylan, The Byrds, The Flying Machine, Matador

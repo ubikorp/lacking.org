@@ -7,7 +7,7 @@ description: One time, this robot arm at the plant started going haywire, flaili
   right down.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/com-truise.jpg
 index: Persuasion System, Com Truise
 tags: ''
 keywords: Moby, Brian Eno, Tangerine Dream, Ghostly

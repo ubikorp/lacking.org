@@ -6,7 +6,7 @@ description: Another stunning set of songs from these Vancouverites, full of fuz
   and dynamics.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/pack-ad.jpg
 index: Dollhouse, The Pack AD
 tags: ''
 keywords: New Pornographers, Nirvana, The Vaccines, Cadence

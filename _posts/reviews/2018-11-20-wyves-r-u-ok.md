@@ -6,7 +6,7 @@ description: Strutting around in Seventies duds, these songs get to the heart of
   matter in 9 mile-per-gallon, leaded-gas-only style.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/wyves.jpg
 index: R U OK?, Wyves
 tags: ''
 keywords: 'Led Zeppelin, White Denim, Wolfmother, '

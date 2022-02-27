@@ -7,7 +7,7 @@ description: It’s all in the name… fast and fuzzy blow-up-in-your-face pop p
   so point to you, Teenage Bottlerocket.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/teenage-bottlerocket.jpg
 index: Stealing The Covers, Teenage Bottlerocket
 tags: ''
 keywords: NOFX, Pansy Division, early Green Day, Fat Wreck Chords

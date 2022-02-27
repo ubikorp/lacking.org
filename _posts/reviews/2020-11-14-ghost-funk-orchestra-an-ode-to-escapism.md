@@ -7,7 +7,7 @@ description: Visiting exotic destinations has become an armchair pastime lately,
   this futuristic mix of global beats and funk grooves is surely your ticket.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/ghost-funk-orchestra.jpg
 index: An Ode To Escapism, Ghost Funk Orchestra
 tags: ''
 keywords: Antibalas Afrobeat Orchestra, Budos Band, Goat, Karma Chief

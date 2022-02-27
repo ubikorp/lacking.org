@@ -6,7 +6,7 @@ description: Punchy and punch drunk laments wrapped in glorious blankets of fuzz
   overgained vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/mike-krol.jpg
 index: Power Chords, Mike Krol
 tags: ''
 keywords: Bracket, Ty Segall, Hanni Al-Khatib, Merge

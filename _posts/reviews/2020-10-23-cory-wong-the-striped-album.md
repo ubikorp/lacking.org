@@ -7,7 +7,7 @@ description: The celebrated funk guitarist releases this collection of R&B and/o
   just wrapping paper on a big cinderblock of groove.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/cory-wong.jpg
 index: The Striped Album, Cory Wong
 tags: ''
 keywords: Vulfpeck, Prince, Joe Satriani, Roundwound Media

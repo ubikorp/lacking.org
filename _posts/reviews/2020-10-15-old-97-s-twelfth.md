@@ -7,7 +7,7 @@ description: Someone threw a key party for a bunch of musical genres, and Americ
   Old 97’s were playing.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/old-97-s.jpg
 index: Twelfth, Old 97's
 tags: ''
 keywords: The Sadies, The Bottlerockets, Drive By Truckers, ATO

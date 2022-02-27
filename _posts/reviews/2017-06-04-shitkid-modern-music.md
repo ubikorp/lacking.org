@@ -8,7 +8,7 @@ description: Bratty bedroom fuzz from an out there Swedish woman, this rocks in 
   make it happen.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/shitkid.jpg
 index: Modern Music, Shitkid
 tags: ''
 keywords: Brassy, Tiny Masters of Today, Solex, White Stripes, PNKSLM

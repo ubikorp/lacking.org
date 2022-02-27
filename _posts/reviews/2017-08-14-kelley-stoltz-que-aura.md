@@ -7,7 +7,7 @@ description: At the extreme end of DIY is DEY — do everything yourself. It’s
   and synth influences into his own sound.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/kelley-stoltz.jpg
 index: Que Aura, Kelley Stoltz
 tags: ''
 keywords: Ty Segall, Mac Demarco, Self, Sonny + the Sunsets, Castle Face

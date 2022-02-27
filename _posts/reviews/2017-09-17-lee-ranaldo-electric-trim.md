@@ -7,7 +7,7 @@ description: The Sonic Youth guitarist’s solo effort is not as discordant as y
   Lethem (on some lyrics)
 author: jclacking
 image:
-  src: ''
+  src: details/2017/lee-ranaldo.jpg
 index: Electric Trim, Lee Ranaldo
 tags: ''
 keywords: King Missile, Sonic Youth, Mute

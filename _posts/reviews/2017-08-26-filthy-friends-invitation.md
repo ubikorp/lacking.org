@@ -7,7 +7,7 @@ description: Supergroup featuring members from the Young Fresh Fellows, R.E.M., 
   like what you’d expect it to sound like.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/filthy-friends.jpg
 index: Invitation, Filthy Friends
 tags: ''
 keywords: Young Fresh Fellows, R.E.M., Sleater-Kinney, Baseball Project, Kill Rock

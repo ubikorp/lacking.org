@@ -6,7 +6,7 @@ description: A nice set of New Orleans-style blue funk from this Colombian band 
   a German label
 author: jclacking
 image:
-  src: ''
+  src: details/2017/fatso.jpg
 index: On Tape, Fatso
 tags: ''
 keywords: Dr. John, Joe Jackson, Galactic, Jazzhaus

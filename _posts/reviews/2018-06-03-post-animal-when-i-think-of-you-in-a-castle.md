@@ -6,7 +6,7 @@ description: Seriously kinetic, full of unexpected musical twists and turns, and
   the same time prone to laying down an excellent drone beat.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/post-animal.jpg
 index: When I Think Of You In A Castle, Post Animal
 tags: ''
 keywords: Thee Oh Sees, Artichoke, King Gizzard and the Lizard Wizard, Polyvinyl

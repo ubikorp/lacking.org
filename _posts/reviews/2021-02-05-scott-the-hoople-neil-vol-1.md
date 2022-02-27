@@ -7,7 +7,7 @@ description: If you love Neil Young as much as Scott McCaughey does, you’ll be
   delivered in McCaughey’s enthusiastic yelp rather than Young’s grizzled whine.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/scott-hoople.jpg
 index: NEIL Vol. 1, Scott The Hoople
 tags: ''
 keywords: 'Young Fresh Fellows, Neil Young, The Minus 5, '

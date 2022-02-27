@@ -6,7 +6,7 @@ description: A strange confluence of influences, with a lot of dynamic arrangeme
   and plenty of weird hooks that shouldn’t work but are lethally effective.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/omni.jpg
 index: Networker, Omni
 tags: ''
 keywords: Pavement, Steely Dan, Pinback, Sub Pop

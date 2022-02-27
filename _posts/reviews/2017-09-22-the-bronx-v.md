@@ -6,7 +6,7 @@ description: Classic LA hardcore served up in a blaze. An aggressive release fro
   an aggressive band.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/bronx.jpg
 index: "(V), The Bronx"
 tags: ''
 keywords: Rancid, Rocket From The Crypt, Bad Religion, Epitaph

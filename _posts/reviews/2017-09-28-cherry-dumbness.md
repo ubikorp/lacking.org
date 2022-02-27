@@ -6,7 +6,7 @@ description: An honest tribute to stupidity, full of hooks, snappy lyrics, and g
   choruses
 author: jclacking
 image:
-  src: ''
+  src: details/2017/cherry.jpg
 index: Dumbness, Cherry
 tags: ''
 keywords: Spoon, New Pornographers, Lame-o

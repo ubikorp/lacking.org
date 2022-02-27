@@ -8,7 +8,7 @@ description: A sparse yet not simple outing for this member of the Dead Milkmen,
   aesthetic.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/joe-jack-talcum.jpg
 index: Joe Jack Talcum sings Railroad Bill and Other Songs, Joe Jack Talcum
 tags: ''
 keywords: 'The Dead Milkmen, Daniel Johnston, Woody Guthrie, '

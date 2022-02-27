@@ -7,7 +7,7 @@ description: The bewitching chanteuse and the mute production wizard is a pairin
   pioneers are still leading today’s pack.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/pomplamoose.jpg
 index: Invisible People, Pomplamoose
 tags: ''
 keywords: 'The Bird and the Bee, Portishead, Eurhythmics, '

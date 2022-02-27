@@ -7,7 +7,7 @@ description: A simmering stew of cross-cultural influences, as the African and C
   and danceable as you’d expect
 author: jclacking
 image:
-  src: ''
+  src: details/2019/lakou-mizik.jpg
 index: HaitiaNola, Lakou Mizik
 tags: ''
 keywords: Trombone Shorty, Buraka Som Sistema, Anders Osborne, Cumbancha

@@ -6,7 +6,7 @@ description: Dense arrangements make for a hallucinatory experience as each song
   like a symphony passing you by at light speed.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/holy.jpg
 index: All These Worlds Are Yours, Holy
 tags: ''
 keywords: Black Moth Super Rainbow, early Pink Floyd, Syd Barrett, Flaming Lips, PNKSLM

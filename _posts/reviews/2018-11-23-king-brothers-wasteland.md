@@ -6,7 +6,7 @@ description: Another all-out rock-and-roll assault from Japan … they never get
   and neither do I.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/king-brothers.jpg
 index: Wasteland, King Brothers
 tags: ''
 keywords: Zoobombs, Black Crowes, Melvins, Mach Club

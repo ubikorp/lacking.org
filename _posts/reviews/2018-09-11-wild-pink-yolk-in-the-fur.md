@@ -6,7 +6,7 @@ description: Alternative rock with a tinge of Americana, the perfect thing to ea
   up miles and miles of road trip.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/wild-pink.jpg
 index: Yolk In The Fur, Wild Pink
 tags: ''
 keywords: Echo and the Bunnymen, Stornoway, War on Drugs, Tiny Engines

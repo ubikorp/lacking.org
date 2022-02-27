@@ -6,7 +6,7 @@ description: What kind of raving madman discotheque is this? I don’t care that
   singer yells like a man stuck in a tarpit, I’m staying for the groove.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/old-time-relijun.jpg
 index: See Now and How, Old Time Relijun
 tags: ''
 keywords: Dub Narcotic Sound System, The Make-Up, Nick Cave, K

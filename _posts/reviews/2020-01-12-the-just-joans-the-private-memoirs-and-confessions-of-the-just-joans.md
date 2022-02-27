@@ -7,7 +7,7 @@ description: The Just Joans are the sonic equivalent of tartan… between the gi
   as truck stop coffee, they could not be more Scottish.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/just-joans.jpg
 index: The Private Memoirs And Confessions Of The Just Joans, The Just Joans
 tags: ''
 keywords: Belle and Sebastian, The Rezillos, Asylum Street Spankers, Fika

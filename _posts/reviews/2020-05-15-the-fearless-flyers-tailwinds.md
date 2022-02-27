@@ -7,7 +7,7 @@ description: "“Fearless” is a good word to use for this fully-formed funk ou
   blend of precision and groove that does well on repeat."
 author: jclacking
 image:
-  src: ''
+  src: details/2020/fearless-flyers.jpg
 index: Tailwinds, The Fearless Flyers
 tags: ''
 keywords: Vulfpeck, John Scofield, Galactic, Vulf

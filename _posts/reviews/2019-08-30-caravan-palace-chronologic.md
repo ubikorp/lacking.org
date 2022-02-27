@@ -6,7 +6,7 @@ description: Caravan Palace uses old-fashioned swing music for its digital build
   blocks and emerges with something like audio caffeine
 author: jclacking
 image:
-  src: ''
+  src: details/2019/caravan-palace.jpg
 index: Chronologic, Caravan Palace
 tags: ''
 keywords: Shantel, Dee-lite, The Bird and the Bee, Le Plan

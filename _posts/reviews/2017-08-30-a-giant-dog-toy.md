@@ -5,7 +5,7 @@ category: reviews
 description: Good collection of power pop, with male / female / duet vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/a-giant-dog.jpg
 index: Toy, A Giant Dog
 tags: ''
 keywords: X, New Pornographers, Garbage, the Postal Service, Merge

@@ -6,7 +6,7 @@ description: Solo effort from longtime pop gem Ted Leo, filled with wicked hooks
   his distinctive singing voice.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/ted-leo.jpg
 index: The Hanged Man, Ted Leo
 tags: ''
 keywords: 'Superchunk, Spoon, the New Pornographers, '

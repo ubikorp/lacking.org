@@ -6,7 +6,7 @@ description: A modern amalgam of fuzz, psychedelia, baroque pop, and over-the-to
   production, filled with hooks baited with earworms.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/white-denim.jpg
 index: Performance, White Denim
 tags: ''
 keywords: Pond, T. Rex, Foxygen, The Black Keys, City Slang

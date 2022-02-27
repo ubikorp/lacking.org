@@ -7,7 +7,7 @@ description: One of the kingpins of dub easily proves his worth on this retrospe
   grooves, universal sounds that are neither fresh nor dated, but eternal.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/mad-professor.jpg
 index: 40 Years of Dub, Mad Professor
 tags: ''
 keywords: Lee “Scratch” Perry, Massive Attack, the KLF, Ariwa

@@ -7,7 +7,7 @@ description: 'The name should be enough to tune you in, but a more descriptive r
   as DJ’d by the Mario Brothers. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/nano-banton.jpg
 index: Inna De Bedroom, Nano Banton
 tags: ''
 keywords: Adrian Sherwood, Mad Professor, Goldie, CDR

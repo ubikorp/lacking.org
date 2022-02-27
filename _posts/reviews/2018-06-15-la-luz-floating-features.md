@@ -7,7 +7,7 @@ description: La Luz takes everything that’s great about surf rock and dreamy g
   keep up.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/la-luz.jpg
 index: Floating Features, La Luz
 tags: ''
 keywords: Link Wray, Shadowy Men on a Shadowy Planet, Insect Surfers, Hardly Art

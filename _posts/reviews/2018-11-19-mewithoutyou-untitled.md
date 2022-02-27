@@ -6,7 +6,7 @@ description: Somewhat screamy post-punk filled with jagged stabs of guitar and a
   rhythm section that casually locks in weirdly-metered fills.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/mewithoutyou.jpg
 index: "[untitled], mewithoutYou"
 tags: ''
 keywords: McClusky, Fugazi, Pinback, Run For Cover

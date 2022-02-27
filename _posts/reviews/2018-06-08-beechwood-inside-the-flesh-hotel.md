@@ -6,7 +6,7 @@ description: Good collection of indie rock music, with influences stretching ove
   several decades and a good variety of sounds.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/beechwood.jpg
 index: Inside The Flesh Hotel, Beechwood
 tags: ''
 keywords: Apples In Stereo, T. Rex, Wolfmother, Alive

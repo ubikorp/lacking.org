@@ -6,7 +6,7 @@ description: Gentle music for a pastoral New Zealand scene, with tappity drums a
   soft jangles playfully jostling understated vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/david-kilgour-heavy-eights.jpg
 index: Bobbie’s A Girl, David Kilgour + the Heavy Eights
 tags: ''
 keywords: The Clean, Alfie, Real Estate, Merge

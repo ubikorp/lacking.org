@@ -6,7 +6,7 @@ description: The Neanderthals of the Seattle “grunge” sound remain in top fo
   eleven angry, buzzing indictments of modern living.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/mudhoney.jpg
 index: Digital Garbage, Mudhoney
 tags: ''
 keywords: The Sonics, The Stooges, Nirvana, Sub Pop

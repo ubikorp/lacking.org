@@ -7,7 +7,7 @@ description: 'It’s an old recipe but it never fails: Mix some high-energy guit
   maelstrom on top.'
 author: jclacking
 image:
-  src: ''
+  src: details/2019/dude-york.jpg
 index: Falling, Dude York
 tags: ''
 keywords: Tacocat, Garbage, The Muffs, Hardly Art

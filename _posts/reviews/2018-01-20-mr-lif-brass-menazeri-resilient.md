@@ -6,7 +6,7 @@ description: Cross-cultural collaboration mixes up a Balkan frenzy with dope bea
   and MC’ing
 author: jclacking
 image:
-  src: ''
+  src: details/2017/mr-lif-brass-menazeri.jpeg
 index: Resilient, Mr. Lif & Brass Menazeri
 tags: ''
 keywords: 'Shantel, Goran Bregovic, Handsome Boy Modeling School, '

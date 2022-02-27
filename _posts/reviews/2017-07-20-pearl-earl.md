@@ -6,7 +6,7 @@ description: Reverb- and keyboard-drenched psychedelia fronted by urgent female 
   Out of Denton, TX, a town whose bands always deliver.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/pearl-earl.jpg
 index: Pearl Earl, Pearl Earl
 tags: ''
 keywords: The Photon Band, The Gossip, Sleater-Kinney, Dreamy Life

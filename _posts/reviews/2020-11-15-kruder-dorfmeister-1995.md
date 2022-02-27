@@ -8,7 +8,7 @@ description: I can’t tell if having a name that sounds like something SNL cook
   joke, though.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/kruder-dorfmeister.jpg
 index: 1995, Kruder + Dorfmeister
 tags: ''
 keywords: The Orb, DJ Kicks, Ninja Tune, RECORDJET

@@ -6,7 +6,7 @@ description: An intense mix of international flavors and electronic treatments, 
   album is an exotic transcendental journey across imaginary foreign lands.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/gang-gang-dance.jpg
 index: Kazuashita, Gang Gang Dance
 tags: ''
 keywords: Cocteau Twins, Beats Antique, Medicine Drum, Slowdive, 4AD

@@ -7,7 +7,7 @@ description: Electronic music seems to trend towards extremes of ambience, rhyth
   into what can only be called a rock barrage.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/tobacco.jpg
 index: Hot Wet + Sassy, Tobacco
 tags: ''
 keywords: Black Moth Super Rainbow, STRFKR, Jagwar Ma, Filter, Ghostly International

@@ -6,7 +6,7 @@ description: You can call them EFFED UP if you like. A solid and expansive set o
   music that draws from psychedelia, hardcore, punk, rough-cut ska, and many more.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/fucked-up.jpg
 index: Dose Your Dreams, Fucked Up
 tags: ''
 keywords: The Mekons, Buzzcocks, The Mighty Mighty Bosstones, Merge

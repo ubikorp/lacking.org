@@ -7,7 +7,7 @@ description: They hit hard and they hit fast, with half of the songs here clocki
   and drizzles of horn section.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/lunchbox.jpg
 index: After School Special, Lunchbox
 tags: ''
 keywords: Camera Obscura, They Might Be Giants, 2nd Grade, Slumberland

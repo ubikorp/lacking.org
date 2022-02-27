@@ -7,7 +7,7 @@ description: Intensely layered psychedelic outing from Brazil, with a collection
   rainbow of spices.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/guaxe.jpg
 index: Paraty, Brazil, Guaxe
 tags: ''
 keywords: Os Mutantes, Oh Sees, Boogarins, OAR

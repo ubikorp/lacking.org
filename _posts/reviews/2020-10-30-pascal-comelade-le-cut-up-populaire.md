@@ -7,7 +7,7 @@ description: This collection of instrumentals is bewildering in its variety and 
   of sulfur from a struck match.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/pascal-comelade.jpg
 index: Le cut-up populaire, Pascal Comelade
 tags: ''
 keywords: 'The Limiñanas, Barry Black, Pierre Bastien, '

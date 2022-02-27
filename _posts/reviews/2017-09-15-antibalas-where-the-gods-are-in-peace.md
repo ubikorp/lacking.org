@@ -6,7 +6,7 @@ description: Great modern take on the Afrobeat genre, with a healthy dash of psy
   punk.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/antibalas.jpg
 index: Where The Gods Are In Peace, Antibalas
 tags: ''
 keywords: Fela, Tony Allen, Afrobeat, Daptone

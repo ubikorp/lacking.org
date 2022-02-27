@@ -7,7 +7,7 @@ description: 'Sometimes you just need a pounding beat and a shout-along chorus, 
   and turns to keep the whole thing from collapsing into a steaming pile of riffs. '
 author: jclacking
 image:
-  src: ''
+  src: details/2020/naked-giants.jpg
 index: The Shadow, Naked Giants
 tags: ''
 keywords: Poster Children, Moistboyz, French Kicks, New West

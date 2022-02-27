@@ -6,7 +6,7 @@ description: Solid songs that mix a generous dollop of traditional country eleme
   with a big scoop of indie pop.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/shook-twins.jpg
 index: Some Good Lives, Shook Twins
 tags: ''
 keywords: Palehound, Jenny Lewis, Listing Ship, Dutch

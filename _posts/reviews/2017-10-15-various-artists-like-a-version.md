@@ -6,7 +6,7 @@ description: A wildly careening set of covers from Australias Triple J radio meg
   Loads of fun.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/various-artists.jpg
 index: Like A Version, Various Artists
 tags: ''
 keywords: Various Artists, Triple J

@@ -6,7 +6,7 @@ description: Another one-man rock act that wears its influences on its sleeve, b
   it’s well done so don’t take that as a complaint. Highly political.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/ty-richards.png
 index: Welcome to Flat Earth, Ty Richards
 tags: ''
 keywords: Ty Segall, T. Rex, Brian Jonestown Massacre, King Tuff, Tremolo

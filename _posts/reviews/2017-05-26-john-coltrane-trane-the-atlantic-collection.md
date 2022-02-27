@@ -7,7 +7,7 @@ description: About the only thing I could argue about here is the song selection
   other music you are playing, go for it, you can’t lose with any track.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/john-coltrane.jpg
 index: 'Trane: The Atlantic Collection, John Coltrane'
 tags: ''
 keywords: John Coltrane, Atlantic

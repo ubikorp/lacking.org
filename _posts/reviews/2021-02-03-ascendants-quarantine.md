@@ -6,7 +6,7 @@ description: This producer-songwriter duo invests electronic beats and heavily-t
   arrangements with soaring vocals, sometimes wordless but always emotive.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/ascendants.jpg
 index: Quarantine, Ascendants
 tags: ''
 keywords: 'Portishead, Laurie Anderson, The Bird and the Bee, '

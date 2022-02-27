@@ -6,7 +6,7 @@ description: Not exactly dance music, but very danceable music, filled with intr
   pop arrangements, sly lyrics, and impeccable production.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/peter-bjorn-john.jpg
 index: Endless Dream, Peter Bjorn + John
 tags: ''
 keywords: Belle and Sebastian, Momus, Interpol, Ingrid

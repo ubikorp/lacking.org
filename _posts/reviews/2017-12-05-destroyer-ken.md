@@ -6,7 +6,7 @@ description: Dan Bejar’s own project features his distinctive voice and musica
   carried over from the ‘80s.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/destroyer.jpg
 index: ken, Destroyer
 tags: ''
 keywords: The New Pornographers, New Order, Merge

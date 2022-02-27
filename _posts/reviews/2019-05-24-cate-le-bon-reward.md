@@ -7,7 +7,7 @@ description: Supremely introspective and carefully arranged, this collection of 
   journey
 author: jclacking
 image:
-  src: ''
+  src: details/2019/cate-le-bon.jpg
 index: Reward, Cate Le Bon
 tags: ''
 keywords: Laurie Anderson, Joanna Newsom, Micachu and the Shapes, Mexican Summer

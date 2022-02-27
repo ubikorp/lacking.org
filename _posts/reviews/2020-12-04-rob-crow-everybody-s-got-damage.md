@@ -7,7 +7,7 @@ description: When Rob Crow gets to anthologize the songs he wants to cover into 
   Crimson to the Melvins to the Beach Boys.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/rob-crow.jpg
 index: Everybody’s Got Damage, Rob Crow
 tags: ''
 keywords: Heavy Vegetable, Pinback, Bill Fox, Joyful Noise

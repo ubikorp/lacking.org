@@ -5,7 +5,7 @@ category: reviews
 description: Intriguing set of well-crafted songs from this solo artist.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/la-louma.jpg
 index: Let The World Be Flooded Out, La Louma
 tags: ''
 keywords: Ani DiFranco, Bikini Kill, Sleater-Kinney, Deerhoof, Thao and the Get Down

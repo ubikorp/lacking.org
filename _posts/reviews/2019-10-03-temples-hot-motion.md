@@ -7,7 +7,7 @@ description: Modern electronic soul, richly layered and intricately produced, wi
   hits, and so on.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/temples.jpg
 index: Hot Motion, Temples
 tags: ''
 keywords: STRFKR, Foxygen, BRONCHO, ATO

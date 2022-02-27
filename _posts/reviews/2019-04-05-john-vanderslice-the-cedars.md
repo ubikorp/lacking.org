@@ -6,7 +6,7 @@ description: A meticulously crafted release, with extreme attention to detail an
   a great sense of cohesion despite a wide variety of sounds… destined to be a classic.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/john-vanderslice.jpg
 index: The Cedars, John Vanderslice
 tags: ''
 keywords: Dirty Projectors, The Mountain Goats, The Microphones, Native Cat

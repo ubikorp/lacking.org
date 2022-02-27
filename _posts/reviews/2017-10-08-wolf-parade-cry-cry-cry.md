@@ -6,7 +6,7 @@ description: Dense arrangements of fragile parts, a wide palette of textures and
   and a pervading sense of drama make this a collection of pensive songs
 author: jclacking
 image:
-  src: ''
+  src: details/2017/wolf-parade.jpg
 index: Cry Cry Cry, Wolf Parade
 tags: ''
 keywords: The Decembrists, Radiohead, Beirut, Sub Pop

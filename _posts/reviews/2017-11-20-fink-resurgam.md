@@ -6,7 +6,7 @@ description: Fink meanders through a variety of moody sounds, mostly brooding wi
   flashing patches of sunshine.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/fink.jpg
 index: Resurgam, Fink
 tags: ''
 keywords: The National, Nick Cave, Liars, R’Coup’d

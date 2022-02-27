@@ -7,7 +7,7 @@ description: Understated but solid set of songs with a strong female vocal prese
   music a rich and interesting texture.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/jay-som.jpg
 index: Anak Ko, Jay Som
 tags: ''
 keywords: Pinback, This Is The Kit, Mo Kenney, Polyvinyl

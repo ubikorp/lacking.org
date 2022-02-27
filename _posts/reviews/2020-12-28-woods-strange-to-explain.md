@@ -7,7 +7,7 @@ description: If this band were actual woods, they would be filled with fog swirl
   your ear as the leaves are chiming in the light.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/woods.jpg
 index: Strange To Explain, Woods
 tags: ''
 keywords: Fleet Foxes, Elf Power, Blitzen Trapper, Woodsist

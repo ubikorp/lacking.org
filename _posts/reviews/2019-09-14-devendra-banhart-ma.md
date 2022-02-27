@@ -6,7 +6,7 @@ description: Orchestral and very intelligent singer-songwriter music that yields
   very intricate arrangements without being overwhelming and overwrought.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/devendra-banhart.jpg
 index: Ma, Devendra Banhart
 tags: ''
 keywords: Sufjan Stevens, Sondre Lerche, Edwin Collins, Sire

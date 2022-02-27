@@ -6,7 +6,7 @@ description: After serving 11 years backing Mark E. Smith, this bands breaks out
   a dark rock sound, thrilling with its edgy energy and monster riffing.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/imperial-wax.jpg
 index: Gastwerk Saboteurs, Imperial Wax
 tags: ''
 keywords: Quicksand, Failure, Killing Joke, Saustex

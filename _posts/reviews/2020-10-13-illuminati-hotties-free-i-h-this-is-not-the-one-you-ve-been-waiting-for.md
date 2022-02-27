@@ -7,7 +7,7 @@ description: Swerving wildly between sweetly melodic and audibly unhinged, this 
   minute of its glitchy post-hardcore pop magic.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/illuminati-hotties.jpg
 index: 'FREE I.H: This Is Not The One You''ve Been Waiting For, illuminati hotties'
 tags: ''
 keywords: 'Le Tigre, Brainiac, Daisy Chainsaw, '

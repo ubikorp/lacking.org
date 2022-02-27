@@ -6,7 +6,7 @@ description: This trio of brothers make a racket that’s a lot of fun, and catc
   hack.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/safes.jpg
 index: Tasty Waves, The Safes
 tags: ''
 keywords: The Apples In Stereo, Spot 1019, Young Fresh Fellows, Nick Lowe, Hidden

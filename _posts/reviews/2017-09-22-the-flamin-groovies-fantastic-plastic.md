@@ -7,7 +7,7 @@ description: Cyril Jordan and Chris Wilson reunite to bring back the sound that 
   to form.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/flamin-groovies.jpg
 index: Fantastic Plastic, The Flamin' Groovies
 tags: ''
 keywords: Big Star, The Plimsouls, Wilco, Sonic Kicks

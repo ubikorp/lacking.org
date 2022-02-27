@@ -6,7 +6,7 @@ description: Angular and glitchy while remaining melodic, this is a labyrinthine
   of electronic compositions inviting attention to detail or outright zoning out.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/rollercoasterwater.jpg
 index: Degauss, Rollercoasterwater
 tags: ''
 keywords: 'Mouse on Mars, Tangerine Dream, Aphex Twin, '

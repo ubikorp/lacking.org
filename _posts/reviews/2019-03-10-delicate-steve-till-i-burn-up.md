@@ -6,7 +6,7 @@ description: Quite the military parade, a non-stop set of marching songs for liq
   guitar and drum machine.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/delicate-steve.jpg
 index: Till I Burn Up, Delicate Steve
 tags: ''
 keywords: Ratatat, Brian Eno, Brian May, Anti

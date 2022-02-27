@@ -6,7 +6,7 @@ description: Mysteriously complicated folk music, with the sort of lush guitar a
   and ethereal vocals that brought 4AD to prominence 30+ years ago.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/big-thief.jpg
 index: U.F.O.F., Big Thief
 tags: ''
 keywords: Buck Meek, Throwing Muses, Jessca Hoop, 4AD

@@ -6,7 +6,7 @@ description: Delicious pop conconctions, loaded with clever production flourishe
   and infectious melodies wrapped around a soulful core.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/jr-jr.jpg
 index: Invocation / Conversations, Jr. Jr.
 tags: ''
 keywords: Hall and Oates, The Bird and the Bee, Jellyfish, Love Is EZ

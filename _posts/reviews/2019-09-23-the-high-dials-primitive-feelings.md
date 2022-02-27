@@ -7,7 +7,7 @@ description: A bit of a throwback to the sound of late ‘80s Manchester and sub
   vocals.
 author: jclacking
 image:
-  src: ''
+  src: details/2019/high-dials.jpg
 index: Primitive Feelings, The High Dials
 tags: ''
 keywords: The Stone Roses, Wooden Shjips, James, Hook + Prayer

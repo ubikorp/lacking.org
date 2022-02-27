@@ -6,7 +6,7 @@ description: Swirling with electronic highlights, these emotional songs provide 
   layers, angelic choruses, and expressive lyrics.
 author: jclacking
 image:
-  src: ''
+  src: details/2018/love-language.jpg
 index: Baby Grand, The Love Language
 tags: ''
 keywords: My Morning Jacket, New Pornographers, Death Cab for Cutie, Merge

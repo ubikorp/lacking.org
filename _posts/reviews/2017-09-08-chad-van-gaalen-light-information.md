@@ -7,7 +7,7 @@ description: Strange songs, played by one man with a strange voice. Science fict
   turns.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/chad-van-gaalen.jpg
 index: Light Information, Chad Van Gaalen
 tags: ''
 keywords: Ted Leo, The Left Banke, Momus, Sub Pop

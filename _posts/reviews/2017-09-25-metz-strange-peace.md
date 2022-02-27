@@ -7,7 +7,7 @@ description: The line between a riff and a throbbing structures of pitched rhyth
   A Steve Albini recording.
 author: jclacking
 image:
-  src: ''
+  src: details/2017/metz.jpg
 index: Strange Peace, METZ
 tags: ''
 keywords: Bass Drum of Death, JEFF the Brotherhood, Oh Sees, King Gizzard + TLW, Sub

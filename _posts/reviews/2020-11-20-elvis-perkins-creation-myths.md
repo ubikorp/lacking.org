@@ -7,7 +7,7 @@ description: It’s been a while, but Elvis Perkins’ songwriting chops remain 
   a dry sandy desert of plinky singer-songwriters.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/elvis-perkins.jpg
 index: Creation Myths, Elvis Perkins
 tags: ''
 keywords: Jason Isbell, Michael Penn, Kurt Vile, MIR

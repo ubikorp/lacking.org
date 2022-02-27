@@ -6,7 +6,7 @@ description: 'Verring wildly from soft-funk to outright garage fuzz, this wouldn
   be out of place coming out the AM radio and windows of a 1974 Maverick. '
 author: jclacking
 image:
-  src: ''
+  src: details/2019/levitation-room.jpg
 index: Headspace, Levitation Room
 tags: ''
 keywords: Swarming Branch, The Kinks, The Schizophonics, Greenway

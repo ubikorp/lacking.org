@@ -6,7 +6,7 @@ description: This is a heady mix of Tin Pan Alley melodies, lonesome cowboy deli
   and ornate arrangements fit for the most dramatic of the theater kids.
 author: jclacking
 image:
-  src: ''
+  src: details/2020/cut-worms.jpg
 index: Nobody Lives Here Anymore, Cut Worms
 tags: ''
 keywords: Okey Dokey, Buddy Holly, The Lemon Twigs, Jagjaguar
