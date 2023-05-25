@@ -22,15 +22,14 @@ tags: primus april-march jenny-toomey low mike-doughty calexico flat-duo-jets se
   bodega gogol-bordello firewater carl-king heather-nova mekons los-miticos-del-ritmo
   jaco-pastorius money-mark pierre-perpall stereo-total rubinoos wedding-present yo-la-tengo
   bill-callahan-bonnie-prince-billy negativland black-midi volebeats sursiks dave-depper
-  herbie-mann jonah-jones pretty-reckless yann-tiersen fever-ray
+  herbie-mann jonah-jones pretty-reckless yann-tiersen
 keywords: April March, Bill Callahan &amp; Bonnie &quot;Prince&quot; Billy, black
-  midi, Bodega, Calexico, Camera Obscura, Carl King, Chris Murray, Dave Depper, Fever
-  Ray, Firewater, Flat Duo Jets, Gogol Bordello, The Greyboy Allstars, Heather Nova,
-  Herbie Mann, International Beat, Jaco Pastorius, Jenny Toomey, Jonah Jones, Los
-  Miticos Del Ritmo, Low, The Mekons, Mike Doughty, Money Mark, Negativland, Paul
-  Collins and Marci Marks, Pierre Perpall, The Pretty Reckless, Primus, The Rubinoos,
-  Sex Clark Five, Skankin&#39; Pickle, Spot 1019, Stereo Total, The Streetwalkin&#39;
-  Cheetahs, The Sursiks, Tripping Daisy, Volebeats, Waco Brothers, The Wedding Present,
-  Yann Tiersen , Yo La Tengo
+  midi, Bodega, Calexico, Camera Obscura, Carl King, Chris Murray, Dave Depper, Firewater,
+  Flat Duo Jets, Gogol Bordello, The Greyboy Allstars, Heather Nova, Herbie Mann,
+  International Beat, Jaco Pastorius, Jenny Toomey, Jonah Jones, Los Miticos Del Ritmo,
+  Low, The Mekons, Mike Doughty, Money Mark, Negativland, Paul Collins and Marci Marks,
+  Pierre Perpall, The Pretty Reckless, Primus, The Rubinoos, Sex Clark Five, Skankin&#39;
+  Pickle, Spot 1019, Stereo Total, The Streetwalkin&#39; Cheetahs, The Sursiks, Tripping
+  Daisy, Volebeats, Waco Brothers, The Wedding Present, Yann Tiersen , Yo La Tengo
 ---
 The carefully curated collection of artists performing tracks made famous by other artists continues, in the third annual **Version Control**. Some of these could be so obscure as to ask “is it a cover if I never heard the original” but we can leave the answering of that to the armchair philosophers. I’ll go on the record saying a good song is a good song no matter who performs it. Also, to the listener and fellow cassette afficionado that complained about Maxell and Memorex being mentioned in the same breath: my point is that neither one of them is TDK.
