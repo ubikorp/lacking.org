@@ -18,7 +18,9 @@
       </td>
       <td>
           {% if item['location'] == 'kafm' %}
-            KAFM Grand Junction
+            <a href="https://kafmcommunityradio.org/" target="_blank">KAFM Grand Junction</a>
+          {% elsif item['location'] == 'ltw' %}
+            <a href="https://louderthanwar.com/louder-than-war-radio/" target="_blank">Louder Than War Internet Radio</a>
           {% else %}
             <a href="https://www.mixcloud.com/live/the-lacking-org/" target="_blank">Mixcloud</a>
           {% endif %}

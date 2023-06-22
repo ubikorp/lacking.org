@@ -6,6 +6,8 @@
   </a>
   {% if next_airdate['location'] == 'kafm' %}
     <p class="location"><a href="https://www.kafmradio.org" target="_blank">KAFM Grand Junction 88.1 FM</a></p>
+  {% elsif next_airdate['location'] == 'ltw' %}
+    <p class="location"><a href="https://louderthanwar.com/louder-than-war-radio/" target="_blank">Louder Than War Internet Radio</a></p>
   {% else %}
     <p class="location"><a href="https://www.mixcloud.com/live/the-lacking-org/" target="_blank">Streaming on Mixcloud</a></p>
   {% endif %}
@@ -13,6 +15,8 @@
   <p id="stream-link">
     {% if next_airdate['location'] == 'kafm' %}
       <a class="button" href="http://www.radiorethink.com/tuner/?stationCode=KAFM&amp;stream=lo" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;">Listen now!</a>
+    {% elsif next_airdate['location'] == 'ltw' %}
+      <a class="button" href="https://s2.radio.co/sab795a38d/listen" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=350,top=1'); return false;">Listen now!</a>
     {% else %}
       <a class="button" href="https://www.mixcloud.com/live/the-lacking-org/" target="_blank">Listen now!</a>
     {% endif %}
