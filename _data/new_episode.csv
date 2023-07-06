@@ -1,37 +1,24 @@
 ep,seg,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds,Mixcloud
-179,0,,,,,00:00,"Orange Drink can be sweet, it can be tart, and sometimes it will even remind you of citrus.",0:00:00,0,0, 0:00:00
-179,1,1,Waiting,Orange Drink,Double Fine PsychOdyssey Original Soundtrack: Vol. 2A,04:13,Beginning the motorik,0:00:00,253,0,"Orange Drink ""Waiting"" 0:00:00"
-179,2,2,SIGN ON,,,00:55,,0:04:13,55,253,SIGN ON 0:04:13
-179,3,4,Digging Deeper Now,Alison Goldfrapp,The Love Invention,04:17,It’s a dynamic world,0:05:14,257,314,"Alison Goldfrapp ""Digging Deeper Now"" 0:05:14"
-179,3,5,Artichaut,Chinese Man,Groove Sessions,04:17,Singing on the sly,0:09:31,257,571,"Chinese Man ""Artichaut"" 0:09:31"
-179,3,6,No Time (feat. Jack Peñate),Django Django,Off Planet Part 3,03:40,Escape is imminent,0:13:48,220,828,"Django Django ""No Time (feat. Jack Peñate)"" 0:13:48"
-179,3,7,Til We Meet Again (live at the Natural History Museum),Kid Koala,Creatures of the Late Afternoon,02:53,Fractured sign-off,0:17:28,173,1048,"Kid Koala ""Til We Meet Again (live at the Natural History Museum)"" 0:17:28"
-179,4,8,BREAK,,,00:54,,0:20:21,54,1221,BREAK 0:20:21
-179,5,10,Polacrilex Kid,Protomartyr,Formal Growth In The Desert,03:48,Enumerate the ways,0:21:37,228,1297,"Protomartyr ""Polacrilex Kid"" 0:21:37"
-179,5,11,Swim Back,Daughter,Stereo Mind Game,04:34,Keep your breathing even,0:25:25,274,1525,"Daughter ""Swim Back"" 0:25:25"
-179,5,12,The Chilling Place,Fort Lauderdale,Pretty Monster,03:53,Dig the decorations,0:29:59,233,1799,"Fort Lauderdale ""The Chilling Place"" 0:29:59"
-179,5,13,Slide,Luna,Lunapark,04:20,Free of friction,0:33:52,260,2032,"Luna ""Slide"" 0:33:52"
-179,5,14,Diamond,Klint ,Snatch,03:31,Rolling on the bass,0:38:12,211,2292,"Klint  ""Diamond"" 0:38:12"
-179,6,14,BREAK,,,01:03,,0:41:43,63,2503,BREAK 0:41:43
-179,7,15,Wizard Of Points,Je Suis France,Afrikan Majik,07:29,Cash them all in,0:42:46,449,2566,"Je Suis France ""Wizard Of Points"" 0:42:46"
-179,7,16,"Terra Illustris, Pt. 1",Motor!k,4,05:42,A fitting name,0:50:15,342,3015,"Motor!k ""Terra Illustris, Pt. 1"" 0:50:15"
-179,7,17,Hardest Geometry Problem In The World,Mark Mothersbaugh,Rushmore,01:29,Quite difficult,0:55:57,89,3357,"Mark Mothersbaugh ""Hardest Geometry Problem In The World"" 0:55:57"
-179,7,18,San Siz,Yaqub Zoroofchi,Arézoo,04:15,Deep melancholy,0:57:26,255,3446,"Yaqub Zoroofchi ""San Siz"" 0:57:26"
-179,8,19,BREAK,,,01:10,,1:01:41,70,3701,BREAK 1:01:41
-179,9,21,You Better Have a Gun,Fantastic Negrito,Grandfather Courage,04:47,Self defense is advised,1:03:21,287,3801,"Fantastic Negrito ""You Better Have a Gun"" 1:03:21"
-179,9,22,Wake Me Up (Dan Carey Dub),Foals,Life Is Dub,04:37,Spread and dubbed,1:08:08,277,4088,"Foals ""Wake Me Up (Dan Carey Dub)"" 1:08:08"
-179,9,23,Punks,The Heliocentrics,Legna,03:55,Stuttering through the changes,1:12:45,235,4365,"The Heliocentrics ""Punks"" 1:12:45"
-179,9,24,4 Morant (Better Luck Next Time),Com Truise,Brokendate,02:51,The club is looking hostile,1:16:40,171,4600,"Com Truise ""4 Morant (Better Luck Next Time)"" 1:16:40"
-179,10,25,BREAK,,,00:54,,1:19:31,54,4771,BREAK 1:19:31
-179,11,26,Ride That Dolphin,KNOWER,KNOWER FOREVER,03:29,Ocean music,1:20:25,209,4825,"KNOWER ""Ride That Dolphin"" 1:20:25"
-179,11,27,Nurse!,bar italia,Tracey Denim,03:48,In need of medical attention,1:23:54,228,5034,"bar italia ""Nurse!"" 1:23:54"
-179,11,28,Flypaper,Brainiac,From Dayton Ohio,02:36,An unearthed gem,1:27:42,156,5262,"Brainiac ""Flypaper"" 1:27:42"
-179,11,29,Things Are Gonna Change (feat. Lealani),Kid Koala,Creatures of the Late Afternoon,02:59,Scratch the itch,1:30:18,179,5418,"Kid Koala ""Things Are Gonna Change (feat. Lealani)"" 1:30:18"
-179,11,30,Negative Sister,John Dwyer,"Posh Swat 7""",05:51,Stuttering madness,1:33:17,351,5597,"John Dwyer ""Negative Sister"" 1:33:17"
-179,12,31,BREAK,,,01:27,,1:39:08,87,5948,BREAK 1:39:08
-179,13,33,Woman Trouble,Khruangbin & Kelly Doyle,Live at Stubb's,02:10,Subtle waftings,1:41:07,130,6067,"Khruangbin & Kelly Doyle ""Woman Trouble"" 1:41:07"
-179,13,34,Rasta tsar,Pierre Bastien,Sonic Folkways,02:12,The message is forthcoming,1:43:17,132,6197,"Pierre Bastien ""Rasta tsar"" 1:43:17"
-179,13,35,Sleeve Of A Tweed Jacket (Elbow Patch),Orange Drink,Double Fine PsychOdyssey Original Soundtrack: Vol. 2A,03:36,Introspective journey,1:45:29,216,6329,"Orange Drink ""Sleeve Of A Tweed Jacket (Elbow Patch)"" 1:45:29"
-179,13,36,Oh! Sweet Nothin',The Velvet Underground,Loaded,07:27,Ain’t got nothin’ at all,1:49:05,447,6545,"The Velvet Underground ""Oh! Sweet Nothin'"" 1:49:05"
-179,14,37,SIGN OFF,,,01:19,,1:56:32,79,6992,SIGN OFF 1:56:32
-179,15,38,Brokendate,Com Truise,Brokendate,05:08,A warbling call,1:57:51,308,7071,"Com Truise ""Brokendate"" 1:57:51"
+180,0,,,,,00:00,The Boo Radleys are eager to share their sweet shocking intensity and it will instantly lift your day.,https://www.mixcloud.com/the-lacking-org/ejcdks-180-how-was-i-to-know/,0,0, 0:00:00
+180,1,1,How Was I to Know,The Boo Radleys,Eight,04:03,For John Ohbee,0:00:00,243,0,"The Boo Radleys ""How Was I to Know"" 0:00:00"
+180,2,2,SIGN ON,,,00:45,,0:04:03,45,243,SIGN ON 0:04:03
+180,3,4,Disgrace,Deer Tick,Emotional Contracts,02:54,Feeling dusty,0:04:54,174,294,"Deer Tick ""Disgrace"" 0:04:54"
+180,3,5,Fear Evil Like Fire,Yves Tumor,"Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",03:31,Distant shuffling,0:07:48,211,468,"Yves Tumor ""Fear Evil Like Fire"" 0:07:48"
+180,3,6,Jellybones,The Unicorns,Who Will Cut Our Hair When We're Gone? (Remastered),02:44,Gimme the fat filter,0:11:19,164,679,"The Unicorns ""Jellybones"" 0:11:19"
+180,4,7,BREAK,,,01:00,,0:14:03,60,843,BREAK 0:14:03
+180,5,10,Cujo Kiddies,Disq,Desperately Imagining Someplace Quiet,03:51,Twisted features,0:16:06,231,966,"Disq ""Cujo Kiddies"" 0:16:06"
+180,5,11,Inside,14 Iced Bears,C86 - Deluxe Edition (Disc 2),01:49,Redlining and worth it,0:19:57,109,1197,"14 Iced Bears ""Inside"" 0:19:57"
+180,5,12,Pinking Shears,"Mandy, Indiana",i've seen a way,02:32,You cannot borrow them,0:21:46,152,1306,"Mandy, Indiana ""Pinking Shears"" 0:21:46"
+180,5,13,Lose Your Cool,Stuck,Freak Frequency,03:11,Totally blowing it,0:24:18,191,1458,"Stuck ""Lose Your Cool"" 0:24:18"
+180,6,14,BREAK,,,01:00,,0:27:29,60,1649,BREAK 0:27:29
+180,7,16,What A Bringdown,MC Honky,I Am The Messiah,03:50,A real bummer,0:28:59,230,1739,"MC Honky ""What A Bringdown"" 0:28:59"
+180,7,17,Hey Tía!,Mexican Institute of Sound,Méjico Máxico,03:52,The biggest party,0:32:49,232,1969,"Mexican Institute of Sound ""Hey Tía!"" 0:32:49"
+180,7,18,All the Young Dudes (feat. Kirsty Rock),Easy Star All-Stars,Ziggy Stardub,03:45,I will allow it,0:36:41,225,2201,"Easy Star All-Stars ""All the Young Dudes (feat. Kirsty Rock)"" 0:36:41"
+180,7,19,Mars,Yeah Yeah Yeahs,Cool It Down,01:56,An imaginary voyage,0:40:26,116,2426,"Yeah Yeah Yeahs ""Mars"" 0:40:26"
+180,8,20,BREAK,,,01:00,,0:42:22,60,2542,BREAK 0:42:22
+180,9,23,Demonbird,Draag,Dark Fire Heresy,03:23,Drenching it out of the gate,0:44:24,203,2664,"Draag ""Demonbird"" 0:44:24"
+180,9,24,Right Before My Eyes,The Snitches,Star Witness,02:56,The powerest of pops,0:47:47,176,2867,"The Snitches ""Right Before My Eyes"" 0:47:47"
+180,9,25,Not If You Were The Last Junkie On Earth,The Dandy Warhols,The Dandy Warhols Come Down,03:11,The finest Portland beef,0:50:43,191,3043,"The Dandy Warhols ""Not If You Were The Last Junkie On Earth"" 0:50:43"
+180,9,26,Snake Appeal (2023),Melvins,"The Devil You Knew, The Devil You Know",01:53,A fresh beating,0:53:54,113,3234,"Melvins ""Snake Appeal (2023)"" 0:53:54"
+180,10,27,SIGN OFF,,,01:30,,0:55:47,90,3347,SIGN OFF 0:55:47
+180,11,28,The Frequencies,Kid Koala,Creatures of the Late Afternoon,03:40,They are converging,0:57:17,220,3437,"Kid Koala ""The Frequencies"" 0:57:17"
