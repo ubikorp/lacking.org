@@ -1,23 +1,34 @@
 ep,seg,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds,Mixcloud
-187,0,,,,,,"They appear to be American, not so much Trappists, but they sound like a clattering of drums and hooks.",https://www.mixcloud.com/the-lacking-org/ong2xx-187-seg-fault/,,, https://www.mixcloud.com/the-lacking-org/ong2xx-187-seg-fault/
-187,1,1,Seg Fault,American Trappist,Poison Reverse,04:03,Crashing the mainframe,0:00:00,243,0,"American Trappist ""Seg Fault"" 0:00:00"
-187,2,2,SIGN ON,,,00:59,,0:04:03,59,,SIGN ON 0:04:03
-187,3,5,Me And Armini,Emiliana Torrini,Me And Armini,04:18,Icelandic reggae,0:00:22,258,,"Emiliana Torrini ""Me And Armini"" 0:00:22"
-187,3,6,Boys of Melody,The Hidden Cameras,The Smell of Our Own (20th Anniversary Edition),05:04,A pastoral epic,0:04:18,304,,"The Hidden Cameras ""Boys of Melody"" 0:04:18"
-187,3,7,Let's Go Out On The Town,Cut Worms,Cut Worms,02:35,In a strolling mood,0:05:04,155,,"Cut Worms ""Let's Go Out On The Town"" 0:05:04"
-187,4,8,BREAK,,,01:00,,0:02:35,60,,BREAK 0:02:35
-187,5,10,Eucalyptus,The National,First Two Pages Of Frankenstein,04:25,Discussing the endless jukebox,0:00:38,265,,"The National ""Eucalyptus"" 0:00:38"
-187,5,11,Barley,Water From Your Eyes,Everyone's Crushed,03:29,Enumeration visitation,0:04:25,209,,"Water From Your Eyes ""Barley"" 0:04:25"
-187,5,12,Highest Bidder,Fantastic Negrito,Grandfather Courage,04:28,No flinching,0:03:29,268,,"Fantastic Negrito ""Highest Bidder"" 0:03:29"
-187,6,13,BREAK,,,00:57,,0:04:28,57,,BREAK 0:04:28
-187,7,15,Baby On My Birthday,Skating Polly,Chaos County Line,03:58,Worthy of a celebration,0:00:30,238,,"Skating Polly ""Baby On My Birthday"" 0:00:30"
-187,7,16,My Baby She's Allright,Scruffy the Cat,,02:48,Long and lean like a Cadillac,0:03:58,168,,"Scruffy the Cat ""My Baby She's Allright"" 0:03:58"
-187,7,17,Poinciana,Vulfpeck,"The Joy of Music, The Job of Real Estate",02:23,Vocoder time,0:02:48,143,,"Vulfpeck ""Poinciana"" 0:02:48"
-187,7,18,15 Interesting Things to Do With Tiny Chairs II,Sir Millard Mulch,"50 Intellectually Stimulating Themes from a Cheap Amusement Park for Robots & Aliens, Vol. 1",01:45,Try sitting on one,0:02:23,105,,"Sir Millard Mulch ""15 Interesting Things to Do With Tiny Chairs II"" 0:02:23"
-187,8,19,BREAK,,,01:13,,0:01:45,73,,BREAK 0:01:45
-187,9,21,Shadow Woman,The Growlers,Natural Affair,03:09,A somewhat tropical feel,0:00:34,189,,"The Growlers ""Shadow Woman"" 0:00:34"
-187,9,22,I Knew A Girl from Oxford Town,Paul Einhaus,Solid Tin Coyote,03:23,In a Childish mood,0:03:09,203,,"Paul Einhaus ""I Knew A Girl from Oxford Town"" 0:03:09"
-187,9,23,I Need Seed,Thee Oh Sees,Castlemania,02:55,Some sort of churlish gnome,0:03:23,175,,"Thee Oh Sees ""I Need Seed"" 0:03:23"
-187,9,24,Cavern,Liquid Liquid,Downtown 81,02:33,The eternal bass line,0:02:55,153,,"Liquid Liquid ""Cavern"" 0:02:55"
-187,10,25,SIGN OFF,,,01:21,,0:02:33,81,,SIGN OFF 0:02:33
-187,11,26,Night Witch,Wolf People,Ruins,03:05,A dramatic turn,0:01:21,185,,"Wolf People ""Night Witch"" 0:01:21"
+189,,0,,,,,The music Clark makes is suitable for rage cleaning and nighttime neon drives.,https://www.mixcloud.com/the-lacking-org/ysih0v-189-town-crank/,,3681, https://www.mixcloud.com/the-lacking-org/ysih0v-189-town-crank/
+189,1,1,Town Crank,Clark,Sus Dog,03:39,Very annoying,1:01:21,219,0,"Clark ""Town Crank"" 1:01:21"
+189,2,2,SIGN ON,,,00:54,,0:03:39,54,219,SIGN ON 0:03:39
+189,3,4,Super,Neu!,Neu! 2,03:11,Flying Guillotine time,0:04:39,191,279,"Neu! ""Super"" 0:04:39"
+189,3,5,Sleep Rules Everything Around Me,Wugazi,,03:19,The clash we’ve been waiting for,0:07:50,199,470,"Wugazi ""Sleep Rules Everything Around Me"" 0:07:50"
+189,3,6,Modern Guilt,Asher White,New Excellent Woman,06:03,Flashes of contrition,0:11:09,363,669,"Asher White ""Modern Guilt"" 0:11:09"
+189,3,7,Disko,Skopitone Sisko,Incognita,04:34,Excessive glitter citation,0:17:12,274,1032,"Skopitone Sisko ""Disko"" 0:17:12"
+189,4,8,BREAK,,,01:06,,0:21:46,66,1306,BREAK 0:21:46
+189,5,10,Asalatua,African Head Charge,A Trip To Bolgatanga,03:58,Enter the trance,0:23:14,238,1394,"African Head Charge ""Asalatua"" 0:23:14"
+189,5,11,Drag,Unknown Mortal Orchestra,V,05:57,Unsteady wandering,0:27:12,357,1632,"Unknown Mortal Orchestra ""Drag"" 0:27:12"
+189,5,12,Dub 127,International Sangman,Death Roads and Spirit Ways 2,05:02,The sound of dead orbits,0:33:09,302,1989,"International Sangman ""Dub 127"" 0:33:09"
+189,6,13,BREAK,,,00:38,,0:38:11,38,2291,BREAK 0:38:11
+189,7,14,Festivus,Andrew Bird,Outside Problems,04:07,Deft pluckings,0:38:49,247,2329,"Andrew Bird ""Festivus"" 0:38:49"
+189,7,15,Ilha dos Bruxos,DJ Danifox,Ansiedade,04:01,Sparse travels,0:42:56,241,2576,"DJ Danifox ""Ilha dos Bruxos"" 0:42:56"
+189,7,16,First Day of Peace (Short Version),Mystic 100's,On a Micro Diet,08:23,Wondering about the long version,0:46:57,503,2817,"Mystic 100's ""First Day of Peace (Short Version)"" 0:46:57"
+189,7,17,Starman,Maxi Priest,Ziggy Stardub,04:02,More stardub,0:55:20,242,3320,"Maxi Priest ""Starman"" 0:55:20"
+189,8,18,BREAK,,,01:10,,0:59:22,70,3562,BREAK 0:59:22
+189,9,20,Joy Ride / The Happy Ending,The Green Pajamas,This Floating World Is a Dream,05:33,In for the long haul,1:01:02,333,3662,"The Green Pajamas ""Joy Ride / The Happy Ending"" 1:01:02"
+189,9,21,It's All Nothing Until It's Everything,KNOWER,KNOWER FOREVER,05:08,Got the clowncore beat,1:06:35,308,3995,"KNOWER ""It's All Nothing Until It's Everything"" 1:06:35"
+189,9,22,Here We Go Again,Buck 65,14 KT Gold,01:18,Uncle Buck is back,1:11:43,78,4303,"Buck 65 ""Here We Go Again"" 1:11:43"
+189,9,23,I’m A Winner,African Head Charge,A Trip To Bolgatanga,03:14,Repeat this affirmation,1:13:01,194,4381,"African Head Charge ""I’m A Winner"" 1:13:01"
+189,10,24,BREAK,,,00:41,,1:16:15,41,4575,BREAK 1:16:15
+189,11,25,Become,Beach House,Become,05:59,A relaxing time,1:16:56,359,4616,"Beach House ""Become"" 1:16:56"
+189,11,26,Noche Fría,Adanowsky,The Fool,03:09,Cold night,1:22:55,189,4975,"Adanowsky ""Noche Fría"" 1:22:55"
+189,11,27,In Re Budd,Penguin Cafe,Rain Before Seven...,04:23,Generational accomplishments,1:26:04,263,5164,"Penguin Cafe ""In Re Budd"" 1:26:04"
+189,11,28,Man Of The House,dEUS,How To Replace It,05:12,The signal controls you,1:30:27,312,5427,"dEUS ""Man Of The House"" 1:30:27"
+189,12,29,BREAK,,,01:16,,1:35:39,76,5739,BREAK 1:35:39
+189,13,31,Alyosha,Clark,Sus Dog,04:39,Distant lands,1:37:27,279,5847,"Clark ""Alyosha"" 1:37:27"
+189,13,32,Waiting,Cibelle,,06:19,Smoldering sounds,1:42:06,379,6126,"Cibelle ""Waiting"" 1:42:06"
+189,13,33,Always on my Mind,Salami Rose Joe Louis,Akousmatikous,02:33,Intricacy of choice,1:48:25,153,6505,"Salami Rose Joe Louis ""Always on my Mind"" 1:48:25"
+189,13,34,1000 Towns (feat. Coelacanth),Kid Koala,Creatures of the Late Afternoon,02:25,Ponderous scratching,1:50:58,145,6658,"Kid Koala ""1000 Towns (feat. Coelacanth)"" 1:50:58"
+189,14,35,SIGN OFF,,,01:12,,1:53:23,72,6803,SIGN OFF 1:53:23
+189,15,36,Bending Hectic,The Smile,Bending Hectic,08:01,Suspended moments,1:54:35,481,6875,"The Smile ""Bending Hectic"" 1:54:35"
