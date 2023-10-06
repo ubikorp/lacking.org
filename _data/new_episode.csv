@@ -1,33 +1,23 @@
 ep,seg,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds,Mixcloud
-195,,,,,,,Andrew Bird always manages to fulfill that craving for pizzicato minimalism.,https://www.mixcloud.com/the-lacking-org/bgwisb-195-epilogue/,,, https://www.mixcloud.com/the-lacking-org/bgwisb-195-epilogue/
-195,1,48,Epilogue,Andrew Bird,Outside Problems,06:28,Deftly plucked,0:00:00,388,0,"Andrew Bird ""Epilogue"" 0:00:00"
-195,2,2,SIGN ON,,,00:49,,0:06:28,49,388,SIGN ON 0:06:28
-195,3,41,Phone the Kids,Sylvia's Taco Salad,The Luncheon,01:09,It’s an emergency,0:07:54,69,474,"Sylvia's Taco Salad ""Phone the Kids"" 0:07:54"
-195,3,42,Oslo Calling,Dub Narcotic,Out of Your Mind,04:03,Norway the hard way,0:09:03,243,543,"Dub Narcotic ""Oslo Calling"" 0:09:03"
-195,3,43,Slash Your Tires,Luna,Lunapark,04:47,Don’t mess with Dean,0:13:06,287,786,"Luna ""Slash Your Tires"" 0:13:06"
-195,3,44,Intuition,Brooklyn Funk Essentials,Intuition,04:16,Sometimes you just know,0:17:53,256,1073,"Brooklyn Funk Essentials ""Intuition"" 0:17:53"
-195,4,8,BREAK,,,01:00,,0:22:09,60,1329,BREAK 0:22:09
-195,5,46,Sueño Oscuro,Adanowsky,The Fool,03:22,Under the mellow starlight,0:23:31,202,1411,"Adanowsky ""Sueño Oscuro"" 0:23:31"
-195,5,47,Tarraxo 001,DJ Danifox,Ansiedade,03:04,Scattered thoughts,0:26:53,184,1613,"DJ Danifox ""Tarraxo 001"" 0:26:53"
-195,5,48,Enough,Brian Eno,Secret Life,05:23,A message from the oceans,0:29:57,323,1797,"Brian Eno ""Enough"" 0:29:57"
-195,5,53,I Want A New Dub,Spacewalk,Spacewalk,08:01,We all want a new dub,0:35:20,481,2120,"Spacewalk ""I Want A New Dub"" 0:35:20"
-195,6,13,BREAK,,,00:28,,0:43:21,28,2601,BREAK 0:43:21
-195,7,50,Towers of Dub,Dylan Group,Ur-Klang Search,06:41,Reverberational,0:43:49,401,2629,"Dylan Group ""Towers of Dub"" 0:43:49"
-195,7,51,Bridge,Amon Tobin,Permutation,05:56,Doing it in 5,0:50:30,356,3030,"Amon Tobin ""Bridge"" 0:50:30"
-195,7,52,Dub 230,International Sangman,Death Roads and Spirit Ways 2,05:28,Wandering through the crystal forest,0:56:26,328,3386,"International Sangman ""Dub 230"" 0:56:26"
-195,8,18,BREAK,,,00:41,,1:01:54,41,3714,BREAK 1:01:54
-195,9,40,Dream #3,Brittta Phillips + Kramer,,04:33,A good match,1:03:05,273,3785,"Brittta Phillips + Kramer ""Dream #3"" 1:03:05"
-195,9,41,Dream in the Mist,Cornelius,Dream in Dream,07:00,Flowing in a lucid state,1:07:38,420,4058,"Cornelius ""Dream in the Mist"" 1:07:38"
-195,9,42,Escape from Noise,Negativland,Escape from Noise,02:35,There is no escape,1:14:38,155,4478,"Negativland ""Escape from Noise"" 1:14:38"
-195,9,43,"(What's So Funny 'Bout) Peace, Love And Understanding",Los Straitjackets,"What's So Funny About Peace, Love And Los Straitjackets",03:15,Nick Lowe’s finest,1:17:13,195,4633,"Los Straitjackets ""(What's So Funny 'Bout) Peace, Love And Understanding"" 1:17:13"
-195,10,24,BREAK,,,00:37,,1:20:28,37,4828,BREAK 1:20:28
-195,11,44,Livin’ in the after Dub (Adrian Sherwood 'Reset in Dub' Version),"Sonic Boom, Panda Bear and Adrian Sherwood",Reset in Dub (Adrian Sherwood 'Reset in Dub' Version),04:31,Nicely versioned,1:21:05,271,4865,"Sonic Boom, Panda Bear and Adrian Sherwood ""Livin’ in the after Dub (Adrian Sherwood 'Reset in Dub' Version)"" 1:21:05"
-195,11,45,Mr. Bongo,Ursula 1000,,02:12,Muy tropical,1:25:36,132,5136,"Ursula 1000 ""Mr. Bongo"" 1:25:36"
-195,11,46,What a Waste,Curve & Ian Dury,The Way Of Curve,05:04,Spaced out,1:27:48,304,5268,"Curve & Ian Dury ""What a Waste"" 1:27:48"
-195,11,47,The Great Gig in the Sky,The Sursiks,Suave Side of the Moon,04:42,An engaging translation,1:32:52,282,5572,"The Sursiks ""The Great Gig in the Sky"" 1:32:52"
-195,12,29,BREAK,,,01:06,,1:37:34,66,5854,BREAK 1:37:34
-195,13,49,Agreement,Baaba Maal,Being,04:49,Enter the hypnodrone,1:39:12,289,5952,"Baaba Maal ""Agreement"" 1:39:12"
-195,13,50,Hamburger Lady,Throbbing Gristle,Entertainment Through Pain,04:12,She brings the condiments,1:44:01,252,6241,"Throbbing Gristle ""Hamburger Lady"" 1:44:01"
-195,13,51,Sickness (Slowly dying),The Bug,Machine 2,03:36,Deconstruction time,1:48:13,216,6493,"The Bug ""Sickness (Slowly dying)"" 1:48:13"
-195,14,35,SIGN OFF,,,00:56,,1:51:49,56,6709,SIGN OFF 1:51:49
-195,15,54,L'hawaïenne,La Femme,Paris-Hawaï,08:07,Enjoy the midnight sunset,1:52:45,487,6765,"La Femme ""L'hawaïenne"" 1:52:45"
+196,,,,,,,"When I hear the sounds of Islands, I am reminded of sparkling diamonds and shattered glass.",https://www.mixcloud.com/the-lacking-org/ekz96w-196-bite-my-tongue/,,, https://www.mixcloud.com/the-lacking-org/ekz96w-196-bite-my-tongue/
+196,1,1,Bite My Tongue,Islands,And That's Why Dolphins Lost Their Legs,03:39,Draw some blood,0:00:00,219,0,"Islands ""Bite My Tongue"" 0:00:00"
+196,2,2,SIGN ON,,,00:52,,0:03:39,52,219,SIGN ON 0:03:39
+196,3,5,Act Natural,Margaret Glaspy,Echo The Diamond,04:19,Wobbling guitars,0:05:08,259,308,"Margaret Glaspy ""Act Natural"" 0:05:08"
+196,3,6,My Own City,Bethany Cosentino,Natural Disaster,03:16,An end of summer sound,0:09:27,196,567,"Bethany Cosentino ""My Own City"" 0:09:27"
+196,3,7,Blue Over Blue,The Clientele,I Am not There Anymore,03:17,Subdued insinuation,0:12:43,197,763,"The Clientele ""Blue Over Blue"" 0:12:43"
+196,4,8,BREAK,,,00:45,,0:16:00,45,960,BREAK 0:16:00
+196,5,10,Haunted Mountain,Buck Meek,Haunted Mountain,05:12,A spooky place to live,0:17:23,312,1043,"Buck Meek ""Haunted Mountain"" 0:17:23"
+196,5,11,Total Entertainment Forever,Father John Misty,Pure Comedy,02:54,It’s neverending,0:22:35,174,1355,"Father John Misty ""Total Entertainment Forever"" 0:22:35"
+196,5,12,Broken Bones,House of Freaks,,03:11,Low-key desperation,0:25:29,191,1529,"House of Freaks ""Broken Bones"" 0:25:29"
+196,5,13,Sister,Pale Blue Eyes,This House,04:14,The shoegaze is back,0:28:40,254,1720,"Pale Blue Eyes ""Sister"" 0:28:40"
+196,6,14,BREAK,,,00:44,,0:32:54,44,1974,BREAK 0:32:54
+196,7,16,Do Rainbows Have Ends,The Brian Jonestown Massacre,The Future Is Your Past,03:23,Not at all,0:34:08,203,2048,"The Brian Jonestown Massacre ""Do Rainbows Have Ends"" 0:34:08"
+196,7,17,Old Man,Neil Young,Harvest (50th Anniversary Edition),03:25,Worth a revisit,0:37:31,205,2251,"Neil Young ""Old Man"" 0:37:31"
+196,7,18,And She Was,Talking Heads,Little Creatures,03:40,Floating into space,0:40:56,220,2456,"Talking Heads ""And She Was"" 0:40:56"
+196,8,19,BREAK,,,00:48,,0:44:36,48,2676,BREAK 0:44:36
+196,9,21,Last Stretch of the Road,Graham Parker & the Goldtops,Last Chance to Learn the Twist,02:15,Still an original,0:45:58,135,2758,"Graham Parker & the Goldtops ""Last Stretch of the Road"" 0:45:58"
+196,9,22,Levitate Me,Pixies,Come On Pilgrim,02:37,Elevator lady,0:48:13,157,2893,"Pixies ""Levitate Me"" 0:48:13"
+196,9,23,Extinction,Parquet Courts,Wide Awake!,01:42,Ending it all,0:50:50,102,3050,"Parquet Courts ""Extinction"" 0:50:50"
+196,9,24,Japanese Buffalo,Cage The Elephant,Thank You Happy Birthday,03:03,Manic energy,0:52:32,183,3152,"Cage The Elephant ""Japanese Buffalo"" 0:52:32"
+196,10,25,SIGN OFF,,,01:08,,0:55:35,68,3335,SIGN OFF 0:55:35
+196,11,26,Band On The Run,Paul McCartney & Wings,"The 7"" Singles",05:13,The original extended mix,0:56:43,313,3403,"Paul McCartney & Wings ""Band On The Run"" 0:56:43"
