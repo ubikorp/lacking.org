@@ -16,8 +16,8 @@ date,location,start_time,end_time,time_zone,notes,future
 2023-11-09,ltw,2pm,3pm,MDT,,x
 2023-11-07,kafm,9pm,12m,MDT,,x
 2023-11-02,ltw,2pm,3pm,MDT,,x
-2023-10-27,ltw,3pm,5pm,MDT,The Final Hour,x
-2023-10-26,ltw,2pm,3pm,MDT,,x
+2023-10-27,ltw,3pm,5pm,MDT,The Final Hour,
+2023-10-26,ltw,2pm,3pm,MDT,,
 2023-10-24,kafm,9pm,12m,MDT,,
 2023-10-19,ltw,2pm,3pm,MDT,,
 2023-10-12,ltw,2pm,3pm,MDT,,
