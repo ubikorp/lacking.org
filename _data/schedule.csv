@@ -3,15 +3,15 @@ date,location,start_time,end_time,time_zone,notes,future
 2024-01-02,kafm,9pm,12m,MDT,,
 2023-12-29,ltw,3pm,5pm,MDT,The Final Hour,
 2023-12-28,ltw,2pm,3pm,MDT,,
-2023-12-21,ltw,2pm,3pm,MDT,,
-2023-12-19,kafm,9pm,12m,MDT,,
-2023-12-14,ltw,2pm,3pm,MDT,,
+2023-12-21,ltw,2pm,3pm,MDT,,x
+2023-12-19,kafm,9pm,12m,MDT,,x
+2023-12-14,ltw,2pm,3pm,MDT,,x
 2023-12-07,ltw,2pm,3pm,MDT,,x
 2023-12-05,kafm,9pm,12m,MDT,,x
 2023-11-30,ltw,2pm,3pm,MDT,,x
-2023-11-24,ltw,3pm,5pm,MDT,The Final Hour,x
-2023-11-23,ltw,2pm,3pm,MDT,,x
-2023-11-21,kafm,9pm,12m,MDT,,x
+2023-11-24,ltw,3pm,5pm,MDT,The Final Hour,
+2023-11-23,ltw,2pm,3pm,MDT,,
+2023-11-21,kafm,9pm,12m,MDT,,
 2023-11-16,ltw,2pm,3pm,MDT,,
 2023-11-09,ltw,2pm,3pm,MDT,,
 2023-11-07,kafm,9pm,12m,MDT,,
