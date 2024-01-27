@@ -1,23 +1,32 @@
-ep,seg,sequence,song,artist,album,time,notes,start,time-in-seconds,start-in-seconds
-214,,0,,,,,Presenting a collection of musical flatteries and facsimiles! ,https://www.mixcloud.com/the-lacking-org/woeeqk-214-version-control-1/,,
-214,1,1,Go!,Brainiac,From Dayton Ohio,03:20,Originally from Tones on Tail,0:00:00,200,0
-214,2,2,SIGN ON,,,00:59,,0:03:20,59,200
-214,3,5,Divine Hammer,Ben Lee,Quarter Century Classix,04:26,Originally from the Breeders,0:04:56,266,296
-214,3,6,Bloody Rainbow,Built To Spill,Built to Spill Plays the Songs of Daniel Johnston,02:24,Originally from Daniel Johnston,0:09:22,144,562
-214,3,7,Fire In Cairo,Luna,Why Can't I Be You?,03:28,Originally from the Cure,0:11:46,208,706
-214,4,8,BREAK,,,00:54,,0:15:14,54,914
-214,5,10,Goo Goo Muck,Das Clamps,Shit Music For Shit People,03:11,Originally from the Cramps,0:16:46,191,1006
-214,5,11,Sophisticated Boom Boom,Knoxville Girls,In A Ripped Dress,02:17,Originally from the Shangri-Las,0:19:57,137,1197
-214,5,12,Wicked Game,Messer Chups,Don't Say Cheese,03:50,Originally from Chris Isaak,0:22:14,230,1334
-214,5,13,Jack The Ripper,Zach Uncles,"Guitar Rebel, A Tribute to Link Wray",03:48,Originally from Link Wray,0:26:04,228,1564
-214,6,14,BREAK,,,01:02,,0:29:52,62,1792
-214,7,16,Telstar,The Vaccines,"Cosy Karaoke, Vol. 1",03:16,Originally from the Tornados,0:31:24,196,1884
-214,7,17,Kenni and the Jets,The Fearless Flyers,Tailwinds,04:09,Originally from Elton John,0:34:40,249,2080
-214,7,18,Heroes and Villains,Joey Joesph,Smile,05:54,Originally from the Beach Boys,0:38:49,354,2329
-214,7,19,Just Dropped In (To See What Condition My Condition Was In),Sharon Jones + The Dap-Kings,Just Dropped In (To See What Condition My Rendition Was In),03:01,Originally from the First Edition,0:44:43,181,2683
-214,8,20,BREAK,,,01:12,,0:47:44,72,2864
-214,9,22,Perfect,Petty Booka,,04:21,Originally from Fairground Attraction,0:49:30,261,2970
-214,9,23,Dreamweaver,Valis,,04:28,Originally from Gary Wright,0:53:51,268,3231
-214,9,24,Wild Honey Pie,The Squirrels,,00:55,Originally from the Beatles,0:58:19,55,3499
-214,10,25,SIGN OFF,,,01:12,,0:59:14,72,3554
-214,11,26,Mission Impossible,Laika + The Cosmonauts,Laika Sex Machine,02:09,Originally from Lalo Schifrin,1:00:26,129,3626
+"ep","seg","sequence","song","artist","album","time","notes","start","time-in-seconds","start-in-seconds"
+"216","0","","","","","","Trademarking the most elemental of particles is a bold move, but a fitting one for Atom™","https://www.mixcloud.com/the-lacking-org/4hxtij-216-hey-music/","",""
+"216","1","1","Hey! Music!","Atom™","Die Seiner","06:42","Indeed","0:00:00","402","0"
+"216","2","2","SIGN ON","","","00:49","","0:06:42","49","402"
+"216","3","5","Internacional","Brazilian Girls","New York City","06:22","Bring the batucada","0:08:08","382","488"
+"216","3","6","Hot Stenographer","Kinski","Alpine Static","05:27","Silence in the courtroom","0:14:30","327","870"
+"216","3","7","Panty Shots","Country Teasers","Satan Is Real Again","04:33","Line ‘em up!","0:19:57","273","1197"
+"216","4","8","BREAK","","","00:48","","0:24:30","48","1470"
+"216","5","10","PYRAMIDS","The Comet Is Coming","Hyper-Dimensional Expansion Beam","04:50","Observe the skies","0:25:40","290","1540"
+"216","5","11","Section 48 (Shadows On The Hillside)","The Polyphonic Spree","Salvage Enterprise","05:57","Progressive meddling","0:30:30","357","1830"
+"216","5","12","Them Changes","Ramsey Lewis","Them Changes","06:33","Follow along","0:36:27","393","2187"
+"216","6","13","BREAK","","","00:31","","0:43:00","31","2580"
+"216","7","14","Salutation Gardens","Creation Rebel","Hostile Environment","03:27","Breaking in the botanicals","0:43:31","207","2611"
+"216","7","15","Traffic in the Sky (Lee “Scratch” Perry Dub)","Jack Johnson & Lee ""Scratch"" Perry","In Between Dub","02:55","An unusual combination","0:46:58","175","2818"
+"216","7","16","Punky Disco","Lionel Limiñana","The Ballad of Linda L. (OST)","03:40","Glitterball in the desert","0:49:53","220","2993"
+"216","7","17","Roygbiv","boards of canada","Music Has The Right To Children","02:31","The full spectrum","0:53:33","151","3213"
+"216","8","18","BREAK","","","00:59","","0:56:04","59","3364"
+"216","9","21","OK Seke Bien (feat. Sekelembele)","Fulu Miziki","Ngbaka","05:52","Ritual digital","0:57:39","352","3459"
+"216","9","22","Riviera Beat","Montefiori Cocktail","Il caffè italiano: Bologna (Italian Lounge Espresso Music)","05:02","Swim up to the bar","1:03:31","302","3811"
+"216","9","23","Last Chance To Dance","Medeski, Martin + Wood","Friday Afternoon In The Universe","07:40","Everyone take a turn","1:08:33","460","4113"
+"216","10","24","BREAK","","","00:24","","1:16:13","24","4573"
+"216","11","26","Dither","Atom™","Die Seiner","04:56","It’s a pixelated sound","1:16:43","296","4603"
+"216","11","27","Steamworks","Presets","Beams (Deluxe)","04:36","Getting the vapors","1:21:39","276","4899"
+"216","11","28","Vanilla Skies","Looper","A Luminous Place","02:48","Reworked and relaxed","1:26:15","168","5175"
+"216","11","29","Alyosha Lying","Clark","Cave Dog","03:00","Messages from the hemispheres","1:29:03","180","5343"
+"216","12","30","BREAK","","","01:04","","1:32:03","64","5523"
+"216","13","32","Hard Light","Drop Nineteens","Hard Light","03:06","Reflective measures","1:33:39","186","5619"
+"216","13","33","Rock and Roll","Black Pumas","Chronicles of a Diamond","04:53","A popular song title","1:36:45","293","5805"
+"216","13","34","ATOMIC WAVE DANCE","The Comet Is Coming","Hyper-Dimensional Expansion Beam","04:45","Avoid collisions","1:41:38","285","6098"
+"216","13","35","Shoot to kill, kill your darlings","underscores","Wallsocket","05:04","Fragments on collision","1:46:23","304","6383"
+"216","14","36","SIGN OFF","","","01:18","","1:51:27","78","6687"
+"216","15","37","35 Towards Clapham Junction","Jah Wobble","The Bus Routes of South London","08:40","The long haul","1:52:45","520","6765"
