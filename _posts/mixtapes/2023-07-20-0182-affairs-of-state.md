@@ -9,7 +9,7 @@ description: Behold, a special collection of songs about individual states in th
 author: jclacking
 airdate: '2023-07-20'
 playlist: 2023-07-20-0182-affairs-of-state
-media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fyvo7uo-182-affairs-of-state%2F&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-affairs-of-state-2023-07-20%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud
 image:

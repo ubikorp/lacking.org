@@ -9,7 +9,7 @@ description: The Boo Radleys are eager to share their sweet shocking intensity a
 author: jclacking
 airdate: '2023-07-06'
 playlist: 2023-07-06-0180-how-was-i-to-know
-media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fejcdks-180-how-was-i-to-know%2F&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-how-was-i-to-know-2023-07-06%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud
 image:

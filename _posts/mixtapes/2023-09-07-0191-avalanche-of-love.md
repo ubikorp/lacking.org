@@ -9,7 +9,7 @@ description: There are many bands that go by W.I.T.C.H. but this is the only one
 author: jclacking
 airdate: '2023-09-07'
 playlist: 2023-09-07-0191-avalanche-of-love
-media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F6nqt2a-191-avalanche-of-love%2F&hide_artwork=1&hide_cover=1&light=1"
+media: '<iframe width="100%" style="margin-bottom: 1em;" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-191-avalanche-of-love-2023-09-07%2F&hide_artwork=1&hide_cover=1&light=1"
   frameborder="0"></iframe>'
 media_type: mixcloud
 image:
