@@ -1,0 +1,157 @@
+---
+- airdate: 2024-03-21
+  start_time: 2024-03-21 20:00:00 UTC
+  end_time: 2024-03-21 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-03-26
+  start_time: 2024-03-27 03:00:00 UTC
+  end_time: 2024-03-26 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-03-28
+  start_time: 2024-03-28 20:00:00 UTC
+  end_time: 2024-03-28 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-03-29
+  start_time: 2024-03-29 21:00:00 UTC
+  end_time: 2024-03-29 23:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes: The Final Hour
+- airdate: 2024-04-04
+  start_time: 2024-04-04 20:00:00 UTC
+  end_time: 2024-04-04 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-04-09
+  start_time: 2024-04-10 03:00:00 UTC
+  end_time: 2024-04-09 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-04-11
+  start_time: 2024-04-11 20:00:00 UTC
+  end_time: 2024-04-11 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-04-19
+  start_time: 2024-04-19 20:00:00 UTC
+  end_time: 2024-04-19 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-04-23
+  start_time: 2024-04-24 03:00:00 UTC
+  end_time: 2024-04-23 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-04-25
+  start_time: 2024-04-25 20:00:00 UTC
+  end_time: 2024-04-25 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-04-26
+  start_time: 2024-04-26 21:00:00 UTC
+  end_time: 2024-04-26 23:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes: The Final Hour
+- airdate: 2024-05-02
+  start_time: 2024-05-02 20:00:00 UTC
+  end_time: 2024-05-02 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-05-07
+  start_time: 2024-05-08 03:00:00 UTC
+  end_time: 2024-05-07 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-05-09
+  start_time: 2024-05-09 20:00:00 UTC
+  end_time: 2024-05-09 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-05-16
+  start_time: 2024-05-16 20:00:00 UTC
+  end_time: 2024-05-16 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-05-21
+  start_time: 2024-05-22 03:00:00 UTC
+  end_time: 2024-05-21 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-05-23
+  start_time: 2024-05-23 20:00:00 UTC
+  end_time: 2024-05-23 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-05-30
+  start_time: 2024-05-30 20:00:00 UTC
+  end_time: 2024-05-30 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-05-31
+  start_time: 2024-05-31 21:00:00 UTC
+  end_time: 2024-05-31 23:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes: The Final Hour
+- airdate: 2024-06-04
+  start_time: 2024-06-05 03:00:00 UTC
+  end_time: 2024-06-04 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-06-06
+  start_time: 2024-06-06 20:00:00 UTC
+  end_time: 2024-06-06 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-06-13
+  start_time: 2024-06-13 20:00:00 UTC
+  end_time: 2024-06-13 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-06-18
+  start_time: 2024-06-19 03:00:00 UTC
+  end_time: 2024-06-18 06:00:00 UTC
+  timezone: America/Denver
+  location: kafm
+  notes:
+- airdate: 2024-06-20
+  start_time: 2024-06-20 20:00:00 UTC
+  end_time: 2024-06-20 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-06-27
+  start_time: 2024-06-27 20:00:00 UTC
+  end_time: 2024-06-27 21:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes:
+- airdate: 2024-06-28
+  start_time: 2024-06-28 21:00:00 UTC
+  end_time: 2024-06-28 23:00:00 UTC
+  timezone: Europe/London
+  location: ltw
+  notes: The Final Hour

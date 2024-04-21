@@ -1,0 +1,52 @@
+---
+
+// ------------
+// Tag Index ==
+// ------------
+
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+import { blogTagRobots, getStaticPathsBlogTag } from '~/utils/blog';
+
+import { TLO, type TloCategory } from '~/utils/config';
+
+import Pagination from '~/components/blog/Pagination.astro';
+
+import Layout from '~/layouts/tlo/Main.astro';
+import Listing from '~/components/tlo/archive/Listing.astro';
+import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogTag({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page, tag } = Astro.props as Props;
+
+const currentPage = page.currentPage ?? 1;
+
+const metadata = {
+  title: `Posts by tag '${tag}'${currentPage > 1 ? ` — Page ${currentPage} ` : ''}`,
+  robots: {
+    index: blogTagRobots?.index,
+    follow: blogTagRobots?.follow,
+  },
+};
+
+const categoryInfo = TLO?.categories['tags'] as TloCategory
+categoryInfo.title = tag
+---
+
+<Layout metadata={metadata}>
+
+  <Listing posts={page.data} />
+  <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+
+  <!-- Sidebar -->
+  <Fragment slot="sidebar">
+    <!-- Category Header -->
+    <CategoryHeader category={categoryInfo} />
+  </Fragment>
+</Layout>

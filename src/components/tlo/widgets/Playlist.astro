@@ -1,0 +1,25 @@
+---
+const { playlist } = Astro.props
+---
+<table class="table-auto w-full">
+	<thead>
+		<tr>
+			<th class="text-left">Song</th>
+			<th class="text-left">Artist</th>
+			<th class="text-left">Notes</th>
+		</tr>
+	</thead>
+	<tbody>								
+		{playlist.map((entry: any) => (
+			<tr>
+				{ entry.artist ? (
+					<td>{entry.song}</td>
+					<td>{entry.artist}</td>
+					<td>{entry.notes}</td>
+				) : (
+					<td colspan="4"><hr></td>
+				)}
+			</tr>
+		))}
+	</tbody>
+</table>

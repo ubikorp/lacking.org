@@ -1,0 +1,49 @@
+---
+// ------------
+// Home Page --
+// ------------
+
+// Configuration
+import { TLO } from "~/utils/config";
+
+// TLO Components
+import Layout from '~/layouts/tlo/Main.astro';
+import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+import SiteIndex from '~/components/tlo/widgets/SiteIndex.astro';
+import LatestPosts from '~/components/tlo/widgets/LatestPosts.astro';
+import YourHost from "~/components/tlo/widgets/YourHost.astro";
+import NextAirdate from "~/components/tlo/widgets/NextAirdate.astro";
+
+// Page Metadata
+const metadata = {
+  title: 'The Lacking Organization',
+  ignoreTitleTemplate: true,
+};
+
+const homeCategory = TLO?.categories.home
+---
+
+<Layout metadata={metadata}>
+
+  <!-- Your Host / Next Airdate -->
+  <div class="flex flex-row">
+    <div class="basis-1/3">
+      <YourHost />
+    </div>
+    <div class="basis-2/3">
+      <NextAirdate />
+    </div>
+  </div>
+
+  <!-- Contents / Latest Posts -->
+  <LatestPosts />
+
+  <!-- Sidebar -->
+  <Fragment slot="sidebar">
+    <!-- Category Header -->
+    <CategoryHeader category={homeCategory} />
+    <!-- Index / Categories -->
+    <SiteIndex title="Index" />
+  </Fragment>
+
+</Layout>

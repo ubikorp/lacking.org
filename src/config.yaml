@@ -1,0 +1,157 @@
+site:
+  name: The Lacking Organization
+  site: 'https://the.lacking.org'
+  base: '/'
+  trailingSlash: false
+
+  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+
+# Default SEO metadata
+metadata:
+  title:
+    default: The Lacking Organization
+    template: 'TLO :: %s'
+  description: "You cannot alphabetize the unalphabetizable."
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    site_name: AstroWind
+    images:
+      - url: '~/assets/images/default.png'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@onwidget'
+    site: '@onwidget'
+    cardType: summary_large_image
+
+i18n:
+  language: en
+  textDirection: ltr
+
+apps:
+  blog:
+    isEnabled: true
+    postsPerPage: 15
+
+    post:
+      isEnabled: true
+      permalink: '/%category%/%year%/%slug%' # Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
+      robots:
+        index: true
+
+    list:
+      isEnabled: true
+      pathname: 'archives' # Blog main path, you can change this to "articles" (/articles)
+      robots:
+        index: true
+
+    category:
+      isEnabled: true
+      pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
+      robots:
+        index: true
+
+    tag:
+      isEnabled: true
+      pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
+      robots:
+        index: false
+
+    isRelatedPostsEnabled: true
+    relatedPostsCount: 4
+
+analytics:
+  vendors:
+    googleAnalytics:
+      id: null # or "G-XXXXXXXXXX"
+
+ui:
+  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+
+  tokens:
+    default:
+      fonts:
+        sans: InterVariable
+        serif: InterVariable
+        heading: InterVariable
+      colors:
+        default: rgb(16 16 16)
+        heading: rgb(0 0 0)
+        muted: rgb(16 16 16 / 66%)
+        bgPage: rgb(255 255 255)
+        primary: rgb(1 97 239)
+        secondary: rgb(1 84 207)
+        accent: rgb(109 40 217)
+    dark:
+      fonts: {}
+      colors:
+        default: rgb(229 236 246)
+        heading: rgb(247, 248, 248)
+        muted: rgb(229 236 246 / 66%)
+        bgPage: rgb(3 6 32)
+        primary: rgb(1 97 239)
+        secondary: rgb(1 84 207)
+        accent: rgb(109 40 217)
+tlo:
+  categories:
+    home:
+      title:       The&nbsp;Lacking Organization
+      tagline:     You&nbsp;cannot&nbsp;alphabetize the&nbsp;unalphabetizable.
+      description: The natural confluence of all things Lacking, including playlists,
+                   podcasts, pernicious ponderings, and other perusable presumptions
+                   born of the arduous task that is the Lacking Organization.
+      background:  site/banners/home_bg.jpg
+      icon:        site/banners/home_icon.png
+      social:      site/banners/home_social.jpg
+    archives:
+      title:       The Lacking Permanence
+      tagline:     A partial collection of evidence
+      description: A full accounting of The Lacking Organization’s prodigious output, arranged in reverse chronological order for casual browsers and obsessive completists.
+      background:  site/banners/details_bg.jpg
+      icon:        site/banners/details_icon.png
+      social:      site/banners/details_social.jpg
+    tags:
+      title:       Tags
+      tagline:     Taxonomical identification for your favorite obscure trends
+      description: A mechanized approach, likely to be insufficient, towards the collation of the variously independent thoughts and genres involved in this farrago.
+      background:  site/banners/details_bg.jpg
+      icon:        site/banners/details_icon.png
+      social:      site/banners/details_social.jpg
+    reviews:
+      title:       Reviews
+      tagline:     Recently&nbsp;played&nbsp;and favorite&nbsp;albums
+      description: Short takes and quick quips on recent releases, including favorite tracks and a video where available.
+      background:  site/banners/details_bg.jpg
+      icon:        site/banners/details_icon.png
+      social:      site/banners/details_social.jpg
+    details:
+      title:       The&nbsp;Lacking Details
+      tagline:     Selections of note and recent activity
+      description: A weekly email missive with brief and useful reviews and highlights of recent and upcoming Lacking Activity. Free video included!
+      background:  site/banners/details_bg.jpg
+      icon:        site/banners/details_icon.png
+      social:      site/banners/details_social.jpg
+    playlists:
+      title:       Radio Playlists
+      tagline:     Sequence&nbsp;and selection of&nbsp;airplay
+      description: An important reference on the sequence and selection of songs and their airplay.
+      background:  site/banners/playlists_bg.jpg
+      icon:        site/banners/playlists_icon.png
+      social:      site/banners/playlists_social.jpg
+    mixtapes:
+      title:       The Mixtape
+      tagline:     An&nbsp;amalgamation of&nbsp;sounds
+      description: The usual selection of new, old, weird, and obscure music, as heard on Louder Than War Radio, and more specifically, available in streaming format via Mixcloud.
+      background:  site/banners/podcast_bg.jpg
+      icon:        site/banners/podcast_icon.png
+      social:      site/banners/podcast_social.jpg
+    news:
+      title:       News&nbsp;and Ramblings
+      tagline:     Items&nbsp;of Lacking&nbsp;Importance
+      description: Items of Lacking Importance for listeners and enthusiasts.
+      background:  site/banners/news_bg.jpg
+      icon:        site/banners/news_icon.png
+      social:      site/banners/news_social.jpg

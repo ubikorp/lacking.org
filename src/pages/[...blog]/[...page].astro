@@ -1,0 +1,56 @@
+---
+// -----------------
+// Archives Index ==
+// -----------------
+
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+import Layout from '~/layouts/tlo/Main.astro';
+import Archive from '~/components/tlo/archive/Listing.astro';
+import Pagination from '~/components/tlo/archive/Pagination.astro';
+import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+
+import { TLO } from '~/utils/config';
+
+import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogList({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page } = Astro.props as Props;
+const currentPage = page.currentPage ?? 1;
+
+const metadata = {
+  title: `Archives${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  robots: {
+    index: blogListRobots?.index && currentPage === 1,
+    follow: blogListRobots?.follow,
+  },
+  openGraph: {
+    type: 'blog',
+  },
+};
+
+const pageInfo = TLO?.categories['archives']
+---
+
+<Layout metadata={metadata}>
+
+  <!-- Listing -->
+  <Archive posts={page.data} />
+
+  <!-- Pagination -->
+  <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+  
+  <!-- Sidebar -->
+  <Fragment slot="sidebar">
+    <!-- Category Header -->
+    <CategoryHeader category={pageInfo} />
+  </Fragment>
+  
+</Layout>

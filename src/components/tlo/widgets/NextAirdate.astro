@@ -1,0 +1,9 @@
+---
+import Wrapper from "./Wrapper.astro";
+import { nextAirdate, localTimeZone } from "~/utils/tlo"
+---
+<Wrapper>
+	<h3>Next airdate:</h3>
+	<p>{nextAirdate.start_string} {localTimeZone}</p>
+	<p>{nextAirdate.location}</p>
+</Wrapper>

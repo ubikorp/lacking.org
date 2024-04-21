@@ -1,0 +1,66 @@
+---
+import { Icon } from 'astro-icon/components';
+
+import { getPermalink } from '~/utils/permalinks';
+import { getFormattedDate } from '~/utils/utils';
+
+import type { Post } from '~/types';
+
+export interface Props {
+  post?: Post;
+  title?: string;
+  subtitle?: string;
+}
+
+const { post, title, subtitle } = Astro.props;
+const headingTitle = post?.title || title
+const headingSubtitle = post?.subtitle || subtitle
+
+const showAuthor = false
+const showReadingTime = false
+---
+
+<div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+  {post && (
+    <p>
+      <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+      <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate)}</time>
+      {
+        showAuthor && post?.author && (
+          <>
+            {' '}
+            · <Icon name="tabler:user" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+            <span class="inline-block">{post?.author}</span>
+          </>
+        )
+      }
+      {
+        post.category && (
+          <>
+            {' '}
+            ·{' '}
+            <a class="capitalize hover:underline inline-block" href={getPermalink(post.category, 'category')}>
+              {post.category.replaceAll('-', ' ')}
+            </a>
+          </>
+        )
+      }
+      {
+        showReadingTime && post.readingTime && (
+          <>
+            &nbsp;· <span>{post.readingTime}</span> min read
+          </>
+        )
+      }
+    </p>
+  )}
+</div>
+
+<h1
+  class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
+  set:html={headingTitle}
+/>
+</h1>
+<h2
+  class="px-4 sm:px-6 max-w-3xl mx-auto text-2xl md:text-2xl font-bold leading-tighter tracking-tighter font-heading"
+  set:html={headingSubtitle} />
