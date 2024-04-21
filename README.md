@@ -1,15 +1,15 @@
 TLO
 
 - Site
+  - Layout
   - Typography
   - Background
   - Text tilting JS
   - Footer
   - Deployment
-- [Navigation](./src/navigation.js)
-  - Add tape reel badge
-  - Listen Now JS
-  - Social Media links
+* [Navigation](./src/navigation.js)
+  * Add tape reel badge
+  * Social Media links
 * [Home](./src/pages/index.astro)
   * Left
     * Home Category
@@ -65,3 +65,5 @@ YouTube Playlist Embeds
 MP3 player for Mixtapes 01-100
 Update news etc.
 Add Lacking Details
+Listen Now JS
+Mastodon social link

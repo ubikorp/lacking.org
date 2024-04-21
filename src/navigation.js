@@ -48,28 +48,28 @@ export const headerData = {
       links: [
         {
           text: 'On Facebook',
-          href: getPermalink('/#features'),
+          href: 'https://www.facebook.com/jclacking',
         },
         {
           text: 'On Instagram',
-          href: getPermalink('/services'),
+          href: 'https://www.instagram.com/jclacking',
         },
         {
           text: 'On Mixcloud',
-          href: getPermalink('/services'),
+          href: 'https://www.mixcloud.com/the-lacking-org',
         },
-        {
-          text: 'On Mastodon',
-          href: getPermalink('/services'),
-        },
+        // {
+        //   text: 'On Mastodon',
+        //   href: getPermalink('/services'),
+        // },
       ],
     },
   ],
-  actions: [{
-    text: 'ON THE AIR :: Listen Now!',
-    href: 'https://github.com/onwidget/astrowind', target: '_blank',
-    variant: 'primary'
-  }],
+  actions: [] // [{
+  //   text: 'ON THE AIR :: Listen Now!',
+  //   href: 'https://github.com/onwidget/astrowind', target: '_blank',
+  //   variant: 'primary'
+  // }],
 };
 
 export const footerData = {

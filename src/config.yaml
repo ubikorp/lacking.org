@@ -1,5 +1,5 @@
 site:
-  name: The Lacking Organization
+  name: lacking.org
   site: 'https://the.lacking.org'
   base: '/'
   trailingSlash: false
@@ -74,17 +74,17 @@ ui:
   tokens:
     default:
       fonts:
-        sans: InterVariable
-        serif: InterVariable
-        heading: InterVariable
+        sans: Raleway
+        serif: Raleway
+        heading: Raleway
       colors:
         default: rgb(16 16 16)
         heading: rgb(0 0 0)
         muted: rgb(16 16 16 / 66%)
         bgPage: rgb(255 255 255)
-        primary: rgb(1 97 239)
-        secondary: rgb(1 84 207)
-        accent: rgb(109 40 217)
+        primary: rgb(255, 169, 25)
+        secondary: rgb(90, 50, 141)
+        accent: rgb(54, 32, 83)
     dark:
       fonts: {}
       colors:
@@ -92,9 +92,9 @@ ui:
         heading: rgb(247, 248, 248)
         muted: rgb(229 236 246 / 66%)
         bgPage: rgb(3 6 32)
-        primary: rgb(1 97 239)
-        secondary: rgb(1 84 207)
-        accent: rgb(109 40 217)
+        primary: rgb(255, 169, 25)
+        secondary: rgb(90, 50, 141)
+        accent: rgb(54, 32, 83)
 tlo:
   categories:
     home:
