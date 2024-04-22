@@ -78,13 +78,13 @@ ui:
         serif: Raleway
         heading: Raleway
       colors:
-        default: rgb(16 16 16)
+        default: rgb(100 100 100)
         heading: rgb(0 0 0)
-        muted: rgb(16 16 16 / 66%)
+        muted: rgb(100 100 100 / 66%)
         bgPage: rgb(255 255 255)
-        primary: rgb(255, 169, 25)
-        secondary: rgb(90, 50, 141)
-        accent: rgb(54, 32, 83)
+        primary: rgb(255 169 25)
+        secondary: rgb(90 50 141)
+        accent: rgb(54 32 83)
     dark:
       fonts: {}
       colors:
@@ -92,9 +92,9 @@ ui:
         heading: rgb(247, 248, 248)
         muted: rgb(229 236 246 / 66%)
         bgPage: rgb(3 6 32)
-        primary: rgb(255, 169, 25)
-        secondary: rgb(90, 50, 141)
-        accent: rgb(54, 32, 83)
+        primary: rgb(255 169 25)
+        secondary: rgb(90 50 141)
+        accent: rgb(54 32 83)
 tlo:
   categories:
     home:
@@ -137,7 +137,7 @@ tlo:
     playlists:
       title:       Radio Playlists
       tagline:     Sequence&nbsp;and selection of&nbsp;airplay
-      description: An important reference on the sequence and selection of songs and their airplay.
+      description: An important reference on the sequence and selection of songs and their presence on scheduled analog radio appearances.
       background:  site/banners/playlists_bg.jpg
       icon:        site/banners/playlists_icon.png
       social:      site/banners/playlists_social.jpg

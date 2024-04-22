@@ -1,16 +1,10 @@
 ---
+// ------------------
+// Category Header ==
+// ------------------
+
 // Typescript
 import type { Widget } from "~/types";
-// Configuration
-import { APP_BLOG, type TloCategory } from "~/utils/config";
-// Utilities
-import { findLatestPosts } from "~/utils/blog";
-import { getMorePosts } from "~/utils/tlo"
-// TLO Components
-import Button from "~/components/tlo/ui/Button.astro";
-import WidgetWrapper from "~/components/tlo/ui/WidgetWrapper.astro";
-import Archive from '~/components/tlo/archive/Listing.astro';
-
 export interface Props extends Widget {
   category?: TloCategory;
   title?: string;
@@ -20,30 +14,31 @@ export interface Props extends Widget {
   count?: number;
 }
 
-const {
-  category,
-  title = await Astro.slots.render("title"),
-  linkText = "View more posts",
-  linkUrl = getMorePosts(),
-  information = await Astro.slots.render("information"),
-  count = APP_BLOG.postsPerPage,
+// Configuration
+import { APP_BLOG, type TloCategory } from "~/utils/config";
 
-  id,
-  isDark = false,
-  classes = {},
-  bg = await Astro.slots.render("bg"),
+// Utilities
+import { getMorePosts } from "~/utils/tlo"
+
+const {
+  category
 } = Astro.props;
 
 ---
 
-<WidgetWrapper id={id} isDark={isDark} containerClass={classes?.container} bg={bg}>
-  <!-- Background -->
-  <div class="flex flex-col justify-around aspect-square" style=`background-image: url(/images/${category?.background});`>
-    <!-- Category Title -->
-    <h1 class="text-4xl font-bold text-white text-center" set:html={category?.title} />
-    <!-- Category Tagline -->
-    <h3 class="text-2xl font-bold text-white text-center" set:html={category?.tagline} />
-  </div>
-  <!-- Category Description -->
-  <p class="font-bold" set:html={category?.description} />
-</WidgetWrapper>
+<!-- Background -->
+<div class="category-background flex flex-col justify-between items-center aspect-square" style=`background-image: url(/images/${category?.background});`>
+
+  <!-- Icon -->
+  <img class="category-icon" src={`/images/${category?.icon}`} alt={category?.title} />
+
+  <!-- Category Title -->
+  <h1 class="category-title" set:html={category?.title} />
+
+  <!-- Category Tagline -->
+  <h3 class="category-tagline" set:html={category?.tagline} />
+
+</div>
+
+<!-- Category Description -->
+<p class="category-description" set:html={category?.description} />

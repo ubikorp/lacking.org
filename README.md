@@ -67,3 +67,4 @@ Update news etc.
 Add Lacking Details
 Listen Now JS
 Mastodon social link
+Dark mode

@@ -9,10 +9,6 @@ import { getMorePosts } from "~/utils/tlo"
 import { getPermalink } from "~/utils/permalinks";
 
 import Image from '~/components/common/Image.astro';
-// TLO Components
-import Button from "~/components/tlo/ui/Button.astro";
-import WidgetWrapper from "~/components/tlo/ui/WidgetWrapper.astro";
-import Archive from '~/components/tlo/archive/Listing.astro';
 
 export interface Props extends Widget {
   title?: string;
@@ -41,27 +37,23 @@ const posts = await findLatestPosts({ count });
 const categoryIndex = ['mixtapes','playlists']
 ---
 
-<WidgetWrapper id={id} isDark={isDark} containerClass={classes?.container} bg={bg}>
-  {
-    categoryIndex.map((category) => (
-      <div class="flex h-auto">
-        <div class="w-1/5">
-          <Image
-            width={100}
-            height={70}
-            widths={[400, 768]}
-            layout="fixed"
-            src=`/images/${TLO?.categories[category].icon}`
-            alt={TLO?.categories[category].tagline}
-          />
-        </div>
-        <div class="w-4/5 ml-3 rtl:ml-0 rtl:mr-3">
-          <a class="capitalize hover:underline" href={getPermalink(category, 'category')}>
-            {TLO?.categories[category].title}
-          </a>
-          <p set:html={TLO?.categories[category].description} />
-        </div>
+{
+  categoryIndex.map((category) => (
+    <a href={getPermalink(category, 'category')}>
+      <div class="site-index-background flex flex-col justify-between items-center" style={`background-image: url(/images/${TLO?.categories[category].background})`}>
+        <Image
+          class="site-index-icon"
+          widths={[400, 768]}
+          layout="fixed"
+          src={`/images/${TLO?.categories[category].icon}`}
+          alt={TLO?.categories[category].tagline}
+        />
+        <a class="site-index-title" href={getPermalink(category, 'category')}>
+          {TLO?.categories[category].title}
+        </a>
       </div>
-    ))
-  }
-</WidgetWrapper>
+
+      <p class="site-index-description" set:html={TLO?.categories[category].description} />
+    </a>
+  ))
+}

@@ -107,7 +107,7 @@ export const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<
 
   const {
     publishDate: rawPublishDate = new Date(),
-    updateDate: rawUpdateDate,
+    // updateDate: rawUpdateDate,
     title,
     excerpt,
     image,
@@ -120,7 +120,7 @@ export const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<
 
   const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
   const publishDate = new Date(rawPublishDate);
-  const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
+  // const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
   const category = rawCategory ? cleanSlug(rawCategory) : undefined;
   const tags = rawTags.map((tag: string) => cleanSlug(tag));
 
@@ -130,7 +130,7 @@ export const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<
     permalink: await generatePermalink({ id, slug, publishDate, category }),
 
     publishDate: publishDate,
-    updateDate: updateDate,
+    // updateDate: updateDate,
 
     title: title,
     excerpt: excerpt,

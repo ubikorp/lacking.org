@@ -45,11 +45,20 @@ export interface Post {
   /**  */
   readingTime?: number;
 
-  playlist?: Array<Record<string, string>>;
+  playlist?: Play[];
   media?: string;
   youtube?: string;
 }
 
+export interface Play {
+  sequence: number;
+  song: string;
+  artist?: string;
+  artist_slug?: string;
+  album?: string;
+  time?: string;
+  notes?: string;
+}
 export interface MetaData {
   title?: string;
   ignoreTitleTemplate?: boolean;

@@ -1,0 +1,14 @@
+---
+// ------------------------
+// About the.lacking.org ==
+// ------------------------
+
+// Configuration
+import { TLO } from "~/utils/config";
+
+---
+<!-- About Box -->
+<div class="about-box">
+	<h3 class="about-title">about the.lacking.org</h3>
+	<p class="about-description" set:html={TLO?.categories.home.description} />
+</div>
