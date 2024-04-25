@@ -10,7 +10,7 @@ description: When you set out to record a song that’s been famous, or popular,
   for yourself.
 author: jclacking
 airdate: '2024-04-23'
-playlist: 2024-04-23-playlist-for-april-23-2024
+playlist: 2024-04-23-euro-trash-girl
 image:
   src: artists/2024/2024-04-23-chicks-on-speed.jpg
   caption: Chicks On Speed
