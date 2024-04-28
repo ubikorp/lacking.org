@@ -1,15 +1,15 @@
 ---
-import Wrapper from "./Wrapper.astro";
 import Image from '~/components/common/Image.astro';
 import { findImage } from '~/utils/images';
 const yourHost = await findImage('/images/jclacking.png') as ImageMetadata
 ---
-<Wrapper>
+<div class="your-host flex flex-col items-center">
 	<Image
-		class="rounded-full"
+		class="your-host-image rounded-full"
 		src={yourHost}
 		alt="Your Host"
+		layout="fixed"
 	/>
-	<h2>Your Host</h2>
-	<h3>Julius C. Lacking</h3>
-</Wrapper>
+	<h2 class="your-host-title">Your Host</h2>
+	<h3 class="your-host-name">Julius C. Lacking</h3>
+</div>

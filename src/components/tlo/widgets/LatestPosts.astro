@@ -35,7 +35,6 @@ const {
 const posts = await findLatestPosts({ count });
 ---
 
-<WidgetWrapper id={id} isDark={isDark} containerClass={classes?.container} bg={bg}>
   <div class="hidden md:block flex flex-col lg:justify-between lg:flex-row mb-8">
     {title && (
       <div class="md:max-w-sm">
@@ -54,4 +53,3 @@ const posts = await findLatestPosts({ count });
   {APP_BLOG.list.isEnabled && linkText && linkUrl && (
     <Button variant="link" href={linkUrl}> {linkText} »</Button>
   )}
-</WidgetWrapper>

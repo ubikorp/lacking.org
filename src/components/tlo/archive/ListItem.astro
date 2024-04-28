@@ -7,96 +7,43 @@ import PostTags from '~/components/blog/Tags.astro';
 import { APP_BLOG } from '~/utils/config';
 import type { Post } from '~/types';
 
+import Heading from '~/components/tlo/ui/Heading.astro';
+import Player from '~/components/tlo/widgets/Player.astro';
+
 import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';
 import { getFormattedDate } from '~/utils/utils';
 
 // TLO
 import { toMarkdown } from '~/utils/tlo';
+import FeatureImage from '../widgets/FeatureImage.astro';
 
 export interface Props {
   post: Post;
 }
 
 const { post } = Astro.props;
-const image = (await findImage(`~/assets${post.image.src}`)) as ImageMetadata | undefined;
-const link = getPermalink(post.permalink, 'post');
 ---
 
-<article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''}`}>
-  {
-    image && (
-      <a class="relative block group" href={link ?? 'javascript:void(0)'}>
-        <div class="relative overflow-hidden rounded shadow-lg">
-          {image && (
-            <Image
-              src={image}
-              alt={post.image.alt}
-              widths={[400, 900]}
-              width={900}
-              sizes="(max-width: 900px) 400px, 900px"
-              aspectRatio="16:9"
-              loading="lazy"
-              decoding="async"
-            />
-          )}
-        </div>
-      </a>
-    )
-  }
-  <div class="mt-2">
-    <header>
-      <div class="mb-1">
-        <span class="text-sm">
+<article class="tlo-list-item tlo-box">
 
-          <!-- Post Date -->
-          <Icon name="tabler:clock" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
-          <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate)}</time>
+  <FeatureImage post={post} />
 
-          <!-- Post Author -->
-          <!-- {
-            post.author && (
-              <>
-                {' '}
-                ·{' '}
-                <Icon name="tabler:user" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
-                <span>{post.author.replaceAll('-', ' ')}</span>
-              </>
-            )
-          } -->
+  <header class="my-4">
+    <Heading post={post} />
+  </header>
 
-          <!-- Post Category -->
-          {
-            post.category && (
-              <>
-                {' '}
-                ·{' '}
-                <a class="capitalize hover:underline" href={getPermalink(post.category, 'category')}>
-                  {post.category.replaceAll('-', ' ')}
-                </a>
-              </>
-            )
-          }
-          
-        </span>
-      </div>
-      <h2 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-300">
-        {
-          link ? (
-            <a class="hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200" href={link}>
-              {post.title}
-            </a>
-          ) : (
-            post.title
-          )
-        }
-      </h2>
-    </header>
+  <!-- Excerpt -->
+  {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg" set:html={toMarkdown(post.excerpt)} />}
 
-    <!-- Excerpt -->
-    {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg" set:html={toMarkdown(post.excerpt)} />}
-    <footer class="mt-5">
-      <PostTags tags={post.tags} />
-    </footer>
+  <!-- Media -->
+  <div class="my-4">
+    {post.media && <Player media={post.media} />}
   </div>
-</article>
+
+  <!-- Tags -->
+  <footer class="mt-4">
+    <PostTags tags={post.tags} />
+  </footer>
+
+  </article>

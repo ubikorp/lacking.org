@@ -1,0 +1,31 @@
+---
+
+import type { Post } from '~/types';
+export interface Props {
+  post: Post;
+}
+
+import Image from '~/components/common/Image.astro';
+import { findImage } from '~/utils/images';
+
+const { post } = Astro.props;
+const image = post.image ? (await findImage(`~/assets${post.image.src}`)) as ImageMetadata | undefined : null;
+---
+
+<div class="tlo-feature-image">
+	{
+		image && (
+			<Image
+				src={image}
+				widths={[400, 900]}
+				sizes="(max-width: 900px) 400px, 900px"
+				alt={post?.excerpt || ''}
+				width={900}
+				height={506}
+				loading="eager"
+				decoding="async"
+			/>
+			<p set:html={post.image.alt} />
+		)
+	}
+</div>

@@ -1,9 +1,11 @@
 ---
-import Wrapper from "./Wrapper.astro";
+import Heading from "~/components/tlo/ui/Heading.astro"
 import { nextAirdate, localTimeZone } from "~/utils/tlo"
 ---
-<Wrapper>
-	<h3>Next airdate:</h3>
-	<p>{nextAirdate.start_string} {localTimeZone}</p>
-	<p>{nextAirdate.location}</p>
-</Wrapper>
+<div class="tlo-next-airdate">
+	<Heading
+		kicker="Next airdate:"
+		title={`${nextAirdate.start_string}<br>${localTimeZone}`}
+		subtitle={nextAirdate.location}
+	/>
+</div>

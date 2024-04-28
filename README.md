@@ -62,7 +62,7 @@ TLO
 FUTURE:
 
 YouTube Playlist Embeds
-MP3 player for Mixtapes 01-100
+MP3 player for Mixtapes 01-100 - https://codepen.io/gregh/pen/NdVvbm 
 Update news etc.
 Add Lacking Details
 Listen Now JS

@@ -19,18 +19,17 @@ const metadata = {
   title: 'The Lacking Organization',
   ignoreTitleTemplate: true,
 };
-
 const homeCategory = TLO?.categories.home
 ---
 
 <Layout metadata={metadata}>
 
   <!-- Your Host / Next Airdate -->
-  <div class="flex flex-row">
-    <div class="basis-1/3">
+  <div class="tlo-box flex flex-row">
+    <div class="basis-1/5">
       <YourHost />
     </div>
-    <div class="basis-2/3">
+    <div class="basis-4/5">
       <NextAirdate />
     </div>
   </div>

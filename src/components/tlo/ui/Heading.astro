@@ -8,23 +8,39 @@ import type { Post } from '~/types';
 
 export interface Props {
   post?: Post;
+  kicker?: string;
   title?: string;
   subtitle?: string;
 }
 
-const { post, title, subtitle } = Astro.props;
+const { post, kicker, title, subtitle } = Astro.props;
 const headingTitle = post?.title || title
 const headingSubtitle = post?.subtitle || subtitle
 
 const showAuthor = false
 const showReadingTime = false
 ---
+<div class="tlo-heading">
 
-<div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+  <!-- Text Kicker -->
+  {kicker && (
+    <p
+      class="tlo-heading-kicker"
+      set:html={kicker}
+    />
+  )}
+
+  <!-- Post Meta -->
   {post && (
-    <p>
+    <p class="tlo-heading-kicker">
+
+      {/* Clock Icon */}
       <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+
+      {/* Post Date */}
       <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate)}</time>
+
+      {/* Author */}
       {
         showAuthor && post?.author && (
           <>
@@ -34,17 +50,21 @@ const showReadingTime = false
           </>
         )
       }
+
+      {/* Category */}
       {
         post.category && (
           <>
             {' '}
             ·{' '}
-            <a class="capitalize hover:underline inline-block" href={getPermalink(post.category, 'category')}>
+            <a class="inline-block" href={getPermalink(post.category, 'category')}>
               {post.category.replaceAll('-', ' ')}
             </a>
           </>
         )
       }
+
+      {/* Reading Time */}
       {
         showReadingTime && post.readingTime && (
           <>
@@ -54,13 +74,18 @@ const showReadingTime = false
       }
     </p>
   )}
+
+  <!-- Title -->
+  <h1
+    class="tlo-heading-title"
+    set:html={headingTitle}
+  />
+  </h1>
+
+  <!-- Subtitle -->
+  <h2
+    class="tlo-heading-subtitle"
+    set:html={headingSubtitle} />
+
 </div>
 
-<h1
-  class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
-  set:html={headingTitle}
-/>
-</h1>
-<h2
-  class="px-4 sm:px-6 max-w-3xl mx-auto text-2xl md:text-2xl font-bold leading-tighter tracking-tighter font-heading"
-  set:html={headingSubtitle} />
