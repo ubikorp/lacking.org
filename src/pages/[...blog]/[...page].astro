@@ -6,9 +6,11 @@
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 
 import Layout from '~/layouts/tlo/Main.astro';
-import Archive from '~/components/tlo/archive/Listing.astro';
-import Pagination from '~/components/tlo/archive/Pagination.astro';
+import Archive from '~/components/tlo/widgets/PostListing.astro';
+import Pagination from '~/components/tlo/widgets/Pagination.astro';
 import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+import Heading from '~/components/tlo/ui/Heading.astro';
+import AboutLacking from '~/components/tlo/widgets/AboutLacking.astro';
 
 import { TLO } from '~/utils/config';
 
@@ -24,9 +26,10 @@ type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
 const { page } = Astro.props as Props;
 const currentPage = page.currentPage ?? 1;
+const title = `Archives${currentPage > 1 ? ` — Page ${currentPage}` : ''}`;
 
 const metadata = {
-  title: `Archives${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  title,
   robots: {
     index: blogListRobots?.index && currentPage === 1,
     follow: blogListRobots?.follow,
@@ -41,16 +44,25 @@ const pageInfo = TLO?.categories['archives']
 
 <Layout metadata={metadata}>
 
+  <!-- Heading -->
+  <Heading title={title} />
+
   <!-- Listing -->
-  <Archive posts={page.data} />
+  <Archive
+    posts={page.data}
+  />
 
   <!-- Pagination -->
   <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
   
   <!-- Sidebar -->
   <Fragment slot="sidebar">
+
     <!-- Category Header -->
     <CategoryHeader category={pageInfo} />
+
+    <!-- About lacking.org -->
+    <AboutLacking />
   </Fragment>
   
 </Layout>

@@ -5,21 +5,12 @@
 
 // Typescript
 import type { Widget } from "~/types";
+import { type TloCategory } from "~/utils/config";
 export interface Props extends Widget {
   category?: TloCategory;
-  title?: string;
-  linkText?: string;
-  linkUrl?: string | URL;
-  information?: string;
-  count?: number;
 }
 
-// Configuration
-import { APP_BLOG, type TloCategory } from "~/utils/config";
-
-// Utilities
-import { getMorePosts } from "~/utils/tlo"
-
+// Properties
 const {
   category
 } = Astro.props;

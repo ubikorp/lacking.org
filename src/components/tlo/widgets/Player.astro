@@ -1,10 +1,17 @@
 ---
+// ---------
+// Player ==
+// ---------
+
 const { media } = Astro.props
 // TODO: YouTube playlist support
 ---
-<iframe
-	width="100%"
-	style="margin-bottom: 1em;"
-	height="120"
-	src={media}
-></iframe>
+
+<div class="tlo-player">
+	<iframe
+		width="100%"
+		style="margin-bottom: 1em;"
+		height="120"
+		src={media}
+	></iframe>
+</div>

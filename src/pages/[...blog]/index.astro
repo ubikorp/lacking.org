@@ -21,8 +21,9 @@ import type { MetaData } from '~/types';
 import Layout from '~/layouts/tlo/Main.astro';
 import Post from '~/layouts/tlo/Post.astro';
 import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
-import RelatedPosts from '~/components/tlo/archive/RelatedPosts.astro';
+import RelatedPosts from '~/components/tlo/widgets/RelatedPosts.astro';
 import RecentPosts from '~/components/tlo/widgets/RecentPosts.astro';
+import AboutLacking from '~/components/tlo/widgets/AboutLacking.astro';
 
 export const prerender = true;
 
@@ -58,17 +59,23 @@ const category = TLO?.categories[post.category || 'home']
 
 <Layout metadata={metadata}>
 
-  <!-- Single Post -->
-  <Post post={{ ...post }} url={url} />
+  <!-- Main Post -->
+  <Post post={post} url={url} />
   
+  <!-- Related Posts -->
   <RelatedPosts post={post} />
 
   <!-- Sidebar -->
   <Fragment slot="sidebar">
+
     <!-- Category Header -->
     <CategoryHeader category={category} />
+
     <!-- Recent articles -->
     <RecentPosts post={post} />
-  </Fragment>
 
+    <!-- About lacking.org -->
+    <AboutLacking />
+
+  </Fragment>
 </Layout>

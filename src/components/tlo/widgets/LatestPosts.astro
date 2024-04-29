@@ -1,16 +1,10 @@
 ---
+// ---------------
+// Latest Posts ==
+// ---------------
+
 // Typescript
 import type { Widget } from "~/types";
-// Configuration
-import { APP_BLOG } from "~/utils/config";
-// Utilities
-import { findLatestPosts } from "~/utils/blog";
-import { getMorePosts } from "~/utils/tlo"
-// TLO Components
-import Button from "~/components/tlo/ui/Button.astro";
-import WidgetWrapper from "~/components/tlo/ui/WidgetWrapper.astro";
-import Archive from '~/components/tlo/archive/Listing.astro';
-
 export interface Props extends Widget {
   title?: string;
   linkText?: string;
@@ -19,37 +13,24 @@ export interface Props extends Widget {
   count?: number;
 }
 
-const {
-  title = await Astro.slots.render("title"),
-  linkText = "View more posts",
-  linkUrl = getMorePosts(),
-  information = await Astro.slots.render("information"),
-  count = APP_BLOG.postsPerPage,
 
-  id,
-  isDark = false,
-  classes = {},
-  bg = await Astro.slots.render("bg"),
-} = Astro.props;
+// Configuration
+import { APP_BLOG } from "~/utils/config";
 
+// TLO Components
+import Button from "~/components/tlo/ui/Button.astro";
+import Archive from '~/components/tlo/widgets/PostListing.astro';
+
+// Utilities
+import { findLatestPosts } from "~/utils/blog";
+import { getMorePosts } from "~/utils/tlo"
+
+const linkText = "View more posts"
+const linkUrl = getMorePosts()
+const count = APP_BLOG.postsPerPage
 const posts = await findLatestPosts({ count });
 ---
 
-  <div class="hidden md:block flex flex-col lg:justify-between lg:flex-row mb-8">
-    {title && (
-      <div class="md:max-w-sm">
-        <h2
-          class="text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none group font-heading mb-2"
-          set:html={title}
-        />
-      </div>
-    )}
+<Archive posts={posts} />
 
-    {information && <p class="text-muted dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
-  </div>
-
-  <Archive posts={posts} />
-
-  {APP_BLOG.list.isEnabled && linkText && linkUrl && (
-    <Button variant="link" href={linkUrl}> {linkText} »</Button>
-  )}
+<Button variant="link" href={linkUrl}> {linkText} »</Button>

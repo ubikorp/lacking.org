@@ -1,45 +1,24 @@
 ---
-// Typescript
-import type { Widget } from "~/types";
+// -------------
+// Site Index ==
+// -------------
+
 // Configuration
-import { APP_BLOG, TLO } from "~/utils/config";
+import { TLO } from "~/utils/config";
+
+// TLO Components
+import Image from '~/components/tlo/ui/Image.astro';
+
 // Utilities
-import { findLatestPosts } from "~/utils/blog";
-import { getMorePosts } from "~/utils/tlo"
 import { getPermalink } from "~/utils/permalinks";
 
-import Image from '~/components/ui/Image.astro';
-
-export interface Props extends Widget {
-  title?: string;
-  linkText?: string;
-  linkUrl?: string | URL;
-  information?: string;
-  count?: number;
-}
-
-const {
-  title = await Astro.slots.render("title"),
-  linkText = "View more posts",
-  linkUrl = getMorePosts(),
-  information = await Astro.slots.render("information"),
-  count = APP_BLOG.postsPerPage,
-
-  id,
-  isDark = false,
-  classes = {},
-  bg = await Astro.slots.render("bg"),
-} = Astro.props;
-
-const posts = await findLatestPosts({ count });
-
-// const categoryIndex = ['mixtapes','playlists','reviews','news']
 const categoryIndex = ['mixtapes','playlists']
 ---
 
 {
   categoryIndex.map((category) => (
     <a href={getPermalink(category, 'category')}>
+      {/* TODO: Move TW to SCSS */}
       <div class="site-index-background flex flex-col justify-between items-center" style={`background-image: url(/images/${TLO?.categories[category].background})`}>
         <Image
           class="site-index-icon"

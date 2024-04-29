@@ -6,13 +6,15 @@
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 import { blogCategoryRobots, getStaticPathsBlogCategory } from '~/utils/blog';
 
-import Pagination from '~/components/tlo/archive/Pagination.astro';
+import Pagination from '~/components/tlo/widgets/Pagination.astro';
 
 import { TLO } from '~/utils/config';
 
+import AboutLacking from '~/components/tlo/widgets/AboutLacking.astro';
 import Layout from '~/layouts/tlo/Main.astro';
-import Listing from '~/components/tlo/archive/Listing.astro';
+import Listing from '~/components/tlo/widgets/PostListing.astro';
 import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+import Heading from '~/components/tlo/ui/Heading.astro';
 
 export const prerender = true;
 
@@ -25,9 +27,10 @@ type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: string
 const { page, category } = Astro.props as Props;
 
 const currentPage = page.currentPage ?? 1;
+const title = `${category} ${currentPage > 1 ? ` — Page ${currentPage}` : ''}`;
 
 const metadata = {
-  title: `Category '${category}' ${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  title,
   robots: {
     index: blogCategoryRobots?.index,
     follow: blogCategoryRobots?.follow,
@@ -39,6 +42,9 @@ const categoryInfo = TLO?.categories[category]
 
 <Layout metadata={metadata}>
 
+  <!-- Heading -->
+  <Heading title={title} />
+
   <!-- Listing -->
   <Listing posts={page.data} />
 
@@ -47,8 +53,13 @@ const categoryInfo = TLO?.categories[category]
 
   <!-- Sidebar -->
   <Fragment slot="sidebar">
+
     <!-- Category Header -->
     <CategoryHeader category={categoryInfo} />
+
+    <!-- About lacking.org -->
+    <AboutLacking />
+
   </Fragment>
   
 </Layout>

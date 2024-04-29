@@ -3,29 +3,35 @@
 import type { Post } from '~/types';
 export interface Props {
   post: Post;
+	link?: boolean;
+	caption?: boolean;
 }
 
-import Image from '~/components/ui/Image.astro';
+import Image from '~/components/tlo/ui/Image.astro';
 import { findImage } from '~/utils/images';
+import { getPermalink } from '~/utils/permalinks';
 
-const { post } = Astro.props;
+const { post, link = true, caption = true } = Astro.props;
 const image = post.image ? (await findImage(`~/assets${post.image.src}`)) as ImageMetadata | undefined : null;
+const imageLink = link ? getPermalink(post.permalink, 'post') : null
+
 ---
 
 <div class="tlo-feature-image">
-	{
-		image && (
-			<Image
-				src={image}
-				widths={[400, 900]}
-				sizes="(max-width: 900px) 400px, 900px"
-				alt={post?.excerpt || ''}
-				width={900}
-				height={506}
-				loading="eager"
-				decoding="async"
-			/>
-			<p set:html={post.image.alt} />
-		)
-	}
+	<a class="relative block group" href={imageLink ?? 'javascript:void(0)'}>
+		{image && (
+				<Image
+					src={image}
+					widths={[400, 900]}
+					sizes="(max-width: 900px) 400px, 900px"
+					alt={post?.excerpt || ''}
+					width={900}
+					height={506}
+					loading="eager"
+					decoding="async"
+				/>
+			)
+		}
+		{caption && ( <p set:html={post.image.alt} /> )}
+	</a>
 </div>

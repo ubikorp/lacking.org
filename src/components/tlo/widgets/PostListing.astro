@@ -1,0 +1,23 @@
+---
+// ---------------
+// Post Listing ==
+// ---------------
+
+import type { Post } from '~/types';
+
+import Item from '~/components/tlo/widgets/Item.astro';
+
+export interface Props {
+  posts: Array<Post>;
+}
+
+const { posts } = Astro.props;
+---
+
+<ul>
+  {posts.map((post) => (
+    <li class="tlo-box">
+      <Item post={post} />
+    </li>
+  ))}
+</ul>

@@ -11,14 +11,31 @@ export interface Props {
   kicker?: string;
   title?: string;
   subtitle?: string;
+  url?: string;
+  link?: boolean;
+  short?: boolean;
 }
 
-const { post, kicker, title, subtitle } = Astro.props;
+const {
+  post,
+  kicker,
+  title,
+  subtitle,
+  url,
+  link = true,
+  short = false,
+} = Astro.props;
 const headingTitle = post?.title || title
-const headingSubtitle = post?.subtitle || subtitle
+const headingSubtitle = short ? '' : post?.subtitle || subtitle
 
+// Extract and normalize heading link
+let headingLink = link ? post?.permalink || url : null;
+headingLink = link && !headingLink?.startsWith('/') ? `/${headingLink}` : headingLink;
+
+// Defaults for now
 const showAuthor = false
 const showReadingTime = false
+
 ---
 <div class="tlo-heading">
 
@@ -76,16 +93,26 @@ const showReadingTime = false
   )}
 
   <!-- Title -->
-  <h1
-    class="tlo-heading-title"
-    set:html={headingTitle}
-  />
-  </h1>
+  {headingLink ? (
+    <h1 class="tlo-heading-title">
+      <a
+        href={headingLink}
+        set:html={headingTitle}
+      />
+    </h1>
+  ) : (
+    <h1
+      class="tlo-heading-title"
+      set:html={headingTitle}
+    />
+
+  )}
 
   <!-- Subtitle -->
   <h2
     class="tlo-heading-subtitle"
-    set:html={headingSubtitle} />
+    set:html={headingSubtitle}
+  />
 
 </div>
 
