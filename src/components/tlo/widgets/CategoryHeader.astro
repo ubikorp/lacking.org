@@ -8,11 +8,13 @@ import type { Widget } from "~/types";
 import { type TloCategory } from "~/utils/config";
 export interface Props extends Widget {
   category?: TloCategory;
+  description?: boolean;
 }
 
 // Properties
 const {
-  category
+  category,
+  description = true
 } = Astro.props;
 
 ---
@@ -32,4 +34,4 @@ const {
 </div>
 
 <!-- Category Description -->
-<p class="category-description" set:html={category?.description} />
+{description && <p class="category-description" set:html={category?.description} />}

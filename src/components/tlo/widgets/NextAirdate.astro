@@ -10,7 +10,7 @@ import Heading from "~/components/tlo/ui/Heading.astro"
 import { nextAirdate, localTimeZone } from "~/utils/tlo"
 ---
 
-<div class="tlo-next-airdate">
+<div class="tlo-box tlo-next-airdate">
 	<Heading
 		kicker="Next airdate:"
 		title={`${nextAirdate.start_string}<br>${localTimeZone}`}

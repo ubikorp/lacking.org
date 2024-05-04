@@ -1,19 +1,13 @@
 ---
-// title: Radio Activity
-// subtitle: Helpful instructions for the operation of this broadcast
-// category: page
-// publishDate: '2008-09-08'
-// excerpt: Helpful instructions for the operation of this broadcast
-// tags: []
-// image:
-//   src: "/images/articles/2008/radio_activity.jpg"
-//   alt: ''
-// A messagegram to elucidate the scheduling of periodic activity! On these dates and times, it is a near-certainty that you can tune in to a type of rambling haphazard musical junkyard, with yours truly deliberating in between with lots of um's and factoids.
-
+layout: ../layouts/tlo/Main.astro
+title: Radio Activity
+subtitle: Helpful instructions for the operation of this broadcast
 ---
-Helpful instructions for the operation of this broadcast<!--more-->
 
--- include components/next_airdate.html --
+import NextAirdate from '../components/tlo/widgets/NextAirdate.astro';
+import Schedule from '../components/tlo/widgets/Schedule.astro';
+
+<NextAirdate />
 
 Esteemed potential listeners--
 
@@ -21,7 +15,7 @@ A messagegram to elucidate the scheduling of periodic activity! On these dates a
 
 ## Schedule
 
--- include components/schedule.html --
+<Schedule />
 
 ## How to Listen
 
@@ -52,4 +46,3 @@ A podcast is in re-development, with a handful of past episodes available. Witne
 We thank you, imagined audience, for the time spent scanning your eyeballs in deliberation.
 
 **I am Julius C. Lacking and I approve this message.**
-

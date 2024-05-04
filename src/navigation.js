@@ -8,11 +8,11 @@ export const headerData = {
     // },
     {
       text: 'Radio Activity',
-      href: getPermalink('/'),
+      href: getPermalink('/radio-activity'),
     },
     {
       text: 'Your Host',
-      href: getPermalink('/'),
+      href: getPermalink('/your-host'),
     },
     {
       text: 'More',

@@ -6,12 +6,12 @@ import Item from '~/components/tlo/widgets/Item.astro';
 import Heading from "../ui/Heading.astro";
 
 export interface Props {
-  post: Post;
+  post?: Post;
 }
 
 const { post } = Astro.props;
 const fetchedPosts = await fetchPosts();
-const recentPosts = fetchedPosts.filter((pp) => pp.permalink !== post.permalink).slice(0, 5);
+const recentPosts = fetchedPosts.filter((pp) => !post || pp.permalink !== post.permalink).slice(0, 5);
 ---
 
 <div class="tlo-recent-posts">

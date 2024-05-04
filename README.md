@@ -1,4 +1,4 @@
-TLO
+# TLO
 
 - Site
   - Layout
@@ -58,11 +58,11 @@ TLO
     + Social Media
     + Related
 - [Radio Activity](./src/pages/radio-activity.astro)
-  - Next Airdate
-  - Schedule
+  + Next Airdate
+  + Schedule
   - Text
 - [Your Host](./src/pages/your-host.astro)
-  - Image
+  * Image
   - Text
 - [Contact](./src/pages/contact.astro)
   - Image

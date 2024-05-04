@@ -3,22 +3,38 @@
 // Main Layout ==
 // --------------
 
+// Configuration
+import { TLO } from "~/utils/config";
+
 // TLO Components
 import HtmlPage from '~/layouts/tlo/Html.astro';
 import Header from '~/components/tlo/widgets/Header.astro';
 import Footer from '~/components/tlo/widgets/Footer.astro';
+import RecentPosts from '~/components/tlo/widgets/RecentPosts.astro';
+import AboutLacking from '~/components/tlo/widgets/AboutLacking.astro';
+import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
 
 // Navigation Data
 import { headerData, footerData } from '~/navigation';
 
 // Typescript
 import type { MetaData } from '~/types';
+import Heading from "~/components/tlo/ui/Heading.astro";
 export interface Props {
   metadata?: MetaData;
 }
 
+export interface Props {
+  frontmatter?: {
+    title?: string
+    subtitle?: string
+  }
+}
+
 // Page Metadata
-const { metadata } = Astro.props;
+const { metadata, frontmatter } = Astro.props;
+const homeCategory = TLO?.categories.home
+console.log('metadata', metadata)
 ---
 
 <HtmlPage metadata={metadata}>
@@ -34,12 +50,31 @@ const { metadata } = Astro.props;
 
       <!-- Left Sidebar -->
       <div class="left-sidebar hidden md:block basis-1/4">
-        <slot name="sidebar" />
+        <slot name="sidebar">
+            <!-- Default Sidebar Content -->
+
+          <!-- Category Header -->
+          <CategoryHeader category={homeCategory} description={false} />
+
+          <!-- Recent articles -->
+          <RecentPosts />
+
+          <!-- About lacking.org -->
+          <AboutLacking />
+        </slot>
       </div>
 
       <!-- Content -->
       <div class="content basis-3/4">
-        <slot />
+
+        <Heading
+          title={frontmatter?.title}
+          subtitle={frontmatter?.subtitle}
+        />
+
+        <div class="tlo-box">
+          <slot />
+        </div>
       </div>
 
     </div>  
