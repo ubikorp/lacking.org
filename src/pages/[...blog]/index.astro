@@ -18,12 +18,13 @@ import { findImage } from '~/utils/images';
 import type { MetaData } from '~/types';
 
 // TLO Components
-import Layout from '~/layouts/Main.astro';
-import Post from '~/layouts/Post.astro';
-import CategoryHeader from '~/tlo/widgets/CategoryHeader.astro';
-import RelatedPosts from '~/tlo/widgets/RelatedPosts.astro';
-import RecentPosts from '~/tlo/widgets/RecentPosts.astro';
-import AboutLacking from '~/tlo/widgets/AboutLacking.astro';
+import Layout from '~/layouts/Post.astro';
+import FeatureImage from '~/tlo/widgets/FeatureImage.astro';
+import Player from '~/tlo/widgets/Player.astro';
+import Playlist from '~/tlo/widgets/Playlist.astro';
+import PostTags from '~/tlo/ui/Tags.astro';
+import SocialShare from '~/tlo/widgets/SocialShare.astro';
+import YoutubeVideo from '~/tlo/widgets/YoutubeVideo.astro';
 
 export const prerender = true;
 
@@ -34,6 +35,7 @@ export const getStaticPaths = (async () => {
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
 const { post } = Astro.props as Props;
+const { Content } = post;
 
 const url = getCanonical(getPermalink(post.permalink, 'post'));
 // const image = (await findImage(post.image)) as ImageMetadata | string | undefined;
@@ -57,25 +59,27 @@ const metadata = merge(
 const category = TLO?.categories[post.category || 'home']
 ---
 
-<Layout metadata={metadata}>
+<Layout metadata={metadata} post={post}>
 
-  <!-- Main Post -->
-  <Post post={post} url={url} />
+  <!-- Feature Image -->
+  <FeatureImage post={post} link={false} />
+
+  <!-- Post Content -->
+  {Content ? <Content /> : <Fragment set:html={post.content || ''} />}
+
+  <!-- Media -->
+  {post.media && <Player media={post.media} />}
+
+  <!-- Playlist -->
+  {post.playlist && <Playlist playlist={post.playlist} />}
+
+  <!-- YouTube -->
+  {post.youtube && <YoutubeVideo videoId={post.youtube} />}
+
+  <!-- Tags -->
+  <PostTags tags={post.tags} />
+
+  <!-- Social Share -->
+  <SocialShare url={url} text={post.title} />
   
-  <!-- Related Posts -->
-  <RelatedPosts post={post} />
-
-  <!-- Sidebar -->
-  <Fragment slot="sidebar">
-
-    <!-- Category Header -->
-    <CategoryHeader category={category} />
-
-    <!-- Recent articles -->
-    <RecentPosts post={post} />
-
-    <!-- About lacking.org -->
-    <AboutLacking />
-
-  </Fragment>
 </Layout>

@@ -4,61 +4,47 @@
 // --------------
 
 // TLO Widgets
-import FeatureImage from '~/tlo/widgets/FeatureImage.astro';
+import Layout from '~/layouts/Main.astro';
 import Heading from '~/tlo/ui/Heading.astro';
-import Player from '~/tlo/widgets/Player.astro';
-import Playlist from '~/tlo/widgets/Playlist.astro';
-import PostTags from '~/tlo/ui/Tags.astro';
-import SocialShare from '~/tlo/widgets/SocialShare.astro';
-import YoutubeVideo from '~/tlo/widgets/YoutubeVideo.astro';
+import RelatedPosts from '~/tlo/widgets/RelatedPosts.astro';
 
+// Typescript
 import type { Post } from '~/types';
 export interface Props {
+  metadata: object,
   post: Post;
-  url: string | URL;
 }
 
-const { post, url } = Astro.props;
-const { Content } = post;
+const { metadata, post } = Astro.props;
 ---
+<Layout metadata={metadata}>
+  <article class="tlo-post">
 
-<article class="tlo-post">
+    <!-- Post Header -->
+    <header class="tlo-header">
 
-  <!-- Post Header -->
-  <header>
-
-    <!-- Heading -->
-    <Heading post={post} link={false} />
+      <!-- Heading -->
+      <Heading
+        post={post}
+        link={false}
+      />
+      
+    </header>
     
-  </header>
-  
-  <!-- Content -->
-  <div class="tlo-content">
+    <!-- Content -->
+    <div class="tlo-content">
 
-    <!-- Feature Image -->
-    <FeatureImage post={post} link={false} />
-
-    {Content ? <Content /> : <Fragment set:html={post.content || ''} />}
-
-    <!-- Media -->
-    {post.media && <Player media={post.media} />}
-
-    <!-- Playlist -->
-    {post.playlist && <Playlist playlist={post.playlist} />}
-
-    <!-- YouTube -->
-    {post.youtube && <YoutubeVideo videoId={post.youtube} />}
+      <!-- Post Content -->
+      <slot />
+      
+    </div>
 
     <!-- Post Footer -->
-    <footer>
+    <footer class="tlo-footer">
 
-      <!-- Tags -->
-      <PostTags tags={post.tags} />
-
-      <!-- Social Share -->
-      <SocialShare url={url} text={post.title} />
+      <!-- Related Posts -->
+      <RelatedPosts post={post} />
 
     </footer>
-  </div>
-
-</article>
+  </article>
+</Layout>
