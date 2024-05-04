@@ -39,7 +39,7 @@ export const headerData = {
         },
         {
           text: 'Contact',
-          href: getPermalink('/'),
+          href: getPermalink('/contact'),
         },
       ]
     },
@@ -47,21 +47,21 @@ export const headerData = {
       text: 'On Social Media',
       links: [
         {
-          text: 'On Facebook',
+          text: 'Facebook',
           href: 'https://www.facebook.com/jclacking',
         },
         {
-          text: 'On Instagram',
+          text: 'Instagram',
           href: 'https://www.instagram.com/jclacking',
         },
         {
-          text: 'On Mixcloud',
+          text: 'Mixcloud',
           href: 'https://www.mixcloud.com/the-lacking-org',
         },
-        // {
-        //   text: 'On Mastodon',
-        //   href: getPermalink('/services'),
-        // },
+        {
+          text: 'Mastodon',
+          href: 'https://room19.com/@jclacking/',
+        },
       ],
     },
   ],

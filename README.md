@@ -3,13 +3,15 @@
 - Site
   - Layout
   - Typography
-  * Background
+  + Background
   - Text tilting JS
   - Footer
-  - Deployment
-* [Navigation](./src/navigation.js)
-  * Add tape reel badge
-  * Social Media links
+  - Full content
+  * Deployment
+  - Domain
++ [Navigation](./src/navigation.js)
+  + Add tape reel badge
+  + Social Media links
 + [Home](./src/pages/index.astro)
   + Left
     + Home Category
@@ -65,8 +67,8 @@
   * Image
   - Text
 - [Contact](./src/pages/contact.astro)
-  - Image
-  - Text
+  - TODO: Contact Image
+  * Text
 
 FUTURE:
 
@@ -76,6 +78,8 @@ Update news etc.
 Add Lacking Details
 Listen Now JS
 Mastodon social link
+Remove tailwind
 Dark mode
 Page with all the tags instead of a search page
 Something instead of void() when you click on non-link images
+Shoelace
