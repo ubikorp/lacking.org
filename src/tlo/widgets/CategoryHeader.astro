@@ -16,22 +16,27 @@ const {
   category,
   description = true
 } = Astro.props;
-
 ---
 
 <!-- Background -->
-<div class="category-background flex flex-col justify-between items-center aspect-square" style=`background-image: url(/images/${category?.background});`>
+<div
+  class="tlo-category-background"
+  style=`background-image: url(/images/${category?.background});`
+>
 
   <!-- Icon -->
-  <img class="category-icon" src={`/images/${category?.icon}`} alt={category?.title} />
+  <img class="tlo-category-icon"
+    src={`/images/${category?.icon}`}
+    alt={category?.title}
+  />
 
   <!-- Category Title -->
-  <h1 class="category-title" set:html={category?.title} />
+  <h1 class="tlo-category-title" set:html={category?.title} />
 
   <!-- Category Tagline -->
-  <h3 class="category-tagline" set:html={category?.tagline} />
+  <h3 class="tlo-category-tagline" set:html={category?.tagline} />
 
 </div>
 
 <!-- Category Description -->
-{description && <p class="category-description" set:html={category?.description} />}
+{description && <p class="tlo-category-description" set:html={category?.description} />}

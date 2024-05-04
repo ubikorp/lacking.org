@@ -4,13 +4,13 @@
 // ---------------
 
 // TLO Components
-import Heading from "~/tlo/ui/Heading.astro"
+import Heading from "~/tlo/widgets/Heading.astro"
 
 // Utility
 import { nextAirdate, localTimeZone } from "~/utils/tlo"
 ---
 
-<div class="tlo-box tlo-next-airdate">
+<div class="tlo-next-airdate tlo-box">
 	<Heading
 		kicker="Next airdate:"
 		title={`${nextAirdate.start_string}<br>${localTimeZone}`}

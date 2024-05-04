@@ -1,14 +1,16 @@
 ---
 import { schedule } from '~/utils/tlo'
 ---
-<table class="table-auto w-full">
-	<tbody>								
-		{schedule.map((entry: any) => (
-			<tr>
-				<td>{entry.start_string}</td>
-				<td>{entry.location}</td>
-				<td>{entry.notes}</td>
-			</tr>
-		))}
-	</tbody>
-</table>
+<div class="tlo-schedule">
+	<table>
+		<tbody>
+			{schedule.map((entry: any) => (
+				<tr>
+					<td>{entry.start_string}</td>
+					<td>{entry.location}</td>
+					<td>{entry.notes}</td>
+				</tr>
+			))}
+		</tbody>
+	</table>
+</div>

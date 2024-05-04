@@ -8,10 +8,9 @@ import { findImage } from '~/utils/images';
 const yourHost = await findImage('/images/jclacking.png') as ImageMetadata
 ---
 
-<!-- TODO: Clean up TW -->
-<div class="tlo-your-host flex flex-col items-center">
+<div class="tlo-your-host">
 	<Image
-		class="tlo-your-host-image rounded-full"
+		class="tlo-your-host-image"
 		src={yourHost}
 		alt="Your Host"
 		layout="fixed"

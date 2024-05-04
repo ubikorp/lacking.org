@@ -7,7 +7,7 @@ import PostTags from '~/tlo/ui/Tags.astro';
 import { APP_BLOG } from '~/utils/config';
 import type { Post } from '~/types';
 
-import Heading from '~/tlo/ui/Heading.astro';
+import Heading from '~/tlo/widgets/Heading.astro';
 import Player from '~/tlo/widgets/Player.astro';
 
 import { getPermalink } from '~/utils/permalinks';
@@ -42,20 +42,22 @@ const micro = variant == 'micro'
   <Heading post={post} short={true} />
 
   <!-- Excerpt (Full / Short) -->
-  {!micro && post.excerpt && <p set:html={toMarkdown(post.excerpt)} />}
+  {!micro && post.excerpt &&
+    <p class="tlo-item-description" set:html={toMarkdown(post.excerpt)} />
+  }
 
   <!-- Media (Full) -->
   {full &&
-    <div class="my-4">
+    <div class="tlo-item-media">
       {post.media && <Player media={post.media} />}
     </div>
   }
 
   <!-- Tags (Full) -->
   {full &&
-    <footer class="mt-4">
+    <footer class="tlo-item-tags">
       <PostTags tags={post.tags} />
     </footer>
   }
 
-  </article>
+</article>

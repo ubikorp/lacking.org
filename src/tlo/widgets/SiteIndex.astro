@@ -18,21 +18,20 @@ const categoryIndex = ['mixtapes','playlists']
 {
   categoryIndex.map((category) => (
     <a href={getPermalink(category, 'category')}>
-      {/* TODO: Move TW to SCSS */}
-      <div class="site-index-background flex flex-col justify-between items-center" style={`background-image: url(/images/${TLO?.categories[category].background})`}>
+      <div class="tlo-site-index-background" style={`background-image: url(/images/${TLO?.categories[category].background})`}>
         <Image
-          class="site-index-icon"
+          class="tlo-site-index-icon"
           widths={[400, 768]}
           layout="fixed"
           src={`/images/${TLO?.categories[category].icon}`}
           alt={TLO?.categories[category].tagline}
         />
-        <a class="site-index-title" href={getPermalink(category, 'category')}>
+        <a class="tlo-site-index-title" href={getPermalink(category, 'category')}>
           {TLO?.categories[category].title}
         </a>
       </div>
 
-      <p class="site-index-description" set:html={TLO?.categories[category].description} />
+      <p class="tlo-site-index-description" set:html={TLO?.categories[category].description} />
     </a>
   ))
 }

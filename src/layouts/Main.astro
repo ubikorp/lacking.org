@@ -37,10 +37,10 @@ const homeCategory = TLO?.categories.home
 
   <!-- Main -->
   <main>
-    <div class="md:flex flex-row">
 
       <!-- Left Sidebar -->
-      <div class="left-sidebar hidden md:block basis-1/4">
+      <!-- TODO: Clean up TW -->
+      <div class="left-sidebar hidden md:block">
         <slot name="sidebar">
           <!-- Default Sidebar Content -->
 
@@ -56,13 +56,12 @@ const homeCategory = TLO?.categories.home
       </div>
 
       <!-- Content -->
-      <div class="content basis-3/4">
+      <div class="content">
         <div class="tlo-box">
           <slot />
         </div>
       </div>
 
-    </div>  
   </main>
 
   <!-- Footer -->

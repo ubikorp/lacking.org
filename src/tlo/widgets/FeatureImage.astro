@@ -13,12 +13,12 @@ import { getPermalink } from '~/utils/permalinks';
 
 const { post, link = true, caption = true } = Astro.props;
 const image = post.image ? (await findImage(`~/assets${post.image.src}`)) as ImageMetadata | undefined : null;
-const imageLink = link ? getPermalink(post.permalink, 'post') : null
+const imageLink = link ? getPermalink(post.permalink, 'post') : 'javascript:void(0)'
 
 ---
 
 <div class="tlo-feature-image">
-	<a class="relative block group" href={imageLink ?? 'javascript:void(0)'}>
+	<a href={imageLink}>
 		{image && (
 				<Image
 					src={image}
