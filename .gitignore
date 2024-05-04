@@ -26,4 +26,3 @@ pnpm-lock.yaml
 # TODO: Only for dev
 src/content/post
 src/assets
-public/images
