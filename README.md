@@ -61,11 +61,11 @@
     + Related
 - [Radio Activity](./src/pages/radio-activity.astro)
   + Next Airdate
-  + Schedule
-  - Text
+  * Schedule
+  * Text
 - [Your Host](./src/pages/your-host.astro)
   * Image
-  - Text
+  * Text
 - [Contact](./src/pages/contact.astro)
   - TODO: Contact Image
   * Text
