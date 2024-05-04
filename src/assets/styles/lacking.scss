@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900');
+
+// Header
+
+nav {
+  a, button {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+}
+
+// Typography
+
+p, td {
+  font-family: var(--tlo-font-body);
+  font-size: var(--tlo-font-md);
+  font-weight: 400;
+  letter-spacing: normal;
+}
+
+// Layout
+
+main {
+  padding: var(--tlo-gap-xl);
+  background-image: url(/images/site/white_paperboard.png);
+  background-attachment: fixed;
+
+  // General
+
+  .tlo-box {
+    padding: var(--tlo-gap-xl);
+    border-radius: var(--tlo-radius);
+    background-color: rgba($color: white, $alpha: 0.8);
+  }
+
+  // Home Page
+
+  .tlo-index-airdate {
+    .tlo-your-host {
+      margin-right: var(--tlo-gap-lg);
+    }
+  }
+
+  // Left Sidebar
+
+  .left-sidebar {
+    margin-right: var(--tlo-gap-xl);
+
+    // Category Header
+
+    .category-background {
+      background-size: cover;
+      border-radius: var(--tlo-radius);
+      padding: 0 var(--tlo-gap-sm);
+    }
+
+    .category-icon {
+      width: 200px;
+    }
+
+    .category-title,
+    .site-index-title {
+      font-size: var(--tlo-font-xl);
+      font-weight: 900;
+      text-transform: uppercase;
+      text-align: center;
+      letter-spacing: var(--tlo-letter-spacing);
+      color: white;
+      margin-bottom: var(--tlo-gap-md);
+    }
+
+    .category-tagline {
+      font-size: var(--tlo-font-xs);
+      font-weight: 700;
+      text-transform: uppercase;
+      text-align: center;
+      letter-spacing: var(--tlo-letter-spacing);
+      color: white;
+      margin-bottom: var(--tlo-gap-md);
+    }
+
+    .category-description,
+    .site-index-description {
+      font-family: var(--tlo-font-body);
+      text-align: justify;
+      hyphens: auto;
+      margin: var(--tlo-gap-md) 0;
+    }
+
+    // Site Index
+
+    .site-index-background {
+      width: 100%;
+      aspect-ratio: 16/9;
+      background-size: cover;
+      padding: 0 0.25em;
+      border-radius: var(--tlo-radius);
+      margin-top: var(--tlo-gap-lg);
+    }
+
+    .site-index-icon {
+      width: 150px;
+    }
+
+    .site-index-title {
+      font-size: var(--tlo-font-lg);
+    }
+
+    // .site-index-description {}
+
+    // About
+
+    .about-box {
+      background-color: rgba($color: #CCCCCC, $alpha: 0.25);
+      padding: var(--tlo-gap-sm);
+      margin-top: var(--tlo-gap-lg);
+
+      .about-title {
+        font-size: var(--tlo-font-xs);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: var(--tlo-letter-spacing);
+        margin-bottom: var(--tlo-gap-md);
+      }
+
+      .about-description {
+        text-align: justify;
+        hyphens: auto;
+        margin: var(--tlo-gap-md) 0 0 0;
+      }
+    }
+  }
+
+  // Content Area
+  .content {
+
+    // Listings
+
+    .tlo-item {
+      .tlo-feature-image,
+      .tlo-heading {
+        margin-bottom: var(--tlo-gap-md);
+      }      
+    }
+
+    // Posts / Pages
+
+    .tlo-page,
+    .tlo-post {
+
+      header {
+        margin-bottom: var(--tlo-gap-md);
+      }
+
+      .tlo-content p {
+        margin: var(--tlo-gap-md) 0;
+      }
+
+      .tlo-player,
+      .tlo-playlist {
+        margin: var(--tlo-gap-lg) 0;
+      }
+  
+      footer {
+        display: flex;
+        margin-top: var(--tlo-gap-lg);
+      }
+    }
+  }
+}
+
+// Components
+
+.tlo-heading {
+
+  .tlo-heading-kicker {
+    font-size: var(--tlo-font-xs);
+    text-transform: uppercase;
+    letter-spacing: var(--tlo-letter-spacing);
+    margin: 0;
+  }
+
+  .tlo-heading-title {
+    font-size: var(--tlo-font-lg);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: var(--tlo-letter-spacing);
+    margin: var(--tlo-gap-xs) 0;
+    a:hover {
+      color: var(--aw-color-primary);
+    }
+  }
+
+  .tlo-heading-subtitle {
+    font-size: var(--tlo-font-xs);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: var(--tlo-letter-spacing);
+  }
+}
+
+.tlo-feature-image {
+
+  img {
+    border-radius: var(--tlo-radius);
+  }
+
+  p {
+    font-size: var(--tlo-font-xs);
+    width: 100%;
+    text-align: right;
+  }
+}
+
+// Widgets
+
+// Your Host
+
+.tlo-your-host {
+  text-align: center;
+  padding: var(--tlo-gap-sm);
+
+  .tlo-your-host-image {
+    margin-bottom: 1em;
+    border: 0.5px solid #CCCCCC;
+  }
+
+  .tlo-your-host-title {
+    font-size: var(--tlo-font-xs);
+  }
+
+  .tlo-your-host-name {
+    font-size: var(--tlo-font-sm);
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+}
+
+// Next Airdate
+
+.tlo-next-airdate {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(/images/pages/radio_activity.jpg);
+  .tlo-heading {
+    background-color: rgba($color: white, $alpha: 0.8);
+    padding: var(--tlo-gap-lg);
+  }
+}
+
+// Playlist
+
+.tlo-playlist {
+  td {
+    padding: var(--tlo-gap-xs) 0;
+  }
+}
+
+// Related Posts
+
+.tlo-related-posts {
+  margin-top: var(--tlo-gap-xl);
+  font-size: 80%;
+  .tlo-heading {
+    margin: var(--tlo-gap-md) 0;
+  }
+  .tlo-related-items {
+    display: grid;
+    gap: var(--tlo-gap-md);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+// Recent Posts
+
+.tlo-recent-posts {
+  .tlo-heading {
+    margin-top: var(--tlo-gap-lg);
+  }
+  .tlo-item {
+    display: flex;
+    column-gap: var(--tlo-gap-md);
+    margin-bottom: var(--tlo-gap-md);
+    .tlo-feature-image {
+      width: 200px;
+    }
+    .tlo-heading {
+      width: 60%;
+      font-size: 60%;
+    }
+  }
+}
+
+// Tags
+
+.tlo-tag {
+  font-family: var(--tlo-font-body);
+  font-weight: bold;
+  &:hover {
+    color:var(--aw-color-primary);
+  }
+}
