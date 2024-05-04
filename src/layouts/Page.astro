@@ -1,0 +1,63 @@
+---
+// --------------
+// Single Post ==
+// --------------
+
+// TLO Widgets
+import Layout from '~/layouts/Main.astro';
+import Heading from '~/tlo/ui/Heading.astro';
+
+// Support
+import { getFormattedDate } from '~/utils/utils';
+
+// Typescript
+export interface Props {
+  frontmatter?: {
+    title?: string
+    subtitle?: string
+    description?: string
+    category?: string
+    updated?: Date
+  }
+}
+
+// Page Metadata
+const { frontmatter } = Astro.props;
+const metadata = {
+  title: frontmatter?.title,
+  ignoreTitleTemplate: true,
+};
+---
+<Layout metadata={metadata}>
+  <article class="tlo-page">
+
+    <!-- Post Header -->
+    <header class="tlo-header">
+
+      <!-- Heading -->
+      <Heading
+        title={frontmatter?.title}
+        subtitle={frontmatter?.subtitle}
+        link={false}
+      />
+      
+    </header>
+    
+    <!-- Content -->
+    <div class="tlo-content">
+
+      <slot />
+      
+    </div>
+
+    <!-- Post Footer -->
+    {frontmatter?.updated && (
+      <footer class="tlo-footer">
+        <p class="tlo-updated">
+          Last update: { getFormattedDate(frontmatter?.updated) }
+        </p>
+      </footer>
+    )}
+
+  </article>
+</Layout>

@@ -24,15 +24,8 @@ export interface Props {
   metadata?: MetaData;
 }
 
-export interface Props {
-  frontmatter?: {
-    title?: string
-    subtitle?: string
-  }
-}
-
 // Page Metadata
-const { metadata, frontmatter } = Astro.props;
+const { metadata } = Astro.props;
 const homeCategory = TLO?.categories.home
 ---
 
@@ -50,7 +43,7 @@ const homeCategory = TLO?.categories.home
       <!-- Left Sidebar -->
       <div class="left-sidebar hidden md:block basis-1/4">
         <slot name="sidebar">
-            <!-- Default Sidebar Content -->
+          <!-- Default Sidebar Content -->
 
           <!-- Category Header -->
           <CategoryHeader category={homeCategory} description={false} />
@@ -65,12 +58,6 @@ const homeCategory = TLO?.categories.home
 
       <!-- Content -->
       <div class="content basis-3/4">
-
-        <Heading
-          title={frontmatter?.title}
-          subtitle={frontmatter?.subtitle}
-        />
-
         <div class="tlo-box">
           <slot />
         </div>
