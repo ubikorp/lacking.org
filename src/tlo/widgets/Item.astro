@@ -1,14 +1,14 @@
 ---
 import type { ImageMetadata } from 'astro';
 import { Icon } from 'astro-icon/components';
-import Image from '~/components/tlo/ui/Image.astro';
+import Image from '~/tlo/ui/Image.astro';
 import PostTags from '~/components/blog/Tags.astro';
 
 import { APP_BLOG } from '~/utils/config';
 import type { Post } from '~/types';
 
-import Heading from '~/components/tlo/ui/Heading.astro';
-import Player from '~/components/tlo/widgets/Player.astro';
+import Heading from '~/tlo/ui/Heading.astro';
+import Player from '~/tlo/widgets/Player.astro';
 
 import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';

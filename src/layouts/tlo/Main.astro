@@ -8,18 +8,18 @@ import { TLO } from "~/utils/config";
 
 // TLO Components
 import HtmlPage from '~/layouts/tlo/Html.astro';
-import Header from '~/components/tlo/widgets/Header.astro';
-import Footer from '~/components/tlo/widgets/Footer.astro';
-import RecentPosts from '~/components/tlo/widgets/RecentPosts.astro';
-import AboutLacking from '~/components/tlo/widgets/AboutLacking.astro';
-import CategoryHeader from '~/components/tlo/widgets/CategoryHeader.astro';
+import Header from '~/tlo/widgets/Header.astro';
+import Footer from '~/tlo/widgets/Footer.astro';
+import RecentPosts from '~/tlo/widgets/RecentPosts.astro';
+import AboutLacking from '~/tlo/widgets/AboutLacking.astro';
+import CategoryHeader from '~/tlo/widgets/CategoryHeader.astro';
 
 // Navigation Data
 import { headerData, footerData } from '~/navigation';
 
 // Typescript
 import type { MetaData } from '~/types';
-import Heading from "~/components/tlo/ui/Heading.astro";
+import Heading from "~/tlo/ui/Heading.astro";
 export interface Props {
   metadata?: MetaData;
 }
