@@ -9,7 +9,6 @@ subtitle:    A weekly compendium of random audible artifacts that are considered
 description: >
              Gather the family around the computer screen and prepare to be entertained for hours
              by the reliable delivery of an Electronic Missive, every seven days!
-permalink: /details
 keywords: newsletter
 image:
   src: pages/details.jpg

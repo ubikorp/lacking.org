@@ -69,6 +69,8 @@
 - [Contact](./src/pages/contact.astro)
   - TODO: Contact Image
   * Text
+- [404](./src/pages/404.astro)
+  - ???
 
 FUTURE:
 

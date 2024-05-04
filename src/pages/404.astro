@@ -1,24 +1,25 @@
 ---
-import Layout from '~/layouts/Layout.astro';
+import Layout from '~/layouts/Html.astro';
 import { getHomePermalink } from '~/utils/permalinks';
 
 const title = `Error 404`;
 ---
 
 <Layout metadata={{ title }}>
-  <section class="flex items-center h-full p-16">
-    <div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
-      <div class="max-w-md text-center">
-        <h2 class="mb-8 font-bold text-9xl">
-          <span class="sr-only">Error</span>
-          <span class="text-primary">404</span>
-        </h2>
-        <p class="text-3xl font-semibold md:text-3xl">Sorry, we couldn't find this page.</p>
-        <p class="mt-4 mb-8 text-lg text-muted dark:text-slate-400">
-          But dont worry, you can find plenty of other things on our homepage.
-        </p>
-        <a rel="noopener noreferrer" href={getHomePermalink()} class="btn ml-4">Back to homepage</a>
-      </div>
-    </div>
+  <section class="tlo-not-found">
+
+    <h2 class="tlo-not-found-header">
+      Exceptional State: 404
+    </h2>
+
+    <h3>Our sincere apologies.</h3>
+
+    <p>It appears you are trying to intercept content that has been deliberately relocated or terminated, or worst, perhaps this content never existed at all.</p>
+
+    <p>
+      We recommend you investigate the options available in the navigational contraption situated at the apex of this page, or perhaps you can 
+      <a rel="noopener noreferrer" href={getHomePermalink()}>examine the Primary Index</a>
+    </p>
+
   </section>
 </Layout>
