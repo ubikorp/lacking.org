@@ -19,6 +19,7 @@ import { headerData, footerData } from '~/navigation';
 
 // Typescript
 import type { MetaData } from '~/types';
+import Menu from "~/tlo/widgets/Menu.astro";
 export interface Props {
   metadata?: MetaData;
 }
@@ -30,39 +31,39 @@ const homeCategory = TLO?.categories.home
 
 <HtmlPage metadata={metadata}>
 
-  <!-- Header -->
-  <slot name="header">
-    <Header {...headerData} isSticky showRssFeed />
-  </slot>
-
   <!-- Main -->
-  <main>
+  <div id="wrapper">
 
-      <!-- Left Sidebar -->
-      <!-- TODO: Clean up TW -->
-      <div class="left-sidebar hidden md:block">
-        <slot name="sidebar">
-          <!-- Default Sidebar Content -->
+    <!-- Header -->
+    <slot name="header">
+      <header id="header">
+        <Header {...headerData} isSticky showRssFeed />
+        <Menu />
+      </header>
+    </slot>
 
-          <!-- Category Header -->
-          <CategoryHeader category={homeCategory} description={false} />
+    <!-- Content -->
+    <div id="main" class="tlo-content">
+      <slot />
+    </div>
 
-          <!-- Recent articles -->
-          <RecentPosts />
+    <!-- Left Sidebar -->
+    <section id="sidebar" class="tlo-sidebar">
+      <slot name="sidebar">
+        <!-- Default Sidebar Content -->
 
-          <!-- About lacking.org -->
-          <AboutLacking />
-        </slot>
-      </div>
+        <!-- Category Header -->
+        <CategoryHeader category={homeCategory} description={false} />
 
-      <!-- Content -->
-      <div class="content">
-        <div class="tlo-box">
-          <slot />
-        </div>
-      </div>
+        <!-- Recent articles -->
+        <RecentPosts />
 
-  </main>
+        <!-- About lacking.org -->
+        <AboutLacking />
+      </slot>
+    </section>
+
+  </div>
 
   <!-- Footer -->
   <slot name="footer">

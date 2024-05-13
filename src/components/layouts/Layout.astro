@@ -6,7 +6,6 @@ import { I18N } from 'astrowind:config';
 import CommonMeta from '~/tlo/meta/CommonMeta.astro';
 import Favicons from '~/tlo/meta/Favicons.astro';
 import CustomStyles from '~/tlo/meta/CustomStyles.astro';
-import ApplyColorMode from '~/tlo/meta/ApplyColorMode.astro';
 import Metadata from '~/tlo/meta/Metadata.astro';
 import SiteVerification from '~/tlo/meta/SiteVerification.astro';
 import Analytics from '~/tlo/meta/Analytics.astro';
@@ -31,7 +30,6 @@ const { language, textDirection } = I18N;
     <CommonMeta />
     <Favicons />
     <CustomStyles />
-    <ApplyColorMode />
     <Metadata {...metadata} />
     <SiteVerification />
     <Analytics />
@@ -43,7 +41,7 @@ const { language, textDirection } = I18N;
   <body class="antialiased text-default bg-page tracking-tight">
     <slot />
 
-    <BasicScripts />
+    <!-- <BasicScripts /> -->
 
     <style is:global>
       img {

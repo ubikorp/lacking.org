@@ -3,35 +3,15 @@
 // Site Index ==
 // -------------
 
-// Configuration
-import { TLO } from "~/utils/config";
-
-// TLO Components
-import Image from '~/tlo/ui/Image.astro';
-
 // Utilities
-import { getPermalink } from "~/utils/permalinks";
+import CategoryHeader from "./CategoryHeader.astro";
 
 const categoryIndex = ['mixtapes','playlists']
+
 ---
 
 {
   categoryIndex.map((category) => (
-    <a href={getPermalink(category, 'category')}>
-      <div class="tlo-site-index-background" style={`background-image: url(/images/${TLO?.categories[category].background})`}>
-        <Image
-          class="tlo-site-index-icon"
-          widths={[400, 768]}
-          layout="fixed"
-          src={`/images/${TLO?.categories[category].icon}`}
-          alt={TLO?.categories[category].tagline}
-        />
-        <a class="tlo-site-index-title" href={getPermalink(category, 'category')}>
-          {TLO?.categories[category].title}
-        </a>
-      </div>
-
-      <p class="tlo-site-index-description" set:html={TLO?.categories[category].description} />
-    </a>
+    <CategoryHeader category={category} />
   ))
 }

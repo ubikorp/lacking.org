@@ -7,36 +7,47 @@
 import type { Widget } from "~/types";
 import { type TloCategory } from "~/utils/config";
 export interface Props extends Widget {
-  category?: TloCategory;
+  category?: TloCategory | string;
   description?: boolean;
 }
+
+// Configuration
+import { TLO } from "~/utils/config";
 
 // Properties
 const {
   category,
   description = true
 } = Astro.props;
+
+const categoryItem = (typeof category == 'string')
+  ? TLO?.categories[category]
+  : category
+
 ---
 
 <!-- Background -->
-<div
-  class="tlo-category-background"
-  style=`background-image: url(/images/${category?.background});`
+<section
+  id="intro"
+  class="banner tlo-category-background"
+  style=`background-image: url(/images/${categoryItem?.background});`
 >
+  <header>
 
-  <!-- Icon -->
-  <img class="tlo-category-icon"
-    src={`/images/${category?.icon}`}
-    alt={category?.title}
-  />
+    <!-- Icon -->
+    <img class="tlo-category-icon"
+      src={`/images/${categoryItem?.icon}`}
+      alt={categoryItem?.title}
+    />
 
-  <!-- Category Title -->
-  <h1 class="tlo-category-title" set:html={category?.title} />
+    <!-- Category Title -->
+    <h2 class="tlo-category-title" set:html={categoryItem?.title} />
 
-  <!-- Category Tagline -->
-  <h3 class="tlo-category-tagline" set:html={category?.tagline} />
+    <!-- Category Tagline -->
+    <p class="tlo-category-tagline" set:html={categoryItem?.tagline} />
 
-</div>
+  </header>
+</section>
 
 <!-- Category Description -->
-{description && <p class="tlo-category-description" set:html={category?.description} />}
+{description && <p class="tlo-category-description" set:html={categoryItem?.description} />}
