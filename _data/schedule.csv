@@ -1,9 +1,32 @@
 date,location,start_time,end_time,time_zone,notes,future
+2024-09-27,ltw,3pm,5pm,MDT,The Final Hour,
+2024-09-26,ltw,2pm,3pm,MDT,,
+2024-09-24,kafm,9pm,12m,MDT,,
+2024-09-19,ltw,2pm,3pm,MDT,,
+2024-09-12,ltw,2pm,3pm,MDT,,
+2024-09-10,kafm,9pm,12m,MDT,,
+2024-09-05,ltw,2pm,3pm,MDT,,
+2024-08-30,ltw,3pm,5pm,MDT,The Final Hour,
+2024-08-29,ltw,2pm,3pm,MDT,,
+2024-08-27,kafm,9pm,12m,MDT,,
+2024-08-22,ltw,2pm,3pm,MDT,,
+2024-08-15,ltw,2pm,3pm,MDT,,
+2024-08-13,kafm,9pm,12m,MDT,,
+2024-08-08,ltw,2pm,3pm,MDT,,
+2024-08-01,ltw,2pm,3pm,MDT,,
+2024-07-30,kafm,9pm,12m,MDT,,
+2024-07-26,ltw,3pm,5pm,MDT,The Final Hour,
+2024-07-25,ltw,2pm,3pm,MDT,,
+2024-07-18,ltw,2pm,3pm,MDT,,
+2024-07-16,kafm,9pm,12m,MDT,,
+2024-07-11,ltw,2pm,3pm,MDT,,
+2024-07-04,ltw,2pm,3pm,MDT,,
+2024-07-02,kafm,9pm,12m,MDT,,x
 2024-06-28,ltw,3pm,5pm,MDT,The Final Hour,x
 2024-06-27,ltw,2pm,3pm,MDT,,x
 2024-06-20,ltw,2pm,3pm,MDT,,x
 2024-06-18,kafm,9pm,12m,MDT,,x
-2024-06-13,ltw,2pm,3pm,MDT,,x
+2024-06-13,ltw,2pm,3pm,MDT,,
 2024-06-06,ltw,2pm,3pm,MDT,,
 2024-06-04,kafm,9pm,12m,MDT,,
 2024-05-31,ltw,3pm,5pm,MDT,The Final Hour,
