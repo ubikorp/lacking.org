@@ -1,63 +1,100 @@
 ---
-import type { ImageMetadata } from 'astro';
-import { Icon } from 'astro-icon/components';
-import Image from '~/tlo/ui/Image.astro';
-import PostTags from '~/tlo/ui/Tags.astro';
 
-import { APP_BLOG } from '~/utils/config';
-import type { Post } from '~/types';
+import type { Post } from '~/types'
 
-import Heading from '~/tlo/widgets/Heading.astro';
-import Player from '~/tlo/widgets/Player.astro';
+import PostTags from '~/tlo/ui/Tags.astro'
+import Heading from '~/tlo/widgets/Heading.astro'
+import Player from '~/tlo/widgets/Player.astro'
+import FeatureImage from '~/tlo/widgets/FeatureImage.astro'
 
-import { getPermalink } from '~/utils/permalinks';
-import { findImage } from '~/utils/images';
-import { getFormattedDate } from '~/utils/utils';
-
-// TLO
-import { toMarkdown } from '~/utils/tlo';
-import FeatureImage from './FeatureImage.astro';
+import { getPermalink } from '~/utils/permalinks'
+import { toMarkdown } from '~/utils/tlo'
 
 export interface Props {
-  post: Post;
-  variant?: 'full' | 'short' | 'micro'
+  title?: string;
+  subtitle?: string;
+  post?: Post;
+  variant?: 'full' | 'mini' | 'micro'
 }
 
 const {
+  title,
+  subtitle,
   post,
   variant = 'full'
-} = Astro.props;
+} = Astro.props
 
 const full = variant == 'full'
-// const short = variant == 'short'
+const mini = variant == 'mini'
 const micro = variant == 'micro'
+
+const postLink = getPermalink(post.permalink, 'post')
+
+const itemTitle = post ? post.title : title
+const itemSubtitle = post ? post.subtitle : subtitle
 ---
 
-<article class="tlo-item">
+<!-- Full Item -->
+{full &&
+<article class="post">
 
-  <!-- Feature Image (All) -->
-  <FeatureImage post={post} caption={false} />
-
-  <!-- Heading (All) -->
+  <!-- Heading -->
   <Heading post={post} short={true} />
 
-  <!-- Excerpt (Full / Short) -->
-  {!micro && post.excerpt &&
-    <p class="tlo-item-description" set:html={toMarkdown(post.excerpt)} />
+  <!-- Feature Image -->
+  {post &&
+    <FeatureImage post={post} />
   }
 
-  <!-- Media (Full) -->
-  {full &&
+  <!-- Media -->
+  {post?.media &&
     <div class="tlo-item-media">
-      {post.media && <Player media={post.media} />}
+      <Player media={post.media} />
     </div>
   }
 
-  <!-- Tags (Full) -->
-  {full &&
-    <footer class="tlo-item-tags">
-      <PostTags tags={post.tags} />
-    </footer>
+  <!-- Excerpt -->
+  {post?.excerpt &&
+    <div class="tlo-item-description" set:html={toMarkdown(post.excerpt)} />
   }
 
+  <!-- Footer -->
+  <footer>
+    <!-- Tags -->
+    <!-- TODO: Format tags -->
+    <!-- <PostTags tags={post?.tags} /> -->
+    <!-- Read More -->
+    <ul class="actions">
+      <li><a href={postLink} class="button large">Furthermore &raquo;</a></li>
+    </ul>
+    <!-- <ul class="stats">
+      <li><a href="#">General</a></li>
+      <li><a href="#" class="icon solid fa-heart">28</a></li>
+      <li><a href="#" class="icon solid fa-comment">128</a></li>
+    </ul> -->
+  </footer>
 </article>
+}
+
+<!-- Mini Item -->
+{mini &&
+  <article class="mini-post">
+    <header>
+      <h3><a href={postLink} set:html={itemTitle} /></h3>
+      <time class="published" datetime="2015-10-20">October 20, 2015</time>
+      <a href="#" class="author"><img src="/images/future-imperfect-images/avatar.jpg" alt="" /></a>
+    </header>
+    <a href="single.html" class="image"><img src="/images/future-imperfect-images/pic04.jpg" alt="" /></a>
+  </article>
+}
+
+<!-- Micro Item -->
+{micro &&
+  <article>
+    <header>
+      <h3><a href="single.html">Lorem ipsum fermentum ut nisl vitae</a></h3>
+      <time class="published" datetime="2015-10-20">October 20, 2015</time>
+    </header>
+    <a href="single.html" class="image"><img width="50" src="/images/future-imperfect-images/pic08.jpg" alt="" /></a>
+  </article>
+}

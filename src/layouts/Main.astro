@@ -4,29 +4,29 @@
 // --------------
 
 // Configuration
-import { TLO } from "~/utils/config";
+// import { TLO } from "~/utils/config";
 
 // TLO Components
-import AboutLacking from '~/tlo/widgets/AboutLacking.astro';
-import CategoryHeader from '~/tlo/widgets/CategoryHeader.astro';
-import Footer from '~/tlo/widgets/Footer.astro';
+// import AboutLacking from '~/tlo/widgets/AboutLacking.astro';
+// import CategoryHeader from '~/tlo/widgets/CategoryHeader.astro';
+// import Footer from '~/tlo/widgets/Footer.astro';
 import Header from '~/tlo/widgets/Header.astro';
 import HtmlPage from '~/layouts/Html.astro';
-import RecentPosts from '~/tlo/widgets/RecentPosts.astro';
+import Menu from "~/tlo/widgets/Menu.astro";
+// import RecentPosts from '~/tlo/widgets/RecentPosts.astro';
 
 // Navigation Data
-import { headerData, footerData } from '~/navigation';
+// import { headerData, footerData } from '~/navigation';
 
 // Typescript
 import type { MetaData } from '~/types';
-import Menu from "~/tlo/widgets/Menu.astro";
 export interface Props {
   metadata?: MetaData;
 }
 
 // Page Metadata
 const { metadata } = Astro.props;
-const homeCategory = TLO?.categories.home
+// const homeCategory = TLO?.categories.home
 ---
 
 <HtmlPage metadata={metadata}>
@@ -34,40 +34,25 @@ const homeCategory = TLO?.categories.home
   <!-- Main -->
   <div id="wrapper">
 
-    <!-- Header -->
     <slot name="header">
-      <header id="header">
-        <Header {...headerData} isSticky showRssFeed />
-        <Menu />
-      </header>
+
+      <!-- Header -->
+      <Header />
+
+      <!-- Menu -->
+      <Menu />
+
     </slot>
 
-    <!-- Content -->
-    <div id="main" class="tlo-content">
-      <slot />
-    </div>
+    <!-- Main -->
+    <div id="main"><slot /></div>
 
-    <!-- Left Sidebar -->
-    <section id="sidebar" class="tlo-sidebar">
+    <!-- Sidebar -->
+    <section id="sidebar">
       <slot name="sidebar">
         <!-- Default Sidebar Content -->
-
-        <!-- Category Header -->
-        <CategoryHeader category={homeCategory} description={false} />
-
-        <!-- Recent articles -->
-        <RecentPosts />
-
-        <!-- About lacking.org -->
-        <AboutLacking />
+        TODO: Get from Main2
       </slot>
     </section>
-
   </div>
-
-  <!-- Footer -->
-  <slot name="footer">
-    <Footer {...footerData} />
-  </slot>
-
 </HtmlPage>

@@ -1,7 +1,4 @@
 ---
-import { Icon } from 'astro-icon/components';
-import { getPermalink } from '~/utils/permalinks';
-import Button from '~/tlo/ui/Button.astro';
 
 export interface Props {
   prevUrl?: string;
@@ -15,25 +12,13 @@ const { prevUrl, nextUrl, prevText = 'more recently', nextText = 'less recently'
 
 {
   (prevUrl || nextUrl) && (
-    // TODO: Clean up TW
-    <div class="tlo-pagination">
-      <Button
-        variant="tertiary"
-        class={`${!prevUrl ? 'invisible' : ''}`}
-        href={getPermalink(prevUrl)}
-      >
-        <Icon name="tabler:chevron-left" class="w-6 h-6" />
-        <p class="ml-2">{prevText}</p>
-      </Button>
-
-      <Button
-        variant="tertiary"
-        class={`${!nextUrl ? 'invisible' : ''}`}
-        href={getPermalink(nextUrl)}
-      >
-        <span class="mr-2">{nextText}</span>
-        <Icon name="tabler:chevron-right" class="w-6 h-6" />
-      </Button>
-    </div>
+    <ul class="actions pagination">
+      { prevUrl && (
+        <li><a href="" class="disabled button large previous">{ prevText }</a></li>
+      )}
+      { nextUrl && (
+        <li><a href="#" class="button large next">{ nextText }</a></li>
+      )}
+    </ul>
   )
 }

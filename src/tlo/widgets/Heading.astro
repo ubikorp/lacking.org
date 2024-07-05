@@ -38,83 +38,41 @@ const showReadingTime = false
 
 ---
 
-<!-- TODO: Clean up TW -->
-<div class="tlo-heading">
+<!-- Header -->
+<header>
 
-  <!-- Text Kicker -->
-  {kicker && (
-    <p
-      class="tlo-heading-kicker"
-      set:html={kicker}
-    />
-  )}
-
-  <!-- Post Meta -->
-  {post && (
-    <p class="tlo-heading-kicker">
-
-      {/* Clock Icon */}
-      <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
-
-      {/* Post Date */}
-      <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate)}</time>
-
-      {/* Author */}
-      {
-        showAuthor && post?.author && (
-          <>
-            {' '}
-            · <Icon name="tabler:user" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
-            <span class="inline-block">{post?.author}</span>
-          </>
-        )
-      }
-
-      {/* Category */}
-      {
-        post.category && (
-          <>
-            {' '}
-            ·{' '}
-            <a class="inline-block" href={getPermalink(post.category, 'category')}>
-              {post.category.replaceAll('-', ' ')}
-            </a>
-          </>
-        )
-      }
-
-      {/* Reading Time */}
-      {
-        showReadingTime && post.readingTime && (
-          <>
-            &nbsp;· <span>{post.readingTime}</span> min read
-          </>
-        )
-      }
-    </p>
-  )}
-
-  <!-- Title -->
-  {headingLink ? (
-    <h1 class="tlo-heading-title">
-      <a
+  <div class="title">
+    <!-- Title -->
+    {headingLink ? (
+      <h2><a
         href={headingLink}
         set:html={headingTitle}
-      />
-    </h1>
-  ) : (
-    <h1
-      class="tlo-heading-title"
-      set:html={headingTitle}
-    />
+      /></h2>
+    ) : (
+      <h2 set:html={headingTitle} />
+    )}
 
-  )}
+    <!-- Subtitle -->
+    <p set:html={headingSubtitle} />
+  </div>
 
-  <!-- Subtitle -->
-  <h2
-    class="tlo-heading-subtitle"
-    set:html={headingSubtitle}
-  />
+  <!-- Meta -->
+  {post && 
+    <div class="meta">
 
-</div>
+      <!-- Publication Date -->
+      <time class="published" datetime={String(post.publishDate)}>{getFormattedDate(post.publishDate)}</time>
 
+      <!-- Category -->
+      {
+        post.category && (
+          <span>in </span><a class="author-block" href={getPermalink(post.category, 'category')}>
+            {post.category.replaceAll('-', ' ')}
+          </a>
+        )
+      }
+      {/* TODO: Section Avatar */}
+
+    </div>
+  }
+</header>

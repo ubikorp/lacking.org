@@ -4,18 +4,13 @@
 import '~/assets/styles/main.scss';
 import '~/assets/styles/font-awesome.min.css';
 
-import { I18N } from '~/utils/config';
-
 import CommonMeta from '~/tlo/meta/CommonMeta.astro';
 import Favicons from '~/tlo/meta/Favicons.astro';
-import CustomStyles from '~/tlo/meta/CustomStyles.astro';
+// import CustomStyles from '~/tlo/meta/CustomStyles.astro';
 import Metadata from '~/tlo/meta/Metadata.astro';
 import SiteVerification from '~/tlo/meta/SiteVerification.astro';
 import Analytics from '~/tlo/meta/Analytics.astro';
 import BasicScripts from '~/tlo/meta/BasicScripts.astro';
-
-// Uncomment line below to activate View Transitions
-import { ViewTransitions } from 'astro:transitions';
 
 import type { MetaData as MetaDataType } from '~/types';
 
@@ -24,30 +19,37 @@ export interface Props {
 }
 
 const { metadata = {} } = Astro.props;
-const { language, textDirection } = I18N;
+
 ---
 
-<!doctype html>
-<html lang={language} dir={textDirection}>
-  <head>
+<!DOCTYPE HTML>
+<!--
+	Future Imperfect by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
     <CommonMeta />
     <Favicons />
-    <CustomStyles />
+    <!-- <CustomStyles /> -->
     <Metadata {...metadata} />
     <SiteVerification />
     <Analytics />
+		<title>Future Imperfect by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	</head>
+	<body class="is-preload">
 
-    <!-- Uncomment line below to activate View Transitions -->
-    <ViewTransitions fallback="swap" />
-  </head>
-
-  <body class="is-preload">
+    <!-- Content -->
     <slot />
-
+    
+		<!-- Scripts -->
     <BasicScripts />
 
+    <!-- Mailjet -->
     <data id="mj-w-res-data" data-token="9b5f4f0a03c49b0da4c727624fea9bc1" class="mj-w-data" data-apikey="6Foe" data-w-id="Jcv" data-lang="en_US" data-base="https://app.mailjet.com" data-width="640" data-height="341" data-statics="statics"></data>
 
-    <style is:global> img { content-visibility: auto; } </style>
-  </body>
+	</body>
 </html>

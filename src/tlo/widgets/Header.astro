@@ -3,8 +3,8 @@
 // Header (Widget) ==
 // ------------------
 
-// Astro Components
-import { Icon } from "astro-icon/components";
+// Configuration
+import { TLO } from "~/utils/config";
 
 // TLO Components
 import Button from "~/tlo/ui/Button.astro"
@@ -57,42 +57,34 @@ const {
 const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`
 ---
 
-<!-- Home -->
-<h1><a href="/">the.lacking.org</a></h1>
-<!-- Links -->
-<nav class="links">
-  <ul>
-    <!-- Subscribe -->
-    <!-- <li>
-      <a href="/details" class="button" style="font-weight: bold;">Newsletter!</a>
-    </li> -->
-    <!-- <li><a href="https://twitter.com/jclacking">On Twitter</a></li> -->
-    <li><a href="https://www.facebook.com/jclacking">On Facebook</a></li>
-    <!-- <li><a href="https://www.youtube.com/user/jclacking/playlists">On YouTube</a></li> -->
-    <li><a href="https://www.mixcloud.com/the-lacking-org/">On Mixcloud</a></li>
-    <li>
-      <ul class="icons">
-        <li><a href={getAsset('/rss.xml')} class="fa-rss"><span class="label">RSS</span></a></li>
-        <!-- li><a href="https://twitter.com/jclacking" class="fa-twitter"><span class="label">Twitter</span></a></li -->
-        <!-- li><a href="https://www.facebook.com/jclacking" class="fa-facebook"><span class="label">Facebook</span></a></li -->
-        <!-- li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li -->
-        <!-- li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li -->
-      </ul>
-    </li>
-  </ul>
-</nav>
-<nav class="main">
-  <ul>
-    <!-- Search -->
-    <!-- li class="search">
-      <a class="fa-search" href="#search">Search</a>
-      <form id="search" method="get" action="/search">
-        <input type="text" name="query" placeholder="Search" />
-      </form>
-    </li -->
-    <!-- Menu -->
-    <li class="menu">
-      <a class="fa-bars" href="#menu">Menu</a>
-    </li>
-  </ul>
-</nav>
+<header id="header">
+  <h1><a href={getHomePermalink()}>lacking.org</a></h1>
+  <nav class="links">
+    <ul>
+      <li><a href="https://facebook.com/jclacking">On Facebook</a></li>
+      <li><a href="https://mixcloud.com/the-lacking-org/">On Mixcloud</a></li>
+      <li>
+        <ul class="icons">
+          <li><a href="/feed.xml" class="fa-rss"><span class="label">RSS</span></a></li>
+          <!-- li><a href="https://twitter.com/jclacking" class="fa-twitter"><span class="label">Twitter</span></a></li -->
+          <!-- li><a href="https://www.facebook.com/jclacking" class="fa-facebook"><span class="label">Facebook</span></a></li -->
+          <!-- li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li -->
+          <!-- li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li -->
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <nav class="main">
+    <ul>
+      <li class="search">
+        <a class="fa-rss" href="#search">Search</a>
+        <form id="search" method="get" action="#">
+          <input type="text" name="query" placeholder="Search" />
+        </form>
+      </li>
+      <li class="menu">
+        <a class="fa-bars" href="#menu">Menu</a>
+      </li>
+    </ul>
+  </nav>
+</header>

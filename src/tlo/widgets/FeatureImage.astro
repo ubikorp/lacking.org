@@ -1,5 +1,5 @@
 ---
-
+import type { ImageMetadata } from 'astro';
 import type { Post } from '~/types';
 export interface Props {
   post: Post;
@@ -17,8 +17,7 @@ const imageLink = link ? getPermalink(post.permalink, 'post') : 'javascript:void
 
 ---
 
-<div class="tlo-feature-image">
-	<a href={imageLink}>
+	<a href={imageLink} class="image featured">
 		{image && (
 				<Image
 					src={image}
@@ -32,6 +31,7 @@ const imageLink = link ? getPermalink(post.permalink, 'post') : 'javascript:void
 				/>
 			)
 		}
-		{caption && ( <p set:html={post.image.alt} /> )}
 	</a>
-</div>
+	{caption && ( 
+		<cite class="caption" set:html={post.image.alt} />
+	)}

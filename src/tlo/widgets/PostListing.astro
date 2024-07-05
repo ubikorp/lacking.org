@@ -14,10 +14,6 @@ export interface Props {
 const { posts } = Astro.props;
 ---
 
-<ul>
-  {posts.map((post) => (
-    <li>
-      <Item post={post} />
-    </li>
-  ))}
-</ul>
+{posts.map((post) => (
+  <Item post={post} />
+))}

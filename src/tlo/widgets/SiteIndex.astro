@@ -3,15 +3,30 @@
 // Site Index ==
 // -------------
 
-// Utilities
-import CategoryHeader from "./CategoryHeader.astro";
+import { TLO } from "~/utils/config";
 
+// Utilities
+import { getPermalink } from "~/utils/permalinks"
+import CategoryHeader from "./CategoryHeader.astro"
+import Item from "./Item.astro"
 const categoryIndex = ['mixtapes','playlists']
 
 ---
+<section>
+  <ul class="posts">
 
 {
   categoryIndex.map((category) => (
-    <CategoryHeader category={category} />
+    <li>
+    <article>
+      <header>
+        <h3><a href={getPermalink(category, 'category')} set:html={TLO?.categories[category].title} /></h3>
+        <p class="published" set:html={TLO?.categories[category].description}/>
+      </header>
+      <a href={getPermalink(category, 'category')} class="image"><img width="50" src={`images/${TLO?.categories[category].icon}`} alt={`${TLO?.categories[category].title} Category Image`} /></a>
+    </article>
+  </li>
   ))
 }
+  </ul>
+</section>

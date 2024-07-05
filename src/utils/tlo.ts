@@ -1,6 +1,4 @@
-// @ts-expect-error -- no types
 import fs from 'fs';
-// @ts-expect-error -- no types
 import yaml from 'js-yaml';
 
 import { marked } from 'marked';
@@ -14,14 +12,14 @@ export const getMorePosts = (): string => getPermalink([BLOG_BASE, '2'].join('/'
 
 function loadSchedule(): Schedule {
   // Load entire schedule
-  let schedule = yaml.load(fs.readFileSync('src/schedule.yaml', 'utf8'));
+  let schedule = yaml.load(fs.readFileSync('src/schedule.yaml', 'utf8')) as Schedule
   // Filter out dates in the past
-  schedule = schedule.filter((entry) => new Date(entry.end_time) >= new Date())
+  schedule = schedule.filter((entry) => new Date(entry.end) >= new Date())
   // Clean up for display
   schedule = schedule.map((entry) => {
     // Convert start and end times to dates
-    const start = new Date(entry.start_time)
-    const end = new Date(entry.end_time)
+    const start = new Date(entry.start)
+    const end = new Date(entry.end)
     // Format start string
     const start_string = new Intl.DateTimeFormat('en-US', {
       dateStyle: 'full',
@@ -47,7 +45,10 @@ function loadSchedule(): Schedule {
 }
 
 function firstScheduleItem(): Airdate {
-  return loadSchedule()[0]
+  return loadSchedule()[0] || {
+    start_string: 'Unknown!',
+    location: 'Also unknown!'
+  }
 }
 
 function localTimezone(): string {
@@ -62,6 +63,7 @@ interface Airdate {
   end: Date,
   start_string: string,
   location: string,
+  timezone?: string,
   notes: string | null
 }
 
