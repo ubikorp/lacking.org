@@ -10,15 +10,17 @@ export interface Props {
 const { prevUrl, nextUrl, prevText = 'more recently', nextText = 'less recently' } = Astro.props;
 ---
 
-{
-  (prevUrl || nextUrl) && (
-    <ul class="actions pagination">
-      { prevUrl && (
-        <li><a href="" class="disabled button large previous">{ prevText }</a></li>
-      )}
-      { nextUrl && (
-        <li><a href="#" class="button large next">{ nextText }</a></li>
-      )}
-    </ul>
-  )
-}
+<article class="post">
+  {
+    (prevUrl || nextUrl) && (
+      <ul class="actions pagination">
+        { prevUrl && (
+          <li><a href={prevUrl} class="disabled button large previous" set:html={prevText} /></li>
+        )}
+        { nextUrl && (
+          <li><a href={nextUrl} class="button large next" set:html={nextText} /></li>
+        )}
+      </ul>
+    )
+  }
+</article>

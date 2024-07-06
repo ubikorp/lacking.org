@@ -3,52 +3,55 @@
 // Menu ==
 // -------
 
+import { TLO } from "~/utils/config"
+
+const categories = ['archives', 'playlists', 'mixtapes']
+
 ---
 
 <section id="menu">
 
   <!-- Search -->
-    <section>
-      <form class="search" method="get" action="#">
-        <input type="text" name="query" placeholder="Search" />
-      </form>
-    </section>
+  <!-- <section>
+    <form class="search" method="get" action="#">
+      <input type="text" name="query" placeholder="Search" />
+    </form>
+  </section> -->
 
   <!-- Links -->
-    <section>
-      <ul class="links">
+  <section>
+    <ul class="links">
+      <!-- Your Host -->
+      <li>
+        <a href="/your-host">
+          <h3>Your Host</h3>
+          <p>Who is Julius C. Lacking? Our correspondent Hrvst Troggold explains.</p>
+        </a>
+      </li>
+      <!-- Radio Activity -->
+      <li>
+        <a href="/radio-activity">
+          <h3>Radio Activity</h3>
+          <p>Events that somehow involve transmission via the electromagnetic spectrum.</p>
+        </a>
+      </li>
+      <!-- Categories -->
+      {categories.map((category) => (
         <li>
-          <a href="#">
-            <h3>Lorem ipsum</h3>
-            <p>Feugiat tempus veroeros dolor</p>
+          <a href={`/${category}`}>
+            <h3>{ TLO?.categories[category].title }</h3>
+            <p>{ TLO?.categories[category].description }</p>
           </a>
         </li>
-        <li>
-          <a href="#">
-            <h3>Dolor sit amet</h3>
-            <p>Sed vitae justo condimentum</p>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <h3>Feugiat veroeros</h3>
-            <p>Phasellus sed ultricies mi congue</p>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <h3>Etiam sed consequat</h3>
-            <p>Porta lectus amet ultricies</p>
-          </a>
-        </li>
-      </ul>
-    </section>
+      ))}
+    </ul>
+  </section>
 
   <!-- Actions -->
-    <section>
-      <ul class="actions stacked">
-        <li><a href="#" class="button large fit">Log In</a></li>
-      </ul>
-    </section>
+  <!-- <section>
+    <ul class="actions stacked">
+      <li><a href="#" class="button large fit">Log In</a></li>
+    </ul>
+  </section> -->
 
 </section>

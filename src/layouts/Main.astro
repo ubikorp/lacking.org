@@ -17,6 +17,7 @@ import Menu from "~/tlo/widgets/Menu.astro";
 
 // Navigation Data
 // import { headerData, footerData } from '~/navigation';
+import { getAsset } from "~/utils/permalinks";
 
 // Typescript
 import type { MetaData } from '~/types';
@@ -51,8 +52,23 @@ const { metadata } = Astro.props;
     <section id="sidebar">
       <slot name="sidebar">
         <!-- Default Sidebar Content -->
-        TODO: Get from Main2
+        <!-- TODO: Get from Main2 -->
       </slot>
+      
+      <!-- Footer -->
+      <section id="footer">
+        <ul class="icons">
+          <!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li> -->
+          <li><a href="https://facebook.com/jclacking" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="https://instagram.com/jclacking" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href={getAsset('/rss.xml')} class="icon solid fa-rss"><span class="label">RSS</span></a></li>
+          <li><a href="mailto:julius@lacking.org?subject=Missive from Web-Site" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <p class="copyright">
+          &copy; 2008-{new Date().getFullYear()}
+          The Lacking Organization.
+        </p>
+      </section>
     </section>
   </div>
 </HtmlPage>

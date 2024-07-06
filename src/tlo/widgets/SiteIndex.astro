@@ -7,26 +7,23 @@ import { TLO } from "~/utils/config";
 
 // Utilities
 import { getPermalink } from "~/utils/permalinks"
-import CategoryHeader from "./CategoryHeader.astro"
-import Item from "./Item.astro"
+import MiniItem from "./MiniItem.astro";
 const categoryIndex = ['mixtapes','playlists']
 
 ---
 <section>
   <ul class="posts">
-
-{
-  categoryIndex.map((category) => (
-    <li>
-    <article>
-      <header>
-        <h3><a href={getPermalink(category, 'category')} set:html={TLO?.categories[category].title} /></h3>
-        <p class="published" set:html={TLO?.categories[category].description}/>
-      </header>
-      <a href={getPermalink(category, 'category')} class="image"><img width="50" src={`images/${TLO?.categories[category].icon}`} alt={`${TLO?.categories[category].title} Category Image`} /></a>
-    </article>
-  </li>
-  ))
-}
+    {
+      categoryIndex.map((category) => (
+        <li>
+          <MiniItem
+            title={TLO?.categories[category].title || category}
+            description={TLO?.categories[category].description}
+            image={`images/${TLO?.categories[category].icon}`}
+            link={getPermalink(category, 'category')}
+          />
+        </li>
+      ))
+    }
   </ul>
 </section>

@@ -26,13 +26,13 @@ const categoryItem = (typeof category == 'string')
 
 ---
 
-<!-- Background -->
-<section
-  id="intro"
-  class="banner tlo-category-background"
-  style=`background-image: url(/images/${categoryItem?.background});`
->
-  <header>
+<section id="intro">
+  
+  <!-- Background -->
+  <header
+    class="banner tlo-category-background"
+    style=`background-image: url(/images/${categoryItem?.background});`
+  >
 
     <!-- Icon -->
     <img class="tlo-category-icon"
@@ -47,7 +47,8 @@ const categoryItem = (typeof category == 'string')
     <p class="tlo-category-tagline" set:html={categoryItem?.tagline} />
 
   </header>
-</section>
 
-<!-- Category Description -->
-{description && <p class="tlo-category-description" set:html={categoryItem?.description} />}
+  <!-- Category Description -->
+  {description && <p class="tlo-category-description" set:html={categoryItem?.description} />}
+
+</section>  

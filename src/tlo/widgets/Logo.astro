@@ -4,20 +4,17 @@ import Image from '~/tlo/ui/Image.astro';
 import { findImage } from '~/utils/images';
 const reel = await findImage('/images/reel.png') as ImageMetadata
 ---
-
-<!-- TODO: Cleanup TW -->
-<span class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white">
+<div class="tlo-logo">
 
   <!-- Tape Reel -->
   <Image
     width={20}
     aspectRatio={1}
-		src={reel}
-		alt={SITE?.name}
-    class="float-left mr-1 mt-1"
-	/>
+    src={reel}
+    alt={SITE?.name}
+  />
 
   <!-- Site Name -->
   {SITE?.name}
 
-</span>
+</div>

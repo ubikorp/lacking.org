@@ -1,0 +1,28 @@
+---
+
+export interface Props {
+  title: string
+  link?: string
+  image?: string
+  description?: string
+  box?: boolean
+}
+
+const {
+  title,
+  link,
+  image,
+  description,
+  box = false
+} = Astro.props
+
+---
+
+<!-- Mini Item -->
+<article class={box ? 'mini-post' : null}>
+  <header>
+    <h3><a href={link} set:html={title} /></h3>
+    <p class="published" set:html={description} />
+  </header>
+  <a href={link} class="image"><img src={image} alt={title} /></a>
+</article>

@@ -1,0 +1,256 @@
+.post > header {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+cite.caption {
+  display: block;
+  font-size: .8em;
+  font-weight: bold;
+  position: relative;
+  text-align: right;
+  top: -2.25em;
+  width: 100%;
+}
+
+article p:first-of-type::first-line {
+  font-weight: bold;
+}
+
+.tlo-index-excerpt h4 {
+  text-align: center;
+}
+
+body {
+  background: url('/images/site/white_paperboard.png');
+}
+
+.banner {
+  background-size: cover;
+  color: _palette(bg);
+  height: 22em;
+  text-align: center;
+
+  @include breakpoint('<=large') {
+    height: 15em;
+  }
+
+  @include breakpoint('<=small') {
+    height: 17em;
+  }
+
+  img {
+    width: 12.5em;
+    margin-bottom: -3em;
+  }
+
+  h2, h3 {
+    color: _palette(bg);
+  }
+
+  h2.section {
+    margin-top: 2em;
+  }
+
+  p {
+    color: _palette(bg);
+    font-family: _font(family-heading);
+    font-weight: _font(weight-heading-bold);
+    line-height: 1.3;
+  }
+}
+
+#main .mini-posts {
+  @include breakpoint('>=large') {
+    @include vendor('display', 'flex');
+    @include vendor('flex-wrap', 'wrap');
+    width: calc(100% + #{_size(element-margin)});
+
+    > * {
+      margin: _size(element-margin) _size(element-margin) 0 0;
+      width: calc(50% - #{_size(element-margin)});
+    }
+
+    > :nth-child(-n + 2) {
+      margin-top: 0;
+    }
+
+    .banner {
+      height: 13em;
+    }
+  }
+  p.description {
+    font-family: _font(family);
+    text-transform: none;
+    line-height: 1.3;
+  }
+}
+
+#mobile-subscribe-button {display:none;}
+
+@include breakpoint('<=medium') {
+  #mobile-subscribe-button {display: block;}
+  article p,
+  .icons li {
+    font-size: 75%;
+  }
+}
+
+.your-host {
+  text-align: center;
+  a {
+    border: 0;
+  }
+  img {
+    border-radius: 100%;
+    width: 10em;
+  }
+  h2 {
+    font-size: 2em;
+    font-weight: 900;
+    margin-bottom: .2em;
+    margin-top: 0;
+    &:hover {
+      color: _palette(accent);
+    }
+  }
+  h3 {
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-bottom: 1.5em;
+    margin-top: 0;
+  }
+}
+
+.next-airdate {
+  text-align: center;
+
+  p {
+    margin: .25em 0;
+    font-size: 1em;
+    letter-spacing: .15em;
+    text-transform: uppercase;
+  }
+  .airdate {
+    color: _palette(secondary);
+    font-family: _font(family-heading);
+    font-weight: _font(weight-heading-bold);
+  }
+}
+
+.single {
+  .next-airdate {
+    padding: 1em;
+
+    @include breakpoint('>=medium') {
+      position: absolute;
+      background: #fffd;
+      width: 50%;
+      top: 320px;
+      left: 25%;
+    }
+
+    #page-link {
+      display: none;
+    }
+  }
+}
+
+.tlo-detail-video {
+  height: 0;
+  margin-bottom: _size(element-margin);
+  padding-bottom: 56.25%; // 16:9
+  padding-top: _size(element-margin);
+  position: relative;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  background-color: _palette(accent);
+  color: _palette(bg) !important;
+  font-size: .75em;
+  height: 3.6em;
+  line-height: 3.5em;
+  opacity: .75;
+
+  &:hover {
+    color: _palette(bg) !important;
+    opacity: 1;
+  }
+
+  &.ghost {
+    background-color: _palette(bg);
+    color: _palette(accent) !important;
+    border: solid 3px _palette(accent);
+  }
+
+  &.ghost:hover {
+    background-color: _palette(accent);
+    color: _palette(bg) !important;
+  }
+}
+
+
+a .link {
+  &:hover {
+    color: _palette(accent);
+  }
+
+  &::before {
+    content: '\00bb';
+  }
+}
+
+.tlo-index-details {
+  .image.featured {
+    margin: 0;
+  }
+	header p {
+    font-family: _font(family);
+    text-transform: none;
+    line-height: 1.3;
+  }
+}
+.post.tlo-details {
+  .image.featured {
+    width: 33%;
+    margin: 0 0 _size(element-margin)  _size(element-margin);
+    float: right;
+  }
+  h2 {
+    clear: both;
+  }
+  @include breakpoint('<=small') {
+    .image.featured {
+      width: 100%;
+      margin: 0;
+      float: none;
+    }
+  }
+}
+
+// Logo
+
+.tlo-logo {
+  display: flex;
+  align-items: center;
+
+  img {
+    margin-right: 1em;
+  }
+}
+
+.tlo-category-background {
+  padding: 0 1em;
+}

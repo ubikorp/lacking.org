@@ -4,33 +4,35 @@
 // ---------------
 
 // Typescript
-import type { Widget } from "~/types";
+import type { Widget } from "~/types"
 export interface Props extends Widget {
-  title?: string;
-  linkText?: string;
-  linkUrl?: string | URL;
-  information?: string;
-  count?: number;
+  title?: string
+  linkText?: string
+  linkUrl?: string | URL
+  information?: string
+  count?: number
 }
 
 
 // Configuration
-import { APP_BLOG } from "~/utils/config";
+import { APP_BLOG } from "~/utils/config"
 
 // TLO Components
-import Button from "~/tlo/ui/Button.astro";
-import Archive from '~/tlo/widgets/PostListing.astro';
-
+import Button from "~/tlo/ui/Button.astro"
+import Archive from '~/tlo/widgets/PostListing.astro'
+import Pagination from '~/tlo/widgets/Pagination.astro'
 // Utilities
-import { findLatestPosts } from "~/utils/blog";
+import { findLatestPosts } from "~/utils/blog"
 import { getMorePosts } from "~/utils/tlo"
 
-const linkText = "View more posts"
+const linkText = "View more posts &raquo;"
 const linkUrl = getMorePosts()
 const count = APP_BLOG.postsPerPage
-const posts = await findLatestPosts({ count });
+const posts = await findLatestPosts({ count })
 ---
 
+<!-- Latest Posts -->
 <Archive posts={posts} />
 
-<Button variant="link" href={linkUrl}> {linkText} »</Button>
+<!-- More -->
+<Pagination nextUrl={linkUrl} nextText={linkText} />
