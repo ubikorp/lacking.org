@@ -7,13 +7,13 @@ date,location,start_time,end_time,time_zone,notes,future
 2024-09-10,kafm,9pm,12m,MDT,,
 2024-09-05,ltw,2pm,3pm,MDT,,
 2024-08-30,ltw,3pm,5pm,MDT,The Final Hour,
-2024-08-29,ltw,2pm,3pm,MDT,,
-2024-08-27,kafm,9pm,12m,MDT,,
+2024-08-29,ltw,2pm,3pm,MDT,,x
+2024-08-27,kafm,9pm,12m,MDT,,x
 2024-08-22,ltw,2pm,3pm,MDT,,x
 2024-08-15,ltw,2pm,3pm,MDT,,x
 2024-08-13,kafm,9pm,12m,MDT,,x
 2024-08-08,ltw,2pm,3pm,MDT,,x
-2024-08-01,ltw,2pm,3pm,MDT,,x
+2024-08-01,ltw,2pm,3pm,MDT,,
 2024-07-30,kafm,9pm,12m,MDT,,
 2024-07-26,ltw,3pm,5pm,MDT,The Final Hour,
 2024-07-25,ltw,2pm,3pm,MDT,,
