@@ -8,7 +8,7 @@ layout: page
 keywords: WFIT, KAFM
 image:
   src: pages/radio_activity.jpg
-update: 2021-08-06
+update: 2024-09-18
 ---
 {% include components/next_airdate.html %}
 
