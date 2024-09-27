@@ -40,13 +40,13 @@ date,location,start_time,end_time,time_zone,notes,future
 2024-10-25,ltw,3pm,5pm,MDT,The Final Hour,
 2024-10-24,ltw,2pm,3pm,MDT,,
 2024-10-22,kafm,9pm,12m,MDT,,
-2024-10-17,ltw,2pm,3pm,MDT,,
-2024-10-10,ltw,2pm,3pm,MDT,,
+2024-10-17,ltw,2pm,3pm,MDT,,x
+2024-10-10,ltw,2pm,3pm,MDT,,x
 2024-10-08,kafm,9pm,12m,MDT,,x
 2024-10-03,ltw,2pm,3pm,MDT,,x
 2024-09-27,ltw,3pm,5pm,MDT,The Final Hour,x
-2024-09-26,ltw,2pm,3pm,MDT,,x
-2024-09-24,kafm,9pm,12m,MDT,,x
+2024-09-26,ltw,2pm,3pm,MDT,,
+2024-09-24,kafm,9pm,12m,MDT,,
 2024-09-19,ltw,2pm,3pm,MDT,,
 2024-09-17,kafm,9pm,12m,MDT,Fall Fund Drive,
 2024-09-12,ltw,2pm,3pm,MDT,,
